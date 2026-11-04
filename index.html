@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'self' https://formsubmit.co">
+    <meta name="referrer" content="strict-origin">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
+    <title>World History Explorer — Pilot preview (draft, not yet reviewed)</title>
+    <!-- Preloaded so all four registers (display, prose, apparatus, machine) request their preferred face immediately on first paint
+         rather than only once something using it is first rendered (e.g. Story prose, which does
+         not mount until a learner selects the Event) — otherwise that first render pays a
+         font-swap reflow well after `document.fonts.ready` had already resolved for whatever was
+         requested earlier. `crossorigin` is required on a font preload even same-origin (fetched
+         in "anonymous" CORS mode per the Fetch spec, so the browser reuses this same request
+         rather than issuing a second one for the `@font-face` in `fonts.css`). -->
+    <link rel="preload" href="/world-history/fonts/InstrumentSerif-Regular-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/world-history/fonts/Literata-Variable-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/world-history/fonts/Literata-Italic-Variable-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/world-history/fonts/InstrumentSans-Variable-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/world-history/fonts/JetBrainsMono-Variable-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <script type="module" crossorigin src="/world-history/assets/main-B4if_5iC.js"></script>
+    <link rel="stylesheet" crossorigin href="/world-history/assets/main-CHhBD7ml.css">
+    <link rel="stylesheet" crossorigin href="/world-history/assets/tokens-CNKGTQKx.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

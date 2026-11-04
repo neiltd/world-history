@@ -1,0 +1,7 @@
+source-commit: 5f4dd2921ca6d7e6251dbb0f6e373a54552973e3
+source-tree: clean
+build-date: 2026-11-02T21:02:13Z
+commit: 5f4dd2921ca6d7e6251dbb0f6e373a54552973e3
+vitest: pass
+audit: clean
+playwright: pass

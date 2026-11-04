@@ -1,0 +1,639 @@
+{
+  "claims": [
+    {
+      "id": "C01",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Silver ore from Cerro Rico was refined by Andean smelters in wind-driven furnaces called *huayras* before mercury amalgamation was adopted, and smelting continued alongside amalgamation afterwards.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "before c. 1572 · approximate"
+      },
+      "notes": "Carries the gloss of *huayra*. Asserts nothing about ore grade or furnace adequacy. Q7a (2026-10-12): the clause \"and smelting continued alongside amalgamation afterwards\" was added after the cross-check and has no locator yet — EDITORIAL-TODO: confirm it against the Sources; the independence figures were softened to the lineages as recorded — EDITORIAL-TODO.",
+      "independenceNote": "3 Sources cited; lineages as recorded: Capoche; Acosta (pending editorial verification). Bakewell is recorded as descending from Capoche and the administrative record. Three citations are not three confirmations.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "landform",
+        "whereLabel": "Cerro Rico de Potosí · landform, co-located with the Event marker",
+        "precisionLabel": "landform",
+        "placeIds": [
+          "e-cerro-rico"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "S01",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Luis Capoche, *Relación general de la Villa Imperial de Potosí* (1585). Modern edition: Biblioteca de Autores Españoles vol. 122, ed. Lewis Hanke, Madrid, 1959.",
+            "form": "Primary document — manuscript report",
+            "language": "Spanish",
+            "accessLevel": "unverified"
+          },
+          {
+            "sourceId": "S02",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "José de Acosta, *Historia natural y moral de las Indias* (Seville, 1590).",
+            "form": "Primary document — printed treatise",
+            "language": "Spanish",
+            "accessLevel": "unverified"
+          },
+          {
+            "sourceId": "S05",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Peter Bakewell, *Miners of the Red Mountain: Indian Labour in Potosí, 1545–1650* (University of New Mexico Press, 1984).",
+            "form": "Scholarly book",
+            "language": "English",
+            "accessLevel": "unknown"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "C02",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Mercury amalgamation refining was adopted at Potosí in the early 1570s.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1572–1575 · approximate"
+      },
+      "notes": "The Event's Claim. **Uncertain temporal** state. Q7a (2026-10-12): one adoption interval, c. 1572–1575, is now used everywhere (this label previously gave a different start year); the independence figures were softened to the lineage as recorded — EDITORIAL-TODO.",
+      "independenceNote": "3 Sources cited; lineage as recorded: Capoche, pending editorial verification. Bakewell and Lane are recorded as descending from it. Three citations are not three confirmations.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Villa Imperial de Potosí · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-potosi"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "S01",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Luis Capoche, *Relación general de la Villa Imperial de Potosí* (1585). Modern edition: Biblioteca de Autores Españoles vol. 122, ed. Lewis Hanke, Madrid, 1959.",
+            "form": "Primary document — manuscript report",
+            "language": "Spanish",
+            "accessLevel": "unverified"
+          },
+          {
+            "sourceId": "S05",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Peter Bakewell, *Miners of the Red Mountain: Indian Labour in Potosí, 1545–1650* (University of New Mexico Press, 1984).",
+            "form": "Scholarly book",
+            "language": "English",
+            "accessLevel": "unknown"
+          },
+          {
+            "sourceId": "S10",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (University of California Press, 2019).",
+            "form": "Scholarly book",
+            "language": "English",
+            "accessLevel": "unknown"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "S07",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Enrique Tandeter, *Coercion and Market: Silver Mining in Colonial Potosí, 1692–1826* (University of New Mexico Press, 1993).",
+            "form": "Scholarly book",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "unknown"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C03",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Mercury amalgamation lost mercury during processing, so refining at scale required a continuing supply of replacement mercury.",
+      "temporal": {
+        "precision": "not-time-bounded",
+        "label": "technique · not time-bounded"
+      },
+      "notes": "Mechanism Claim. Q7a (2026-10-12): wording changed because some mercury was recovered and reused, while losses required continuing replacement. Barba (1640) describes later techniques and must not be projected back onto 1573 — EDITORIAL-TODO. The independence figure was softened to the lineage as recorded — EDITORIAL-TODO.",
+      "independenceNote": "2 Sources cited; lineage as recorded: Barba, pending editorial verification. Brown is recorded as descending from it.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "S03",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Álvaro Alonso Barba, *Arte de los metales* (Madrid, 1640).",
+            "form": "Primary document — technical treatise",
+            "language": "Spanish",
+            "accessLevel": "unverified"
+          },
+          {
+            "sourceId": "S08",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Kendall W. Brown, *A History of Mining in Latin America: From the Colonial Era to the Present* (University of New Mexico Press, 2012).",
+            "form": "Scholarly book — synthesis",
+            "language": "English",
+            "accessLevel": "unknown"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "C04",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The Santa Bárbara mercury deposit at Huancavelica was brought to Spanish attention in 1563–1564.",
+      "temporal": {
+        "precision": "year",
+        "label": "1563–1564 · year"
+      },
+      "notes": "Mechanism Claim. **Uncertain temporal** state (a two-year window at year precision). Attribution note: the corpus records that who is credited with bringing the deposit to Spanish attention is disputed, but records neither the competing attributions nor which Source holds which. The wording asserts the date and the fact only. See §2 and §16.",
+      "independenceNote": "2 Sources cited; no primary record is linked. Both are later syntheses descending from earlier scholarship. Two citations are not two confirmations.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "mine",
+        "whereLabel": "Mina de Santa Bárbara, Huancavelica · mine; the marker shows the town of Huancavelica (approximate)",
+        "precisionLabel": "mine",
+        "placeIds": [
+          "e-huancavelica"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "S08",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Kendall W. Brown, *A History of Mining in Latin America: From the Colonial Era to the Present* (University of New Mexico Press, 2012).",
+            "form": "Scholarly book — synthesis",
+            "language": "English",
+            "accessLevel": "unknown"
+          },
+          {
+            "sourceId": "S10",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (University of California Press, 2019).",
+            "form": "Scholarly book",
+            "language": "English",
+            "accessLevel": "unknown"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "C05",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The Spanish crown administered mercury from Huancavelica as a monopoly and distributed it to registered refiners at Potosí.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "from the 1570s · approximate"
+      },
+      "notes": "Mechanism Claim.",
+      "independenceNote": "2 Sources cited; no primary record is linked. Both are later scholarship descending from Capoche, Barba, and the administrative record.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Huancavelica and Villa Imperial de Potosí · two points, no route",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-huancavelica",
+          "e-potosi"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "S05",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Peter Bakewell, *Miners of the Red Mountain: Indian Labour in Potosí, 1545–1650* (University of New Mexico Press, 1984).",
+            "form": "Scholarly book",
+            "language": "English",
+            "accessLevel": "unknown"
+          },
+          {
+            "sourceId": "S08",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Kendall W. Brown, *A History of Mining in Latin America: From the Colonial Era to the Present* (University of New Mexico Press, 2012).",
+            "form": "Scholarly book — synthesis",
+            "language": "English",
+            "accessLevel": "unknown"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "C06",
+      "claimClass": "Mainstream interpretation",
+      "sensitive": false,
+      "wording": "Historians generally explain the sharp rise in registered silver output at Potosí after the mid-1570s as the combined effect of amalgamation refining, a viceregal mercury supply, the reorganised *mita* labour draft, and the new water-powered mills along the Ribera.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "from c. 1575 · approximate"
+      },
+      "notes": "Beat 5 rests on this. Names the Ribera (text only).",
+      "independenceNote": "3 Sources cited; no primary record is linked. All three are recorded as descending from Capoche and the colonial administrative record, through later scholarship (pending editorial verification).",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Villa Imperial de Potosí · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-potosi"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "S05",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Peter Bakewell, *Miners of the Red Mountain: Indian Labour in Potosí, 1545–1650* (University of New Mexico Press, 1984).",
+            "form": "Scholarly book",
+            "language": "English",
+            "accessLevel": "unknown"
+          },
+          {
+            "sourceId": "S06",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Jeffrey A. Cole, *The Potosí Mita, 1573–1700: Compulsory Indian Labor in the Andes* (Stanford University Press, 1985).",
+            "form": "Scholarly book",
+            "language": "English",
+            "accessLevel": "unknown"
+          },
+          {
+            "sourceId": "S10",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (University of California Press, 2019).",
+            "form": "Scholarly book",
+            "language": "English",
+            "accessLevel": "unknown"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "S07",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Enrique Tandeter, *Coercion and Market: Silver Mining in Colonial Potosí, 1692–1826* (University of New Mexico Press, 1993).",
+            "form": "Scholarly book",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "unknown"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C07",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "From 1573 the *mita* conscripted rotational labour for Potosí from sixteen highland provinces of the Viceroyalty of Peru.",
+      "temporal": {
+        "precision": "year",
+        "label": "from 1573 · year"
+      },
+      "notes": "**Sensitive** state.",
+      "independenceNote": "2 Sources cited; both descend from the colonial administrative record, one also from Capoche. The contextual Source is the one Andean-authored account.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "provinces-unlocated",
+        "whereLabel": "Villa Imperial de Potosí; the provinces are not located",
+        "precisionLabel": "the provinces are not located",
+        "placeIds": [
+          "e-potosi"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "S05",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Peter Bakewell, *Miners of the Red Mountain: Indian Labour in Potosí, 1545–1650* (University of New Mexico Press, 1984).",
+            "form": "Scholarly book",
+            "language": "English",
+            "accessLevel": "unknown"
+          },
+          {
+            "sourceId": "S06",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Jeffrey A. Cole, *The Potosí Mita, 1573–1700: Compulsory Indian Labor in the Andes* (Stanford University Press, 1985).",
+            "form": "Scholarly book",
+            "language": "English",
+            "accessLevel": "unknown"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "S04",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Felipe Guaman Poma de Ayala, *El primer nueva corónica y buen gobierno* (c. 1615). Royal Danish Library, GKS 2232 4º.",
+            "form": "Primary document — illustrated manuscript",
+            "language": "Spanish and Quechua",
+            "accessLevel": "unverified"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C09",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "Accounts from the colonial period describe workers at Huancavelica and in the Potosí refineries suffering mercury poisoning.",
+      "temporal": {
+        "precision": "century",
+        "label": "16th–18th c. · century"
+      },
+      "notes": "**Sensitive** state. Lineage of `S09` not recorded (§8). Q7a (2026-10-12): the wording is qualified as colonial-period evidence (the label spans the 16th–18th c.); early-1570s evidence for this claim would need to be established separately — EDITORIAL-TODO.",
+      "independenceNote": "2 Sources cited. Brown descends from earlier scholarship; Robins's lineage has not been recorded yet. Independent lineages: not yet established.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Huancavelica and Villa Imperial de Potosí · two points",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-huancavelica",
+          "e-potosi"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "S09",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Nicholas A. Robins, *Mercury, Mining, and Empire: The Human and Ecological Cost of Colonial Silver Mining in the Andes* (Indiana University Press, 2011).",
+            "form": "Scholarly book",
+            "language": "English",
+            "accessLevel": "unknown"
+          },
+          {
+            "sourceId": "S08",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Kendall W. Brown, *A History of Mining in Latin America: From the Colonial Era to the Present* (University of New Mexico Press, 2012).",
+            "form": "Scholarly book — synthesis",
+            "language": "English",
+            "accessLevel": "unknown"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "S03",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Álvaro Alonso Barba, *Arte de los metales* (Madrid, 1640).",
+            "form": "Primary document — technical treatise",
+            "language": "Spanish",
+            "accessLevel": "unverified"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C10",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The administrative and technical accounts selected for this pilot were written by Spanish colonial authors, including refinery owners and clergy.",
+      "temporal": {
+        "precision": "century",
+        "label": "16th–17th c. · century"
+      },
+      "notes": "The provenance Claim Beat 4 rests on. A Claim in its own right: the composition of the record is a historical fact with Sources. Q7a (2026-10-12): narrowed to the accounts selected for this pilot (the earlier wording described all surviving records, which three works cannot establish); the label now includes the 17th c. because Barba is 1640. EDITORIAL-TODO: all six scholarly works in this pilot (S05–S10) are Anglophone; no Peruvian- or Bolivian-authored scholarship is in the corpus. The narrowed wording does not claim otherwise, and this note records that the pilot's selection is itself limited. The independence figure was softened to the lineages as recorded — EDITORIAL-TODO.",
+      "independenceNote": "3 Sources cited; lineages as recorded: Capoche; Acosta; Barba (pending editorial verification). All three roots are Spanish colonial authors — which is what this Claim says.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Villa Imperial de Potosí",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-potosi"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "S01",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Luis Capoche, *Relación general de la Villa Imperial de Potosí* (1585). Modern edition: Biblioteca de Autores Españoles vol. 122, ed. Lewis Hanke, Madrid, 1959.",
+            "form": "Primary document — manuscript report",
+            "language": "Spanish",
+            "accessLevel": "unverified"
+          },
+          {
+            "sourceId": "S02",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "José de Acosta, *Historia natural y moral de las Indias* (Seville, 1590).",
+            "form": "Primary document — printed treatise",
+            "language": "Spanish",
+            "accessLevel": "unverified"
+          },
+          {
+            "sourceId": "S03",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Álvaro Alonso Barba, *Arte de los metales* (Madrid, 1640).",
+            "form": "Primary document — technical treatise",
+            "language": "Spanish",
+            "accessLevel": "unverified"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "S04",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Felipe Guaman Poma de Ayala, *El primer nueva corónica y buen gobierno* (c. 1615). Royal Danish Library, GKS 2232 4º.",
+            "form": "Primary document — illustrated manuscript",
+            "language": "Spanish and Quechua",
+            "accessLevel": "unverified"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C11",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1573 the Villa Imperial de Potosí lay within the Audiencia de Charcas, seated at Ciudad de La Plata, within the Viceroyalty of Peru, governed from Ciudad de los Reyes.",
+      "temporal": {
+        "precision": "year",
+        "label": "1573 · year"
+      },
+      "notes": "**Added by this session per IA §5.4.** Locates `e-la-plata` and `e-lima`; carries `JurisdictionLine`, `WhereLine`, and Beat 2. Evidence status in §6.3. **Sparse** state: its `Supports` group is empty and prints the empty-group sentence.",
+      "independenceNote": "No supporting Evidence has been linked to this Claim yet — pending editorial verification.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Villa Imperial de Potosí; Ciudad de La Plata; Ciudad de los Reyes · three points",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-potosi",
+          "e-la-plata",
+          "e-lima"
+        ]
+      },
+      "evidence": {
+        "supports": [],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "C12",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1573 the Viceroy of Peru was Francisco de Toledo, in office from 1569 to 1581.",
+      "temporal": {
+        "precision": "year",
+        "label": "1569–1581 · year"
+      },
+      "notes": "**Added by this session** to give Beat 2's participant sentence and the `ParticipantList` entry a Claim. Names his office only; asserts no role in the supply or the adoption. Evidence status in §6.3. EDITORIAL-TODO (Q7b historian, design Issue 02 §10.4): the build appends the word \"settlement precision\" to this Claim's Where line, but the Claim locates a polity by its seat, so the historian confirms that word or supplies a whereLabel that carries its own.",
+      "independenceNote": "No supporting Evidence has been linked to this Claim yet — pending editorial verification.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Viceroyalty of Peru, governed from Ciudad de los Reyes",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-lima"
+        ]
+      },
+      "evidence": {
+        "supports": [],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "C13",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Felipe Guaman Poma de Ayala's *El primer nueva corónica y buen gobierno* (c. 1615) is an Andean-authored account containing a sustained critique of colonial labour, including the Potosí *mita*; it was written roughly forty years after 1573, in a petitionary rhetorical mode.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1615 · approximate"
+      },
+      "notes": "`S10` is **not** linked: no corpus record ascribes a view of `S04` to it. **Added by this session** so Beat 4's Missing Voices sentences rest on a Claim. Its wording is the corpus's own description of `S04`, restructured; the superseded \"in a petition to a king\" is dropped because the corpus does not record the addressee.",
+      "independenceNote": "1 Source, which is the work this Claim describes. No independent Source characterising it has been linked.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "not place-bound (a work)",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "S04",
+            "stance": "is-the-subject-of",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Felipe Guaman Poma de Ayala, *El primer nueva corónica y buen gobierno* (c. 1615). Royal Danish Library, GKS 2232 4º.",
+            "form": "Primary document — illustrated manuscript",
+            "language": "Spanish and Quechua",
+            "accessLevel": "unverified"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    }
+  ]
+}

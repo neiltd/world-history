@@ -1,0 +1,524 @@
+{
+  "id": "mercury",
+  "title": "The mountain that needed mercury",
+  "learnerQuestion": "Why did a silver mountain in the Andes come to depend on a mercury mine hundreds of kilometres away?",
+  "sensitiveContentNotice": "This Story discusses conscripted labour and mercury poisoning.",
+  "sensitive": true,
+  "header": {
+    "whenLine": "1573 view · Event c. 1572–1575 · approximate",
+    "whereLine": "Villa Imperial de Potosí · Audiencia de Charcas · Viceroyalty of Peru",
+    "whereLineClaimIds": [
+      "C11"
+    ]
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "paragraphs": [
+        [
+          {
+            "text": "Here is the thing about a silver mountain: from the early 1570s, an increasingly important way of getting silver out of this one required mercury.",
+            "claimIds": [
+              "C02",
+              "C03"
+            ]
+          },
+          {
+            "text": "Before then, Andean smelters refined Cerro Rico's ore in wind-driven furnaces called *huayras*, and smelting continued alongside amalgamation afterwards.",
+            "claimIds": [
+              "C01"
+            ]
+          },
+          {
+            "text": "What Potosí's refiners adopted in the early 1570s was mercury amalgamation, which lost mercury as it went: some was recovered, but refining at scale needed a continuing supply of replacement mercury.",
+            "claimIds": [
+              "C02",
+              "C03"
+            ]
+          },
+          {
+            "text": "The mercury came from another mine, and the crown decided who at Potosí received it.",
+            "claimIds": [
+              "C05"
+            ]
+          },
+          {
+            "text": "That dependency — a silver mountain that needed a mercury mine — is the Story.",
+            "claimIds": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": "orient",
+      "paragraphs": [
+        [
+          {
+            "text": "In 1573 this is the Villa Imperial de Potosí, within the Audiencia de Charcas — the jurisdiction seated at Ciudad de La Plata — within the Viceroyalty of Peru, governed from Ciudad de los Reyes.",
+            "claimIds": [
+              "C11"
+            ]
+          },
+          {
+            "text": "These settlement and jurisdiction names were used in this period; present-day orientation is a toggle above the map, not a substitute for them.",
+            "claimIds": []
+          },
+          {
+            "text": "The viceroy is Francisco de Toledo, in office since 1569.",
+            "claimIds": [
+              "C12"
+            ]
+          },
+          {
+            "text": "The two seats are on the map because the jurisdictions are. Their boundaries are not drawn, because they have not been researched.",
+            "claimIds": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": "connect",
+      "paragraphs": [
+        [
+          {
+            "text": "Here is where it gets interesting.",
+            "claimIds": []
+          },
+          {
+            "text": "Amalgamation refines silver ore with mercury. Some mercury was recovered, but losses during processing meant that refining at scale needed a continuing supply of replacement mercury.",
+            "claimIds": [
+              "C03"
+            ]
+          },
+          {
+            "text": "So the question \"how did Potosí refine its silver?\" turns into \"where did Potosí's mercury come from?\" — and the answer is a Place on this map that is not Potosí.",
+            "claimIds": [
+              "C05"
+            ]
+          }
+        ]
+      ],
+      "connectionId": "cn-huancavelica-enables-amalgamation"
+    },
+    {
+      "id": "complicate",
+      "paragraphs": [
+        [
+          {
+            "text": "Two things complicate the tidy version.",
+            "claimIds": []
+          }
+        ],
+        [
+          {
+            "text": "The first is who did the work. From 1573 the *mita*, a rotational labour draft, conscripted workers for Potosí from sixteen highland provinces of the Viceroyalty of Peru.",
+            "claimIds": [
+              "C07"
+            ]
+          },
+          {
+            "text": "Accounts from the colonial period describe workers at Huancavelica and in the Potosí refineries suffering mercury poisoning.",
+            "claimIds": [
+              "C09"
+            ]
+          },
+          {
+            "text": "This Story tells the refining change and the harm together.",
+            "claimIds": []
+          }
+        ],
+        [
+          {
+            "text": "The second is whose account this pilot draws on. The administrative and technical accounts selected for this pilot were written by Spanish colonial authors, including refinery owners and clergy.",
+            "claimIds": [
+              "C10"
+            ]
+          },
+          {
+            "text": "The one Andean-authored account in this pilot's evidence is Felipe Guaman Poma de Ayala's *El primer nueva corónica y buen gobierno*, written around 1615 — roughly forty years after 1573 — and containing a sustained critique of colonial labour, including the *mita*.",
+            "claimIds": [
+              "C13"
+            ]
+          },
+          {
+            "text": "It is one voice, writing later, in a petitionary mode.",
+            "claimIds": [
+              "C13"
+            ]
+          },
+          {
+            "text": "This pilot has not yet identified testimony from conscripted workers about the work or about the poisoning; no additional record was identified in this documented search.",
+            "claimIds": [
+              "C10",
+              "C13"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "resolve",
+      "paragraphs": [
+        [
+          {
+            "text": "What changed, then? Historians generally explain the sharp rise in Potosí's registered silver output after the mid-1570s as the combined effect of four things: amalgamation refining, a viceregal mercury supply, the reorganised *mita* labour draft, and new water-powered mills along the Ribera.",
+            "claimIds": [
+              "C06"
+            ]
+          },
+          {
+            "text": "This Story has followed the first two, and named the third: the people conscripted to work it.",
+            "claimIds": [
+              "C07"
+            ]
+          },
+          {
+            "text": "The fourth has not been researched here. One of the four depended on a source far beyond Potosí: mercury from Huancavelica, administered under the crown's monopoly — and that is the Connection this Story exists to show.",
+            "claimIds": [
+              "C05"
+            ]
+          },
+          {
+            "text": "It is the mainstream explanation, and it is an interpretation; the Claim beneath this paragraph says whose it is and what it rests on.",
+            "claimIds": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": "next",
+      "paragraphs": [
+        [
+          {
+            "text": "**Not yet researched.** This pilot holds one Story and one Connection. The paths that would lead out of here — what came before, what followed, what was happening elsewhere at the same time — have not been researched, so none is offered. The other Places on the map are in view to locate this Story, not to begin another. When a path is researched, it will appear here with its own Claims and Evidence.",
+            "claimIds": []
+          }
+        ]
+      ]
+    }
+  ],
+  "mainstreamAccountClaimId": "C06",
+  "editorialState": "draft",
+  "profile": {
+    "rulesVersion": "0.1-draft",
+    "mode": "draft-preview",
+    "statusLine": "Draft · not yet editorially reviewed. The counts below come from our working records; no historian has checked them yet. Rules version 0.1, draft.",
+    "warnings": [
+      {
+        "kind": "winner-dominated",
+        "name": "Evidence concentrated in colonial Sources",
+        "text": "Of the four primary documents behind this Story, three are by Spanish colonial authors (`C10`); the one Andean-authored account is cited as context or as the subject of a Claim, never as support (`C13`). 24 of 26 supporting citations descend, as recorded, from Spanish colonial authors or colonial administrative records. This tells you whose side of events the evidence comes from. It does not weigh the Story's conclusions.",
+        "basisClaimIds": [
+          "C10",
+          "C13"
+        ]
+      },
+      {
+        "kind": "missing-voices",
+        "name": "Some voices missing",
+        "text": "Testimony from conscripted workers about the work or the poisoning: not identified in this documented search (`C10`, `C13`). Three voices are listed below.",
+        "basisClaimIds": [
+          "C10",
+          "C13"
+        ]
+      }
+    ],
+    "components": [
+      {
+        "id": "diversity",
+        "name": "Source diversity",
+        "asks": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "4 primary documents and 6 scholarly books, in 4 languages as recorded",
+        "valueText": "4 primary documents and 6 scholarly books, in 4 languages as recorded",
+        "stateText": "No number yet · 3 of 4 kinds of information recorded",
+        "origin": "computed",
+        "counted": "Kinds of document: Scholarly book 5, Primary document — illustrated manuscript 1, Primary document — manuscript report 1, Primary document — printed treatise 1, Primary document — technical treatise 1, Scholarly book — synthesis 1. Languages, as recorded: English 5, Spanish 3, English (translated from Spanish) 1, Spanish and Quechua 1. Where each author stood: later scholarship 6, church 2, affected community 1, colonial elite 1.",
+        "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
+        "inputsRecorded": [
+          3,
+          4
+        ],
+        "verified": [
+          0,
+          10
+        ],
+        "completeness": "3 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 10 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
+      },
+      {
+        "id": "independence",
+        "name": "Source independence",
+        "asks": "How many of the Sources actually stand on their own, rather than drawing on one another?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "9 supporting Sources, in 3 separate groups once you trace who drew on whom; 1 not yet traceable",
+        "valueText": "9 supporting Sources, in 3 separate groups once you trace who drew on whom; 1 not yet traceable",
+        "stateText": "No number yet · 9 of 10 Sources traced",
+        "origin": "computed",
+        "counted": "26 supporting citations across 12 Claims and the Connection, from 9 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "notCounted": "Cited only for background, so not counted: S07. Listed in its own group but kept out of any number: S04, cited only as what a Claim is about, not as support for it.",
+        "inputsRecorded": [
+          9,
+          10
+        ],
+        "verified": [
+          0,
+          10
+        ],
+        "completeness": "We know what 9 of 10 Sources draw on; an editor has checked 0 of 10. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
+        "independence": {
+          "groups": [
+            {
+              "label": "Group A",
+              "sourceIds": [
+                "S01",
+                "S03",
+                "S05",
+                "S06",
+                "S08",
+                "S10"
+              ],
+              "text": "Group A — 6 Sources that draw on one another. Starting points: Luis Capoche S01; Álvaro Alonso Barba S03. Drawing on them: Peter Bakewell S05; Jeffrey A. Cole S06; Kendall W. Brown S08; Kris Lane S10."
+            },
+            {
+              "label": "Group B",
+              "sourceIds": [
+                "S02"
+              ],
+              "text": "Group B — 1 Source. José de Acosta S02."
+            },
+            {
+              "label": "Group C",
+              "sourceIds": [
+                "S04"
+              ],
+              "text": "Group C — 1 Source. Felipe Guaman Poma de Ayala S04, cited only as what `C13` is about."
+            }
+          ],
+          "notPlaced": [
+            {
+              "sourceId": "S09",
+              "text": "Not placed — 1 Source. Nicholas A. Robins S09: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            }
+          ],
+          "rows": [
+            {
+              "sourceId": "S01",
+              "citation": "Luis Capoche, *Relación general de la Villa Imperial de Potosí* (1585). Modern edition: Biblioteca de Autores Españoles vol. 122, ed. Lewis Hanke, Madrid, 1959.",
+              "group": "Group A",
+              "claimCount": 3,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "unverified"
+            },
+            {
+              "sourceId": "S03",
+              "citation": "Álvaro Alonso Barba, *Arte de los metales* (Madrid, 1640).",
+              "group": "Group A",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "unverified"
+            },
+            {
+              "sourceId": "S05",
+              "citation": "Peter Bakewell, *Miners of the Red Mountain: Indian Labour in Potosí, 1545–1650* (University of New Mexico Press, 1984).",
+              "group": "Group A",
+              "claimCount": 5,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "unknown"
+            },
+            {
+              "sourceId": "S06",
+              "citation": "Jeffrey A. Cole, *The Potosí Mita, 1573–1700: Compulsory Indian Labor in the Andes* (Stanford University Press, 1985).",
+              "group": "Group A",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "unknown"
+            },
+            {
+              "sourceId": "S08",
+              "citation": "Kendall W. Brown, *A History of Mining in Latin America: From the Colonial Era to the Present* (University of New Mexico Press, 2012).",
+              "group": "Group A",
+              "claimCount": 4,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "unknown"
+            },
+            {
+              "sourceId": "S10",
+              "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (University of California Press, 2019).",
+              "group": "Group A",
+              "claimCount": 3,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "unknown"
+            },
+            {
+              "sourceId": "S02",
+              "citation": "José de Acosta, *Historia natural y moral de las Indias* (Seville, 1590).",
+              "group": "Group B",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "unverified"
+            },
+            {
+              "sourceId": "S04",
+              "citation": "Felipe Guaman Poma de Ayala, *El primer nueva corónica y buen gobierno* (c. 1615). Royal Danish Library, GKS 2232 4º.",
+              "group": "Group C",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": true,
+              "accessLevel": "unverified"
+            },
+            {
+              "sourceId": "S09",
+              "citation": "Nicholas A. Robins, *Mercury, Mining, and Empire: The Human and Ecological Cost of Colonial Silver Mining in the Andes* (Indiana University Press, 2011).",
+              "group": "not placed",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "unknown"
+            }
+          ],
+          "byClaimSentence": "7 of the 12 Claims rest on a single group; 1 on two; 1 on three; for 1 we cannot tell (C09); 2 have no supporting Evidence yet (C11, C12). Twenty-six citations are not twenty-six confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+        }
+      },
+      {
+        "id": "coverage",
+        "name": "Perspective coverage",
+        "asks": "Of the viewpoints this Story needs, how many have evidence we can actually use?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "An editor has not yet listed which viewpoints this Story needs",
+        "valueText": "An editor has not yet listed which viewpoints this Story needs",
+        "stateText": "No number yet · 1 of 2 things in place",
+        "origin": "computed",
+        "counted": "Nothing yet. Until an editor lists the viewpoints this Story needs, there is nothing to measure against.",
+        "notCounted": "The standpoints we do have among the supporting Sources: church, colonial elite, later scholarship. Not counted as support, because a Claim is about them rather than resting on them: S04.",
+        "inputsRecorded": [
+          1,
+          2
+        ],
+        "verified": [
+          0,
+          10
+        ],
+        "completeness": "1 of the 2 things this check needs are in place; an editor has checked 0 of 10 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
+      },
+      {
+        "id": "agreement",
+        "name": "Scholarly agreement",
+        "asks": "Do the historians who have studied this agree with one another?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Not assessed",
+        "valueText": "Not assessed",
+        "stateText": "0 of 2 recorded",
+        "origin": "computed",
+        "counted": "We have not yet recorded what different historians make of this Story. The one mainstream account (`C06`) does not yet say which field it comes from or when it was made. Agreement among historians is not proof. It shows where the field stands today, and fields move.",
+        "notCounted": "We have not yet recorded which historians accept the mainstream account.",
+        "inputsRecorded": [
+          0,
+          2
+        ],
+        "completeness": "0 of 2 recorded."
+      },
+      {
+        "id": "uncertainty",
+        "name": "Historical uncertainty",
+        "asks": "How sure are we about the key dates and places, how things worked, and who was involved?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Medium uncertainty about the dates and places only; nothing else graded yet",
+        "valueText": "Medium uncertainty about the dates and places only; nothing else graded yet",
+        "stateText": "1 of 3 recorded",
+        "origin": "computed",
+        "counted": "How precisely the 12 Claims this Story cites are dated: to the year: 4; roughly: 5; to the century: 2; not tied to a date: 1; disputed or unknown: 0. The Event itself is dated c. 1572–1575 · approximate.",
+        "notCounted": "Nobody has yet assessed how things worked or who was involved.",
+        "inputsRecorded": [
+          1,
+          3
+        ],
+        "completeness": "1 of 3 recorded."
+      },
+      {
+        "id": "controversy",
+        "name": "Controversy",
+        "asks": "Is this account still being argued over, and does the argument change anything?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Not assessed",
+        "valueText": "Not assessed",
+        "stateText": "0 of 1 recorded",
+        "origin": "computed",
+        "counted": "Nobody has yet recorded whether this account is argued over. \"Not assessed\" does not mean \"low\".",
+        "notCounted": "No editor has yet assessed how actively it is disputed.",
+        "inputsRecorded": [
+          0,
+          1
+        ],
+        "completeness": "0 of 1 recorded."
+      },
+      {
+        "id": "missing",
+        "name": "Missing Voices",
+        "asks": "Who was involved or affected, but barely shows up in the evidence?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "3 voices listed · we are still looking",
+        "valueText": "3 voices listed · we are still looking",
+        "stateText": "editor's list",
+        "origin": "editorial",
+        "counted": "Each voice below says why it is missing and which Claims it bears on.",
+        "notCounted": "A voice is listed only once we can say why it is missing and which Claim it bears on. Names we have not verified stay with the editor.",
+        "inputsRecorded": [
+          3,
+          3
+        ],
+        "completeness": "3 of 3 recorded.",
+        "voices": [
+          {
+            "voice": "Conscripted *mita* workers from the sixteen highland provinces",
+            "reason": "Not identified in this documented search",
+            "basisClaimIds": [
+              "C07",
+              "C10",
+              "C13"
+            ]
+          },
+          {
+            "voice": "Workers at Huancavelica and in the Potosí refineries, on the poisoning",
+            "reason": "Not identified in this documented search",
+            "basisClaimIds": [
+              "C09",
+              "C13"
+            ]
+          },
+          {
+            "voice": "Andean-authored accounts other than Guaman Poma",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "C13"
+            ]
+          }
+        ],
+        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history."
+      }
+    ],
+    "compactLine": [
+      {
+        "kind": "winner-dominated",
+        "text": "Evidence concentrated in colonial Sources",
+        "strong": true
+      },
+      {
+        "kind": "missing-voices",
+        "text": "Some voices missing",
+        "strong": true
+      },
+      {
+        "kind": "not-scored",
+        "text": "No number yet",
+        "strong": false
+      }
+    ]
+  }
+}

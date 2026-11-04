@@ -1,0 +1,837 @@
+{
+  "entities": [
+    {
+      "id": "ev-amalgamation",
+      "historicalName": "Adoption of mercury amalgamation refining at Potosí",
+      "locatingClaimIds": [
+        "C02",
+        "C03",
+        "C05",
+        "C06"
+      ],
+      "editorialState": "draft",
+      "markerOrder": 1,
+      "markerForm": "EventMarker",
+      "kind": "event",
+      "eventForm": "Technological and process change",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1572–1575 · approximate",
+        "rationale": "Adoption was a diffusion across refiners, not a dated act. Dates in the literature vary."
+      },
+      "locatedAtPlaceId": "e-potosi",
+      "spatialPrecision": "settlement",
+      "claimIds": [
+        "C02",
+        "C01",
+        "C03",
+        "C06"
+      ],
+      "connectionIds": [
+        "cn-huancavelica-enables-amalgamation"
+      ],
+      "sensitive": true
+    },
+    {
+      "id": "e-huancavelica",
+      "historicalName": "Mina de Santa Bárbara, Huancavelica",
+      "locatingClaimIds": [
+        "C04",
+        "C05",
+        "C09"
+      ],
+      "editorialState": "draft",
+      "markerOrder": 2,
+      "markerForm": "PlaceMarker",
+      "coordinate": {
+        "lon": -74.9758,
+        "lat": -12.7869,
+        "precision": "settlement",
+        "gazetteerProvenance": "EDITORIAL-TODO"
+      },
+      "kind": "place",
+      "placeForm": "mine",
+      "presentDayName": "Huancavelica, Peru",
+      "placeContext": {
+        "kindLabel": "Place, mine",
+        "headerLine": "Jurisdiction not yet researched in this pilot",
+        "headerClaimIds": [],
+        "role": [
+          {
+            "text": "In view because this Story’s Connection begins here.",
+            "claimIds": []
+          },
+          {
+            "text": "The Santa Bárbara mercury deposit was brought to Spanish attention in 1563–1564,",
+            "claimIds": [
+              "C04"
+            ]
+          },
+          {
+            "text": "and the crown distributed its mercury, as a monopoly, to registered refiners at Potosí.",
+            "claimIds": [
+              "C05"
+            ]
+          },
+          {
+            "text": "Colonial-period accounts describe workers here suffering mercury poisoning.",
+            "claimIds": [
+              "C09"
+            ]
+          },
+          {
+            "text": "The marker shows the town of Huancavelica, an approximate location; it is not a surveyed position for the mine.",
+            "claimIds": []
+          }
+        ],
+        "storyLink": {
+          "text": "Origin of the Connection in The mountain that needed mercury",
+          "selectsEntityId": "ev-amalgamation"
+        },
+        "coverageVariant": "not-yet-researched"
+      },
+      "indexRole": "origin of this Story's Connection"
+    },
+    {
+      "id": "e-la-plata",
+      "historicalName": "Ciudad de La Plata",
+      "locatingClaimIds": [
+        "C11"
+      ],
+      "editorialState": "draft",
+      "markerOrder": 3,
+      "markerForm": "PlaceMarker",
+      "coordinate": {
+        "lon": -65.2627,
+        "lat": -19.0333,
+        "precision": "settlement",
+        "gazetteerProvenance": "EDITORIAL-TODO"
+      },
+      "kind": "place",
+      "placeForm": "settlement",
+      "presentDayName": "Sucre, Bolivia",
+      "placeContext": {
+        "kindLabel": "Place, settlement",
+        "headerLine": "Seat of the Audiencia de Charcas, Viceroyalty of Peru",
+        "headerClaimIds": [
+          "C11"
+        ],
+        "role": [
+          {
+            "text": "In view as the seat of the Audiencia de Charcas, the jurisdiction within which the Villa Imperial de Potosí lay in 1573.",
+            "claimIds": [
+              "C11"
+            ]
+          },
+          {
+            "text": "It locates that jurisdiction on a map that draws no boundaries.",
+            "claimIds": []
+          }
+        ],
+        "coverageVariant": "not-yet-researched"
+      },
+      "indexRole": "seat of the Audiencia de Charcas"
+    },
+    {
+      "id": "e-lima",
+      "historicalName": "Ciudad de los Reyes",
+      "locatingClaimIds": [
+        "C11",
+        "C12"
+      ],
+      "editorialState": "draft",
+      "markerOrder": 4,
+      "markerForm": "PlaceMarker",
+      "coordinate": {
+        "lon": -77.0428,
+        "lat": -12.0464,
+        "precision": "settlement",
+        "gazetteerProvenance": "EDITORIAL-TODO"
+      },
+      "kind": "place",
+      "placeForm": "settlement",
+      "presentDayName": "Lima, Peru",
+      "placeContext": {
+        "kindLabel": "Place, settlement",
+        "headerLine": "Seat of the Viceroy of Peru",
+        "headerClaimIds": [
+          "C11"
+        ],
+        "role": [
+          {
+            "text": "In view as the seat of the Viceroy of Peru, from which the Viceroyalty of Peru was governed in 1573.",
+            "claimIds": [
+              "C11"
+            ]
+          },
+          {
+            "text": "The viceroy in 1573 was Francisco de Toledo.",
+            "claimIds": [
+              "C12"
+            ]
+          },
+          {
+            "text": "It locates the viceroyalty on a map that draws no boundaries.",
+            "claimIds": []
+          }
+        ],
+        "coverageVariant": "not-yet-researched"
+      },
+      "indexRole": "seat of the Viceroy of Peru"
+    },
+    {
+      "id": "e-potosi",
+      "historicalName": "Villa Imperial de Potosí",
+      "locatingClaimIds": [
+        "C02",
+        "C05",
+        "C06",
+        "C07",
+        "C09",
+        "C10",
+        "C11"
+      ],
+      "editorialState": "draft",
+      "coordinate": {
+        "lon": -65.7531,
+        "lat": -19.5836,
+        "precision": "settlement",
+        "gazetteerProvenance": "EDITORIAL-TODO"
+      },
+      "kind": "place",
+      "placeForm": "settlement",
+      "presentDayName": "Potosí, Bolivia"
+    },
+    {
+      "id": "e-cerro-rico",
+      "historicalName": "Cerro Rico de Potosí",
+      "locatingClaimIds": [
+        "C01"
+      ],
+      "editorialState": "draft",
+      "kind": "place",
+      "placeForm": "landform",
+      "presentDayName": "Cerro Rico, Potosí, Bolivia"
+    },
+    {
+      "id": "s-peru",
+      "historicalName": "Viceroyalty of Peru",
+      "locatingClaimIds": [
+        "C07",
+        "C11",
+        "C12"
+      ],
+      "editorialState": "draft",
+      "kind": "historical-state",
+      "seatPlaceId": "e-lima"
+    },
+    {
+      "id": "s-charcas",
+      "historicalName": "Audiencia de Charcas",
+      "locatingClaimIds": [
+        "C11"
+      ],
+      "editorialState": "draft",
+      "kind": "institution",
+      "seatPlaceId": "e-la-plata"
+    },
+    {
+      "id": "p-toledo",
+      "historicalName": "Francisco de Toledo, Viceroy of Peru (1569–1581)",
+      "locatingClaimIds": [
+        "C12"
+      ],
+      "editorialState": "draft",
+      "kind": "person"
+    },
+    {
+      "id": "c-mitayos",
+      "historicalName": "Andean communities of the sixteen highland provinces subject to the Potosí mita",
+      "locatingClaimIds": [
+        "C07"
+      ],
+      "editorialState": "draft",
+      "kind": "community"
+    }
+  ],
+  "connection": {
+    "id": "cn-huancavelica-enables-amalgamation",
+    "sourceEntityId": "e-huancavelica",
+    "targetEntityId": "ev-amalgamation",
+    "relationshipType": "enabled",
+    "directionNote": "Huancavelica → Potosí. Directional; not symmetric.",
+    "directionFigureText": "Mina de Santa Bárbara, Huancavelica  →  enabled  →  Adoption of mercury amalgamation refining at Potosí",
+    "temporal": {
+      "precision": "approximate",
+      "label": "1564–1575 · approximate"
+    },
+    "spatial": {
+      "originText": "Mina de Santa Bárbara, Huancavelica · point · town-level location, approximate",
+      "targetText": "Villa Imperial de Potosí · point · settlement precision",
+      "routeStatement": "Route: not yet researched. No route between Huancavelica and Potosí is drawn, because none has been researched. How the mercury travelled is not part of this pilot."
+    },
+    "interpretationClass": "Mainstream interpretation",
+    "scholarlyStanding": "Standard in the economic history of colonial Peru (as the corpus records it; unverified)",
+    "mechanismClaimIds": [
+      "C03",
+      "C04",
+      "C05"
+    ],
+    "supportSourceIds": [
+      "S05",
+      "S08",
+      "S10"
+    ],
+    "challengeSourceIds": [],
+    "contextSourceIds": [
+      "S07"
+    ],
+    "mechanismText": [
+      {
+        "text": "The Santa Bárbara mercury deposit at Huancavelica was brought to Spanish attention in 1563 or 1564.",
+        "claimIds": [
+          "C04"
+        ]
+      },
+      {
+        "text": "The Spanish crown administered its mercury as a monopoly and distributed it to registered refiners at Potosí.",
+        "claimIds": [
+          "C05"
+        ]
+      },
+      {
+        "text": "In the early 1570s those refiners adopted amalgamation.",
+        "claimIds": [
+          "C02"
+        ]
+      },
+      {
+        "text": "Amalgamation lost mercury during processing, so refining at Potosí's scale required a continuing supply of replacement mercury",
+        "claimIds": [
+          "C03"
+        ]
+      },
+      {
+        "text": "— and the crown's Huancavelica mercury became a major source of that supply for Potosí's refiners.",
+        "claimIds": [
+          "C05"
+        ]
+      },
+      {
+        "text": "That is why the relationship is drawn in this direction: Huancavelica's mercury supply helped enable the refining change at Potosí. Historians treat this as the mainstream explanation; the Claims it rests on are listed beneath it, and so is what the opposite direction would actually mean.",
+        "claimIds": []
+      }
+    ],
+    "participants": [
+      {
+        "text": "The Spanish crown — administered the Huancavelica mercury as a monopoly and distributed it to Potosí's registered refiners",
+        "claimIds": [
+          "C05"
+        ]
+      },
+      {
+        "text": "Registered refiners at Potosí — received the distributed mercury; adopted amalgamation in the early 1570s",
+        "claimIds": [
+          "C05",
+          "C02"
+        ]
+      },
+      {
+        "text": "The viceregal administration of Peru — named as the source of \"a viceregal mercury supply\"",
+        "claimIds": [
+          "C06"
+        ]
+      },
+      {
+        "text": "Francisco de Toledo, Viceroy of Peru — named here as the holder of the viceregal office in 1573, in office since 1569. **No Claim in this pilot describes his personal role in the mercury supply or in the adoption, so none is stated.**",
+        "claimIds": [
+          "C12"
+        ]
+      },
+      {
+        "text": "Affected: workers at Huancavelica and in the Potosí refineries; Andean communities of the sixteen highland provinces conscripted for Potosí from 1573",
+        "claimIds": [
+          "C09",
+          "C07"
+        ]
+      }
+    ],
+    "evidenceIndependenceNote": "3 Sources cited in support. None is a primary record; all three are later scholarship descending from lineages L1, L3 and L5 in the lineage table. Three citations are not three confirmations.",
+    "reverseDisclosure": {
+      "summary": "What about the other direction?",
+      "body": "Potosí → Huancavelica would be a different Connection, not this one read backwards. Whether demand from Potosí's refiners changed what happened at Huancavelica — its output, its labour, its harm — has its own mechanism and would need its own Evidence. That Connection has not been researched in this pilot, so it is not drawn, not classed, and not described here beyond this note."
+    },
+    "reverseRelationshipNote": "A separate Connection, not an inversion of this one. Potosí → Huancavelica is not created in this fixture, has no id, no relationship type, no mechanism Claims, and no Evidence. If researched, it gets its own record.",
+    "editorialState": "draft",
+    "evidence": {
+      "supports": [
+        {
+          "sourceId": "S05",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Peter Bakewell, *Miners of the Red Mountain: Indian Labour in Potosí, 1545–1650* (University of New Mexico Press, 1984).",
+          "form": "Scholarly book",
+          "language": "English",
+          "accessLevel": "unknown"
+        },
+        {
+          "sourceId": "S08",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Kendall W. Brown, *A History of Mining in Latin America: From the Colonial Era to the Present* (University of New Mexico Press, 2012).",
+          "form": "Scholarly book — synthesis",
+          "language": "English",
+          "accessLevel": "unknown"
+        },
+        {
+          "sourceId": "S10",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (University of California Press, 2019).",
+          "form": "Scholarly book",
+          "language": "English",
+          "accessLevel": "unknown"
+        }
+      ],
+      "challenges": [],
+      "contextualizes": [
+        {
+          "sourceId": "S07",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Enrique Tandeter, *Coercion and Market: Silver Mining in Colonial Potosí, 1692–1826* (University of New Mexico Press, 1993).",
+          "form": "Scholarly book",
+          "language": "English (translated from Spanish)",
+          "accessLevel": "unknown"
+        }
+      ]
+    }
+  },
+  "strings": {
+    "pilotNotice": "Pilot content — not yet reviewed by a historian. If you know a Source we have wrong or missing, every Claim and Source has a way to say so.",
+    "report": {
+      "door": {
+        "claim": {
+          "text": "Question this Claim",
+          "name": "Question this Claim: {id}"
+        },
+        "source": {
+          "text": "Know this Source?",
+          "name": "Know this Source: {id}"
+        },
+        "profile": {
+          "text": "Know a Source for a missing voice?",
+          "name": "Know a Source for a missing voice?"
+        }
+      },
+      "handover": {
+        "heading": "Tell us what you found",
+        "shown": {
+          "page": "This page",
+          "claim": "Claim",
+          "source": "Source",
+          "build": "Build",
+          "mode": "Mode"
+        },
+        "registerLegend": "What is it?",
+        "registers": {
+          "not-true": "The Claim says something the Source does not.",
+          "one-standpoint": "The Source's standpoint is described wrongly, or a Source counted as support is partisan.",
+          "something-missing": "A perspective or a Source is missing.",
+          "remove": "Remove my credit or my data."
+        },
+        "evidenceLegend": "Your evidence",
+        "sourceTitle": "Source",
+        "sourceTitleHint": "title, author, edition",
+        "sourceWhere": "Where in it",
+        "sourceWhereHint": "page, chapter, archive signature",
+        "noSource": "I have no Source; this is a hunch.",
+        "evidenceHelp": "A hunch is welcome and is recorded. Only a Source can change the page. Please do not include anyone else's personal details.",
+        "message": "Anything else",
+        "creditLegend": "Credit",
+        "creditNone": "No credit",
+        "creditAs": "Credit me as:",
+        "nickname": "Preferred name",
+        "creditHelp": "Shown only if your report changes the page, next to the change, on the Changes page. Removable: choose 'Remove my credit or my data' in this form. Never your email.",
+        "emailLabel": "Email, if you want a reply",
+        "emailHelp": "Never shown on the site. Used once, to reply.",
+        "privacyNote": "This report goes by email to the site's editor through FormSubmit. It is not public. FormSubmit says it keeps submissions for 30 days. On the next page you may be asked to tick a box. That page is run by FormSubmit and uses Google reCAPTCHA, which can set a Google cookie and sees your IP address. This site does not. The editor keeps your report until it has been dealt with and for 90 days after, then deletes it. To remove your credit or your data, choose \"Remove my credit or my data\" in the first question of the form, and say in \"Anything else\" which preferred name or email. Please do not include anyone else's personal details. A person reads the reports we receive. We aim to reply within a week if you left an email. Checking a Source can take weeks, because we read it ourselves, through a library. What you report cannot change the page by itself; only a Source we have read can. This is not a vote, and it is not the place to add a fact.",
+        "privacyLink": "Privacy",
+        "send": "Send the report",
+        "close": "Close"
+      },
+      "thanks": {
+        "heading": "Thank you",
+        "text": "Thank you. Your report is with the editor. If you left an email, we aim to reply within a week.",
+        "back": "Back to the site",
+        "privacy": "Privacy"
+      },
+      "privacy": {
+        "heading": "Privacy",
+        "cookies": "This site sets no cookies.",
+        "analytics": "This site uses no analytics.",
+        "sessionFlag": "It keeps one flag in your browser's session storage, so that the opening plays once per visit; it holds only that the opening has played, and it is gone when you close the tab.",
+        "serverLogs": "The site is served by GitHub Pages. GitHub keeps its own server logs, which can include your IP address, under its own privacy statement.",
+        "formIntro": "If you send a report, this is what happens. A report sends what you type, plus the web address of the page, the Claim or Source you were looking at, the version of the site, and whether you were in Explore or Research. A name and an email are optional.",
+        "removal": "To remove your credit or your data, open any \"Question this Claim\" or \"Know this Source?\" control and choose \"Remove my credit or my data\". Say in \"Anything else\" which preferred name or email to remove.",
+        "back": "Back to the site"
+      },
+      "changes": {
+        "heading": "Changes",
+        "empty": "No decisions yet. Reports are read as they come.",
+        "labels": {
+          "date": "Date",
+          "reported": "What was reported",
+          "did": "What we did",
+          "why": "Why",
+          "checkedBy": "Checked by",
+          "credit": "Credit",
+          "considered": "Reports considered"
+        },
+        "checkedByValue": "the editors, against the Source; approved by the product owner",
+        "changed": "Changed",
+        "notChanged": "Not changed",
+        "before": "Before",
+        "after": "After",
+        "thanksTo": "Thanks to {nickname}",
+        "thanksToReader": "Thanks to a reader",
+        "consideredText": "{n}",
+        "back": "Back to the site"
+      }
+    },
+    "editorialStateLine": "Draft · not yet editorially reviewed",
+    "editorialStates": {
+      "draft": "Draft · not yet editorially reviewed",
+      "in-review": "In editorial review · not yet editorially reviewed",
+      "disputed": "Editorial dispute open · not yet editorially reviewed",
+      "reviewed": "Reviewed · {decidedOn}",
+      "published": "Published · reviewed {decidedOn}"
+    },
+    "profile": {
+      "label": "Evidence & Perspective Profile",
+      "summaryLabel": "The evidence behind this Story",
+      "open": "See the details",
+      "openState": "Details below",
+      "close": "Close profile",
+      "lead": "Here is what the evidence for this Story rests on: where it comes from, how much of it is really separate, and what is still missing. It says nothing about whether the history is true; it says how much we have to go on.",
+      "statusDraft": "Draft · not yet editorially reviewed. The counts below come from our working records; no historian has checked them yet. Rules version {rules}, draft.",
+      "statusPublished": "Reviewed · {decidedOn} · rules version {rules}",
+      "warningsHeading": "Warnings ({n})",
+      "warningsNone": "No warning for this Story. That does not mean its evidence is complete.",
+      "componentsHeading": "What we checked ({n})",
+      "compact": {
+        "winnerDominated": "Evidence concentrated in colonial Sources",
+        "missingVoices": "Some voices missing",
+        "contested": "Still argued over",
+        "highlyUncertain": "Highly uncertain",
+        "notScored": "No number yet",
+        "coverage": "Viewpoints covered: {n}"
+      },
+      "componentNames": {
+        "diversity": "Source diversity",
+        "independence": "Source independence",
+        "coverage": "Perspective coverage",
+        "agreement": "Scholarly agreement",
+        "uncertainty": "Historical uncertainty",
+        "controversy": "Controversy",
+        "missing": "Missing Voices"
+      },
+      "componentQuestions": {
+        "diversity": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
+        "independence": "How many of the Sources actually stand on their own, rather than drawing on one another?",
+        "coverage": "Of the viewpoints this Story needs, how many have evidence we can actually use?",
+        "agreement": "Do the historians who have studied this agree with one another?",
+        "uncertainty": "How sure are we about the key dates and places, how things worked, and who was involved?",
+        "controversy": "Is this account still being argued over, and does the argument change anything?",
+        "missing": "Who was involved or affected, but barely shows up in the evidence?"
+      },
+      "fields": {
+        "asks": "The question",
+        "counted": "What we counted",
+        "notCounted": "Not counted, and why",
+        "completeness": "How complete",
+        "lastReview": "Last review",
+        "editorialNote": "Editor's note",
+        "dependencyView": "Who draws on whom"
+      },
+      "notScored": "No number yet · {n} of {m} recorded",
+      "inputsOnly": "{n} of {m} recorded",
+      "stateChecked": "{k} of {m} checked",
+      "stateEditorial": "editor's list",
+      "stateOverride": "set by an editor",
+      "completenessCategorical": "{n} of {m} recorded.",
+      "lastReviewDraft": "Not yet editorially reviewed",
+      "lastReviewPublished": "Reviewed · {decidedOn}",
+      "floors": {
+        "diversity": "three of the four kinds of detail are recorded for every Source",
+        "independence": "we know, and an editor has checked, what every supporting Source draws on",
+        "coverage": "an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded"
+      },
+      "diversity": {
+        "value": "{primary} primary {primaryWord} and {scholarly} scholarly {scholarlyWord}, in {languages} {languageWord} as recorded",
+        "noNumber": "No number yet · {n} of {m} kinds of information recorded",
+        "counted": "Kinds of document: {forms}. Languages, as recorded: {languageList}. Where each author stood: {positions}.",
+        "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
+        "completeness": "{n} of the 4 kinds of detail are recorded for every Source; an editor has checked {k} of {v} Sources. A number appears only once the Story has been editorially reviewed and {floor}."
+      },
+      "independence": {
+        "value": "{sources} supporting {sourceWord}, in {groups} separate {groupWord} once you trace who drew on whom",
+        "valueUnplaced": "{sources} supporting {sourceWord}, in {groups} separate {groupWord} once you trace who drew on whom; {unplaced} not yet traceable",
+        "noNumber": "No number yet · {n} of {m} Sources traced",
+        "counted": "{citations} supporting citations across {claims} Claims and the Connection, from {sources} Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "notCounted": "Cited only for background, so not counted: {ids}.",
+        "subjectNote": "Listed in its own group but kept out of any number: {ids}, cited only as what a Claim is about, not as support for it.",
+        "completeness": "We know what {n} of {m} Sources draw on; an editor has checked {k} of {m}. A number appears only once the Story has been editorially reviewed and {floor}.",
+        "notPlaced": "we do not yet know what it draws on. It joins no group and is not counted as independent.",
+        "groupHeading": "Group {letter} — {n} {sourceWord}.",
+        "groupHeadingChain": "Group {letter} — {n} {sourceWord} that draw on one another.",
+        "roots": "Starting points: {names}.",
+        "others": "Drawing on them: {names}.",
+        "subjectOnly": ", cited only as what {claims} is about",
+        "notPlacedHeading": "Not placed — {n} {sourceWord}.",
+        "row": {
+          "supports": "supports {n} {claimWord}",
+          "subject": "is the subject of {n} {claimWord}",
+          "connection": " and the Connection",
+          "connectionOnly": "supports the Connection"
+        },
+        "byClaim": {
+          "head": "{single} of the {total} Claims rest on a single group; {two} on two; {three} on three",
+          "more": "; {more} on four or more",
+          "undetermined": "; for {n} we cannot tell ({ids})",
+          "none": "; {n} have no supporting Evidence yet ({ids})",
+          "tail": ". {citations} citations are not {citationsLower} confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+        }
+      },
+      "coverage": {
+        "valueUndefined": "An editor has not yet listed which viewpoints this Story needs",
+        "valueNoCategory": "The viewpoints are listed, but {n} supporting Sources have no standpoint recorded",
+        "valueSet": "{covered} of the {total} viewpoints this Story needs have supporting Evidence",
+        "noNumber": "No number yet · {n} of {m} things in place",
+        "counted": "Needed: {expected}. Covered by supporting Evidence: {covered}. Not covered: {missing}.",
+        "countedUndefined": "Nothing yet. Until an editor lists the viewpoints this Story needs, there is nothing to measure against.",
+        "notCounted": "The standpoints we do have among the supporting Sources: {positions}.",
+        "subjectNote": "Not counted as support, because a Claim is about them rather than resting on them: {ids}.",
+        "completeness": "{n} of the 2 things this check needs are in place; an editor has checked {k} of {v} Sources. A number appears only once the Story has been editorially reviewed and {floor}."
+      },
+      "agreement": {
+        "notAssessed": "Not assessed",
+        "unclear": "Unclear",
+        "counted": "We have not yet recorded what different historians make of this Story. The one mainstream account ({claim}) does not yet say which field it comes from or when it was made.",
+        "notCounted": "We have not yet recorded which historians accept the mainstream account.",
+        "note": "Agreement among historians is not proof. It shows where the field stands today, and fields move."
+      },
+      "uncertainty": {
+        "partial": "{value} uncertainty about the dates and places only; nothing else graded yet",
+        "counted": "How precisely the {n} Claims this Story cites are dated: {precisions}.",
+        "notCounted": "Nobody has yet assessed how things worked or who was involved.",
+        "event": "The Event itself is dated {label}.",
+        "partialOne": "{value} uncertainty, going by the dates and places and by {assessed}; {unassessed} is not graded yet",
+        "notCountedMechanisms": "Nobody has yet assessed how things worked.",
+        "notCountedIdentities": "Nobody has yet assessed who was involved.",
+        "mechanismsPhrase": "how things worked",
+        "identitiesPhrase": "who was involved",
+        "unknownReading": "We cannot yet say how uncertain this is",
+        "buckets": {
+          "year": "to the year",
+          "decade": "to the decade",
+          "approximate": "roughly",
+          "century": "to the century",
+          "notTimeBounded": "not tied to a date",
+          "disputed": "disputed or unknown"
+        }
+      },
+      "controversy": {
+        "notAssessed": "Not assessed",
+        "notAssessedNote": "\"Not assessed\" does not mean \"low\".",
+        "counted": "Nobody has yet recorded whether this account is argued over.",
+        "assessed": "An editor's assessment: {level}.",
+        "notCounted": "No editor has yet assessed how actively it is disputed."
+      },
+      "missingVoices": {
+        "valueLine": "{n} {voiceWord} listed",
+        "valueLineIncomplete": "{n} {voiceWord} listed · we are still looking",
+        "counted": "Each voice below says why it is missing and which Claims it bears on.",
+        "notCounted": "A voice is listed only once we can say why it is missing and which Claim it bears on. Names we have not verified stay with the editor.",
+        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history.",
+        "reasonLabels": {
+          "Not identified in this documented search": "We looked in the records gathered so far and found nothing",
+          "Search not yet complete": "We are still looking",
+          "Not yet researched": "Not yet looked for",
+          "Known record not yet consulted": "A record exists; we have not reached it yet",
+          "Known archive inaccessible": "A record exists but cannot be reached",
+          "Records not preserved (established)": "The records did not survive (historians have established this)"
+        }
+      },
+      "lineageLabels": {
+        "L5": "colonial administrative and fiscal records (no single Source record)"
+      },
+      "sourcePosition": {
+        "labels": {
+          "proximity": "When and where",
+          "role": "Role",
+          "audience": "Written for",
+          "interests": "Their stake",
+          "position": "Standpoint",
+          "focus": "Focus",
+          "note": "Note",
+          "dependsOn": "Draws on"
+        },
+        "categoryNote": "Context for reading this Source, not a rating of it.",
+        "drawsOn": {
+          "rootWithDescendants": "None recorded: this is a starting point. Drawn on by {names}.",
+          "root": "None recorded: this is a starting point.",
+          "derived": "{names}.",
+          "notRecorded": "Not recorded yet; an editor still has to trace it.",
+          "unchecked": "As recorded; not yet checked by an editor."
+        },
+        "notRecorded": "not recorded"
+      }
+    },
+    "sensitiveFlagText": "Sensitive content",
+    "orientationToggleLabel": "Add present-day orientation",
+    "siteLinks": {
+      "changes": "Changes",
+      "privacy": "Privacy"
+    },
+    "yearStatement": "1573 · exact year · single-year view",
+    "jurisdictionLine": {
+      "text": "In 1573 Potosí lay within the Audiencia de Charcas, seated at Ciudad de La Plata, within the Viceroyalty of Peru, governed from Ciudad de los Reyes. Jurisdictions are shown by their seats; their boundaries are not yet researched and are not drawn.",
+      "claimIds": [
+        "C11"
+      ]
+    },
+    "viewIndexHeading": "In this view — 1573",
+    "indexGroupHeadings": {
+      "events": "Events (1)",
+      "places": "Places (3)"
+    },
+    "attributionDataLine": "Historical data: World History Explorer pilot fixture — draft, not yet editorially reviewed; Sources are cited per Claim.",
+    "attributionDataLinePublished": "Historical data: World History Explorer pilot corpus — editorially reviewed; Sources are cited per Claim.",
+    "attributionTruncationControl": "Attribution",
+    "readingPaneEmpty": {
+      "heading": "One moment, and how we know it.",
+      "body": [
+        "Select the Event on the map, or in the list beneath it, to open its Story.",
+        "This pilot covers one moment: the adoption of mercury amalgamation refining at Potosí, around 1572–1575, and the one Connection this pilot explains — from the mercury mine at Huancavelica. The other Places on the map are there to locate that Story. No Story has been researched for them yet."
+      ]
+    },
+    "coverageStatements": {
+      "notYetResearched": {
+        "viewIndex": "Only the Story at Potosí has been researched for this view. The other Places are in view to locate it; no Story has been researched for them yet.",
+        "placeContext": "No Story has been researched for this Place yet."
+      },
+      "noKnownEvent": "No Event is known here in 1573 in the evidence consulted. That is a finding, not an absence of research.",
+      "evidenceDoesNotSurvive": "No records for this Place in 1573 were identified in the sources consulted. Absence from the record is not absence from history."
+    },
+    "frameBreadcrumb": {
+      "navName": "Map frames",
+      "world": "World",
+      "americas": "Americas",
+      "andes": "central Andes",
+      "moment": "Potosí, 1573",
+      "andesShort": "Andes",
+      "momentShort": "Potosí"
+    },
+    "contextNote": {
+      "world": "World context · this pilot shows one moment",
+      "wider": "Wider context · this pilot shows one moment"
+    },
+    "mapStatus": {
+      "MS-0": "",
+      "MS-1": "Selected: Adoption of mercury amalgamation refining at Potosí. Connected: Mina de Santa Bárbara, Huancavelica — it enabled this Event. No route is drawn; the route is not yet researched.",
+      "MS-2": "Selected: Mina de Santa Bárbara, Huancavelica. Origin of one Connection, to the Event at Potosí.",
+      "MS-3": "Selected: Ciudad de La Plata, seat of the Audiencia de Charcas. No Story has been researched for this Place yet.",
+      "MS-4": "Selected: Ciudad de los Reyes, seat of the Viceroy of Peru. No Story has been researched for this Place yet.",
+      "MS-5": "The selected marker, {historical name}, is outside the current view. Reset the view to show all four markers.",
+      "MS-6": "The connected Place, Mina de Santa Bárbara, Huancavelica, is outside the current view. Reset the view to show all four markers.",
+      "MS-7": "The selected Event and its connected Place are outside the current view. Reset the view to show all four markers.",
+      "MS-8": "Loading the 1573 view.",
+      "MS-9": "The basemap could not be loaded. The four markers and the list beneath the map are still available.",
+      "MS-10": "The world. The 1573 view is one point at Potosí at this scale. Zoom in or reset the view to see its four markers.",
+      "MS-11": "The Americas. The 1573 view is one point at Potosí at this scale. Zoom in or reset the view to see its four markers.",
+      "MS-12": "The central Andes. The 1573 view is one point at Potosí at this scale. Zoom in or reset the view to see its four markers."
+    },
+    "claimCard": {
+      "emptySupports": "No supporting Evidence has been linked to this Claim yet — pending editorial verification.",
+      "emptyChallenges": "No challenging Evidence has been linked to this Claim. This does not mean none exists.",
+      "emptyContextualizes": "No contextual Evidence has been linked to this Claim."
+    },
+    "accessBlockLocatorPending": "pending editorial verification",
+    "accessReadings": {
+      "unverified": "An access level is recorded, but no human has verified it.",
+      "unknown": "No access level was recorded for this Source.",
+      "abstract only": "Only the abstract was reviewed. This Source cannot support detail as if the whole work had been read.",
+      "metadata only": "Only the catalogue record was reviewed. This Source supports no more than its record states.",
+      "inaccessible": "The Source could not be reached. Support from it is not established."
+    },
+    "withdrawnNote": "A sentence here rested on Claim {id}, which has been {state}, and is not shown.",
+    "connectionSources": {
+      "label": "Sources for this step",
+      "emptySupports": "No supporting Evidence has been linked to this step yet — pending editorial verification.",
+      "emptyChallenges": "No challenging Evidence has been linked to this step. This does not mean none exists.",
+      "emptyContextualizes": "No contextual Evidence has been linked to this step."
+    },
+    "closeControls": {
+      "closeClaim": "Close Claim",
+      "closeSource": "Close Source",
+      "closeStory": "Close Story",
+      "closePlace": "Close Place"
+    },
+    "interfaceStrings": {
+      "sheetHandleAccessibleName": "Raise or lower the reading surface",
+      "mapPaneTabsAccessibleName": "Map or list",
+      "storyLoadError": "Couldn't load this Story. The map and the list are unaffected, and the Event stays selected.",
+      "claimLoadError": "Couldn't load this Claim. The Story, the map, and the list are unaffected.",
+      "retryButton": "Try again",
+      "sourceLoadError": "Couldn't load this Source. The Source record, its access level, and the Claim it is cited under are unchanged.",
+      "sourceAccessPathError": "Couldn't open the link to this Source. The Source record, its access level, and the Claim it is cited under are unchanged.",
+      "participantListLabel": "Who was involved, and who was affected",
+      "connectionEvidenceLabel": "Claims behind this step",
+      "beatHeadings": {
+        "hook": "Hook",
+        "orient": "Orient",
+        "connect": "Connect",
+        "complicate": "Complicate",
+        "resolve": "Resolve provisionally",
+        "next": "Where next"
+      }
+    },
+    "assistiveOnly": {
+      "pilotNoticeLandmarkName": "Pilot notice",
+      "mapCanvasGroupName": "Map",
+      "zoomInName": "Zoom in",
+      "zoomOutName": "Zoom out",
+      "resetViewName": "Reset view",
+      "directionFigureArrowText": "to",
+      "markerStateSelected": "Selected.",
+      "markerStateConnected": "Connected to the current selection.",
+      "markerStateSubdued": "In view; not part of the selected Story.",
+      "orientationLinePrefix": "present-day",
+      "jurisdictionsRegionName": "Jurisdictions in 1573",
+      "zoomOutAtWidestName": "Zoom out. At the widest view.",
+      "zoomInAtClosestName": "Zoom in. At the closest view."
+    }
+  },
+  "physicalFeatures": [
+    {
+      "id": "f-titicaca",
+      "kind": "lake",
+      "name": "Titicaca",
+      "point": {
+        "lon": -69.343,
+        "lat": -15.918
+      },
+      "editorialState": "draft",
+      "nameNote": "EDITORIAL-TODO: confirm the form in use c. 1573 (Titicaca / laguna de Chucuito), or supply the period form — content-examples.md §16 item 12."
+    }
+  ]
+}

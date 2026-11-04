@@ -1,0 +1,231 @@
+{
+  "sources": [
+    {
+      "id": "S01",
+      "record": "Luis Capoche, *Relación general de la Villa Imperial de Potosí* (1585). Modern edition: Biblioteca de Autores Españoles vol. 122, ed. Lewis Hanke, Madrid, 1959.",
+      "form": "Primary document — manuscript report",
+      "language": "Spanish",
+      "accessLevel": "unverified",
+      "locator": "EDITORIAL-TODO",
+      "perspective": "Spanish mine and refinery owner resident at Potosí, reporting to the viceroy. Close to the process; describing a labour system he benefited from, to the authority governing it.",
+      "position": {
+        "proximity": "Resident at Potosí; contemporary; close to the process",
+        "role": "Spanish mine and refinery owner",
+        "audience": "The viceroy",
+        "interests": "Describing a labour system he benefited from, to the authority governing it",
+        "category": "colonial elite"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "L1"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "S02",
+      "record": "José de Acosta, *Historia natural y moral de las Indias* (Seville, 1590).",
+      "form": "Primary document — printed treatise",
+      "language": "Spanish",
+      "accessLevel": "unverified",
+      "locator": "EDITORIAL-TODO",
+      "perspective": "Jesuit missionary and naturalist. Ecclesiastical vantage; writing for a European readership.",
+      "position": {
+        "proximity": "Contemporary; ecclesiastical vantage",
+        "role": "Jesuit missionary and naturalist",
+        "audience": "A European readership",
+        "category": "church"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "L2"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "S03",
+      "record": "Álvaro Alonso Barba, *Arte de los metales* (Madrid, 1640).",
+      "form": "Primary document — technical treatise",
+      "language": "Spanish",
+      "accessLevel": "unverified",
+      "locator": "EDITORIAL-TODO",
+      "perspective": "Priest and metallurgist in Charcas. Strong for technique; written about sixty-five years after the Event, so **contextual** for the timing Claims.",
+      "position": {
+        "proximity": "About sixty-five years after the Event",
+        "role": "Priest and metallurgist in Charcas",
+        "category": "church",
+        "note": "Strong for technique; written about sixty-five years after the Event, so **contextual** for the timing Claims."
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "L3"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "S04",
+      "record": "Felipe Guaman Poma de Ayala, *El primer nueva corónica y buen gobierno* (c. 1615). Royal Danish Library, GKS 2232 4º.",
+      "form": "Primary document — illustrated manuscript",
+      "language": "Spanish and Quechua",
+      "accessLevel": "unverified",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "Digital facsimile at the holding institution (recorded; not verified)",
+      "perspective": "**Andean author.** A sustained critique of colonial labour including the *mita*. Written roughly forty years after 1573, in a specific petitionary rhetorical mode. The corpus describes it as a substantial surviving Andean-authored account bearing on these Claims, and as a single voice, not a representative sample.",
+      "position": {
+        "proximity": "Roughly forty years after 1573",
+        "role": "Andean author",
+        "interests": "Petitionary; a sustained critique of colonial labour",
+        "category": "affected community",
+        "note": "A sustained critique of colonial labour including the *mita*, in a specific petitionary rhetorical mode. The records we hold describe it as a substantial surviving Andean-authored account bearing on these Claims, and as a single voice, not a representative sample."
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "L4"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "S05",
+      "record": "Peter Bakewell, *Miners of the Red Mountain: Indian Labour in Potosí, 1545–1650* (University of New Mexico Press, 1984).",
+      "form": "Scholarly book",
+      "language": "English",
+      "accessLevel": "unknown",
+      "locator": "EDITORIAL-TODO",
+      "perspective": "Draws heavily on `S01` and Spanish colonial administrative records. Argues for a substantial wage-labour component alongside the *mita*.",
+      "position": {
+        "proximity": "Appeared in 1984",
+        "category": "later scholarship",
+        "focus": "Argues for a substantial wage-labour component alongside the *mita*."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "L1",
+          "L5"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "S06",
+      "record": "Jeffrey A. Cole, *The Potosí Mita, 1573–1700: Compulsory Indian Labor in the Andes* (Stanford University Press, 1985).",
+      "form": "Scholarly book",
+      "language": "English",
+      "accessLevel": "unknown",
+      "locator": "EDITORIAL-TODO",
+      "perspective": "Institutional history of the *mita* itself.",
+      "position": {
+        "proximity": "Appeared in 1985",
+        "category": "later scholarship",
+        "focus": "Institutional history of the *mita* itself."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "L5"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "S07",
+      "record": "Enrique Tandeter, *Coercion and Market: Silver Mining in Colonial Potosí, 1692–1826* (University of New Mexico Press, 1993).",
+      "form": "Scholarly book",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "unknown",
+      "locator": "EDITORIAL-TODO",
+      "perspective": "**Covers 1692–1826.** Contextual for a 1570s Claim, not direct support.",
+      "position": {
+        "proximity": "Appeared in 1993",
+        "category": "later scholarship",
+        "focus": "**Covers 1692–1826.** Contextual for a 1570s Claim, not direct support."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "L5"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "S08",
+      "record": "Kendall W. Brown, *A History of Mining in Latin America: From the Colonial Era to the Present* (University of New Mexico Press, 2012).",
+      "form": "Scholarly book — synthesis",
+      "language": "English",
+      "accessLevel": "unknown",
+      "locator": "EDITORIAL-TODO",
+      "perspective": "Synthetic survey. Derives from earlier scholarship; not an independent lineage.",
+      "position": {
+        "proximity": "Appeared in 2012",
+        "category": "later scholarship",
+        "focus": "Synthetic survey."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "L1",
+          "L3"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "S09",
+      "record": "Nicholas A. Robins, *Mercury, Mining, and Empire: The Human and Ecological Cost of Colonial Silver Mining in the Andes* (Indiana University Press, 2011).",
+      "form": "Scholarly book",
+      "language": "English",
+      "accessLevel": "unknown",
+      "locator": "EDITORIAL-TODO",
+      "perspective": "Focused on health and environmental consequences.",
+      "position": {
+        "proximity": "Appeared in 2011",
+        "category": "later scholarship",
+        "focus": "Focused on health and environmental consequences."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "S10",
+      "record": "Kris Lane, *Potosí: The Silver City That Changed the World* (University of California Press, 2019).",
+      "form": "Scholarly book",
+      "language": "English",
+      "accessLevel": "unknown",
+      "locator": "EDITORIAL-TODO",
+      "perspective": "Recent synthesis drawing on `S01` and later scholarship.",
+      "position": {
+        "proximity": "Appeared in 2019",
+        "category": "later scholarship",
+        "focus": "Recent synthesis drawing on `S01` and later scholarship."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "L1"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    }
+  ]
+}
