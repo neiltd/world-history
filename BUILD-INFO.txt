@@ -1,7 +1,7 @@
-source-commit: b64308c0487ef024ed67456143c019fa13d92560
+source-commit: 9e996ec0692745957c639efdcf15480c400a607a
 source-tree: clean
-build-date: 2026-11-05T22:39:29Z
-commit: b64308c0487ef024ed67456143c019fa13d92560
+build-date: 2026-11-05T23:13:40Z
+commit: 9e996ec0692745957c639efdcf15480c400a607a
 vitest: pass
 audit: clean
 playwright: pass
