@@ -818,7 +818,10 @@
       "orientationLinePrefix": "present-day",
       "jurisdictionsRegionName": "Jurisdictions in 1573",
       "zoomOutAtWidestName": "Zoom out. At the widest view.",
-      "zoomInAtClosestName": "Zoom in. At the closest view."
+      "zoomInAtClosestName": "Zoom in. At the closest view.",
+      "copyLinkName": "Copy link to this view",
+      "copyLinkDone": "Link copied",
+      "copyLinkFailed": "Could not copy. The link is in the address bar."
     }
   },
   "physicalFeatures": [
