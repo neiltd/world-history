@@ -294,7 +294,7 @@
       {
         "kind": "winner-dominated",
         "name": "Evidence concentrated in colonial Sources",
-        "text": "Almost all of the primary documents behind this Story are by Spanish colonial writers (`M-C04`); the one source from the Chinese side is a Ming court record from 1589 about licensing ships and taxing them in silver (`M-C17`), and it is the court's voice, not a merchant's. 24 of 25 supporting citations descend, as recorded, from Spanish colonial authors or colonial administrative records. This tells you whose side of events the evidence comes from. It does not weigh the Story's conclusions.",
+        "text": "Almost all of the primary documents behind this Story are by Spanish colonial writers (`M-C04`); the one source from the Chinese side is a Ming court record from 1589 about licensing ships and taxing them in silver (`M-C17`), and it is the court's voice, not a merchant's. 26 of 27 supporting citations descend, as recorded, from Spanish colonial authors or colonial administrative records. This tells you whose side of events the evidence comes from. It does not weigh the Story's conclusions.",
         "basisClaimIds": [
           "M-C04",
           "M-C17"
@@ -341,7 +341,7 @@
         "valueText": "11 supporting Sources, in 9 separate groups once you trace who drew on whom",
         "stateText": "No number yet · 13 of 13 Sources traced",
         "origin": "computed",
-        "counted": "25 supporting citations across 17 Claims and the Connection, from 11 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "counted": "27 supporting citations across 19 Claims and the Connection, from 11 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
         "notCounted": "Cited only for background, so not counted: SB05, SB06.",
         "inputsRecorded": [
           13,
@@ -426,7 +426,7 @@
               "sourceId": "SB01",
               "citation": "Martín Enríquez, Viceroy of New Spain, letter to Felipe II, Mexico, 5 December 1573. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 3 (Cleveland, 1903), pp. 209–219. Translated by Francis W. Snow from *Cartas de Indias* (Madrid, 1877).",
               "group": "Group A",
-              "claimCount": 3,
+              "claimCount": 4,
               "onConnection": true,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
@@ -444,7 +444,7 @@
               "sourceId": "SB03",
               "citation": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated by Rachel King.",
               "group": "Group B",
-              "claimCount": 2,
+              "claimCount": 3,
               "onConnection": true,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
@@ -522,7 +522,7 @@
               "accessLevel": "excerpt reviewed"
             }
           ],
-          "byClaimSentence": "14 of the 17 Claims rest on a single group; 3 on two; 0 on three. Twenty-five citations are not twenty-five confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+          "byClaimSentence": "16 of the 19 Claims rest on a single group; 3 on two; 0 on three. Twenty-seven citations are not twenty-seven confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
         }
       },
       {
@@ -572,7 +572,7 @@
         "valueText": "Medium uncertainty about the dates and places only; nothing else graded yet",
         "stateText": "1 of 3 recorded",
         "origin": "computed",
-        "counted": "How precisely the 17 Claims this Story cites are dated: to the year: 9; roughly: 6; to the century: 2; not tied to a date: 0; disputed or unknown: 0. The Event itself is dated c. 1572–1573 · approximate.",
+        "counted": "How precisely the 19 Claims this Story cites are dated: to the year: 11; roughly: 6; to the century: 2; not tied to a date: 0; disputed or unknown: 0. The Event itself is dated c. 1572–1573 · approximate.",
         "notCounted": "Nobody has yet assessed how things worked or who was involved.",
         "inputsRecorded": [
           1,

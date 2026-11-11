@@ -934,6 +934,49 @@
         "challenges": [],
         "contextualizes": []
       }
+    },
+    {
+      "id": "M-C23",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In December 1573 the viceroy wrote that a ship built at this port was about to sail for the islands, and that he had no guns for it.",
+      "temporal": {
+        "precision": "year",
+        "label": "December 1573 · year"
+      },
+      "notes": "Quote: \"I have no artillery for a ship which I am now despatching, and which was built in the port of Acapulco\"\nPage image: https://archive.org/details/philippineisland03blai/page/n218/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "high that the passage says it, as read in the OCR; the page images (leaves n218 and n219) are still to be opened."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Enriquez.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Acapulco · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-acapulco"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "vol. 3, pp. 215-216"
+            },
+            "citation": "Martín Enríquez, Viceroy of New Spain, letter to Felipe II, Mexico, 5 December 1573. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 3 (Cleveland, 1903), pp. 209–219. Translated by Francis W. Snow from *Cartas de Indias* (Madrid, 1877).",
+            "form": "Primary document, letter",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
     }
   ]
 }

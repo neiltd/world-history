@@ -40,7 +40,61 @@
       },
       "kind": "place",
       "placeForm": "settlement",
-      "presentDayName": "Acapulco, Mexico"
+      "presentDayName": "Acapulco, Mexico",
+      "placeContext": {
+        "kindLabel": "Place, settlement",
+        "headerLine": "Jurisdiction not yet researched in this pilot",
+        "headerClaimIds": [],
+        "role": [
+          {
+            "text": "In view because the ships of this Story came in here, and because the money line on the World map is drawn from here.",
+            "claimIds": []
+          },
+          {
+            "text": "Two ships that sailed from the Philippines on 1 July 1573 reached this port in November 1573,",
+            "claimIds": [
+              "M-C01"
+            ]
+          },
+          {
+            "text": "and the cargo listed at Mexico for them included silks and porcelain.",
+            "claimIds": [
+              "M-C02"
+            ]
+          },
+          {
+            "text": "In April 1575 Governor Sande sailed from here for Manila with two ships.",
+            "claimIds": [
+              "M-C22"
+            ]
+          },
+          {
+            "text": "In December 1573 the viceroy wrote that a ship built at this port was about to sail for the islands, and that he had no guns for it.",
+            "claimIds": [
+              "M-C23"
+            ]
+          },
+          {
+            "text": "Morga, writing in 1609, names Acapulco as the port where a ten per cent duty on China goods was taken.",
+            "claimIds": [
+              "M-C20"
+            ]
+          },
+          {
+            "text": "No Source we have read says the money sent west left from this port.",
+            "claimIds": []
+          },
+          {
+            "text": "The marker shows present-day Acapulco, an approximate location; it is not a surveyed position for the port of 1573.",
+            "claimIds": []
+          }
+        ],
+        "storyLink": {
+          "text": "Where the ships came in, in The port that had money to spare",
+          "selectsEntityId": "ev-manila-chinese-trade"
+        },
+        "coverageVariant": "not-yet-researched"
+      }
     },
     {
       "id": "c-chinese-merchants",
