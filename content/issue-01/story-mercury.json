@@ -190,7 +190,7 @@
       "paragraphs": [
         [
           {
-            "text": "**Not yet researched.** This pilot holds one Story and one Connection. The paths that would lead out of here — what came before, what followed, what was happening elsewhere at the same time — have not been researched, so none is offered. The other Places on the map are in view to locate this Story, not to begin another. When a path is researched, it will appear here with its own Claims and Evidence.",
+            "text": "**Not yet researched.** This pilot holds two Stories, each with its own Connection. The paths that would lead out of here — what came before, what followed, what was happening elsewhere at the same time — have not been researched, so none is offered as a researched path. The other Places on the map are in view to locate this Story, not to begin another. When a path is researched, it will appear here with its own Claims and Evidence.",
             "claimIds": []
           }
         ]
@@ -198,6 +198,13 @@
     }
   ],
   "mainstreamAccountClaimId": "C06",
+  "momentLinks": [
+    {
+      "momentId": "manila",
+      "label": "Another moment in 1573: Manila",
+      "honestyLine": "No researched Connection joins these two Stories. The Potosí link is not yet researched."
+    }
+  ],
   "editorialState": "draft",
   "profile": {
     "rulesVersion": "0.1-draft",

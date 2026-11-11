@@ -1,0 +1,662 @@
+{
+  "id": "money-to-spare",
+  "title": "The port that had money to spare",
+  "learnerQuestion": "Why were Chinese ships calling at a Spanish port on the island of Luzon in 1573, and what did the Spaniards there pay them with?",
+  "sensitiveContentNotice": "This Story discusses the enslavement and freeing of Chinese people at Manila.",
+  "sensitive": true,
+  "header": {
+    "whenLine": "1573 view · Event c. 1572–1573 · approximate",
+    "whereLine": "Ciudad de Manila · island of Luzon",
+    "whereLineClaimIds": [
+      "M-C03",
+      "M-C04"
+    ]
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "paragraphs": [
+        [
+          {
+            "text": "Here is the thing about a Spanish port on the far side of the Pacific: by about 1572, Chinese ships were already calling at it.",
+            "claimIds": [
+              "M-C03"
+            ]
+          },
+          {
+            "text": "The Spanish officials' relation says that \"a year ago\" three ships came to the port from China, and five more to the neighbouring islands.",
+            "claimIds": [
+              "M-C03"
+            ]
+          },
+          {
+            "text": "It also says the Chinese goods sold readily to the Spaniards, \"since we who are here have plenty of money\".",
+            "claimIds": [
+              "M-C05"
+            ]
+          },
+          {
+            "text": "It does not say what kind of money.",
+            "claimIds": [
+              "M-C05"
+            ]
+          },
+          {
+            "text": "What the Spaniards at Manila paid with, and where it came from, is the Story.",
+            "claimIds": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": "orient",
+      "paragraphs": [
+        [
+          {
+            "text": "In 1573 this is the Ciudad de Manila, on the island of Luzon.",
+            "claimIds": [
+              "M-C03"
+            ]
+          },
+          {
+            "text": "This name was used in this period; present-day orientation is a toggle above the map, not a substitute for it.",
+            "claimIds": []
+          },
+          {
+            "text": "Two ships that sailed from the Philippines on 1 July 1573 reached Acapulco in November 1573. Acapulco is on the World map because that is where those ships came in.",
+            "claimIds": [
+              "M-C01"
+            ]
+          },
+          {
+            "text": "Which jurisdiction Manila lay in has not been researched here, so none is shown and no boundary is drawn.",
+            "claimIds": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": "connect",
+      "paragraphs": [
+        [
+          {
+            "text": "Here is where it gets interesting.",
+            "claimIds": []
+          },
+          {
+            "text": "In December 1573 the Viceroy of New Spain wrote to Felipe II that trade with China would have to be carried on in silver, which the Chinese valued above all else. He doubted the king would agree to send silver out of the realm.",
+            "claimIds": [
+              "M-C06"
+            ]
+          },
+          {
+            "text": "In 1576 Governor Sande wrote that he believed the Chinese preferred to trade with the Spaniards at Manila because of the silver from Mexico and the gold of the islands.",
+            "claimIds": [
+              "M-C08"
+            ]
+          },
+          {
+            "text": "Morga, writing in 1609, said the Chinese traders at Manila were paid in silver and reals, because they wanted neither gold nor other goods.",
+            "claimIds": [
+              "M-C11"
+            ]
+          },
+          {
+            "text": "So the question \"what did Manila pay the Chinese with?\" turns into \"where did the silver come from?\" The Spanish writers name Mexico, and by Morga's time Mexico and Peru.",
+            "claimIds": [
+              "M-C08",
+              "M-C15",
+              "M-C12"
+            ]
+          }
+        ]
+      ],
+      "connectionId": "cn-spanish-american-silver-reaches-manila"
+    },
+    {
+      "id": "complicate",
+      "paragraphs": [
+        [
+          {
+            "text": "Two things complicate the tidy version.",
+            "claimIds": []
+          }
+        ],
+        [
+          {
+            "text": "The first is a hard fact. Spanish officials at Manila wrote that Chinese traders came because some Chinese who had been enslaved there were freed and sent home, and spread word of the settlement.",
+            "claimIds": [
+              "M-C04"
+            ]
+          },
+          {
+            "text": "In the officials' own words, freedom and passage to their own country were given to \"some Chinese who were slaves among us\".",
+            "claimIds": [
+              "M-C04"
+            ]
+          },
+          {
+            "text": "That is the Spaniards' explanation for why the ships came. On their word, Chinese people had been enslaved at Manila and were freed. The report does not say who they were, how many there were, or what they would say about it.",
+            "claimIds": [
+              "M-C04"
+            ]
+          },
+          {
+            "text": "This pilot has not found an account from any of them.",
+            "claimIds": [
+              "M-C04"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "The second is whose account this pilot draws on. Almost all of it is Spanish: a viceroy, officials at Manila, a governor, Morga, and Manila's citizens, who asked in 1586 that the money \"which now the Chinese take\" not be sent.",
+            "claimIds": [
+              "M-C06",
+              "M-C04",
+              "M-C08",
+              "M-C11",
+              "M-C15"
+            ]
+          },
+          {
+            "text": "Sande, for his part, complained that the Chinese brought poor silks and took the Spaniards' gold and silver away.",
+            "claimIds": [
+              "M-C09"
+            ]
+          },
+          {
+            "text": "The one source from the Chinese side in this pilot is a record of the Ming court from 1589. In it a Fujian official proposes letting 16 ships go to Luzon, and the Ministry of War answers with a cap of 44 ships for each of the Eastern and Western Oceans.",
+            "claimIds": [
+              "M-C17"
+            ]
+          },
+          {
+            "text": "It is the court's voice, and it reckons ship duties in silver. It is not a merchant's.",
+            "claimIds": [
+              "M-C17"
+            ]
+          },
+          {
+            "text": "This pilot has not yet identified an account by a Chinese merchant, or by anyone living in the Philippine islands in the 1570s; no additional record was identified in this documented search.",
+            "claimIds": [
+              "M-C04",
+              "M-C17"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "resolve",
+      "paragraphs": [
+        [
+          {
+            "text": "What can we say, then? The records agree on one plain thing: money went west from New Spain to Manila.",
+            "claimIds": [
+              "M-C18",
+              "M-C19",
+              "M-C20",
+              "M-C15"
+            ]
+          },
+          {
+            "text": "Governor Sande wrote in 1577 that reals, which are coins, were sent from New Spain every year with the provisions until he came to Manila in 1575, and that none had been sent since.",
+            "claimIds": [
+              "M-C18"
+            ]
+          },
+          {
+            "text": "In 1586 Manila's citizens wrote that large consignments of money from rich men in Mexico pushed up the price of all Chinese goods.",
+            "claimIds": [
+              "M-C15"
+            ]
+          },
+          {
+            "text": "In 1588 Governor Vera wrote that a tax of one per cent had been collected for two years at Manila on the coin brought from New Spain, to help pay for a stone fort.",
+            "claimIds": [
+              "M-C19"
+            ]
+          },
+          {
+            "text": "Morga, writing in 1609, said a \"succour\" in money was sent every year from the royal chest in New Spain to the royal chest in the Philippines, and that the sum varied with need.",
+            "claimIds": [
+              "M-C20"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Not all of that money was for the Chinese.",
+            "claimIds": []
+          },
+          {
+            "text": "Morga's yearly sum went between two royal chests. It shows money crossing the Pacific; it does not say the money went to Chinese merchants.",
+            "claimIds": [
+              "M-C20"
+            ]
+          },
+          {
+            "text": "The citizens' complaint of 1586 is the one that ties money from Mexico to the price of Chinese goods.",
+            "claimIds": [
+              "M-C15"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "So this Story can say that Spanish writers expected, and later reported, that the Chinese wanted silver; that money went west from New Spain; and that Chinese ships were calling at Manila by about 1572, with the Ming court discussing in 1589 how many might go.",
+            "claimIds": [
+              "M-C06",
+              "M-C08",
+              "M-C11",
+              "M-C18",
+              "M-C03",
+              "M-C17"
+            ]
+          },
+          {
+            "text": "It cannot say how much money, from what year, on which ship, or from which mine.",
+            "claimIds": []
+          },
+          {
+            "text": "That is a reading of the records, and it is an interpretation. It has not yet been checked against modern scholarship, and the Claim beneath each sentence says whose voice it rests on.",
+            "claimIds": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": "next",
+      "paragraphs": [
+        [
+          {
+            "text": "**Not yet researched.** This pilot holds two Stories, each with its own Connection. The paths that would lead out of here — what came before, what followed, what was happening elsewhere at the same time — have not been researched, so none is offered as a researched path. Acapulco, on the World map, is in view to locate this Story, not to begin another. When a path is researched, it will appear here with its own Claims and Evidence.",
+            "claimIds": []
+          }
+        ]
+      ]
+    }
+  ],
+  "momentLinks": [
+    {
+      "momentId": "potosi",
+      "label": "Another moment in 1573: Potosí",
+      "honestyLine": "No researched Connection joins these two Stories. The Potosí link is not yet researched."
+    }
+  ],
+  "editorialState": "draft",
+  "profile": {
+    "rulesVersion": "0.1-draft",
+    "mode": "draft-preview",
+    "statusLine": "Draft · not yet editorially reviewed. The counts below come from our working records; no historian has checked them yet. Rules version 0.1, draft.",
+    "warnings": [
+      {
+        "kind": "winner-dominated",
+        "name": "Evidence concentrated in colonial Sources",
+        "text": "Almost all of the primary documents behind this Story are by Spanish colonial writers (`M-C04`); the one source from the Chinese side is a Ming court record from 1589 about licensing ships and taxing them in silver (`M-C17`), and it is the court's voice, not a merchant's. 24 of 25 supporting citations descend, as recorded, from Spanish colonial authors or colonial administrative records. This tells you whose side of events the evidence comes from. It does not weigh the Story's conclusions.",
+        "basisClaimIds": [
+          "M-C04",
+          "M-C17"
+        ]
+      },
+      {
+        "kind": "missing-voices",
+        "name": "Some voices missing",
+        "text": "An account from the Chinese people enslaved at Manila who were freed, and from Chinese merchants, about why they came and what they were paid: not identified in this documented search (`M-C04`, `M-C17`). Three voices are listed below.",
+        "basisClaimIds": [
+          "M-C04",
+          "M-C17"
+        ]
+      }
+    ],
+    "components": [
+      {
+        "id": "diversity",
+        "name": "Source diversity",
+        "asks": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "9 primary documents and 0 scholarly books, in 2 languages as recorded",
+        "valueText": "9 primary documents and 0 scholarly books, in 2 languages as recorded",
+        "stateText": "No number yet · 2 of 4 kinds of information recorded",
+        "origin": "computed",
+        "counted": "Kinds of document: Primary document, letter 3, Primary document, report to the Crown 2, Editors' note quoting a primary letter we have not read 1, Primary document, a relation made from letters written at Manila in 1573 1, Primary document, court record, English translation by a named translator 1, Primary document, petition 1, Primary document, printed memorial 1, Primary narrative, English translation 1, Primary treatise, in an early English translation (1604 spelling) 1, Scholarship (early) 1. Languages, as recorded: English (translated from Spanish) 9, English 4. Where each author stood: colonial state 7, colonial elite 2, later scholarship 2, church 1.",
+        "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
+        "inputsRecorded": [
+          2,
+          4
+        ],
+        "verified": [
+          0,
+          13
+        ],
+        "completeness": "2 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 13 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
+      },
+      {
+        "id": "independence",
+        "name": "Source independence",
+        "asks": "How many of the Sources actually stand on their own, rather than drawing on one another?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "11 supporting Sources, in 9 separate groups once you trace who drew on whom",
+        "valueText": "11 supporting Sources, in 9 separate groups once you trace who drew on whom",
+        "stateText": "No number yet · 13 of 13 Sources traced",
+        "origin": "computed",
+        "counted": "25 supporting citations across 17 Claims and the Connection, from 11 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "notCounted": "Cited only for background, so not counted: SB05, SB06.",
+        "inputsRecorded": [
+          13,
+          13
+        ],
+        "verified": [
+          0,
+          13
+        ],
+        "completeness": "We know what 13 of 13 Sources draw on; an editor has checked 0 of 13. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
+        "independence": {
+          "groups": [
+            {
+              "label": "Group A",
+              "sourceIds": [
+                "SB01",
+                "SB11"
+              ],
+              "text": "Group A — 2 Sources that draw on one another. Starting points: Martín Enríquez SB01. Drawing on them: Editors' footnote 75 (Emma Helen Blair and James A. Robertson) to the letter of Andrés de Mirandaola SB11."
+            },
+            {
+              "label": "Group B",
+              "sourceIds": [
+                "SB03",
+                "SB12"
+              ],
+              "text": "Group B — 2 Sources that draw on one another. Starting points: Francisco de Sande SB03. Drawing on them: [Francisco de Sande] SB12."
+            },
+            {
+              "label": "Group C",
+              "sourceIds": [
+                "SB02"
+              ],
+              "text": "Group C — 1 Source. \"Las nuevas que escriven de las yslas del Poniente\" SB02."
+            },
+            {
+              "label": "Group D",
+              "sourceIds": [
+                "SB04"
+              ],
+              "text": "Group D — 1 Source. Antonio de Morga SB04."
+            },
+            {
+              "label": "Group E",
+              "sourceIds": [
+                "SB07"
+              ],
+              "text": "Group E — 1 Source. Ming Shi-lu SB07."
+            },
+            {
+              "label": "Group F",
+              "sourceIds": [
+                "SB08"
+              ],
+              "text": "Group F — 1 Source. Memorial to the Council by citizens of the Filipinas Islands SB08."
+            },
+            {
+              "label": "Group G",
+              "sourceIds": [
+                "SB09"
+              ],
+              "text": "Group G — 1 Source. Alonso Fernández de Castro SB09."
+            },
+            {
+              "label": "Group H",
+              "sourceIds": [
+                "SB10"
+              ],
+              "text": "Group H — 1 Source. Gonzalo Ronquillo de Peñalosa to Felipe II SB10."
+            },
+            {
+              "label": "Group I",
+              "sourceIds": [
+                "SB13"
+              ],
+              "text": "Group I — 1 Source. Letter to Felipe II SB13."
+            }
+          ],
+          "notPlaced": [],
+          "rows": [
+            {
+              "sourceId": "SB01",
+              "citation": "Martín Enríquez, Viceroy of New Spain, letter to Felipe II, Mexico, 5 December 1573. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 3 (Cleveland, 1903), pp. 209–219. Translated by Francis W. Snow from *Cartas de Indias* (Madrid, 1877).",
+              "group": "Group A",
+              "claimCount": 3,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB11",
+              "citation": "Editors' footnote 75 (Emma Helen Blair and James A. Robertson) to the letter of Andrés de Mirandaola, B&R vol. 3 (Cleveland, 1903), p. 226. It quotes a letter of the Viceroy of New Spain dated 9 January 1574. The editors give no archive reference and the letter was not found in any free volume. Translator of the quoted passage: not named in the volume.",
+              "group": "Group A",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB03",
+              "citation": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated by Rachel King.",
+              "group": "Group B",
+              "claimCount": 2,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB12",
+              "citation": "[Francisco de Sande], \"Relation and description of the Phelipinas Islands\", Manila, 8 June 1577. Blair & Robertson (eds.), *The Philippine Islands, 1493-1898*, vol. 4 (Cleveland, 1903), pp. 98-118 (read p. 101). From a manuscript in the Archivo de Indias, Sevilla. Translated by José M. Ascensio (name as printed in vol. 4's front matter). The editors print only the part that is new compared with Sande's 1576 report.",
+              "group": "Group B",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB02",
+              "citation": "\"Las nuevas que escriven de las yslas del Poniente\", Hernando Riquel and others, sent from Mexico, 11 January 1574. B&R vol. 3, pp. 230–249 (read pp. 243–248). Spanish and English printed side by side; translated by Jose M. Asensio from a manuscript at Simancas.",
+              "group": "Group C",
+              "claimCount": 5,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB04",
+              "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+              "group": "Group D",
+              "claimCount": 3,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB07",
+              "citation": "*Ming Shi-lu*, Wanli year 17, month 4, day 20 (2 June 1589), trans. Geoff Wade, *Southeast Asia in the Ming Shi-lu: an open access resource* (Singapore: Asia Research Institute and NUS Press).",
+              "group": "Group E",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB08",
+              "citation": "Memorial to the Council by citizens of the Filipinas Islands, Santiago de Vera and others, Manila, [26 July] 1586 (the date is bracketed by the editors). B&R vol. 6 (Cleveland, 1903), pp. 157 ff. (used pp. 166–167). Translated by James A. Robertson, Emma Helen Blair and Robert W. Haight.",
+              "group": "Group F",
+              "claimCount": 1,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB09",
+              "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated by Jose M. and Clara M. Asensio and Emma Helen Blair.",
+              "group": "Group G",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB10",
+              "citation": "Gonzalo Ronquillo de Peñalosa to Felipe II, Manila, 16 June 1582. B&R vol. 5 (Cleveland, 1903), pp. 23 ff. (used p. 30). Translated by Jose M. and Clara M. Asensio.",
+              "group": "Group H",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB13",
+              "citation": "Letter to Felipe II, Santiago de Vera and others, Manila, 26 June 1588. B&R vol. 7 (Cleveland, 1903), pp. 52-63 (read p. 57). From the original manuscript in the Archivo General de Indias, Sevilla. Translated by Jose M. and Clara M. Asensio (vol. 7 front matter: \"the others, by Jose M. and Clara M. Asensio\").",
+              "group": "Group I",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            }
+          ],
+          "byClaimSentence": "14 of the 17 Claims rest on a single group; 3 on two; 0 on three. Twenty-five citations are not twenty-five confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+        }
+      },
+      {
+        "id": "coverage",
+        "name": "Perspective coverage",
+        "asks": "Of the viewpoints this Story needs, how many have evidence we can actually use?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "An editor has not yet listed which viewpoints this Story needs",
+        "valueText": "An editor has not yet listed which viewpoints this Story needs",
+        "stateText": "No number yet · 0 of 2 things in place",
+        "origin": "computed",
+        "counted": "Nothing yet. Until an editor lists the viewpoints this Story needs, there is nothing to measure against.",
+        "notCounted": "The standpoints we do have among the supporting Sources: colonial state, colonial elite, later scholarship.",
+        "inputsRecorded": [
+          0,
+          2
+        ],
+        "verified": [
+          0,
+          13
+        ],
+        "completeness": "0 of the 2 things this check needs are in place; an editor has checked 0 of 13 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
+      },
+      {
+        "id": "agreement",
+        "name": "Scholarly agreement",
+        "asks": "Do the historians who have studied this agree with one another?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Not assessed",
+        "valueText": "Not assessed",
+        "stateText": "0 of 2 recorded",
+        "origin": "computed",
+        "counted": "Agreement among historians is not proof. It shows where the field stands today, and fields move.",
+        "notCounted": "We have not yet recorded which historians accept the mainstream account.",
+        "inputsRecorded": [
+          0,
+          2
+        ],
+        "completeness": "0 of 2 recorded."
+      },
+      {
+        "id": "uncertainty",
+        "name": "Historical uncertainty",
+        "asks": "How sure are we about the key dates and places, how things worked, and who was involved?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Medium uncertainty about the dates and places only; nothing else graded yet",
+        "valueText": "Medium uncertainty about the dates and places only; nothing else graded yet",
+        "stateText": "1 of 3 recorded",
+        "origin": "computed",
+        "counted": "How precisely the 17 Claims this Story cites are dated: to the year: 9; roughly: 6; to the century: 2; not tied to a date: 0; disputed or unknown: 0. The Event itself is dated c. 1572–1573 · approximate.",
+        "notCounted": "Nobody has yet assessed how things worked or who was involved.",
+        "inputsRecorded": [
+          1,
+          3
+        ],
+        "completeness": "1 of 3 recorded."
+      },
+      {
+        "id": "controversy",
+        "name": "Controversy",
+        "asks": "Is this account still being argued over, and does the argument change anything?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Not assessed",
+        "valueText": "Not assessed",
+        "stateText": "0 of 1 recorded",
+        "origin": "computed",
+        "counted": "Nobody has yet recorded whether this account is argued over. \"Not assessed\" does not mean \"low\".",
+        "notCounted": "No editor has yet assessed how actively it is disputed.",
+        "inputsRecorded": [
+          0,
+          1
+        ],
+        "completeness": "0 of 1 recorded."
+      },
+      {
+        "id": "missing",
+        "name": "Missing Voices",
+        "asks": "Who was involved or affected, but barely shows up in the evidence?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "3 voices listed · we are still looking",
+        "valueText": "3 voices listed · we are still looking",
+        "stateText": "editor's list",
+        "origin": "editorial",
+        "counted": "Each voice below says why it is missing and which Claims it bears on.",
+        "notCounted": "A voice is listed only once we can say why it is missing and which Claim it bears on. Names we have not verified stay with the editor.",
+        "inputsRecorded": [
+          3,
+          3
+        ],
+        "completeness": "3 of 3 recorded.",
+        "voices": [
+          {
+            "voice": "Chinese people who had been enslaved at Manila and were freed and sent home",
+            "reason": "Not identified in this documented search",
+            "basisClaimIds": [
+              "M-C04"
+            ]
+          },
+          {
+            "voice": "Chinese merchants and sailors who came to Manila, on why they came and what they were paid",
+            "reason": "Not identified in this documented search",
+            "basisClaimIds": [
+              "M-C03",
+              "M-C05",
+              "M-C17"
+            ]
+          },
+          {
+            "voice": "People living in the Philippine islands in the 1570s, including those the Chinese traded with",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "M-C03"
+            ]
+          }
+        ],
+        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history."
+      }
+    ],
+    "compactLine": [
+      {
+        "kind": "winner-dominated",
+        "text": "Evidence concentrated in colonial Sources",
+        "strong": true
+      },
+      {
+        "kind": "missing-voices",
+        "text": "Some voices missing",
+        "strong": true
+      },
+      {
+        "kind": "not-scored",
+        "text": "No number yet",
+        "strong": false
+      }
+    ]
+  }
+}

@@ -710,6 +710,11 @@
       ]
     },
     "viewIndexHeading": "In this view — 1573",
+    "momentsHeading": "Moments in 1573",
+    "momentEntry": {
+      "name": "Manila, 1573",
+      "action": "Go to this moment."
+    },
     "indexGroupHeadings": {
       "events": "Events (1)",
       "places": "Places (3)"
@@ -721,7 +726,7 @@
       "heading": "One moment, and how we know it.",
       "body": [
         "Select the Event on the map, or in the list beneath it, to open its Story.",
-        "This pilot covers one moment: the adoption of mercury amalgamation refining at Potosí, around 1572–1575, and the one Connection this pilot explains — from the mercury mine at Huancavelica. The other Places on the map are there to locate that Story. No Story has been researched for them yet."
+        "This pilot covers two moments in 1573. This one is the adoption of mercury amalgamation refining at Potosí, around 1572–1575, and the one Connection this pilot explains for it — from the mercury mine at Huancavelica. The other Places on the map are there to locate that Story. No Story has been researched for them yet. The other moment, Manila, is in the list under \"Moments in 1573\"."
       ]
     },
     "coverageStatements": {
@@ -742,8 +747,8 @@
       "momentShort": "Potosí"
     },
     "contextNote": {
-      "world": "World context · this pilot shows one moment",
-      "wider": "Wider context · this pilot shows one moment"
+      "world": "World context · this pilot shows two moments",
+      "wider": "Wider context · this pilot shows two moments"
     },
     "mapStatus": {
       "MS-0": "",
@@ -756,7 +761,7 @@
       "MS-7": "The selected Event and its connected Place are outside the current view. Reset the view to show all four markers.",
       "MS-8": "Loading the 1573 view.",
       "MS-9": "The basemap could not be loaded. The four markers and the list beneath the map are still available.",
-      "MS-10": "The world. The 1573 view is one point at Potosí at this scale. Zoom in or reset the view to see its four markers.",
+      "MS-10": "The world. Two 1573 moments are in view: Potosí and Manila. One line is drawn, from Acapulco west to Manila: money sent west from New Spain, amount and first year not known. The leg from Potosí to Acapulco is not yet researched. Select a moment to go to it.",
       "MS-11": "The Americas. The 1573 view is one point at Potosí at this scale. Zoom in or reset the view to see its four markers.",
       "MS-12": "The central Andes. The 1573 view is one point at Potosí at this scale. Zoom in or reset the view to see its four markers."
     },

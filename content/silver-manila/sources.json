@@ -1,0 +1,326 @@
+{
+  "sources": [
+    {
+      "id": "SB01",
+      "record": "Martín Enríquez, Viceroy of New Spain, letter to Felipe II, Mexico, 5 December 1573. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 3 (Cleveland, 1903), pp. 209–219. Translated by Francis W. Snow from *Cartas de Indias* (Madrid, 1877).",
+      "form": "Primary document, letter",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland03blai",
+      "perspective": "The Spanish viceroy writing to the king. He wants the Philippine venture supplied and paid for, and he doubts the China trade. Chinese statements reach him second-hand.",
+      "position": {
+        "proximity": "Contemporary; writing from Mexico, with news brought by the ships",
+        "role": "Viceroy of New Spain",
+        "audience": "Felipe II",
+        "interests": "Supplying the Philippine venture while doubting the China trade",
+        "category": "colonial state"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML1"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB02",
+      "record": "\"Las nuevas que escriven de las yslas del Poniente\", Hernando Riquel and others, sent from Mexico, 11 January 1574. B&R vol. 3, pp. 230–249 (read pp. 243–248). Spanish and English printed side by side; translated by Jose M. Asensio from a manuscript at Simancas.",
+      "form": "Primary document, a relation made from letters written at Manila in 1573",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland03blai",
+      "perspective": "Spanish officials at Manila. The cargo list at its end \"was apparently added by the officials in Mexico\" (B&R footnote, p. 247). The best 1573 witness for the Chinese side of the Manila trade that I could read.",
+      "position": {
+        "proximity": "Contemporary; letters written at Manila in 1573",
+        "role": "Spanish officials and a government notary at Manila",
+        "audience": "The crown, via Mexico",
+        "category": "colonial state",
+        "note": "SB01 and SB02 report the same ships; whether SB01 drew on the Manila letters is not recorded"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML2"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB03",
+      "record": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated by Rachel King.",
+      "form": "Primary document, report to the Crown",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland04blai",
+      "perspective": "The incoming Spanish governor. He wants troops, so he has a reason to say the China trade is poor and the Chinese weak. In the passages used his informants are not named.",
+      "position": {
+        "proximity": "Contemporary; governor at Manila in 1576",
+        "role": "Governor of the Philippines",
+        "audience": "The crown",
+        "interests": "Arguing for troops and against the China trade as it stood",
+        "category": "colonial state"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML3"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB04",
+      "record": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+      "form": "Primary narrative, English translation",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland00morg",
+      "perspective": "A judge (*oidor*) of the Manila Audiencia, writing for a European readership about 35 years after 1573. Context for the 1570s, not a witness.",
+      "position": {
+        "proximity": "About 35 years after 1573",
+        "role": "Spanish judge of the Manila Audiencia",
+        "audience": "A European readership",
+        "category": "colonial state"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML4"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB05",
+      "record": "José de Acosta, *Historia natural y moral de las Indias* (Seville, 1590). English: *The Natural and Moral History of the Indies*, from Edward Grimston's 1604 translation, ed. Clements R. Markham (Hakluyt Society, London, 1880), vol. 1, Book 4, ch. 7, pp. 201–203.",
+      "form": "Primary treatise, in an early English translation (1604 spelling)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/naturalmoralhist01acos",
+      "perspective": "Jesuit missionary and naturalist writing for a European readership. A different edition and language from Potosí's S02.",
+      "position": {
+        "proximity": "Contemporary; writing around 1590",
+        "role": "Jesuit missionary and naturalist",
+        "audience": "A European readership",
+        "category": "church"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML5"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB06",
+      "record": "William L. Schurz, \"Mexico, Peru, and the Manila Galleon\", *Hispanic American Historical Review* 1:4 (November 1918), 389–402.",
+      "form": "Scholarship (early)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/jstor-2505890",
+      "perspective": "A US historian of Latin America, Spanish-centred. He cites archive letters that I did not open. Eight decades old. Use for what the cited letters say, not as the last word.",
+      "position": {
+        "proximity": "Appeared in 1918",
+        "category": "later scholarship",
+        "focus": "The Manila galleon trade between Mexico, Peru and the Philippines, from Spanish archive letters.",
+        "note": "Cites a Velasco letter in the archive (not free) and Bancroft (1883), which we do not hold."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML7",
+          "ML8"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB07",
+      "record": "*Ming Shi-lu*, Wanli year 17, month 4, day 20 (2 June 1589), trans. Geoff Wade, *Southeast Asia in the Ming Shi-lu: an open access resource* (Singapore: Asia Research Institute and NUS Press).",
+      "form": "Primary document, court record, English translation by a named translator",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://epress.nus.edu.sg/msl/reign/wan-li/year-17-month-4-day-20",
+      "perspective": "The Ming court's historians. The standpoint is imperial: security, licensing, tax. Merchants are subjects, not authors.",
+      "position": {
+        "proximity": "1589; court record",
+        "role": "Ming court historians",
+        "audience": "The imperial court",
+        "interests": "Security, licensing and tax"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML6"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB08",
+      "record": "Memorial to the Council by citizens of the Filipinas Islands, Santiago de Vera and others, Manila, [26 July] 1586 (the date is bracketed by the editors). B&R vol. 6 (Cleveland, 1903), pp. 157 ff. (used pp. 166–167). Translated by James A. Robertson, Emma Helen Blair and Robert W. Haight.",
+      "form": "Primary document, petition",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland06blai",
+      "perspective": "Manila's citizens, who want the Chinese trade kept for themselves and the Mexican money kept out.",
+      "position": {
+        "proximity": "Contemporary; Manila, 1586",
+        "role": "Citizens of Manila, with Santiago de Vera",
+        "audience": "The Council of the Indies",
+        "interests": "Keeping the Chinese trade for the citizens of Manila",
+        "category": "colonial elite"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML7"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB09",
+      "record": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated by Jose M. and Clara M. Asensio and Emma Helen Blair.",
+      "form": "Primary document, printed memorial",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland12blai",
+      "perspective": "A lawyer arguing for restrictions on Mexican and Peruvian trade. The date is B&R's guess.",
+      "position": {
+        "proximity": "Contemporary; about 1602, a generation after 1573",
+        "role": "Manila lawyer",
+        "audience": "The crown, via a printed pamphlet",
+        "interests": "Restricting the Mexican and Peruvian trade",
+        "category": "colonial elite"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML8"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB10",
+      "record": "Gonzalo Ronquillo de Peñalosa to Felipe II, Manila, 16 June 1582. B&R vol. 5 (Cleveland, 1903), pp. 23 ff. (used p. 30). Translated by Jose M. and Clara M. Asensio.",
+      "form": "Primary document, letter",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland05blai",
+      "perspective": "The governor reporting his own acts.",
+      "position": {
+        "proximity": "Contemporary; governor at Manila in 1582",
+        "role": "Governor of the Philippines",
+        "audience": "Felipe II",
+        "interests": "Reporting his own acts",
+        "category": "colonial state"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML9"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB11",
+      "record": "Editors' footnote 75 (Emma Helen Blair and James A. Robertson) to the letter of Andrés de Mirandaola, B&R vol. 3 (Cleveland, 1903), p. 226. It quotes a letter of the Viceroy of New Spain dated 9 January 1574. The editors give no archive reference and the letter was not found in any free volume. Translator of the quoted passage: not named in the volume.",
+      "form": "Editors' note quoting a primary letter we have not read",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland03blai",
+      "perspective": "Modern editors (1903) passing on a viceroy's words. The same footnote adds hearsay (\"I am told that they took away more than forty thousand ducats\"); that figure is in no Claim.",
+      "position": {
+        "proximity": "Appeared in 1903; quotes a letter of January 1574",
+        "category": "later scholarship",
+        "focus": "The viceroy's report that the Chinese took gold and silver in payment."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML1"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB12",
+      "record": "[Francisco de Sande], \"Relation and description of the Phelipinas Islands\", Manila, 8 June 1577. Blair & Robertson (eds.), *The Philippine Islands, 1493-1898*, vol. 4 (Cleveland, 1903), pp. 98-118 (read p. 101). From a manuscript in the Archivo de Indias, Sevilla. Translated by José M. Ascensio (name as printed in vol. 4's front matter). The editors print only the part that is new compared with Sande's 1576 report.",
+      "form": "Primary document, report to the Crown",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland04blai",
+      "perspective": "The governor of the Philippines, two years in office, writing to the king about money, gold and the state of the royal estate. He wants the colony funded and is arguing that his own management is sound.",
+      "position": {
+        "proximity": "Contemporary; governor at Manila, 1577",
+        "role": "Governor of the Philippines",
+        "audience": "The Crown",
+        "interests": "Showing he had put the royal estate in order while asking for support",
+        "category": "colonial state",
+        "note": "same voice as SB03, so the two are not two witnesses"
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML3"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB13",
+      "record": "Letter to Felipe II, Santiago de Vera and others, Manila, 26 June 1588. B&R vol. 7 (Cleveland, 1903), pp. 52-63 (read p. 57). From the original manuscript in the Archivo General de Indias, Sevilla. Translated by Jose M. and Clara M. Asensio (vol. 7 front matter: \"the others, by Jose M. and Clara M. Asensio\").",
+      "form": "Primary document, letter",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland07blai",
+      "perspective": "The governor of the Philippines, reporting the fort he was building and how he paid for it.",
+      "position": {
+        "proximity": "Contemporary; Manila, 1588",
+        "role": "Governor of the Philippines (with co-signers)",
+        "audience": "Felipe II",
+        "interests": "Reporting and justifying his fort and the taxes that paid for it",
+        "category": "colonial state",
+        "note": "Vera also signed the 1586 memorial (SB08, ML7); a different document and year, but the same man. Count with care."
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML10"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    }
+  ]
+}

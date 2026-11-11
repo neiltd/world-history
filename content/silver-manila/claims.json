@@ -1,0 +1,939 @@
+{
+  "claims": [
+    {
+      "id": "M-C01",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Two ships that sailed from the Philippines on 1 July 1573 reached Acapulco in November 1573.",
+      "temporal": {
+        "precision": "year",
+        "label": "July–November 1573 · year"
+      },
+      "notes": "Quote: \"On the fifteenth of November there arrived at the port of Acapulco one of two ships which sailed from the Philipinas islands on the first of July.\"\nPage image: https://archive.org/details/philippineisland03blai/page/n212/mode/1up; https://archive.org/details/philippineisland03blai/page/n251/mode/1up",
+      "confidence": {
+        "level": "high",
+        "rationale": "The arrival is not in doubt. The Claim does not call it the \"first galleon\". SB01 and SB02 are two Mexican reports on the same ships."
+      },
+      "independenceNote": "SB01 and SB02 are two Mexican reports on the same ships.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Acapulco · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-acapulco"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 209 (first page of the letter; the volume prints no folio there)"
+            },
+            "citation": "Martín Enríquez, Viceroy of New Spain, letter to Felipe II, Mexico, 5 December 1573. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 3 (Cleveland, 1903), pp. 209–219. Translated by Francis W. Snow from *Cartas de Indias* (Madrid, 1877).",
+            "form": "Primary document, letter",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SB02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 248 (endorsement)"
+            },
+            "citation": "\"Las nuevas que escriven de las yslas del Poniente\", Hernando Riquel and others, sent from Mexico, 11 January 1574. B&R vol. 3, pp. 230–249 (read pp. 243–248). Spanish and English printed side by side; translated by Jose M. Asensio from a manuscript at Simancas.",
+            "form": "Primary document, a relation made from letters written at Manila in 1573",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C02",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The cargo listed at Mexico for the two ships included silks and porcelain, with gold, cinnamon, cotton cloth and wax.",
+      "temporal": {
+        "precision": "year",
+        "label": "November 1573 · year"
+      },
+      "notes": "Quote: SB02: \"712 pieces of all kinds of silks.\" and \"22,300 pieces of fine gilt china, and of other kinds of porcelain ware.\" SB01: \"the ships carry silks of different colors (both damasks and satins), cloth-stuffs, a little gold\"\nPage image: https://archive.org/details/philippineisland03blai/page/n250/mode/1up; https://archive.org/details/philippineisland03blai/page/n217/mode/1up",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the list says this. The list does not say which goods came from China. B&R say the Mexican officials added it. Do not word it as \"Chinese goods\"."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: the 1573 Manila relation; Enriquez.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Acapulco · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-acapulco"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 247 (the list)"
+            },
+            "citation": "\"Las nuevas que escriven de las yslas del Poniente\", Hernando Riquel and others, sent from Mexico, 11 January 1574. B&R vol. 3, pp. 230–249 (read pp. 243–248). Spanish and English printed side by side; translated by Jose M. Asensio from a manuscript at Simancas.",
+            "form": "Primary document, a relation made from letters written at Manila in 1573",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SB01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 214"
+            },
+            "citation": "Martín Enríquez, Viceroy of New Spain, letter to Felipe II, Mexico, 5 December 1573. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 3 (Cleveland, 1903), pp. 209–219. Translated by Francis W. Snow from *Cartas de Indias* (Madrid, 1877).",
+            "form": "Primary document, letter",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C03",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "By about 1572 Chinese ships were calling at Manila: the Spanish officials' relation says three ships came to the port, and five more to neighbouring islands, \"a year ago\".",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1572 · approximate"
+      },
+      "notes": "Quote: \"A year ago there came to the port of this city three ships from China, and to the neighboring islands five more.\"\nPage image: https://archive.org/details/philippineisland03blai/page/n246/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "\"A year ago\" counts from a day the writer does not give, so \"c. 1572\" is my inference."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the 1573 Manila relation.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 243"
+            },
+            "citation": "\"Las nuevas que escriven de las yslas del Poniente\", Hernando Riquel and others, sent from Mexico, 11 January 1574. B&R vol. 3, pp. 230–249 (read pp. 243–248). Spanish and English printed side by side; translated by Jose M. Asensio from a manuscript at Simancas.",
+            "form": "Primary document, a relation made from letters written at Manila in 1573",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C04",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "Spanish officials at Manila wrote that Chinese traders came because Chinese who had been enslaved there were freed and sent home, and spread word of the settlement.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1572–1573 · approximate"
+      },
+      "notes": "Quote: \"freedom, and passage to their own country, were given to some Chinese who were slaves among us; those people spread the news of this settlement\"\nPage image: https://archive.org/details/philippineisland03blai/page/n248/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "The Spanish writers' own explanation, the only reason given. A Spanish voice reporting Chinese acts."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the 1573 Manila relation.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 245 (English); Spanish on p. 244"
+            },
+            "citation": "\"Las nuevas que escriven de las yslas del Poniente\", Hernando Riquel and others, sent from Mexico, 11 January 1574. B&R vol. 3, pp. 230–249 (read pp. 243–248). Spanish and English printed side by side; translated by Jose M. Asensio from a manuscript at Simancas.",
+            "form": "Primary document, a relation made from letters written at Manila in 1573",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C05",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The 1573 relation from Manila says the Chinese goods sold readily to the Spaniards, \"since we who are here have plenty of money\". It does not say what kind of money.",
+      "temporal": {
+        "precision": "year",
+        "label": "1573 · year"
+      },
+      "notes": "Quote: \"which they readily sold, since we who are here have plenty of money\" (Spanish: \"nos sobra dineros\")\nPage image: https://archive.org/details/philippineisland03blai/page/n248/mode/1up; https://archive.org/details/philippineisland03blai/page/n245/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "Writer is a Spanish official. First half checked against the Spanish. The 1903 \"and the Chinese need it\" is left out of the Claim (the Spanish second clause is open; Gap 10). Not worded as \"silver\"."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the 1573 Manila relation.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 245 (English); Spanish on p. 242"
+            },
+            "citation": "\"Las nuevas que escriven de las yslas del Poniente\", Hernando Riquel and others, sent from Mexico, 11 January 1574. B&R vol. 3, pp. 230–249 (read pp. 243–248). Spanish and English printed side by side; translated by Jose M. Asensio from a manuscript at Simancas.",
+            "form": "Primary document, a relation made from letters written at Manila in 1573",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C06",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In December 1573 the Viceroy of New Spain wrote to Felipe II that trade with China would have to be carried on in silver, which the Chinese valued above all else, and that he doubted the king would agree to send silver out of the realm.",
+      "temporal": {
+        "precision": "year",
+        "label": "5 December 1573 · year"
+      },
+      "notes": "Quote: \"the commerce with that land must be carried on with silver, which they value above all other things\" and \"I am uncertain whether your Majesty will consent to this on account of having to send it to a foreign kingdom.\"\nPage image: https://archive.org/details/philippineisland03blai/page/n215/mode/1up",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he wrote it. It is a forecast, not a payment, and the Chinese view reaches him \"according to report\"."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Enriquez.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Mexico (City), where the letter was written · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 212"
+            },
+            "citation": "Martín Enríquez, Viceroy of New Spain, letter to Felipe II, Mexico, 5 December 1573. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 3 (Cleveland, 1903), pp. 209–219. Translated by Francis W. Snow from *Cartas de Indias* (Madrid, 1877).",
+            "form": "Primary document, letter",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C07",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The B&R editors print, in a footnote, a passage they attribute to a letter of the viceroy dated 9 January 1574. In it he says the Chinese carry away gold and silver in payment and will accept nothing else.",
+      "temporal": {
+        "precision": "year",
+        "label": "9 January 1574 · year"
+      },
+      "notes": "Quote: \"To pay for these they carry away gold and silver, and they are so keen that they will accept nothing else.\"\nPage image: https://archive.org/details/philippineisland03blai/page/n229/mode/1up",
+      "confidence": {
+        "level": "low",
+        "rationale": "Rests on the editors' footnote; the letter was not read. The footnote's \"more than forty thousand ducats\" is hearsay and stays out of every Claim."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Enriquez.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Mexico (City), where the letter was written · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "vol. 3, p. 226, editors' footnote 75"
+            },
+            "citation": "Editors' footnote 75 (Emma Helen Blair and James A. Robertson) to the letter of Andrés de Mirandaola, B&R vol. 3 (Cleveland, 1903), p. 226. It quotes a letter of the Viceroy of New Spain dated 9 January 1574. The editors give no archive reference and the letter was not found in any free volume. Translator of the quoted passage: not named in the volume.",
+            "form": "Editors' note quoting a primary letter we have not read",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C08",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In June 1576 Governor Sande wrote that he believed the Chinese preferred to trade with the Spaniards at Manila because of the silver from Mexico and the gold of the islands.",
+      "temporal": {
+        "precision": "year",
+        "label": "7 June 1576 · year"
+      },
+      "notes": "Quote: \"I believe only that the Chinese like our trade better because of the silver from Mexico and the gold from these regions\"\nPage image: https://archive.org/details/philippineisland04blai/page/n68/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "His belief (\"I believe only\"), and he is arguing for troops. The earliest text I read that names Mexican silver as the draw."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Sande.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 65"
+            },
+            "citation": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated by Rachel King.",
+            "form": "Primary document, report to the Crown",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C09",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Sande also complained that the Chinese brought poor silks and took the Spaniards' gold and silver away.",
+      "temporal": {
+        "precision": "year",
+        "label": "7 June 1576 · year"
+      },
+      "notes": "Quote: \"Their silks are of poor quality; and they take away our gold and silver.\"\nPage image: https://archive.org/details/philippineisland04blai/page/n61/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "Same standpoint as M-C08; not an independent view."
+      },
+      "independenceNote": "Same standpoint as M-C08; not an independent view.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 58, item 69"
+            },
+            "citation": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated by Rachel King.",
+            "form": "Primary document, report to the Crown",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C10",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Sande reported that in China there were no gold or silver coins and goods were sold by weight, with one weight of gold worth four of silver \"according to their calculation\".",
+      "temporal": {
+        "precision": "year",
+        "label": "7 June 1576 · year"
+      },
+      "notes": "Quote: \"There are no gold or silver coins, but everything is sold by weight.\" and \"One peso [weight] of gold is worth four pesos of silver, according to their calculation.\"\nPage image: https://archive.org/details/philippineisland04blai/page/n56/mode/1up; https://archive.org/details/philippineisland04blai/page/n57/mode/1up",
+      "confidence": {
+        "level": "low",
+        "rationale": "Informants not named; a Spanish summary of Chinese money. Hold until B2."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Sande.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "China, as reported at Manila · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 53 (coins and weight); p. 54 (the ratio), item 55"
+            },
+            "citation": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated by Rachel King.",
+            "form": "Primary document, report to the Crown",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C11",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga, writing in 1609 about the early 1600s and before, said the Chinese traders at Manila were paid in silver and reals, because they wanted neither gold nor other goods.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th to early 17th c. · century"
+      },
+      "notes": "Quote: \"what is given them for it, is silver and reals, for they do not like gold, nor any other goods in exchange\"\nPage image: https://archive.org/details/philippineisland00morg/page/n381/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "A Spanish official, about 35 years after 1573. Does not date the start of the practice."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 340"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C12",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga wrote that merchants of Mexico and of Peru, through agents and factors, sent much silver to the Philippines to buy goods, until it was prohibited.",
+      "temporal": {
+        "precision": "century",
+        "label": "undated; before the prohibitions · century"
+      },
+      "notes": "Quote: \"the men of business in Mexico and Peru had grown eager to trade with the Philippines by means of their agents and factors\" and \"they used to send much silver to the Philippines for their purchases\"\nPage image: https://archive.org/details/philippineisland00morg/page/n377/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "Undated; a complaint by merchants who lost trade. Names Peru, not Potosí."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Mexico, Peru and the Philippines · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 336"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C14",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Governor Ronquillo wrote in June 1582 that he had sent a ship to Peru in 1581, and that he was sending another that year to Panama. The ship for Peru carried artillery.",
+      "temporal": {
+        "precision": "year",
+        "label": "1581–1582 · year"
+      },
+      "notes": "Quote: \"I am sending this year another ship, for private individuals, to Panama.\" and \"The ship for Peru carried some artillery to be delivered to the viceroy.\"\nPage image: https://archive.org/details/philippineisland05blai/page/n31/mode/1up; https://archive.org/details/jstor-2505890/page/n7/mode/1up",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he wrote it. It says nothing about silver. Schurz's \"first ships to Callao ... another the next year\" is not what Ronquillo says (Gap 5)."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Ronquillo; the 1586 memorial; Fernández de Castro.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "vol. 5, p. 30 (letter opens p. 23)"
+            },
+            "citation": "Gonzalo Ronquillo de Peñalosa to Felipe II, Manila, 16 June 1582. B&R vol. 5 (Cleveland, 1903), pp. 23 ff. (used p. 30). Translated by Jose M. and Clara M. Asensio.",
+            "form": "Primary document, letter",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "SB06",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 395, fn 34"
+            },
+            "citation": "William L. Schurz, \"Mexico, Peru, and the Manila Galleon\", *Hispanic American Historical Review* 1:4 (November 1918), 389–402.",
+            "form": "Scholarship (early)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M-C15",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1586 Manila's citizens wrote to the Council of the Indies that large consignments of money from rich men in Mexico pushed up the price of all Chinese goods, and asked that the money \"which now the Chinese take\" not be sent. By about 1602 a Manila lawyer wrote the same about Mexico and Peru.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1586, and c. 1602 · approximate"
+      },
+      "notes": "Quote: SB08: \"the great consignments of money that wealthy persons resident in Mexico send here ... they advance the price on all Chinese merchandise\" (pp. 166–167). SB09: \"The citizens of Mexico and Peru ... bring over a great quantity of money, with which they do not hesitate to purchase merchandise at excessive prices.\"\nPage image: https://archive.org/details/philippineisland06blai/page/n169/mode/1up; https://archive.org/details/philippineisland06blai/page/n170/mode/1up; https://archive.org/details/philippineisland12blai/page/n54/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "Interested parties. The passages say \"money\", not \"silver\". The earliest primary I have that ties Mexican money to what the Chinese took at Manila. The date of SB09 is B&R's guess (\"1602?\")."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: the 1586 memorial; Fernández de Castro.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB08",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "vol. 6, pp. 166–167"
+            },
+            "citation": "Memorial to the Council by citizens of the Filipinas Islands, Santiago de Vera and others, Manila, [26 July] 1586 (the date is bracketed by the editors). B&R vol. 6 (Cleveland, 1903), pp. 157 ff. (used pp. 166–167). Translated by James A. Robertson, Emma Helen Blair and Robert W. Haight.",
+            "form": "Primary document, petition",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SB09",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "vol. 12, p. 51"
+            },
+            "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated by Jose M. and Clara M. Asensio and Emma Helen Blair.",
+            "form": "Primary document, printed memorial",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C16",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Acosta, writing around 1590, held that a third, even a half, of Potosí's silver never entered the registers and so was never taxed.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "before c. 1590 · approximate"
+      },
+      "notes": "Quote: \"the third part of the riches of Potosi, yea the one halfe, came not to light, neither was it customed\"\nPage image: https://archive.org/details/naturalmoralhist01acos/page/n266/mode/1up; https://archive.org/details/naturalmoralhist01acos/page/n265/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "A well-placed Jesuit's estimate, not a count. Shows Potosí's scale and its uncounted share. Does not show silver leaving the Andes."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Acosta.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Villa Imperial de Potosí · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "Book 4, ch. 7, p. 203 (the third / one half); p. 202 (context)"
+            },
+            "citation": "José de Acosta, *Historia natural y moral de las Indias* (Seville, 1590). English: *The Natural and Moral History of the Indies*, from Edward Grimston's 1604 translation, ed. Clements R. Markham (Hakluyt Society, London, 1880), vol. 1, Book 4, ch. 7, pp. 201–203.",
+            "form": "Primary treatise, in an early English translation (1604 spelling)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C17",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1589 the Fujian grand coordinator Zhou Cai told the Ming court that coastal residents of Zhangzhou went to trade abroad, and proposed allowing 16 ships to go to Luzon. The Ministry of War answered with a cap of 44 ships for each of the Eastern and Western Oceans. The same entry reckons ship duties in silver.",
+      "temporal": {
+        "precision": "year",
+        "label": "2 June 1589 · year"
+      },
+      "notes": "Quote: \"Now it is proposed allowing 16 ships to go to that country\"; \"a limit of 44 ships permitted to trade to each of the Eastern and Western Oceans\"; \"6 liang of silver for each chi of the ship's beam\"\nPage image: web entry, no page scan",
+      "confidence": {
+        "level": "high",
+        "rationale": "high on the text as translated. Not 1573 and not about silver coming in. Whether the licences were granted is not in the entry. \"Fan\" and \"yi\" are Wade's terms."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the Ming record.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "provinces-unlocated",
+        "whereLabel": "coastal Fujian (Zhangzhou) · provinces not located",
+        "precisionLabel": "the provinces are not located",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "Wanli 17/4/20 (2 June 1589); Wade cites *Shen-zong shi-lu* juan 210.6a, *Ming Shi-lu* vol. 105, p. 3939"
+            },
+            "citation": "*Ming Shi-lu*, Wanli year 17, month 4, day 20 (2 June 1589), trans. Geoff Wade, *Southeast Asia in the Ming Shi-lu: an open access resource* (Singapore: Asia Research Institute and NUS Press).",
+            "form": "Primary document, court record, English translation by a named translator",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C18",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In a report of June 1577 that B&R attribute to Governor Sande, he wrote that provisions had been sent from New Spain every year, and reals (coins) with them, until he came to Manila in 1575, and that none had been sent since.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "every year until August 1575 (written 8 June 1577)"
+      },
+      "notes": "Quote: \"As provisions were wont to be sent from Nueva España every year, there were also sent reals until I came. Since then, none have been sent\"\nPage image: https://archive.org/details/philippineisland04blai/page/n104/mode/1up\nFlow: Crown, by context. Not said in the words.",
+      "confidence": {
+        "level": "medium",
+        "rationale": "The wording and direction are clear (read on the image). It is one voice, looking back two years, in a report about his own record. It gives no start year, ship or port. \"Reals\" is the translator's word; the Spanish was not seen (section 2)."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Sande.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "New Spain to the Philippines",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "vol. 4, p. 101"
+            },
+            "citation": "[Francisco de Sande], \"Relation and description of the Phelipinas Islands\", Manila, 8 June 1577. Blair & Robertson (eds.), *The Philippine Islands, 1493-1898*, vol. 4 (Cleveland, 1903), pp. 98-118 (read p. 101). From a manuscript in the Archivo de Indias, Sevilla. Translated by José M. Ascensio (name as printed in vol. 4's front matter). The editors print only the part that is new compared with Sande's 1576 report.",
+            "form": "Primary document, report to the Crown",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C19",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In June 1588 Vera wrote that a tax of one per cent had been collected for two years at Manila on the coin brought from New Spain, to help pay for a stone fort.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1586-1588 (written 26 June 1588)"
+      },
+      "notes": "Quote: \"one per cent has been collected for two years on the coin brought from Nueva España\"\nPage image: https://archive.org/details/philippineisland07blai/page/n60/mode/1up\nFlow: Not stated",
+      "confidence": {
+        "level": "medium",
+        "rationale": "High that the letter says it (read on the image). It shows coin arriving at Manila from about 1586 to 1588. It gives no amount, ship, port or owner. A levy on the coin suggests it was traded money, not the Crown's own remittance, but that is my reading."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the 1588 Manila letter.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "vol. 7, p. 57"
+            },
+            "citation": "Letter to Felipe II, Santiago de Vera and others, Manila, 26 June 1588. B&R vol. 7 (Cleveland, 1903), pp. 52-63 (read p. 57). From the original manuscript in the Archivo General de Indias, Sevilla. Translated by Jose M. and Clara M. Asensio (vol. 7 front matter: \"the others, by Jose M. and Clara M. Asensio\").",
+            "form": "Primary document, letter",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C20",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga, writing in 1609 about his years in the islands, said a \"succour\" in money was sent every year from the royal chest in New Spain to the royal chest in the Philippines. The sum varied with need. He said it was paid for from the ten per cent duty on China goods taken at Acapulco.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1595-1609 (written 1609)"
+      },
+      "notes": "Quote: \"every year a succour in money is sent from the royal chest in New Spain to that of the Philippines, more or less in quantity\"; \"the duty of ten per cent. which is levied upon the merchandise from China in the port of Acapulco of New Spain\"\nPage image: https://archive.org/details/philippineisland00morg/page/n388/mode/1up; https://archive.org/details/sucesosdelasisla00morg_0/page/n406/mode/1up\nFlow: Crown (said in the words)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "The wording is checked against Morga's Spanish: \"se embia de la caja real de la Nueua España, á la de las Filipinas, vn socorro, en dineros, mas o menos\". The medium is for the date: he writes in the present tense about c. 1595-1609, and \"every year\" is not tied to a start. Acapulco appears only as where the duty is taken, not as the money's port."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "New Spain to the Philippines, with the duty taken at Acapulco",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 347 (Stanley); Spanish p. 223 (Retana ed.)"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C21",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga also wrote that the duties the Crown took on merchandise and money brought from New Spain to the Philippines came to eight thousand dollars a year.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1595-1609"
+      },
+      "notes": "Quote: \"the duties on the merchandise and money which are brought from New Spain to the Philippines amount to eight thousand dollars\"\nPage image: https://archive.org/details/philippineisland00morg/page/n388/mode/1up; https://archive.org/details/sucesosdelasisla00morg_0/page/n406/mode/1up\nFlow: Private, by context (it was taxed)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "The Spanish reads \"pesos\", Stanley says \"dollars\". It is a duty, not the amount of money. Do not turn it into an amount: Morga gives no rate here. It shows money was carried over as a taxed trade, apart from the Crown's own succour."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "New Spain to the Philippines",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 347 (Stanley); Spanish p. 223 (Retana ed.)"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C22",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Sande wrote that he sailed from the port of Acapulco on 6 April 1575 with two ships and reached Manila on 25 August 1575.",
+      "temporal": {
+        "precision": "year",
+        "label": "6 April to 25 August 1575"
+      },
+      "notes": "Quote: \"I sailed from the port of Acapulco, Nueva España, on the sixth of April of the year seventy-five ... I arrived at Manilla on the twenty-fifth of August of the year seventy-five\"\nPage image: https://archive.org/details/philippineisland04blai/page/n24/mode/1up\nFlow: n/a",
+      "confidence": {
+        "level": "high",
+        "rationale": "high on date, port and direction (read on the image). It says nothing about cargo. \"Two ships\" is from the earlier find in B&R p. 21's second sentence; I did not re-check the count on this image, so leave it out of the Claim text if the editor wants only what is quoted."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Sande.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Acapulco to Manila",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-acapulco",
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "vol. 4, p. 21"
+            },
+            "citation": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated by Rachel King.",
+            "form": "Primary document, report to the Crown",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    }
+  ]
+}

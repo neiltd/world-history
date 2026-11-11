@@ -1,7 +1,3 @@
-source-commit: c8f2567c711de0c6c03e8b023294ac23938f5646
+source-commit: 77f4b7672f5dac359648d68c1c35bae4773539db
 source-tree: clean
-build-date: 2026-11-10T18:02:30Z
-commit: c8f2567c711de0c6c03e8b023294ac23938f5646
-vitest: pass
-audit: clean
-playwright: pass
+build-date: 2026-11-11T12:01:34Z

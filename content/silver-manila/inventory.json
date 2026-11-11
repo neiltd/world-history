@@ -1,0 +1,902 @@
+{
+  "entities": [
+    {
+      "id": "e-manila",
+      "historicalName": "Ciudad de Manila, island of Luzon",
+      "locatingClaimIds": [
+        "M-C03",
+        "M-C04",
+        "M-C05",
+        "M-C08",
+        "M-C09",
+        "M-C11",
+        "M-C14",
+        "M-C15"
+      ],
+      "editorialState": "draft",
+      "coordinate": {
+        "lon": 120.980271,
+        "lat": 14.606105,
+        "precision": "settlement",
+        "gazetteerProvenance": "NE-5.1.2-populated-places-simple"
+      },
+      "kind": "place",
+      "placeForm": "settlement",
+      "presentDayName": "Manila, Philippines"
+    },
+    {
+      "id": "e-acapulco",
+      "historicalName": "Puerto de Acapulco, Nueva España",
+      "locatingClaimIds": [
+        "M-C01",
+        "M-C02"
+      ],
+      "editorialState": "draft",
+      "coordinate": {
+        "lon": -99.915979,
+        "lat": 16.849991,
+        "precision": "settlement",
+        "gazetteerProvenance": "NE-5.1.2-populated-places-simple"
+      },
+      "kind": "place",
+      "placeForm": "settlement",
+      "presentDayName": "Acapulco, Mexico"
+    },
+    {
+      "id": "c-chinese-merchants",
+      "historicalName": "Chinese merchants who sailed to Manila (Spanish sources call them \"Sangleys\"; Morga uses the word)",
+      "locatingClaimIds": [
+        "M-C03",
+        "M-C04",
+        "M-C11",
+        "M-C15",
+        "M-C17"
+      ],
+      "editorialState": "draft",
+      "kind": "community"
+    },
+    {
+      "id": "cm-silver",
+      "historicalName": "Silver from Spanish America",
+      "locatingClaimIds": [
+        "M-C06",
+        "M-C07",
+        "M-C08",
+        "M-C09",
+        "M-C11",
+        "M-C12"
+      ],
+      "editorialState": "draft",
+      "kind": "commodity"
+    },
+    {
+      "id": "ev-manila-chinese-trade",
+      "historicalName": "Chinese ships trade at Manila",
+      "locatingClaimIds": [
+        "M-C03",
+        "M-C04",
+        "M-C05"
+      ],
+      "editorialState": "draft",
+      "markerOrder": 1,
+      "markerForm": "EventMarker",
+      "kind": "event",
+      "eventForm": "Trade and exchange",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1572–1573 · approximate",
+        "rationale": "The relation dates the first ships only as \"a year ago\", counted from letters written at Manila in 1573 on a day it does not give. The sale of their goods is told in the same 1573 letters. This was a run of visits, not a dated act."
+      },
+      "locatedAtPlaceId": "e-manila",
+      "spatialPrecision": "settlement",
+      "claimIds": [
+        "M-C03",
+        "M-C04",
+        "M-C05"
+      ],
+      "connectionIds": [
+        "cn-spanish-american-silver-reaches-manila"
+      ],
+      "sensitive": true
+    }
+  ],
+  "connection": {
+    "id": "cn-spanish-american-silver-reaches-manila",
+    "sourceEntityId": "cm-silver",
+    "targetEntityId": "c-chinese-merchants",
+    "relationshipType": "financed",
+    "directionNote": "Spanish America to Manila to the South China coast, westbound across the Pacific. Directional; not symmetric.",
+    "directionFigureText": "Silver from Spanish America  →  financed  →  Chinese merchants trading at Manila",
+    "temporal": {
+      "precision": "approximate",
+      "label": "c. 1573–1602 · approximate"
+    },
+    "spatial": {
+      "originText": "Spanish America · not place-bound · Mexico named in 1576, money from Mexico in 1586, Mexico and Peru by about 1602",
+      "targetText": "Manila · settlement precision",
+      "routeStatement": "Money went west from New Spain to Manila. Governor Sande wrote in 1577 that reals, which are coins, came each year with the provisions until he arrived in 1575. Manila's citizens wrote in 1586 that rich men in Mexico sent large sums. In 1588 Governor Vera taxed the coin brought from New Spain. Morga, writing in 1609, says the king's chest in Mexico sent a yearly payment. No Source we have read gives the amount, the first year or the ship. Acapulco is drawn as the port the Manila ships used (Sande sailed from there in 1575); no Source says the money left from it. The Potosí link is not yet researched. No Source we have read ties Potosí silver to Acapulco or Manila in the 1570s or 1580s."
+    },
+    "interpretationClass": "Hypothesis",
+    "scholarlyStanding": "Not yet checked against modern scholarship. Every Source read for this Connection is a Spanish colonial writer or a 1918 article. To be set after the Chinese-money and trade-history reading (B2).",
+    "mechanismClaimIds": [
+      "M-C05",
+      "M-C06",
+      "M-C08",
+      "M-C11",
+      "M-C12",
+      "M-C15"
+    ],
+    "supportSourceIds": [
+      "SB01",
+      "SB02",
+      "SB03",
+      "SB04",
+      "SB08"
+    ],
+    "challengeSourceIds": [],
+    "contextSourceIds": [
+      "SB05",
+      "SB06",
+      "SB07",
+      "SB09",
+      "SB11"
+    ],
+    "mechanismText": [
+      {
+        "text": "Spaniards at Manila wanted Chinese goods and had money to spare.",
+        "claimIds": [
+          "M-C05"
+        ]
+      },
+      {
+        "text": "The viceroy expected, and later the governor and Morga said, that the Chinese wanted silver above other goods.",
+        "claimIds": [
+          "M-C06",
+          "M-C08",
+          "M-C11"
+        ]
+      },
+      {
+        "text": "That money came from Spanish America: Mexico in 1576; 'wealthy persons resident in Mexico' in 1586; Mexico and Peru by Morga's time and about 1602.",
+        "claimIds": [
+          "M-C08",
+          "M-C15",
+          "M-C12"
+        ]
+      },
+      {
+        "text": "Where in Spanish America it was mined is not shown. The Potosí link is not yet researched.",
+        "claimIds": []
+      },
+      {
+        "text": "The money was what the Chinese took, and by 1589 they went through Chinese licensing.",
+        "claimIds": [
+          "M-C15",
+          "M-C17"
+        ]
+      },
+      {
+        "text": "This is how silver from Spanish America helped finance the Chinese trade at Manila. The Claims it rests on are listed beneath it. Several of them are one kind of voice.",
+        "claimIds": []
+      }
+    ],
+    "participants": [
+      {
+        "text": "Viceroy of New Spain, who forecast that silver would be needed",
+        "claimIds": [
+          "M-C06"
+        ]
+      },
+      {
+        "text": "Governor of the Philippines (Sande), who named Mexican silver as the draw",
+        "claimIds": [
+          "M-C08"
+        ]
+      },
+      {
+        "text": "Spanish officials and merchants at Manila, who had money to spare",
+        "claimIds": [
+          "M-C05"
+        ]
+      },
+      {
+        "text": "Chinese merchants, who brought goods and took the money",
+        "claimIds": [
+          "M-C03",
+          "M-C04",
+          "M-C11",
+          "M-C15"
+        ]
+      },
+      {
+        "text": "Manila citizens (1586 memorial) and a Manila lawyer (c. 1602)",
+        "claimIds": [
+          "M-C15"
+        ]
+      },
+      {
+        "text": "Merchants of Mexico and of Peru, who sent money through agents",
+        "claimIds": [
+          "M-C12"
+        ]
+      },
+      {
+        "text": "The Ming court, which licensed the Luzon trade by 1589",
+        "claimIds": [
+          "M-C17"
+        ]
+      }
+    ],
+    "evidenceIndependenceNote": "Five Sources are cited in support. All are Spanish colonial writers: two Mexican officials reporting on the same ships, a governor, a judge and a Manila citizens' memorial. Most of them thought the China trade was a loss. The one Chinese source (SB07) is an imperial record from 1589 about licensing and silver taxes, not about silver coming in. Several citations are not several confirmations.",
+    "reverseDisclosure": {
+      "summary": "What about the other direction?",
+      "body": "Chinese goods to Spanish America is a different Connection. Whether the goods carried east by the galleon (silks, porcelain) changed anything in New Spain or Peru has its own mechanism and its own Evidence. It is not drawn here."
+    },
+    "reverseRelationshipNote": "A separate Connection, not an inversion of this one. Chinese goods to Spanish America is not created in this fixture, has no id, no relationship type, no mechanism Claims and no Evidence. If researched, it gets its own record.",
+    "editorialState": "draft",
+    "evidence": {
+      "supports": [
+        {
+          "sourceId": "SB01",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Martín Enríquez, Viceroy of New Spain, letter to Felipe II, Mexico, 5 December 1573. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 3 (Cleveland, 1903), pp. 209–219. Translated by Francis W. Snow from *Cartas de Indias* (Madrid, 1877).",
+          "form": "Primary document, letter",
+          "language": "English (translated from Spanish)",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "SB02",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "\"Las nuevas que escriven de las yslas del Poniente\", Hernando Riquel and others, sent from Mexico, 11 January 1574. B&R vol. 3, pp. 230–249 (read pp. 243–248). Spanish and English printed side by side; translated by Jose M. Asensio from a manuscript at Simancas.",
+          "form": "Primary document, a relation made from letters written at Manila in 1573",
+          "language": "English (translated from Spanish)",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "SB03",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated by Rachel King.",
+          "form": "Primary document, report to the Crown",
+          "language": "English (translated from Spanish)",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "SB04",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+          "form": "Primary narrative, English translation",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "SB08",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Memorial to the Council by citizens of the Filipinas Islands, Santiago de Vera and others, Manila, [26 July] 1586 (the date is bracketed by the editors). B&R vol. 6 (Cleveland, 1903), pp. 157 ff. (used pp. 166–167). Translated by James A. Robertson, Emma Helen Blair and Robert W. Haight.",
+          "form": "Primary document, petition",
+          "language": "English (translated from Spanish)",
+          "accessLevel": "excerpt reviewed"
+        }
+      ],
+      "challenges": [],
+      "contextualizes": [
+        {
+          "sourceId": "SB05",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "José de Acosta, *Historia natural y moral de las Indias* (Seville, 1590). English: *The Natural and Moral History of the Indies*, from Edward Grimston's 1604 translation, ed. Clements R. Markham (Hakluyt Society, London, 1880), vol. 1, Book 4, ch. 7, pp. 201–203.",
+          "form": "Primary treatise, in an early English translation (1604 spelling)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "SB06",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "William L. Schurz, \"Mexico, Peru, and the Manila Galleon\", *Hispanic American Historical Review* 1:4 (November 1918), 389–402.",
+          "form": "Scholarship (early)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "SB07",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "*Ming Shi-lu*, Wanli year 17, month 4, day 20 (2 June 1589), trans. Geoff Wade, *Southeast Asia in the Ming Shi-lu: an open access resource* (Singapore: Asia Research Institute and NUS Press).",
+          "form": "Primary document, court record, English translation by a named translator",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "SB09",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated by Jose M. and Clara M. Asensio and Emma Helen Blair.",
+          "form": "Primary document, printed memorial",
+          "language": "English (translated from Spanish)",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "SB11",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Editors' footnote 75 (Emma Helen Blair and James A. Robertson) to the letter of Andrés de Mirandaola, B&R vol. 3 (Cleveland, 1903), p. 226. It quotes a letter of the Viceroy of New Spain dated 9 January 1574. The editors give no archive reference and the letter was not found in any free volume. Translator of the quoted passage: not named in the volume.",
+          "form": "Editors' note quoting a primary letter we have not read",
+          "language": "English (translated from Spanish)",
+          "accessLevel": "excerpt reviewed"
+        }
+      ]
+    }
+  },
+  "strings": {
+    "pilotNotice": "Pilot content — not yet reviewed by a historian. If you know a Source we have wrong or missing, every Claim and Source has a way to say so.",
+    "report": {
+      "door": {
+        "claim": {
+          "text": "Question this Claim",
+          "name": "Question this Claim: {id}"
+        },
+        "source": {
+          "text": "Know this Source?",
+          "name": "Know this Source: {id}"
+        },
+        "profile": {
+          "text": "Know a Source for a missing voice?",
+          "name": "Know a Source for a missing voice?"
+        }
+      },
+      "handover": {
+        "heading": "Tell us what you found",
+        "shown": {
+          "page": "This page",
+          "claim": "Claim",
+          "source": "Source",
+          "build": "Build",
+          "mode": "Mode"
+        },
+        "registerLegend": "What is it?",
+        "registers": {
+          "not-true": "The Claim says something the Source does not.",
+          "one-standpoint": "The Source's standpoint is described wrongly, or a Source counted as support is partisan.",
+          "something-missing": "A perspective or a Source is missing.",
+          "remove": "Remove my credit or my data."
+        },
+        "evidenceLegend": "Your evidence",
+        "sourceTitle": "Source",
+        "sourceTitleHint": "title, author, edition",
+        "sourceWhere": "Where in it",
+        "sourceWhereHint": "page, chapter, archive signature",
+        "noSource": "I have no Source; this is a hunch.",
+        "evidenceHelp": "A hunch is welcome and is recorded. Only a Source can change the page. Please do not include anyone else's personal details.",
+        "message": "Anything else",
+        "creditLegend": "Credit",
+        "creditNone": "No credit",
+        "creditAs": "Credit me as:",
+        "nickname": "Preferred name",
+        "creditHelp": "Shown only if your report changes the page, next to the change, on the Changes page. Removable: choose 'Remove my credit or my data' in this form. Never your email.",
+        "emailLabel": "Email, if you want a reply",
+        "emailHelp": "Never shown on the site. Used once, to reply.",
+        "privacyNote": "This report goes by email to the site's editor through Web3Forms, a form service run from India. It is not public. Web3Forms says it keeps submissions for up to three years unless they are deleted sooner. To catch spam, it may send your IP address, and your email if you leave one, to the spam filters CleanTalk and Akismet. The editor also sees your IP address, in the email that carries your report. You will not be asked to tick a box. The editor keeps your report until it has been dealt with and for 90 days after, then deletes it, including the copy held at Web3Forms. To remove your credit or your data, choose \"Remove my credit or my data\" in the first question of the form, and say in \"Anything else\" which preferred name or email. Please do not include anyone else's personal details. A person reads the reports we receive. We aim to reply within a week if you left an email. Checking a Source can take weeks, because we read it ourselves, through a library. What you report cannot change the page by itself; only a Source we have read can. This is not a vote, and it is not the place to add a fact.",
+        "privacyLink": "Privacy",
+        "send": "Send the report",
+        "close": "Close"
+      },
+      "thanks": {
+        "heading": "Thank you",
+        "text": "Thank you. Your report is with the editor. If you left an email, we aim to reply within a week.",
+        "back": "Back to the site",
+        "privacy": "Privacy"
+      },
+      "privacy": {
+        "heading": "Privacy",
+        "cookies": "This site sets no cookies.",
+        "analytics": "This site uses no analytics.",
+        "sessionFlag": "It keeps one flag in your browser's session storage, so that the opening plays once per visit; it holds only that the opening has played, and it is gone when you close the tab.",
+        "serverLogs": "The site is served by GitHub Pages. GitHub keeps its own server logs, which can include your IP address, under its own privacy statement.",
+        "formIntro": "If you send a report, this is what happens. A report sends what you type, plus the web address of the page, the Claim or Source you were looking at, the version of the site, and whether you were in Explore or Research. A name and an email are optional.",
+        "removal": "To remove your credit or your data, open any \"Question this Claim\" or \"Know this Source?\" control and choose \"Remove my credit or my data\". Say in \"Anything else\" which preferred name or email to remove.",
+        "back": "Back to the site"
+      },
+      "changes": {
+        "heading": "Changes",
+        "empty": "No decisions yet. Reports are read as they come.",
+        "labels": {
+          "date": "Date",
+          "reported": "What was reported",
+          "did": "What we did",
+          "why": "Why",
+          "checkedBy": "Checked by",
+          "credit": "Credit",
+          "considered": "Reports considered"
+        },
+        "checkedByValue": "the editors, against the Source; approved by the product owner",
+        "changed": "Changed",
+        "notChanged": "Not changed",
+        "before": "Before",
+        "after": "After",
+        "thanksTo": "Thanks to {nickname}",
+        "thanksToReader": "Thanks to a reader",
+        "consideredText": "{n}",
+        "back": "Back to the site"
+      }
+    },
+    "editorialStateLine": "Draft · not yet editorially reviewed",
+    "editorialStates": {
+      "draft": "Draft · not yet editorially reviewed",
+      "in-review": "In editorial review · not yet editorially reviewed",
+      "disputed": "Editorial dispute open · not yet editorially reviewed",
+      "reviewed": "Reviewed · {decidedOn}",
+      "published": "Published · reviewed {decidedOn}"
+    },
+    "profile": {
+      "label": "Evidence & Perspective Profile",
+      "summaryLabel": "The evidence behind this Story",
+      "open": "See the details",
+      "openState": "Details below",
+      "close": "Close profile",
+      "lead": "Here is what the evidence for this Story rests on: where it comes from, how much of it is really separate, and what is still missing. It says nothing about whether the history is true; it says how much we have to go on.",
+      "statusDraft": "Draft · not yet editorially reviewed. The counts below come from our working records; no historian has checked them yet. Rules version {rules}, draft.",
+      "statusPublished": "Reviewed · {decidedOn} · rules version {rules}",
+      "warningsHeading": "Warnings ({n})",
+      "warningsNone": "No warning for this Story. That does not mean its evidence is complete.",
+      "componentsHeading": "What we checked ({n})",
+      "compact": {
+        "winnerDominated": "Evidence concentrated in colonial Sources",
+        "missingVoices": "Some voices missing",
+        "contested": "Still argued over",
+        "highlyUncertain": "Highly uncertain",
+        "notScored": "No number yet",
+        "coverage": "Viewpoints covered: {n}"
+      },
+      "componentNames": {
+        "diversity": "Source diversity",
+        "independence": "Source independence",
+        "coverage": "Perspective coverage",
+        "agreement": "Scholarly agreement",
+        "uncertainty": "Historical uncertainty",
+        "controversy": "Controversy",
+        "missing": "Missing Voices"
+      },
+      "componentQuestions": {
+        "diversity": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
+        "independence": "How many of the Sources actually stand on their own, rather than drawing on one another?",
+        "coverage": "Of the viewpoints this Story needs, how many have evidence we can actually use?",
+        "agreement": "Do the historians who have studied this agree with one another?",
+        "uncertainty": "How sure are we about the key dates and places, how things worked, and who was involved?",
+        "controversy": "Is this account still being argued over, and does the argument change anything?",
+        "missing": "Who was involved or affected, but barely shows up in the evidence?"
+      },
+      "fields": {
+        "asks": "The question",
+        "counted": "What we counted",
+        "notCounted": "Not counted, and why",
+        "completeness": "How complete",
+        "lastReview": "Last review",
+        "editorialNote": "Editor's note",
+        "dependencyView": "Who draws on whom"
+      },
+      "notScored": "No number yet · {n} of {m} recorded",
+      "inputsOnly": "{n} of {m} recorded",
+      "stateChecked": "{k} of {m} checked",
+      "stateEditorial": "editor's list",
+      "stateOverride": "set by an editor",
+      "completenessCategorical": "{n} of {m} recorded.",
+      "lastReviewDraft": "Not yet editorially reviewed",
+      "lastReviewPublished": "Reviewed · {decidedOn}",
+      "floors": {
+        "diversity": "three of the four kinds of detail are recorded for every Source",
+        "independence": "we know, and an editor has checked, what every supporting Source draws on",
+        "coverage": "an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded"
+      },
+      "diversity": {
+        "value": "{primary} primary {primaryWord} and {scholarly} scholarly {scholarlyWord}, in {languages} {languageWord} as recorded",
+        "noNumber": "No number yet · {n} of {m} kinds of information recorded",
+        "counted": "Kinds of document: {forms}. Languages, as recorded: {languageList}. Where each author stood: {positions}.",
+        "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
+        "completeness": "{n} of the 4 kinds of detail are recorded for every Source; an editor has checked {k} of {v} Sources. A number appears only once the Story has been editorially reviewed and {floor}."
+      },
+      "independence": {
+        "value": "{sources} supporting {sourceWord}, in {groups} separate {groupWord} once you trace who drew on whom",
+        "valueUnplaced": "{sources} supporting {sourceWord}, in {groups} separate {groupWord} once you trace who drew on whom; {unplaced} not yet traceable",
+        "noNumber": "No number yet · {n} of {m} Sources traced",
+        "counted": "{citations} supporting citations across {claims} Claims and the Connection, from {sources} Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "notCounted": "Cited only for background, so not counted: {ids}.",
+        "subjectNote": "Listed in its own group but kept out of any number: {ids}, cited only as what a Claim is about, not as support for it.",
+        "completeness": "We know what {n} of {m} Sources draw on; an editor has checked {k} of {m}. A number appears only once the Story has been editorially reviewed and {floor}.",
+        "notPlaced": "we do not yet know what it draws on. It joins no group and is not counted as independent.",
+        "groupHeading": "Group {letter} — {n} {sourceWord}.",
+        "groupHeadingChain": "Group {letter} — {n} {sourceWord} that draw on one another.",
+        "roots": "Starting points: {names}.",
+        "others": "Drawing on them: {names}.",
+        "subjectOnly": ", cited only as what {claims} is about",
+        "notPlacedHeading": "Not placed — {n} {sourceWord}.",
+        "row": {
+          "supports": "supports {n} {claimWord}",
+          "subject": "is the subject of {n} {claimWord}",
+          "connection": " and the Connection",
+          "connectionOnly": "supports the Connection"
+        },
+        "byClaim": {
+          "head": "{single} of the {total} Claims rest on a single group; {two} on two; {three} on three",
+          "more": "; {more} on four or more",
+          "undetermined": "; for {n} we cannot tell ({ids})",
+          "none": "; {n} have no supporting Evidence yet ({ids})",
+          "tail": ". {citations} citations are not {citationsLower} confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+        }
+      },
+      "coverage": {
+        "valueUndefined": "An editor has not yet listed which viewpoints this Story needs",
+        "valueNoCategory": "The viewpoints are listed, but {n} supporting Sources have no standpoint recorded",
+        "valueSet": "{covered} of the {total} viewpoints this Story needs have supporting Evidence",
+        "noNumber": "No number yet · {n} of {m} things in place",
+        "counted": "Needed: {expected}. Covered by supporting Evidence: {covered}. Not covered: {missing}.",
+        "countedUndefined": "Nothing yet. Until an editor lists the viewpoints this Story needs, there is nothing to measure against.",
+        "notCounted": "The standpoints we do have among the supporting Sources: {positions}.",
+        "subjectNote": "Not counted as support, because a Claim is about them rather than resting on them: {ids}.",
+        "completeness": "{n} of the 2 things this check needs are in place; an editor has checked {k} of {v} Sources. A number appears only once the Story has been editorially reviewed and {floor}."
+      },
+      "agreement": {
+        "notAssessed": "Not assessed",
+        "unclear": "Unclear",
+        "counted": "We have not yet recorded what different historians make of this Story. The one mainstream account ({claim}) does not yet say which field it comes from or when it was made.",
+        "notCounted": "We have not yet recorded which historians accept the mainstream account.",
+        "note": "Agreement among historians is not proof. It shows where the field stands today, and fields move."
+      },
+      "uncertainty": {
+        "partial": "{value} uncertainty about the dates and places only; nothing else graded yet",
+        "counted": "How precisely the {n} Claims this Story cites are dated: {precisions}.",
+        "notCounted": "Nobody has yet assessed how things worked or who was involved.",
+        "event": "The Event itself is dated {label}.",
+        "partialOne": "{value} uncertainty, going by the dates and places and by {assessed}; {unassessed} is not graded yet",
+        "notCountedMechanisms": "Nobody has yet assessed how things worked.",
+        "notCountedIdentities": "Nobody has yet assessed who was involved.",
+        "mechanismsPhrase": "how things worked",
+        "identitiesPhrase": "who was involved",
+        "unknownReading": "We cannot yet say how uncertain this is",
+        "buckets": {
+          "year": "to the year",
+          "decade": "to the decade",
+          "approximate": "roughly",
+          "century": "to the century",
+          "notTimeBounded": "not tied to a date",
+          "disputed": "disputed or unknown"
+        }
+      },
+      "controversy": {
+        "notAssessed": "Not assessed",
+        "notAssessedNote": "\"Not assessed\" does not mean \"low\".",
+        "counted": "Nobody has yet recorded whether this account is argued over.",
+        "assessed": "An editor's assessment: {level}.",
+        "notCounted": "No editor has yet assessed how actively it is disputed."
+      },
+      "missingVoices": {
+        "valueLine": "{n} {voiceWord} listed",
+        "valueLineIncomplete": "{n} {voiceWord} listed · we are still looking",
+        "counted": "Each voice below says why it is missing and which Claims it bears on.",
+        "notCounted": "A voice is listed only once we can say why it is missing and which Claim it bears on. Names we have not verified stay with the editor.",
+        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history.",
+        "reasonLabels": {
+          "Not identified in this documented search": "We looked in the records gathered so far and found nothing",
+          "Search not yet complete": "We are still looking",
+          "Not yet researched": "Not yet looked for",
+          "Known record not yet consulted": "A record exists; we have not reached it yet",
+          "Known archive inaccessible": "A record exists but cannot be reached",
+          "Records not preserved (established)": "The records did not survive (historians have established this)"
+        }
+      },
+      "lineageLabels": {
+        "L5": "colonial administrative and fiscal records (no single Source record)"
+      },
+      "sourcePosition": {
+        "labels": {
+          "proximity": "When and where",
+          "role": "Role",
+          "audience": "Written for",
+          "interests": "Their stake",
+          "position": "Standpoint",
+          "focus": "Focus",
+          "note": "Note",
+          "dependsOn": "Draws on"
+        },
+        "categoryNote": "Context for reading this Source, not a rating of it.",
+        "drawsOn": {
+          "rootWithDescendants": "None recorded: this is a starting point. Drawn on by {names}.",
+          "root": "None recorded: this is a starting point.",
+          "derived": "{names}.",
+          "notRecorded": "Not recorded yet; an editor still has to trace it.",
+          "unchecked": "As recorded; not yet checked by an editor."
+        },
+        "notRecorded": "not recorded"
+      }
+    },
+    "sensitiveFlagText": "Sensitive content",
+    "orientationToggleLabel": "Add present-day orientation",
+    "siteLinks": {
+      "changes": "Changes",
+      "privacy": "Privacy"
+    },
+    "yearStatement": "1573 · exact year · single-year view",
+    "jurisdictionLine": {
+      "text": "In 1573 Manila was a Spanish port on the island of Luzon, called the Ciudad de Manila in the records. Which jurisdiction it lay in has not been researched, so none is shown and no boundary is drawn.",
+      "claimIds": [
+        "M-C03",
+        "M-C04"
+      ]
+    },
+    "viewIndexHeading": "In this view — 1573",
+    "momentsHeading": "Moments in 1573",
+    "momentEntry": {
+      "name": "Potosí, 1573",
+      "action": "Go to this moment."
+    },
+    "indexGroupHeadings": {
+      "events": "Events (1)",
+      "places": "Places (0)"
+    },
+    "whatWeDontKnowHeading": "What we don't know",
+    "lineClaims": {
+      "notKnownHeading": "What is not known",
+      "claimsHeading": "Claims behind this line",
+      "groups": [
+        {
+          "heading": "The Crown's money",
+          "note": "Morga names the royal chest. Sande's reals are placed here by context: he does not say whose money it was.",
+          "claimIds": [
+            "M-C20",
+            "M-C18"
+          ]
+        },
+        {
+          "heading": "Money from private people",
+          "note": "The 1586 memorial names rich men in Mexico. Morga's duty on money brought from New Spain is placed here by context: he does not say whose money it was.",
+          "claimIds": [
+            "M-C15",
+            "M-C21"
+          ]
+        },
+        {
+          "heading": "Whose money is not said",
+          "claimIds": [
+            "M-C19"
+          ]
+        },
+        {
+          "heading": "Why Acapulco is drawn",
+          "note": "Sande sailed from Acapulco in 1575. No Source says the money left from there.",
+          "claimIds": [
+            "M-C22"
+          ]
+        }
+      ],
+      "eastbound": [
+        {
+          "text": "Ships went east as well. Two that sailed from the Philippines on 1 July 1573 reached Acapulco in November, and the cargo listed at Mexico for them included silks and porcelain.",
+          "claimIds": [
+            "M-C01",
+            "M-C02"
+          ]
+        },
+        {
+          "text": "That direction is not drawn.",
+          "claimIds": []
+        }
+      ]
+    },
+    "attributionDataLine": "Historical data: World History Explorer pilot fixture — draft, not yet editorially reviewed; Sources are cited per Claim.",
+    "attributionDataLinePublished": "Historical data: World History Explorer pilot corpus — editorially reviewed; Sources are cited per Claim.",
+    "attributionTruncationControl": "Attribution",
+    "readingPaneEmpty": {
+      "heading": "One moment, and how we know it.",
+      "body": [
+        "Select the Event on the map, or in the list beneath it, to open its Story.",
+        "This Moment is Manila in 1573: Chinese ships trading at Manila, around 1572–1573, and the one Connection this pilot explains — silver from Spanish America and the Chinese merchants at Manila. Acapulco, on the World map, is there to locate that Story. No Story has been researched for it yet."
+      ]
+    },
+    "coverageStatements": {
+      "notYetResearched": {
+        "viewIndex": "Only the Story at Manila has been researched for this view.",
+        "placeContext": "No Story has been researched for this Place yet."
+      },
+      "noKnownEvent": "No Event is known here in 1573 in the evidence consulted. That is a finding, not an absence of research.",
+      "evidenceDoesNotSurvive": "No records for this Place in 1573 were identified in the sources consulted. Absence from the record is not absence from history."
+    },
+    "frameBreadcrumb": {
+      "navName": "Map frames",
+      "world": "World",
+      "americas": "East and Southeast Asia",
+      "andes": "Luzon and the South China Sea",
+      "moment": "Manila, 1573",
+      "andesShort": "Luzon",
+      "momentShort": "Manila"
+    },
+    "contextNote": {
+      "world": "World context · this pilot shows two moments",
+      "wider": "Wider context · this pilot shows two moments"
+    },
+    "mapStatus": {
+      "MS-0": "",
+      "MS-1": "Selected: Chinese ships trade at Manila. One Connection leads to this Event: silver from Spanish America, which is not a place on this map. A line for money sent west is drawn at the World frame.",
+      "MS-2": "Selected: Puerto de Acapulco, Nueva España. Two ships from the Philippines reached it in November 1573. It is drawn on the World map only. No Story has been researched for this Place yet.",
+      "MS-3": "Selected: Ciudad de La Plata, seat of the Audiencia de Charcas. No Story has been researched for this Place yet.",
+      "MS-4": "Selected: Ciudad de los Reyes, seat of the Viceroy of Peru. No Story has been researched for this Place yet.",
+      "MS-5": "The selected marker, {historical name}, is outside the current view. Reset the view to show its marker.",
+      "MS-6": "The connected Place, Mina de Santa Bárbara, Huancavelica, is outside the current view. Reset the view to show all four markers.",
+      "MS-7": "The selected Event and its connected Place are outside the current view. Reset the view to show all four markers.",
+      "MS-8": "Loading Manila, 1573.",
+      "MS-9": "The basemap could not be loaded. The marker and the list beneath the map are still available.",
+      "MS-10": "The world. Two 1573 moments are in view: Potosí and Manila. One line is drawn, from Acapulco west to Manila: money sent west from New Spain, amount and first year not known. The leg from Potosí to Acapulco is not yet researched. Select a moment to go to it.",
+      "MS-11": "East and Southeast Asia. The 1573 view is one point at Manila at this scale. Zoom in or reset the view to see its marker.",
+      "MS-12": "Luzon and the South China Sea. The 1573 view is one point at Manila at this scale. Zoom in or reset the view to see its marker."
+    },
+    "claimCard": {
+      "emptySupports": "No supporting Evidence has been linked to this Claim yet — pending editorial verification.",
+      "emptyChallenges": "No challenging Evidence has been linked to this Claim. This does not mean none exists.",
+      "emptyContextualizes": "No contextual Evidence has been linked to this Claim."
+    },
+    "accessBlockLocatorPending": "pending editorial verification",
+    "accessReadings": {
+      "unverified": "An access level is recorded, but no human has verified it.",
+      "unknown": "No access level was recorded for this Source.",
+      "abstract only": "Only the abstract was reviewed. This Source cannot support detail as if the whole work had been read.",
+      "metadata only": "Only the catalogue record was reviewed. This Source supports no more than its record states.",
+      "inaccessible": "The Source could not be reached. Support from it is not established."
+    },
+    "withdrawnNote": "A sentence here rested on Claim {id}, which has been {state}, and is not shown.",
+    "connectionSources": {
+      "label": "Sources for this step",
+      "emptySupports": "No supporting Evidence has been linked to this step yet — pending editorial verification.",
+      "emptyChallenges": "No challenging Evidence has been linked to this step. This does not mean none exists.",
+      "emptyContextualizes": "No contextual Evidence has been linked to this step."
+    },
+    "closeControls": {
+      "closeClaim": "Close Claim",
+      "closeSource": "Close Source",
+      "closeStory": "Close Story",
+      "closePlace": "Close Place",
+      "closeLine": "Close line"
+    },
+    "interfaceStrings": {
+      "sheetHandleAccessibleName": "Raise or lower the reading surface",
+      "mapPaneTabsAccessibleName": "Map or list",
+      "storyLoadError": "Couldn't load this Story. The map and the list are unaffected, and the Event stays selected.",
+      "claimLoadError": "Couldn't load this Claim. The Story, the map, and the list are unaffected.",
+      "retryButton": "Try again",
+      "sourceLoadError": "Couldn't load this Source. The Source record, its access level, and the Claim it is cited under are unchanged.",
+      "sourceAccessPathError": "Couldn't open the link to this Source. The Source record, its access level, and the Claim it is cited under are unchanged.",
+      "participantListLabel": "Who was involved, and who was affected",
+      "connectionEvidenceLabel": "Claims behind this step",
+      "beatHeadings": {
+        "hook": "Hook",
+        "orient": "Orient",
+        "connect": "Connect",
+        "complicate": "Complicate",
+        "resolve": "Resolve provisionally",
+        "next": "Where next"
+      }
+    },
+    "assistiveOnly": {
+      "pilotNoticeLandmarkName": "Pilot notice",
+      "mapCanvasGroupName": "Map",
+      "zoomInName": "Zoom in",
+      "zoomOutName": "Zoom out",
+      "resetViewName": "Reset view",
+      "directionFigureArrowText": "to",
+      "markerStateSelected": "Selected.",
+      "markerStateConnected": "Connected to the current selection.",
+      "markerStateSubdued": "In view; not part of the selected Story.",
+      "orientationLinePrefix": "present-day",
+      "jurisdictionsRegionName": "Jurisdictions in 1573",
+      "zoomOutAtWidestName": "Zoom out. At the widest view.",
+      "zoomInAtClosestName": "Zoom in. At the closest view.",
+      "copyLinkName": "Copy link to this view",
+      "copyLinkDone": "Link copied",
+      "copyLinkFailed": "Could not copy. The link is in the address bar."
+    }
+  },
+  "physicalFeatures": [],
+  "gaps": [
+    {
+      "id": "gap-potosi-acapulco",
+      "fromEntityId": "e-potosi",
+      "toEntityId": "e-acapulco",
+      "statement": "The Potosí link is not yet researched. Potosí was the biggest silver mine in Spanish America, and Acosta wrote around 1590 that a third to a half of its silver was never registered. But no Source we have read ties Potosí silver to Acapulco or Manila in the 1570s or 1580s.",
+      "keyText": "Potosí to Acapulco: not yet researched",
+      "editorialState": "draft"
+    }
+  ],
+  "flowLines": [
+    {
+      "id": "fl-westbound-money",
+      "momentId": "manila",
+      "fromEntityId": "e-acapulco",
+      "toEntityId": "e-manila",
+      "headingWord": "westbound",
+      "geometry": "schematic",
+      "label": {
+        "what": "Money sent west from New Spain",
+        "notKnown": "amount and first year not known"
+      },
+      "notKnownStatement": "No Source we have read gives the amount, the first year or the ship. Acapulco is drawn as the port the Manila ships used (Sande sailed from there in 1575); no Source says the money left from it.",
+      "claimIds": [
+        "M-C18",
+        "M-C19",
+        "M-C20",
+        "M-C15",
+        "M-C21",
+        "M-C22"
+      ],
+      "accessibleName": {
+        "drawn": "Drawn from Acapulco to Manila in two parts, across the map's edge.",
+        "schematic": "The line is schematic; the track sailed is not drawn.",
+        "action": "Select to read its Claims."
+      },
+      "editorialState": "draft"
+    }
+  ],
+  "whatWeDontKnow": [
+    {
+      "id": "wwdk-silver-manila",
+      "segments": [
+        {
+          "text": "We don't yet know when the first silver was paid west to Chinese merchants, or where in Spanish America it was mined.",
+          "claimIds": []
+        },
+        {
+          "text": "In 1573 the viceroy said silver would be needed,",
+          "claimIds": [
+            "M-C06"
+          ]
+        },
+        {
+          "text": "by 1576 the governor named Mexican silver as the draw,",
+          "claimIds": [
+            "M-C08"
+          ]
+        },
+        {
+          "text": "and in 1586 Manila's citizens complained that money from Mexico was pushing up the price of Chinese goods.",
+          "claimIds": [
+            "M-C15"
+          ]
+        },
+        {
+          "text": "No source we have read records a payment, its size, or a mine.",
+          "claimIds": []
+        }
+      ]
+    },
+    {
+      "id": "wwdk-potosi",
+      "segments": [
+        {
+          "text": "The Potosí link is not yet researched.",
+          "claimIds": []
+        }
+      ]
+    }
+  ]
+}
