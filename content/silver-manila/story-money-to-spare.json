@@ -260,8 +260,14 @@
             "claimIds": []
           },
           {
-            "text": "That is a reading of the records, and it is an interpretation. It has not yet been checked against modern scholarship, and the Claim beneath each sentence says whose voice it rests on.",
+            "text": "That is a reading of the records, and it is an interpretation.",
             "claimIds": []
+          },
+          {
+            "text": "Historians of the silver trade explain the trade the same way, by China's demand for silver, and the Claim beneath each sentence says whose voice it rests on.",
+            "claimIds": [
+              "M-C24"
+            ]
           }
         ]
       ]
@@ -278,6 +284,7 @@
       ]
     }
   ],
+  "mainstreamAccountClaimId": "M-C24",
   "momentLinks": [
     {
       "momentId": "potosi",
@@ -294,7 +301,7 @@
       {
         "kind": "winner-dominated",
         "name": "Evidence concentrated in colonial Sources",
-        "text": "Almost all of the primary documents behind this Story are by Spanish colonial writers (`M-C04`); the one source from the Chinese side is a Ming court record from 1589 about licensing ships and taxing them in silver (`M-C17`), and it is the court's voice, not a merchant's. 26 of 27 supporting citations descend, as recorded, from Spanish colonial authors or colonial administrative records. This tells you whose side of events the evidence comes from. It does not weigh the Story's conclusions.",
+        "text": "Almost all of the primary documents behind this Story are by Spanish colonial writers (`M-C04`); the one source from the Chinese side is a Ming court record from 1589 about licensing ships and taxing them in silver (`M-C17`), and it is the court's voice, not a merchant's. 28 of 30 supporting citations descend, as recorded, from Spanish colonial authors or colonial administrative records. This tells you whose side of events the evidence comes from. It does not weigh the Story's conclusions.",
         "basisClaimIds": [
           "M-C04",
           "M-C17"
@@ -320,7 +327,7 @@
         "valueText": "9 primary documents and 0 scholarly books, in 2 languages as recorded",
         "stateText": "No number yet · 2 of 4 kinds of information recorded",
         "origin": "computed",
-        "counted": "Kinds of document: Primary document, letter 3, Primary document, report to the Crown 2, Editors' note quoting a primary letter we have not read 1, Primary document, a relation made from letters written at Manila in 1573 1, Primary document, court record, English translation by a named translator 1, Primary document, petition 1, Primary document, printed memorial 1, Primary narrative, English translation 1, Primary treatise, in an early English translation (1604 spelling) 1, Scholarship (early) 1. Languages, as recorded: English (translated from Spanish) 9, English 4. Where each author stood: colonial state 7, colonial elite 2, later scholarship 2, church 1.",
+        "counted": "Kinds of document: Primary document, letter 3, Primary document, report to the Crown 2, Scholarship (journal article) 2, Editors' note quoting a primary letter we have not read 1, Primary document, a relation made from letters written at Manila in 1573 1, Primary document, court record, English translation by a named translator 1, Primary document, petition 1, Primary document, printed memorial 1, Primary narrative, English translation 1, Primary treatise, in an early English translation (1604 spelling) 1, Scholarship (book chapter) 1, Scholarship (early) 1. Languages, as recorded: English (translated from Spanish) 9, English 7. Where each author stood: colonial state 7, later scholarship 5, colonial elite 2, church 1.",
         "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
         "inputsRecorded": [
           2,
@@ -328,140 +335,101 @@
         ],
         "verified": [
           0,
-          13
+          16
         ],
-        "completeness": "2 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 13 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
+        "completeness": "2 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 16 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
       },
       {
         "id": "independence",
         "name": "Source independence",
         "asks": "How many of the Sources actually stand on their own, rather than drawing on one another?",
         "lastReview": "Not yet editorially reviewed",
-        "reading": "11 supporting Sources, in 9 separate groups once you trace who drew on whom",
-        "valueText": "11 supporting Sources, in 9 separate groups once you trace who drew on whom",
-        "stateText": "No number yet · 13 of 13 Sources traced",
+        "reading": "14 supporting Sources, in 8 separate groups once you trace who drew on whom",
+        "valueText": "14 supporting Sources, in 8 separate groups once you trace who drew on whom",
+        "stateText": "No number yet · 16 of 16 Sources traced",
         "origin": "computed",
-        "counted": "27 supporting citations across 19 Claims and the Connection, from 11 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "counted": "30 supporting citations across 20 Claims and the Connection, from 14 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
         "notCounted": "Cited only for background, so not counted: SB05, SB06.",
         "inputsRecorded": [
-          13,
-          13
+          16,
+          16
         ],
         "verified": [
           0,
-          13
+          16
         ],
-        "completeness": "We know what 13 of 13 Sources draw on; an editor has checked 0 of 13. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
+        "completeness": "We know what 16 of 16 Sources draw on; an editor has checked 0 of 16. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
         "independence": {
           "groups": [
             {
               "label": "Group A",
               "sourceIds": [
-                "SB01",
-                "SB11"
+                "SB02",
+                "SB04",
+                "SB14",
+                "SB17",
+                "SB19"
               ],
-              "text": "Group A — 2 Sources that draw on one another. Starting points: Martín Enríquez SB01. Drawing on them: Editors' footnote 75 (Emma Helen Blair and James A. Robertson) to the letter of Andrés de Mirandaola SB11."
+              "text": "Group A — 5 Sources that draw on one another. Starting points: \"Las nuevas que escriven de las yslas del Poniente\" SB02; Antonio de Morga SB04. Drawing on them: Dennis O. Flynn and Arturo Giráldez SB14; William S. Atwell SB17; Richard von Glahn SB19."
             },
             {
               "label": "Group B",
               "sourceIds": [
-                "SB03",
-                "SB12"
+                "SB01",
+                "SB11"
               ],
-              "text": "Group B — 2 Sources that draw on one another. Starting points: Francisco de Sande SB03. Drawing on them: [Francisco de Sande] SB12."
+              "text": "Group B — 2 Sources that draw on one another. Starting points: Martín Enríquez SB01. Drawing on them: Editors' footnote 75 (Emma Helen Blair and James A. Robertson) to the letter of Andrés de Mirandaola SB11."
             },
             {
               "label": "Group C",
               "sourceIds": [
-                "SB02"
+                "SB03",
+                "SB12"
               ],
-              "text": "Group C — 1 Source. \"Las nuevas que escriven de las yslas del Poniente\" SB02."
+              "text": "Group C — 2 Sources that draw on one another. Starting points: Francisco de Sande SB03. Drawing on them: [Francisco de Sande] SB12."
             },
             {
               "label": "Group D",
               "sourceIds": [
-                "SB04"
+                "SB07"
               ],
-              "text": "Group D — 1 Source. Antonio de Morga SB04."
+              "text": "Group D — 1 Source. Ming Shi-lu SB07."
             },
             {
               "label": "Group E",
               "sourceIds": [
-                "SB07"
+                "SB08"
               ],
-              "text": "Group E — 1 Source. Ming Shi-lu SB07."
+              "text": "Group E — 1 Source. Memorial to the Council by citizens of the Filipinas Islands SB08."
             },
             {
               "label": "Group F",
               "sourceIds": [
-                "SB08"
+                "SB09"
               ],
-              "text": "Group F — 1 Source. Memorial to the Council by citizens of the Filipinas Islands SB08."
+              "text": "Group F — 1 Source. Alonso Fernández de Castro SB09."
             },
             {
               "label": "Group G",
               "sourceIds": [
-                "SB09"
+                "SB10"
               ],
-              "text": "Group G — 1 Source. Alonso Fernández de Castro SB09."
+              "text": "Group G — 1 Source. Gonzalo Ronquillo de Peñalosa to Felipe II SB10."
             },
             {
               "label": "Group H",
               "sourceIds": [
-                "SB10"
-              ],
-              "text": "Group H — 1 Source. Gonzalo Ronquillo de Peñalosa to Felipe II SB10."
-            },
-            {
-              "label": "Group I",
-              "sourceIds": [
                 "SB13"
               ],
-              "text": "Group I — 1 Source. Letter to Felipe II SB13."
+              "text": "Group H — 1 Source. Letter to Felipe II SB13."
             }
           ],
           "notPlaced": [],
           "rows": [
             {
-              "sourceId": "SB01",
-              "citation": "Martín Enríquez, Viceroy of New Spain, letter to Felipe II, Mexico, 5 December 1573. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 3 (Cleveland, 1903), pp. 209–219. Translated by Francis W. Snow from *Cartas de Indias* (Madrid, 1877).",
-              "group": "Group A",
-              "claimCount": 4,
-              "onConnection": true,
-              "subjectOnly": false,
-              "accessLevel": "excerpt reviewed"
-            },
-            {
-              "sourceId": "SB11",
-              "citation": "Editors' footnote 75 (Emma Helen Blair and James A. Robertson) to the letter of Andrés de Mirandaola, B&R vol. 3 (Cleveland, 1903), p. 226. It quotes a letter of the Viceroy of New Spain dated 9 January 1574. The editors give no archive reference and the letter was not found in any free volume. Translator of the quoted passage: not named in the volume.",
-              "group": "Group A",
-              "claimCount": 1,
-              "onConnection": false,
-              "subjectOnly": false,
-              "accessLevel": "excerpt reviewed"
-            },
-            {
-              "sourceId": "SB03",
-              "citation": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated by Rachel King.",
-              "group": "Group B",
-              "claimCount": 3,
-              "onConnection": true,
-              "subjectOnly": false,
-              "accessLevel": "excerpt reviewed"
-            },
-            {
-              "sourceId": "SB12",
-              "citation": "[Francisco de Sande], \"Relation and description of the Phelipinas Islands\", Manila, 8 June 1577. Blair & Robertson (eds.), *The Philippine Islands, 1493-1898*, vol. 4 (Cleveland, 1903), pp. 98-118 (read p. 101). From a manuscript in the Archivo de Indias, Sevilla. Translated by José M. Ascensio (name as printed in vol. 4's front matter). The editors print only the part that is new compared with Sande's 1576 report.",
-              "group": "Group B",
-              "claimCount": 1,
-              "onConnection": false,
-              "subjectOnly": false,
-              "accessLevel": "excerpt reviewed"
-            },
-            {
               "sourceId": "SB02",
               "citation": "\"Las nuevas que escriven de las yslas del Poniente\", Hernando Riquel and others, sent from Mexico, 11 January 1574. B&R vol. 3, pp. 230–249 (read pp. 243–248). Spanish and English printed side by side; translated by Jose M. Asensio from a manuscript at Simancas.",
-              "group": "Group C",
+              "group": "Group A",
               "claimCount": 5,
               "onConnection": true,
               "subjectOnly": false,
@@ -470,16 +438,79 @@
             {
               "sourceId": "SB04",
               "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
-              "group": "Group D",
+              "group": "Group A",
               "claimCount": 3,
               "onConnection": true,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
             },
             {
+              "sourceId": "SB14",
+              "citation": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+              "group": "Group A",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "SB17",
+              "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+              "group": "Group A",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "SB19",
+              "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+              "group": "Group A",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "SB01",
+              "citation": "Martín Enríquez, Viceroy of New Spain, letter to Felipe II, Mexico, 5 December 1573. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 3 (Cleveland, 1903), pp. 209–219. Translated by Francis W. Snow from *Cartas de Indias* (Madrid, 1877).",
+              "group": "Group B",
+              "claimCount": 4,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB11",
+              "citation": "Editors' footnote 75 (Emma Helen Blair and James A. Robertson) to the letter of Andrés de Mirandaola, B&R vol. 3 (Cleveland, 1903), p. 226. It quotes a letter of the Viceroy of New Spain dated 9 January 1574. The editors give no archive reference and the letter was not found in any free volume. Translator of the quoted passage: not named in the volume.",
+              "group": "Group B",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB03",
+              "citation": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated by Rachel King.",
+              "group": "Group C",
+              "claimCount": 3,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SB12",
+              "citation": "[Francisco de Sande], \"Relation and description of the Phelipinas Islands\", Manila, 8 June 1577. Blair & Robertson (eds.), *The Philippine Islands, 1493-1898*, vol. 4 (Cleveland, 1903), pp. 98-118 (read p. 101). From a manuscript in the Archivo de Indias, Sevilla. Translated by José M. Ascensio (name as printed in vol. 4's front matter). The editors print only the part that is new compared with Sande's 1576 report.",
+              "group": "Group C",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
               "sourceId": "SB07",
               "citation": "*Ming Shi-lu*, Wanli year 17, month 4, day 20 (2 June 1589), trans. Geoff Wade, *Southeast Asia in the Ming Shi-lu: an open access resource* (Singapore: Asia Research Institute and NUS Press).",
-              "group": "Group E",
+              "group": "Group D",
               "claimCount": 1,
               "onConnection": false,
               "subjectOnly": false,
@@ -488,7 +519,7 @@
             {
               "sourceId": "SB08",
               "citation": "Memorial to the Council by citizens of the Filipinas Islands, Santiago de Vera and others, Manila, [26 July] 1586 (the date is bracketed by the editors). B&R vol. 6 (Cleveland, 1903), pp. 157 ff. (used pp. 166–167). Translated by James A. Robertson, Emma Helen Blair and Robert W. Haight.",
-              "group": "Group F",
+              "group": "Group E",
               "claimCount": 1,
               "onConnection": true,
               "subjectOnly": false,
@@ -497,7 +528,7 @@
             {
               "sourceId": "SB09",
               "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated by Jose M. and Clara M. Asensio and Emma Helen Blair.",
-              "group": "Group G",
+              "group": "Group F",
               "claimCount": 1,
               "onConnection": false,
               "subjectOnly": false,
@@ -506,7 +537,7 @@
             {
               "sourceId": "SB10",
               "citation": "Gonzalo Ronquillo de Peñalosa to Felipe II, Manila, 16 June 1582. B&R vol. 5 (Cleveland, 1903), pp. 23 ff. (used p. 30). Translated by Jose M. and Clara M. Asensio.",
-              "group": "Group H",
+              "group": "Group G",
               "claimCount": 1,
               "onConnection": false,
               "subjectOnly": false,
@@ -515,14 +546,14 @@
             {
               "sourceId": "SB13",
               "citation": "Letter to Felipe II, Santiago de Vera and others, Manila, 26 June 1588. B&R vol. 7 (Cleveland, 1903), pp. 52-63 (read p. 57). From the original manuscript in the Archivo General de Indias, Sevilla. Translated by Jose M. and Clara M. Asensio (vol. 7 front matter: \"the others, by Jose M. and Clara M. Asensio\").",
-              "group": "Group I",
+              "group": "Group H",
               "claimCount": 1,
               "onConnection": false,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
             }
           ],
-          "byClaimSentence": "16 of the 19 Claims rest on a single group; 3 on two; 0 on three. Twenty-seven citations are not twenty-seven confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+          "byClaimSentence": "17 of the 20 Claims rest on a single group; 3 on two; 0 on three. Thirty citations are not thirty confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
         }
       },
       {
@@ -542,9 +573,9 @@
         ],
         "verified": [
           0,
-          13
+          16
         ],
-        "completeness": "0 of the 2 things this check needs are in place; an editor has checked 0 of 13 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
+        "completeness": "0 of the 2 things this check needs are in place; an editor has checked 0 of 16 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
       },
       {
         "id": "agreement",
@@ -555,7 +586,7 @@
         "valueText": "Not assessed",
         "stateText": "0 of 2 recorded",
         "origin": "computed",
-        "counted": "Agreement among historians is not proof. It shows where the field stands today, and fields move.",
+        "counted": "We have not yet recorded what different historians make of this Story. The one mainstream account (`M-C24`) does not yet say which field it comes from or when it was made. Agreement among historians is not proof. It shows where the field stands today, and fields move.",
         "notCounted": "We have not yet recorded which historians accept the mainstream account.",
         "inputsRecorded": [
           0,
@@ -572,7 +603,7 @@
         "valueText": "Medium uncertainty about the dates and places only; nothing else graded yet",
         "stateText": "1 of 3 recorded",
         "origin": "computed",
-        "counted": "How precisely the 19 Claims this Story cites are dated: to the year: 11; roughly: 6; to the century: 2; not tied to a date: 0; disputed or unknown: 0. The Event itself is dated c. 1572–1573 · approximate.",
+        "counted": "How precisely the 20 Claims this Story cites are dated: to the year: 11; roughly: 7; to the century: 2; not tied to a date: 0; disputed or unknown: 0. The Event itself is dated c. 1572–1573 · approximate.",
         "notCounted": "Nobody has yet assessed how things worked or who was involved.",
         "inputsRecorded": [
           1,

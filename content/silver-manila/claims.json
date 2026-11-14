@@ -150,7 +150,20 @@
           }
         ],
         "challenges": [],
-        "contextualizes": []
+        "contextualizes": [
+          {
+            "sourceId": "SB19",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 120 (Table 6)"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ]
       }
     },
     {
@@ -404,7 +417,20 @@
           }
         ],
         "challenges": [],
-        "contextualizes": []
+        "contextualizes": [
+          {
+            "sourceId": "SB19",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 127"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ]
       }
     },
     {
@@ -419,7 +445,7 @@
       "notes": "Quote: \"There are no gold or silver coins, but everything is sold by weight.\" and \"One peso [weight] of gold is worth four pesos of silver, according to their calculation.\"\nPage image: https://archive.org/details/philippineisland04blai/page/n56/mode/1up; https://archive.org/details/philippineisland04blai/page/n57/mode/1up",
       "confidence": {
         "level": "low",
-        "rationale": "Informants not named; a Spanish summary of Chinese money. Hold until B2."
+        "rationale": "Informants not named. Atwell (1982, pp. 82-83) and von Glahn (1996, pp. 114, 127-128) agree that China used uncoined silver by weight. Both put China's ratio at about 6 to 8 of silver for one of gold in Sande's time, and 4 to 5 two centuries earlier. Sande's \"four\" is not confirmed."
       },
       "independenceNote": "1 Source cited; lineage as recorded: Sande.",
       "editorialState": "draft",
@@ -722,7 +748,20 @@
           }
         ],
         "challenges": [],
-        "contextualizes": []
+        "contextualizes": [
+          {
+            "sourceId": "SB19",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 119"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ]
       }
     },
     {
@@ -976,6 +1015,423 @@
         ],
         "challenges": [],
         "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C24",
+      "claimClass": "Mainstream interpretation",
+      "sensitive": false,
+      "wording": "Historians of the silver trade generally explain the Manila trade by China's demand for silver. Silver was worth more in Ming China than anywhere else. Spanish America produced it at low cost. From 1571 Manila gave the two a direct meeting place. Flynn and Giráldez (1995), Atwell (1982) and von Glahn (1996) all explain it this way.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "from 1571 · approximate"
+      },
+      "notes": "Quote: \"it was the elevated value of silver inside China that created the opportunities for profit around the globe\" (Flynn and Giráldez 1995, p. 206); \"Manila was the crucial entrepôt linking substantial, direct, and continuous trade between America and Asia for the first time in history.\" (Flynn and Giráldez 1995, p. 201); \"Silver poured into China because the Chinese market valued it more highly than anywhere else in the world\" (von Glahn, *Fountain of Fortune*, ch. 4, p. 133); \"foreign traders found the Chinese demand for silver almost insatiable\" (Atwell 1982, p. 79)\nPage image: web entry, no page scan (JSTOR PDF and book chapter; check: Read)\nField: this is the view of world historians and historians of Chinese money.",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that these three say this. It is an interpretation."
+      },
+      "independenceNote": "Three Sources, all later scholarship, and not independent of each other. Flynn and Giráldez (1995, p. 206) name Atwell as the main earlier voice.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 206; p. 201"
+            },
+            "citation": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SB19",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 133"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SB17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 79"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C25",
+      "claimClass": "Mainstream interpretation",
+      "sensitive": false,
+      "wording": "The same historians say Manila was not China's main supplier at first. Until at least the 1570s China's main source of foreign silver was Japan. Von Glahn writes that the silver reaching China from the Philippines before 1600 was less than what came from Japan, though still considerable. He adds that Chinese merchants first brought the new colony food, iron and other supplies.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1571 to 1600 · approximate"
+      },
+      "notes": "Quote: \"From the 1530s until at least the 1570s, China's primary source of foreign silver was western Japan\" (Atwell 1982, p. 68); \"The quantity of silver imported into China from the Philippines during this period, though less than Japanese imports, nonetheless was considerable.\" (von Glahn, *Fountain of Fortune*, ch. 4, p. 134); \"Chinese merchants quickly seized the opportunity to supply the isolated Spanish colony with foodstuffs, iron, and other necessities\" (von Glahn, ch. 4, p. 118); \"Japan may have been the primary exporter of silver to China in the late sixteenth and early seventeenth centuries\" (Flynn and Giráldez 1995, p. 202)\nPage image: web entry, no page scan (JSTOR PDF and book chapter; check: Read; Flynn and Giráldez p. 202: Image)",
+      "confidence": {
+        "level": "high",
+        "rationale": "Three authors agree on the ranking. No author read gives a figure for the 1570s: von Glahn's only total covers 1572 to 1600 and is built from records of 1586 and after (ch. 4, pp. 134-135)."
+      },
+      "independenceNote": "Three Sources, all later scholarship. Flynn and Giráldez name Atwell as an earlier voice (1995, p. 206).",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 68"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SB19",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 134; p. 118"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SB14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 202"
+            },
+            "citation": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C26",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Flynn and Giráldez argue that world trade began in 1571, the year Manila was founded, because Manila gave America and Asia their first direct and lasting trade link.",
+      "temporal": {
+        "precision": "year",
+        "label": "1571 · year"
+      },
+      "notes": "Quote: \"Truly global trade dates from the founding of the city of Manila in 1571\" (Flynn and Giráldez 1995, p. 214); \"We propose that globalisation began when the Old World became directly connected with the Americas in 1571 via Manila.\" (Flynn and Giráldez 2004, p. 82)\nPage image: web entry, no page scan (JSTOR PDF; check: Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that they argue it. It is their thesis. Atwell and von Glahn do not date globalisation to 1571. Von Glahn writes only that \"During the sixteenth century the first truly global economy came into being\" (ch. 4, p. 113). Challenged by: O'Rourke and Williamson 2004, p. 109 (see M-C27)."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Flynn and Giráldez.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 214"
+            },
+            "citation": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SB15",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 82"
+            },
+            "citation": "Dennis O. Flynn and Arturo Giráldez, \"Path dependence, time lags and the birth of globalisation: A critique of O'Rourke and Williamson\", *European Review of Economic History* 8:1 (April 2004), 81–108.",
+            "form": "Scholarship (journal article, a reply)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [
+          {
+            "sourceId": "SB16",
+            "stance": "challenges",
+            "locator": {
+              "status": "verified",
+              "text": "p. 109"
+            },
+            "citation": "Kevin H. O'Rourke and Jeffrey G. Williamson, \"Once more: When did globalisation begin?\", *European Review of Economic History* 8:1 (April 2004), 109–117.",
+            "form": "Scholarship (journal article, a reply)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C27",
+      "claimClass": "Credible alternative",
+      "sensitive": false,
+      "wording": "Kevin O'Rourke and Jeffrey Williamson (2002, 2004) do not deny that silver crossed the Pacific. They argue it was not yet globalisation. For them globalisation means markets joining up, and the sign of it is prices for the same goods moving closer together across the world. They find very little of that before the nineteenth century.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "written 2002 to 2004 · approximate"
+      },
+      "notes": "Quote: \"Globalisation became economically meaningful only with the dawn of the nineteenth century\" (p. 109); \"or with 1571 and the arrival in Manila of those stately galleons from Mexico\" (p. 109); \"there is very little evidence of world commodity price convergence in the three centuries after Columbus\" (p. 113). All O'Rourke and Williamson 2004. Challenged by Flynn and Giráldez 2004, p. 87: \"silver prices did in fact converge worldwide, not once but twice\". De Vries 2010, p. 719, note 34: \"the lack of substantial and lasting convergence between European and Asian silver prices\".\nPage image: web entry, no page scan (JSTOR PDF; check: Read; de Vries note 34: Image)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that they say it. Their 2002 articles are not among the Sources we have read. The 2004 reply restates the case, and Flynn and Giráldez quote the 2002 text at length (2004, pp. 81, 91). Flynn and Giráldez answer that silver prices converged worldwide, by 1640 and again about 1750. On that point de Vries sides against Flynn and Giráldez."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: O'Rourke and Williamson.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "the world trade of the early modern period · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB16",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 109; p. 113"
+            },
+            "citation": "Kevin H. O'Rourke and Jeffrey G. Williamson, \"Once more: When did globalisation begin?\", *European Review of Economic History* 8:1 (April 2004), 109–117.",
+            "form": "Scholarship (journal article, a reply)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [
+          {
+            "sourceId": "SB15",
+            "stance": "challenges",
+            "locator": {
+              "status": "verified",
+              "text": "p. 87"
+            },
+            "citation": "Dennis O. Flynn and Arturo Giráldez, \"Path dependence, time lags and the birth of globalisation: A critique of O'Rourke and Williamson\", *European Review of Economic History* 8:1 (April 2004), 81–108.",
+            "form": "Scholarship (journal article, a reply)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "contextualizes": [
+          {
+            "sourceId": "SB18",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 719, note 34"
+            },
+            "citation": "Jan de Vries, \"The limits of globalization in the early modern world\", *Economic History Review* 63:3 (August 2010), 710–733.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M-C28",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "O'Rourke and Williamson say their work does not deal with silver flows, and that they take no position on whether Chinese demand drove them. They say they lack the Asian price evidence that would test how far China shaped the trade.",
+      "temporal": {
+        "precision": "year",
+        "label": "written 2004 · year"
+      },
+      "notes": "Quote: \"Our work does not deal with specie flows and treasure.\" (p. 116); \"While we do not have a position on this issue\" (p. 116); \"for that we would need Asian relative price evidence, which we currently lack\" (p. 117). All O'Rourke and Williamson 2004.\nPage image: web entry, no page scan (JSTOR PDF; check: Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high. This Claim is what keeps the pair honest: the two sides are not arguing about the same thing."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: O'Rourke and Williamson.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "the silver trade between the Americas and Asia · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB16",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 116; p. 117"
+            },
+            "citation": "Kevin H. O'Rourke and Jeffrey G. Williamson, \"Once more: When did globalisation begin?\", *European Review of Economic History* 8:1 (April 2004), 109–117.",
+            "form": "Scholarship (journal article, a reply)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C29",
+      "claimClass": "Credible alternative",
+      "sensitive": false,
+      "wording": "Jan de Vries (2010) takes a third line. He accepts that lasting contact between the continents began in the sixteenth century and calls it 'soft globalization'. He denies it was 'hard globalization', because prices did not come together. His figures are for the sea route between Europe and Asia round the Cape, not for the Pacific.",
+      "temporal": {
+        "precision": "year",
+        "label": "written 2010 · year"
+      },
+      "notes": "Quote: \"This was an age of soft globalization, not of hard globalization.\" (p. 731); \"in what follows I will focus on intercontinental trade between Europe and Asia\" (p. 715); \"approximately 450 European ships crossed the Pacific, the vast majority being the annual Spanish sailing between Acapulco and Manila, begun in 1571\" (p. 717, note 27). All de Vries 2010.\nPage image: web entry, no page scan (JSTOR PDF; check: p. 715 Read; pp. 731 and 717 Image)",
+      "confidence": {
+        "level": "high",
+        "rationale": "High that he says it. Low as evidence about Manila: he measures another route. He also calls Williamson and Lindert's picture of rich monopoly companies \"almost certainly false\" as a general rule (p. 725), so he is not a second voice for O'Rourke and Williamson."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: de Vries.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "the sea route between Europe and Asia round the Cape · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB18",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 731; p. 715; p. 717, note 27"
+            },
+            "citation": "Jan de Vries, \"The limits of globalization in the early modern world\", *Economic History Review* 63:3 (August 2010), 710–733.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "M-C30",
+      "claimClass": "Disputed",
+      "sensitive": false,
+      "wording": "How much silver crossed the Pacific around 1600 is disputed. Spanish reports of the time gave very large sums. Atwell (1982) says it is a matter for debate whether they can be believed. Von Glahn (1996) calls the yearly sum in those reports far-fetched, but says Manila's customs records greatly understate the real flow. None of these figures is for the 1570s.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1600 · approximate"
+      },
+      "notes": "Quote: \"Whether these enormous figures can be believed or not remains a matter for some debate.\" (Atwell 1982, p. 74); \"far-fetched\" and \"without doubt greatly underestimates\" (von Glahn, *Fountain of Fortune*, ch. 4, p. 138); \"Using the Blair and Robertson collection of primary sources, Chuan (1969, p. 79) estimates that at least 50 tons of silver\" (Flynn and Giráldez 1995, p. 204)\nPage image: web entry, no page scan (JSTOR PDF and book chapter; check: Read)\nFigures in play, for the notes only: reports of 5 million pesos a year and 12 million in 1597 (Flynn and Giráldez 1995, p. 204; Atwell, p. 74); Chuan's 50 tons a year for the seventeenth century.",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the dispute exists. No number goes in the wording."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Atwell; von Glahn; Flynn and Giráldez.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "across the Pacific, Acapulco to Manila · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SB17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 74"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SB19",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 138"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "SB14",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 204"
+            },
+            "citation": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ]
       }
     }
   ]

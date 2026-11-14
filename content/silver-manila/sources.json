@@ -321,6 +321,178 @@
         "recorded": true
       },
       "editorialState": "draft"
+    },
+    {
+      "id": "SB14",
+      "record": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/20078638",
+      "perspective": "Two economic historians arguing a thesis: world trade began in 1571 and China's demand for silver drove it. They write against a Europe-centred account. Their Pacific figures come from other scholars (Chuan, TePaske, Barrett), not from their own archive work.",
+      "position": {
+        "proximity": "Appeared in 1995",
+        "category": "later scholarship",
+        "focus": "The world silver market from the sixteenth to the eighteenth century, with China as the main buyer.",
+        "note": "On p. 204 they say Chuan built his Manila estimate from Blair and Robertson, the collection our SB01 to SB13 come from. Two of their page references do not match their own reference list (Chuan 1969, p. 79; \"TePaske 1981\")."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML11"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB15",
+      "record": "Dennis O. Flynn and Arturo Giráldez, \"Path dependence, time lags and the birth of globalisation: A critique of O'Rourke and Williamson\", *European Review of Economic History* 8:1 (April 2004), 81–108.",
+      "form": "Scholarship (journal article, a reply)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/41377950",
+      "perspective": "The same two authors answering O'Rourke and Williamson by name. They restate the 1571 thesis and add ecology and population to the case. They quote their opponents' 2002 articles at length.",
+      "position": {
+        "proximity": "Appeared in 2004",
+        "category": "later scholarship",
+        "focus": "When globalisation began, argued against the price-convergence test.",
+        "note": "Same authors and same thesis as SB14; not a second witness."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML11"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB16",
+      "record": "Kevin H. O'Rourke and Jeffrey G. Williamson, \"Once more: When did globalisation begin?\", *European Review of Economic History* 8:1 (April 2004), 109–117.",
+      "form": "Scholarship (journal article, a reply)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/41377951",
+      "perspective": "Two economists who define globalisation as market integration and test it with prices. They say their work does not deal with silver flows and that they lack Asian price evidence.",
+      "position": {
+        "proximity": "Appeared in 2004",
+        "category": "later scholarship",
+        "focus": "Whether trade between continents before 1800 integrated markets, measured by commodity prices.",
+        "note": "A nine-page restatement. The evidence is in their two 2002 articles, which we have not read."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML12"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB17",
+      "record": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/650733",
+      "perspective": "A historian of Ming China. He reads the silver trade for what it did to China's economy and to the dynasty. His Manila material comes from Schurz (1939), Ch'üan Han-sheng, Blair and Robertson, and Morga.",
+      "position": {
+        "proximity": "Appeared in 1982",
+        "category": "later scholarship",
+        "focus": "Japanese and Spanish-American silver entering Ming China, and its effects there.",
+        "note": "His 1573 cargo sentence (p. 73) comes through Schurz and matches the list in SB02; it is not an independent witness. His ratio table (p. 82) is from P'eng Hsin-wei."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML2",
+          "ML4",
+          "ML11",
+          "ML13"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB18",
+      "record": "Jan de Vries, \"The limits of globalization in the early modern world\", *Economic History Review* 63:3 (August 2010), 710–733.",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/40929823",
+      "perspective": "An economic historian of Europe. He tests the globalisation claims against his own figures for the Cape route between Europe and Asia. The Pacific route is outside his data.",
+      "position": {
+        "proximity": "Appeared in 2010",
+        "category": "later scholarship",
+        "focus": "How much Europe-Asia trade by sea grew from 1501 to 1795, and why it stayed limited.",
+        "note": "Disagrees with both sides in part: \"soft\" globalisation yes, \"hard\" no."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML14"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB19",
+      "record": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/jj.5233106.10",
+      "perspective": "A historian of Chinese money, reading the silver trade from the Chinese side. His Manila figures come from Chaunu's customs series and TePaske; his Japan figures from Souza and Innes. He sets his own estimates below the ones most often quoted.",
+      "position": {
+        "proximity": "Appeared in 1996",
+        "category": "later scholarship",
+        "focus": "How foreign silver reached Ming China from 1550 to 1650, by which routes and in what amounts.",
+        "note": "The chapter's endnotes are not in our file. Its Manila series start in 1577 (ships) and 1586 (customs); it has no figure for 1573."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML4",
+          "ML13"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SB20",
+      "record": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 3, \"Coinage in the Dawning Age of Silver, 1435–1570\", pp. 83–112 (read pp. 83, 97, 112).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1525/9780520917453-006",
+      "perspective": "The same historian on China before Manila existed: how silver took over taxes and large payments while coin decayed. The chapter does not mention Manila.",
+      "position": {
+        "proximity": "Appeared in 1996",
+        "category": "later scholarship",
+        "focus": "Ming coin and uncoined silver from 1435 to 1570.",
+        "note": "The chapter's endnotes are not in our file, so its sources are not checked."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML13"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
     }
   ]
 }

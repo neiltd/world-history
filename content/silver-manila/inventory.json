@@ -81,7 +81,7 @@
             ]
           },
           {
-            "text": "No Source we have read says the money sent west left from this port.",
+            "text": "No primary Source we have read says the money sent west left from this port.",
             "claimIds": []
           },
           {
@@ -168,10 +168,10 @@
     "spatial": {
       "originText": "Spanish America · not place-bound · Mexico named in 1576, money from Mexico in 1586, Mexico and Peru by about 1602",
       "targetText": "Manila · settlement precision",
-      "routeStatement": "Money went west from New Spain to Manila. Governor Sande wrote in 1577 that reals, which are coins, came each year with the provisions until he arrived in 1575. Manila's citizens wrote in 1586 that rich men in Mexico sent large sums. In 1588 Governor Vera taxed the coin brought from New Spain. Morga, writing in 1609, says the king's chest in Mexico sent a yearly payment. No Source we have read gives the amount, the first year or the ship. Acapulco is drawn as the port the Manila ships used (Sande sailed from there in 1575); no Source says the money left from it. The Potosí link is not yet researched. No Source we have read ties Potosí silver to Acapulco or Manila in the 1570s or 1580s."
+      "routeStatement": "Money went west from New Spain to Manila. Governor Sande wrote in 1577 that reals, which are coins, came each year with the provisions until he arrived in 1575. Manila's citizens wrote in 1586 that rich men in Mexico sent large sums. In 1588 Governor Vera taxed the coin brought from New Spain. Morga, writing in 1609, says the king's chest in Mexico sent a yearly payment. No primary Source we have read gives the amount or the first year, and no Source names the ship. Acapulco is drawn as the port the Manila ships used (Sande sailed from there in 1575); no primary Source says the money left from it. The Potosí link is not yet researched. No primary Source we have read ties Potosí silver to Acapulco or Manila in the 1570s or 1580s."
     },
-    "interpretationClass": "Hypothesis",
-    "scholarlyStanding": "Not yet checked against modern scholarship. Every Source read for this Connection is a Spanish colonial writer or a 1918 article. To be set after the Chinese-money and trade-history reading (B2).",
+    "interpretationClass": "Mainstream interpretation",
+    "scholarlyStanding": "Checked against modern scholarship on 2026-11-12. Flynn and Giráldez (1995), Atwell (1982) and von Glahn (1996) explain the Manila trade by China's demand for silver, and all three place the large flows after the 1570s. O'Rourke and Williamson (2004) and de Vries (2010) dispute that this trade was globalisation. They do not dispute the trade.",
     "mechanismClaimIds": [
       "M-C05",
       "M-C06",
@@ -663,7 +663,11 @@
         }
       },
       "lineageLabels": {
-        "L5": "colonial administrative and fiscal records (no single Source record)"
+        "L5": "colonial administrative and fiscal records (no single Source record)",
+        "ML11": "Ch'üan Han-sheng's Manila estimates, built on Blair and Robertson",
+        "ML12": "O'Rourke and Williamson's price and trade-growth series (their 2002 articles)",
+        "ML13": "Chinese monetary scholarship after P'eng Hsin-wei",
+        "ML14": "de Vries's Cape-route shipping series"
       },
       "sourcePosition": {
         "labels": {
@@ -740,7 +744,7 @@
         },
         {
           "heading": "Why Acapulco is drawn",
-          "note": "Sande sailed from Acapulco in 1575. No Source says the money left from there.",
+          "note": "Sande sailed from Acapulco in 1575. No primary Source says the money left from there.",
           "claimIds": [
             "M-C22"
           ]
@@ -877,7 +881,7 @@
       "id": "gap-potosi-acapulco",
       "fromEntityId": "e-potosi",
       "toEntityId": "e-acapulco",
-      "statement": "The Potosí link is not yet researched. Potosí was the biggest silver mine in Spanish America, and Acosta wrote around 1590 that a third to a half of its silver was never registered. But no Source we have read ties Potosí silver to Acapulco or Manila in the 1570s or 1580s.",
+      "statement": "The Potosí link is not yet researched. Potosí was the biggest silver mine in Spanish America, and Acosta wrote around 1590 that a third to a half of its silver was never registered. But no primary Source we have read ties Potosí silver to Acapulco or Manila in the 1570s or 1580s.",
       "keyText": "Potosí to Acapulco: not yet researched",
       "editorialState": "draft"
     }
@@ -894,7 +898,7 @@
         "what": "Money sent west from New Spain",
         "notKnown": "amount and first year not known"
       },
-      "notKnownStatement": "No Source we have read gives the amount, the first year or the ship. Acapulco is drawn as the port the Manila ships used (Sande sailed from there in 1575); no Source says the money left from it.",
+      "notKnownStatement": "No primary Source we have read gives the amount or the first year, and no Source names the ship. Acapulco is drawn as the port the Manila ships used (Sande sailed from there in 1575); no primary Source says the money left from it.",
       "claimIds": [
         "M-C18",
         "M-C19",
@@ -938,7 +942,7 @@
           ]
         },
         {
-          "text": "No source we have read records a payment, its size, or a mine.",
+          "text": "No primary source we have read records a payment, its size, or a mine.",
           "claimIds": []
         }
       ]
@@ -949,6 +953,17 @@
         {
           "text": "The Potosí link is not yet researched.",
           "claimIds": []
+        }
+      ]
+    },
+    {
+      "id": "wwdk-silver-amount",
+      "segments": [
+        {
+          "text": "How much silver crossed the Pacific around 1600 is disputed. Spanish reports of the time gave very large sums. Atwell (1982) says it is a matter for debate whether they can be believed. Von Glahn (1996) calls the yearly sum in those reports far-fetched, but says Manila's customs records greatly understate the real flow. None of these figures is for the 1570s.",
+          "claimIds": [
+            "M-C30"
+          ]
         }
       ]
     }
