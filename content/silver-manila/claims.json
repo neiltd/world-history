@@ -1026,7 +1026,7 @@
         "precision": "approximate",
         "label": "from 1571 · approximate"
       },
-      "notes": "Quote: \"it was the elevated value of silver inside China that created the opportunities for profit around the globe\" (Flynn and Giráldez 1995, p. 206); \"Manila was the crucial entrepôt linking substantial, direct, and continuous trade between America and Asia for the first time in history.\" (Flynn and Giráldez 1995, p. 201); \"Silver poured into China because the Chinese market valued it more highly than anywhere else in the world\" (von Glahn, *Fountain of Fortune*, ch. 4, p. 133); \"foreign traders found the Chinese demand for silver almost insatiable\" (Atwell 1982, p. 79)\nPage image: web entry, no page scan (JSTOR PDF and book chapter; check: Read)\nField: this is the view of world historians and historians of Chinese money.",
+      "notes": "Quote: \"it was the elevated value of silver inside China that created the opportunities for profit around the globe\" (Flynn and Giráldez 1995, p. 206); \"Manila was the crucial entrepôt linking substantial, direct, and continuous trade between America and Asia for the first time in history.\" (Flynn and Giráldez 1995, p. 201); \"render Spanish American mines the world's lowest cost sources of silver\" (Flynn and Giráldez 1995, p. 209); \"Silver poured into China because the Chinese market valued it more highly than anywhere else in the world\" (von Glahn, *Fountain of Fortune*, ch. 4, p. 133); \"foreign traders found the Chinese demand for silver almost insatiable\" (Atwell 1982, p. 79)\nPage image: web entry, no page scan (JSTOR PDF and book chapter; check: Read)\nField: this is the view of world historians and historians of Chinese money.",
       "confidence": {
         "level": "high",
         "rationale": "high that these three say this. It is an interpretation."
@@ -1048,7 +1048,7 @@
             "stance": "supports",
             "locator": {
               "status": "verified",
-              "text": "p. 206; p. 201"
+              "text": "p. 206; p. 201; p. 209"
             },
             "citation": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
             "form": "Scholarship (journal article)",
@@ -1290,7 +1290,7 @@
       "id": "M-C28",
       "claimClass": "Supported fact",
       "sensitive": false,
-      "wording": "O'Rourke and Williamson say their work does not deal with silver flows, and that they take no position on whether Chinese demand drove them. They say they lack the Asian price evidence that would test how far China shaped the trade.",
+      "wording": "O'Rourke and Williamson say their work does not deal with silver flows, and that they take no position on whether Chinese demand drove them. They say that testing China's part in the trade would need relative prices from inside Asia, which they do not have.",
       "temporal": {
         "precision": "year",
         "label": "written 2004 · year"
@@ -1329,7 +1329,7 @@
     },
     {
       "id": "M-C29",
-      "claimClass": "Credible alternative",
+      "claimClass": "Supported fact",
       "sensitive": false,
       "wording": "Jan de Vries (2010) takes a third line. He accepts that lasting contact between the continents began in the sixteenth century and calls it 'soft globalization'. He denies it was 'hard globalization', because prices did not come together. His figures are for the sea route between Europe and Asia round the Cape, not for the Pacific.",
       "temporal": {

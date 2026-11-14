@@ -508,9 +508,11 @@
       }
     },
     "editorialStateLine": "Draft · not yet editorially reviewed",
+    "editorialWhyLine": "Why: {rationale}",
     "editorialStates": {
       "draft": "Draft · not yet editorially reviewed",
       "in-review": "In editorial review · not yet editorially reviewed",
+      "checked": "Checked against the Source by the editors · {decidedOn}",
       "disputed": "Editorial dispute open · not yet editorially reviewed",
       "reviewed": "Reviewed · {decidedOn}",
       "published": "Published · reviewed {decidedOn}"
@@ -691,7 +693,8 @@
           "root": "None recorded: this is a starting point.",
           "derived": "{names}.",
           "notRecorded": "Not recorded yet; an editor still has to trace it.",
-          "unchecked": "As recorded; not yet checked by an editor."
+          "unchecked": "As recorded; not yet checked by an editor.",
+          "checked": "As recorded; checked by the editors."
         },
         "notRecorded": "not recorded"
       }

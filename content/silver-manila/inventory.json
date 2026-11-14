@@ -171,7 +171,7 @@
       "routeStatement": "Money went west from New Spain to Manila. Governor Sande wrote in 1577 that reals, which are coins, came each year with the provisions until he arrived in 1575. Manila's citizens wrote in 1586 that rich men in Mexico sent large sums. In 1588 Governor Vera taxed the coin brought from New Spain. Morga, writing in 1609, says the king's chest in Mexico sent a yearly payment. No primary Source we have read gives the amount or the first year, and no Source names the ship. Acapulco is drawn as the port the Manila ships used (Sande sailed from there in 1575); no primary Source says the money left from it. The Potosí link is not yet researched. No primary Source we have read ties Potosí silver to Acapulco or Manila in the 1570s or 1580s."
     },
     "interpretationClass": "Mainstream interpretation",
-    "scholarlyStanding": "Checked against modern scholarship on 2026-11-12. Flynn and Giráldez (1995), Atwell (1982) and von Glahn (1996) explain the Manila trade by China's demand for silver, and all three place the large flows after the 1570s. O'Rourke and Williamson (2004) and de Vries (2010) dispute that this trade was globalisation. They do not dispute the trade.",
+    "scholarlyStanding": "Checked against modern scholarship on 2026-11-12. Flynn and Giráldez (1995), Atwell (1982) and von Glahn (1996) explain the Manila trade by China's demand for silver, and all three place the large flows after the 1570s. O'Rourke and Williamson (2004) dispute that this trade was globalisation. De Vries (2010) calls it 'soft globalization' but not 'hard globalization'. None of them disputes the trade.",
     "mechanismClaimIds": [
       "M-C05",
       "M-C06",
@@ -499,9 +499,11 @@
       }
     },
     "editorialStateLine": "Draft · not yet editorially reviewed",
+    "editorialWhyLine": "Why: {rationale}",
     "editorialStates": {
       "draft": "Draft · not yet editorially reviewed",
       "in-review": "In editorial review · not yet editorially reviewed",
+      "checked": "Checked against the Source by the editors · {decidedOn}",
       "disputed": "Editorial dispute open · not yet editorially reviewed",
       "reviewed": "Reviewed · {decidedOn}",
       "published": "Published · reviewed {decidedOn}"
@@ -686,7 +688,8 @@
           "root": "None recorded: this is a starting point.",
           "derived": "{names}.",
           "notRecorded": "Not recorded yet; an editor still has to trace it.",
-          "unchecked": "As recorded; not yet checked by an editor."
+          "unchecked": "As recorded; not yet checked by an editor.",
+          "checked": "As recorded; checked by the editors."
         },
         "notRecorded": "not recorded"
       }
