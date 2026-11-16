@@ -1,0 +1,887 @@
+{
+  "id": "the-spring-ships",
+  "title": "The spring ships",
+  "learnerQuestion": "Who sailed into Manila each spring around 1602, what did they bring and what did they take home, and how much silver went with them?",
+  "sensitiveContentNotice": "One part of this Story, \"The massacre of 1603\", describes the killing of many Chinese residents of Manila, and people forced to row in a war fleet.",
+  "sensitive": true,
+  "header": {
+    "whenLine": "1602 view · Events c. 1589–1604 · approximate",
+    "whereLine": "Manila",
+    "whereLineClaimIds": [
+      "MR-C01"
+    ]
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "paragraphs": [
+        [
+          {
+            "text": "Every spring the ships came in from China.",
+            "claimIds": [
+              "MR-C01"
+            ]
+          },
+          {
+            "text": "Morga, writing in 1609, said that thirty usually came each year, and sometimes forty, most often at the new moon of March.",
+            "claimIds": [
+              "MR-C01"
+            ]
+          },
+          {
+            "text": "They made the crossing in fifteen or twenty days, and sailed home before the gales at the end of May.",
+            "claimIds": [
+              "MR-C01"
+            ]
+          },
+          {
+            "text": "The count historians use for 1602 has eighteen Chinese ships, not thirty.",
+            "claimIds": [
+              "MR-C02"
+            ]
+          },
+          {
+            "text": "No Source we have read explains the difference.",
+            "claimIds": []
+          },
+          {
+            "text": "What those ships carried, what they took home, and how much of it there was, is the Story.",
+            "claimIds": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": "orient",
+      "paragraphs": [
+        [
+          {
+            "text": "Morga wrote that the ships carried the great merchants who owned the goods, their servants, and agents for other merchants who stayed in China.",
+            "claimIds": [
+              "MR-C03"
+            ]
+          },
+          {
+            "text": "They came with leave from their own officials. In 1589 the Ming court had fixed the number of ship licences, and sixteen were for Luzon.",
+            "claimIds": [
+              "MR-C03",
+              "MR-C20",
+              "MR-C32"
+            ]
+          },
+          {
+            "text": "Once a cargo had been listed and valued, it was taken to the Chinese quarter (the Parián) or to other warehouses outside the city, and sold there freely.",
+            "claimIds": [
+              "MR-C04"
+            ]
+          },
+          {
+            "text": "Historians agree that the Chinese of Manila had grown from about forty people in 1570 to many thousands by 1600.",
+            "claimIds": [
+              "MR-C05"
+            ]
+          },
+          {
+            "text": "They do not agree on how many.",
+            "claimIds": [
+              "MR-C05"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "connect",
+      "paragraphs": [
+        [
+          {
+            "text": "Morga listed what the ships brought. Raw silk came first, then velvets and brocades.",
+            "claimIds": [
+              "MR-C06"
+            ]
+          },
+          {
+            "text": "The list runs on to fine crockery, furniture, and caged birds, some that talked and some that sang.",
+            "claimIds": [
+              "MR-C06"
+            ]
+          },
+          {
+            "text": "What went back was silver. Morga says the Chinese traders were paid in silver and reals, because they wanted neither gold nor other goods.",
+            "claimIds": [
+              "MR-C31"
+            ]
+          },
+          {
+            "text": "A Chinese official said the same. In 1604 the governor of Fujian, Xu Xueju, wrote that his people traded at Luzon only for the silver coins to be had there.",
+            "claimIds": [
+              "MR-C07"
+            ]
+          },
+          {
+            "text": "We have his words in a historian's translation.",
+            "claimIds": [
+              "MR-C07"
+            ]
+          },
+          {
+            "text": "On each cargo the king's officers took three per cent.",
+            "claimIds": [
+              "MR-C08"
+            ]
+          }
+        ]
+      ],
+      "connectionId": "cn-fujian-ships-trade-silk-for-silver-at-manila"
+    },
+    {
+      "id": "complicate",
+      "paragraphs": [
+        [
+          {
+            "text": "The crown set a limit. Morga wrote that no more than five hundred thousand in coin was to be sent from New Spain to the Philippines each year.",
+            "claimIds": [
+              "MR-C09"
+            ]
+          },
+          {
+            "text": "It was not kept. About 1602 a Manila lawyer, Fernández de Castro, wrote that the royal decrees limiting the trade were not observed.",
+            "claimIds": [
+              "MR-C10"
+            ]
+          },
+          {
+            "text": "Citizens of Mexico and Peru, he wrote, brought over so much money that Manila's own citizens were crowded out of the ships.",
+            "claimIds": [
+              "MR-C10"
+            ]
+          },
+          {
+            "text": "Most of the money on record was private. Of the silver registered at Acapulco for the Philippines in 1601 to 1610, about three-quarters was private money and a quarter the king's.",
+            "claimIds": [
+              "MR-C14"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "resolve",
+      "paragraphs": [
+        [
+          {
+            "text": "How much silver was it? The figures do not agree.",
+            "claimIds": [
+              "MR-C12",
+              "MR-C13"
+            ]
+          },
+          {
+            "text": "In 1586 an official at Manila, Pedro de Rojas, told the king that three hundred thousand pesos went to China every year, and more than five hundred thousand that year.",
+            "claimIds": [
+              "MR-C15"
+            ]
+          },
+          {
+            "text": "In 1602 the city council of Mexico City claimed five million pesos a year, and twelve million in 1597.",
+            "claimIds": [
+              "MR-C12"
+            ]
+          },
+          {
+            "text": "The historians who report this warn that no other source confirms it, and that the council may have exaggerated for its own ends.",
+            "claimIds": [
+              "MR-C12"
+            ]
+          },
+          {
+            "text": "Manila's customs duties point to about one million pesos a year leaving on Chinese ships in 1601 to 1605.",
+            "claimIds": [
+              "MR-C13"
+            ]
+          },
+          {
+            "text": "The historian who worked that out thinks the true figure could be three or four times as much, because so much went unrecorded.",
+            "claimIds": [
+              "MR-C13"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Historians of the silver trade explain all this by China's demand for silver: it was worth more in Ming China than anywhere else.",
+            "claimIds": [
+              "MR-C33"
+            ]
+          },
+          {
+            "text": "That is the mainstream explanation, and it is an interpretation. The Claim beneath each sentence says whose voice it rests on.",
+            "claimIds": []
+          }
+        ],
+        [
+          {
+            "text": "One thread runs back to Potosí. A historian of the town writes that a description made in 1603 counted twenty-four shops for European dry goods, and that such shops also sold Chinese silk.",
+            "claimIds": [
+              "MR-C17"
+            ]
+          },
+          {
+            "text": "It shows Chinese goods at Potosí. It does not show Potosí silver at Manila.",
+            "claimIds": [
+              "MR-C17"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "accounts",
+      "paragraphs": [
+        [
+          {
+            "text": "In October 1603 there was fighting at Manila between Chinese residents and the Spaniards.",
+            "claimIds": [
+              "MR-C21"
+            ]
+          },
+          {
+            "text": "It ended in the killing of very many of the Chinese of Manila, by Spanish soldiers and by the Japanese and Philippine troops who fought beside them.",
+            "claimIds": [
+              "MR-C21"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Spanish and Chinese records tell the same events in the same order.",
+            "claimIds": [
+              "MR-C21"
+            ]
+          },
+          {
+            "text": "They do not read them the same way.",
+            "claimIds": [
+              "MR-C23",
+              "MR-C24"
+            ]
+          },
+          {
+            "text": "Both name one visit as what set off the Spaniards' fear of an invasion: in May 1603 three Ming officials came to Manila to look for a mountain said to yield gold.",
+            "claimIds": [
+              "MR-C25"
+            ]
+          },
+          {
+            "text": "The Chinese records begin their account ten years earlier.",
+            "claimIds": [
+              "MR-C28"
+            ]
+          },
+          {
+            "text": "In 1593 two hundred and fifty Chinese were forced to row in a Spanish war fleet; they mutinied and killed the governor.",
+            "claimIds": [
+              "MR-C28"
+            ]
+          }
+        ]
+      ],
+      "sensitiveNotice": "This part describes the killing of Chinese residents of Manila in 1603, and people forced to row in a war fleet in 1593.",
+      "accounts": {
+        "voices": [
+          {
+            "id": "spanish",
+            "label": "Spanish records"
+          },
+          {
+            "id": "chinese",
+            "label": "Chinese records, in Borao's translation"
+          }
+        ],
+        "rows": [
+          {
+            "id": "started",
+            "label": "What started it",
+            "cells": [
+              [
+                {
+                  "text": "The Spanish writers say the Chinese of Manila rose.",
+                  "claimIds": [
+                    "MR-C23"
+                  ]
+                },
+                {
+                  "text": "Archbishop Benavides wrote that a rumour had spread among them that the Spaniards meant to kill them all.",
+                  "claimIds": [
+                    "MR-C23"
+                  ]
+                }
+              ],
+              [
+                {
+                  "text": "The Chinese records say the Spaniards prepared the killing.",
+                  "claimIds": [
+                    "MR-C24"
+                  ]
+                },
+                {
+                  "text": "They say the Chinese fled when they learned of a plan to kill them.",
+                  "claimIds": [
+                    "MR-C24"
+                  ]
+                }
+              ]
+            ],
+            "thirdVoice": {
+              "label": "A historian's reading",
+              "segments": [
+                {
+                  "text": "José Eugenio Borao, who set the Spanish and Chinese records side by side, writes that the reasons for the uprising remain unclear.",
+                  "claimIds": [
+                    "MR-C29"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "measures",
+            "label": "The measures taken",
+            "cells": [
+              [
+                {
+                  "text": "Governor Acuña wrote that he had a ditch dug where the Chinese quarter (the Parián) stood, along the whole front from the river to the sea.",
+                  "claimIds": [
+                    "MR-C18"
+                  ]
+                }
+              ],
+              [
+                {
+                  "text": "They say the Spaniards bought up the iron the Chinese owned, and made them register their names in groups of three hundred.",
+                  "claimIds": [
+                    "MR-C24"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "id": "blamed",
+            "label": "Who was blamed",
+            "cells": [
+              [
+                {
+                  "text": "Governor Acuña told the king it had been stirred up from China.",
+                  "claimIds": [
+                    "MR-C23"
+                  ]
+                }
+              ],
+              [
+                {
+                  "text": "The Chinese records put the first blame on one of their own, Zhang Yi.",
+                  "claimIds": [
+                    "MR-C24"
+                  ]
+                },
+                {
+                  "text": "The Ming emperor, in the official history, said that the governor of Luzon had killed people without leave.",
+                  "claimIds": [
+                    "MR-C26"
+                  ]
+                }
+              ]
+            ],
+            "thirdVoice": {
+              "label": "A historian's reading",
+              "segments": [
+                {
+                  "text": "A historian notes that the testimony behind the governor's charge was taken under torture.",
+                  "claimIds": [
+                    "MR-C23"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "killed",
+            "label": "How many were killed",
+            "classBadgeClaimId": "MR-C22",
+            "cells": [
+              [],
+              [
+                {
+                  "text": "The official history of the Ming gives twenty-five thousand in one place and twenty thousand in another.",
+                  "claimIds": [
+                    "MR-C22"
+                  ]
+                },
+                {
+                  "text": "A second Chinese work speaks of ten thousand killed in a single ambush.",
+                  "claimIds": [
+                    "MR-C22"
+                  ]
+                }
+              ]
+            ],
+            "emptyCellText": [
+              "No count of the dead from the Spanish records is in the Sources we have read.",
+              null
+            ],
+            "thirdVoice": {
+              "label": "A historian's reading",
+              "segments": [
+                {
+                  "text": "The historian José Eugenio Borao writes 'some 20,000'.",
+                  "claimIds": [
+                    "MR-C22"
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "followed",
+            "label": "What followed",
+            "cells": [
+              [
+                {
+                  "text": "The Spanish account has thirteen ships from China at Manila in May 1604.",
+                  "claimIds": [
+                    "MR-C27"
+                  ]
+                }
+              ],
+              [
+                {
+                  "text": "The governor of Fujian, Xu Xueju, wrote to Manila demanding that the widows and children of the dead be sent home.",
+                  "claimIds": [
+                    "MR-C26"
+                  ]
+                },
+                {
+                  "text": "China sent no fleet.",
+                  "claimIds": [
+                    "MR-C26"
+                  ]
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      "provenanceLine": [
+        {
+          "text": "The Chinese records reach us through one historian, José Eugenio Borao, who translated them. So do the Spanish records here, except one letter of the governor's, which we read in Blair and Robertson's translation.",
+          "claimIds": []
+        }
+      ],
+      "closingParagraphs": [
+        [
+          {
+            "text": "The customs count has fifteen ships from China at Manila for 1604.",
+            "claimIds": [
+              "MR-C27"
+            ]
+          },
+          {
+            "text": "Xu Xueju is the same official who wrote, in 1604, that his people went to Luzon only for the silver.",
+            "claimIds": [
+              "MR-C07",
+              "MR-C26"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "next",
+      "paragraphs": [
+        [
+          {
+            "text": "**Not yet researched.** This Story stops in 1604, when the ships came back. What the trade became after that, what the silver did in China, and what Chinese goods did in Mexico and Peru have not been researched, so none is offered as a researched path. When a path is researched, it will appear here with its own Claims and Evidence.",
+            "claimIds": []
+          }
+        ]
+      ]
+    }
+  ],
+  "mainstreamAccountClaimId": "MR-C33",
+  "momentLinks": [
+    {
+      "momentId": "manila",
+      "label": "Another moment: Manila, 1573",
+      "honestyLine": "The same port, twenty-nine years apart. No researched Connection joins the two Stories. They share some Sources, Morga among them."
+    },
+    {
+      "momentId": "potosi",
+      "label": "Another moment: Potosí, 1573",
+      "honestyLine": "No researched Connection joins these two Stories. The Potosí link is not yet researched."
+    }
+  ],
+  "editorialState": "draft",
+  "profile": {
+    "rulesVersion": "0.1-draft",
+    "mode": "draft-preview",
+    "statusLine": "Draft · not yet editorially reviewed. The counts below come from our working records; no historian has checked them yet. Rules version 0.1, draft.",
+    "warnings": [
+      {
+        "kind": "winner-dominated",
+        "name": "Evidence concentrated in colonial Sources",
+        "text": "Nearly every primary voice is a Spanish official. The Chinese voices are officials too, and reach us through translators.",
+        "basisClaimIds": [
+          "MR-C01",
+          "MR-C07",
+          "MR-C24"
+        ]
+      }
+    ],
+    "components": [
+      {
+        "id": "diversity",
+        "name": "Source diversity",
+        "asks": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "4 primary documents and 0 scholarly books, in 2 languages as recorded",
+        "valueText": "4 primary documents and 0 scholarly books, in 2 languages as recorded",
+        "stateText": "No number yet · 2 of 4 kinds of information recorded",
+        "origin": "computed",
+        "counted": "Kinds of document: Scholarship (journal article) 5, Primary document, letter 2, Scholarship (book chapter) 2, Primary document, court record, English translation by a named translator 1, Primary document, printed memorial 1, Primary narrative, English translation 1. Languages, as recorded: English 9, English (translated from Spanish) 3. Where each author stood: later scholarship 7, colonial state 3, colonial elite 1.",
+        "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
+        "inputsRecorded": [
+          2,
+          4
+        ],
+        "verified": [
+          0,
+          12
+        ],
+        "completeness": "2 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 12 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
+      },
+      {
+        "id": "independence",
+        "name": "Source independence",
+        "asks": "How many of the Sources actually stand on their own, rather than drawing on one another?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "12 supporting Sources, in 5 separate groups once you trace who drew on whom; 1 not yet traceable",
+        "valueText": "12 supporting Sources, in 5 separate groups once you trace who drew on whom; 1 not yet traceable",
+        "stateText": "No number yet · 11 of 12 Sources traced",
+        "origin": "computed",
+        "counted": "44 supporting citations across 30 Claims and the Connection, from 12 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "notCounted": "",
+        "inputsRecorded": [
+          11,
+          12
+        ],
+        "verified": [
+          0,
+          12
+        ],
+        "completeness": "We know what 11 of 12 Sources draw on; an editor has checked 0 of 12. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
+        "independence": {
+          "groups": [
+            {
+              "label": "Group A",
+              "sourceIds": [
+                "SR01",
+                "SR04",
+                "SR05",
+                "SR06",
+                "SR07",
+                "SR08",
+                "SR12"
+              ],
+              "text": "Group A — 7 Sources that draw on one another. Starting points: Antonio de Morga SR01. Drawing on them: Dennis O. Flynn and Arturo Giráldez SR04; William S. Atwell SR05; Richard von Glahn SR06; Ubaldo Iaccarino SR07; Arturo Giráldez and Dennis O. Flynn SR08; José Eugenio Borao SR12."
+            },
+            {
+              "label": "Group B",
+              "sourceIds": [
+                "SR02"
+              ],
+              "text": "Group B — 1 Source. Ming Shi-lu SR02."
+            },
+            {
+              "label": "Group C",
+              "sourceIds": [
+                "SR03"
+              ],
+              "text": "Group C — 1 Source. Alonso Fernández de Castro SR03."
+            },
+            {
+              "label": "Group D",
+              "sourceIds": [
+                "SR09"
+              ],
+              "text": "Group D — 1 Source. Pedro de Rojas to Felipe II SR09."
+            },
+            {
+              "label": "Group E",
+              "sourceIds": [
+                "SR11"
+              ],
+              "text": "Group E — 1 Source. Pedro de Acuña SR11."
+            }
+          ],
+          "notPlaced": [
+            {
+              "sourceId": "SR10",
+              "text": "Not placed — 1 Source. Kris Lane SR10: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            }
+          ],
+          "rows": [
+            {
+              "sourceId": "SR01",
+              "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+              "group": "Group A",
+              "claimCount": 7,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR04",
+              "citation": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+              "group": "Group A",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "SR05",
+              "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+              "group": "Group A",
+              "claimCount": 3,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "SR06",
+              "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+              "group": "Group A",
+              "claimCount": 10,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "SR07",
+              "citation": "Ubaldo Iaccarino, \"The 'Galleon System' and Chinese Trade in Manila at the Turn of the 16th Century\", *Ming Qing Yanjiu* 16 (2011), 95–128 (read pp. 95–96, 102–117, 121–122).",
+              "group": "Group A",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR08",
+              "citation": "Arturo Giráldez and Dennis O. Flynn, \"Arbitrage, China, and World Trade in the Early Modern Period\", *Journal of the Economic and Social History of the Orient* 38:4 (1995), 429–448 (read p. 435).",
+              "group": "Group A",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR12",
+              "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+              "group": "Group A",
+              "claimCount": 10,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "SR02",
+              "citation": "*Ming Shi-lu*, Wanli year 17, month 4, day 20 (2 June 1589), trans. Geoff Wade, *Southeast Asia in the Ming Shi-lu: an open access resource* (Singapore: Asia Research Institute and NUS Press).",
+              "group": "Group B",
+              "claimCount": 1,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR03",
+              "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated by Jose M. and Clara M. Asensio and Emma Helen Blair.",
+              "group": "Group C",
+              "claimCount": 1,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR09",
+              "citation": "Pedro de Rojas to Felipe II, Manila, 1586. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 6 (Cleveland, 1903), read p. 269. [The letter's day, its full page range and its translator are to be taken from its first page and the volume's front matter, not yet opened.]",
+              "group": "Group D",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR11",
+              "citation": "Pedro de Acuña, Governor of the Philippines, to the king, Manila, [18 December 1603, as Borao dates it (1998, p. 28)]. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 12 (Cleveland, 1904), read p. 154. [The letter's first page, its page range and its translator are to be taken from the volume, not yet opened.]",
+              "group": "Group E",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR10",
+              "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (Oakland: University of California Press, 2019), ch. 4, \"An Improbable Global City\", pp. 92–116 (read pp. 94, 96).",
+              "group": "not placed",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            }
+          ],
+          "byClaimSentence": "26 of the 30 Claims rest on a single group; 3 on two; 0 on three; for 1 we cannot tell (MR-C17). Forty-four citations are not forty-four confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+        }
+      },
+      {
+        "id": "coverage",
+        "name": "Perspective coverage",
+        "asks": "Of the viewpoints this Story needs, how many have evidence we can actually use?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "An editor has not yet listed which viewpoints this Story needs",
+        "valueText": "An editor has not yet listed which viewpoints this Story needs",
+        "stateText": "No number yet · 0 of 2 things in place",
+        "origin": "computed",
+        "counted": "Nothing yet. Until an editor lists the viewpoints this Story needs, there is nothing to measure against.",
+        "notCounted": "The standpoints we do have among the supporting Sources: colonial state, colonial elite, later scholarship.",
+        "inputsRecorded": [
+          0,
+          2
+        ],
+        "verified": [
+          0,
+          12
+        ],
+        "completeness": "0 of the 2 things this check needs are in place; an editor has checked 0 of 12 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
+      },
+      {
+        "id": "agreement",
+        "name": "Scholarly agreement",
+        "asks": "Do the historians who have studied this agree with one another?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Not assessed",
+        "valueText": "Not assessed",
+        "stateText": "0 of 2 recorded",
+        "origin": "computed",
+        "counted": "We have not yet recorded what different historians make of this Story. The one mainstream account (`MR-C33`) does not yet say which field it comes from or when it was made. Agreement among historians is not proof. It shows where the field stands today, and fields move.",
+        "notCounted": "We have not yet recorded which historians accept the mainstream account.",
+        "inputsRecorded": [
+          0,
+          2
+        ],
+        "completeness": "0 of 2 recorded."
+      },
+      {
+        "id": "uncertainty",
+        "name": "Historical uncertainty",
+        "asks": "How sure are we about the key dates and places, how things worked, and who was involved?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Medium uncertainty about the dates and places only; nothing else graded yet",
+        "valueText": "Medium uncertainty about the dates and places only; nothing else graded yet",
+        "stateText": "1 of 3 recorded",
+        "origin": "computed",
+        "counted": "How precisely the 30 Claims this Story cites are dated: to the year: 17; roughly: 6; to the century: 7; not tied to a date: 0; disputed or unknown: 0. The Event itself is dated c. 1589–1604 · approximate.",
+        "notCounted": "Nobody has yet assessed how things worked or who was involved.",
+        "inputsRecorded": [
+          1,
+          3
+        ],
+        "completeness": "1 of 3 recorded."
+      },
+      {
+        "id": "controversy",
+        "name": "Controversy",
+        "asks": "Is this account still being argued over, and does the argument change anything?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Not assessed",
+        "valueText": "Not assessed",
+        "stateText": "0 of 1 recorded",
+        "origin": "computed",
+        "counted": "Nobody has yet recorded whether this account is argued over. \"Not assessed\" does not mean \"low\".",
+        "notCounted": "No editor has yet assessed how actively it is disputed.",
+        "inputsRecorded": [
+          0,
+          1
+        ],
+        "completeness": "0 of 1 recorded."
+      },
+      {
+        "id": "missing",
+        "name": "Missing Voices",
+        "asks": "Who was involved or affected, but barely shows up in the evidence?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "4 voices listed · we are still looking",
+        "valueText": "4 voices listed · we are still looking",
+        "stateText": "editor's list",
+        "origin": "editorial",
+        "counted": "Each voice below says why it is missing and which Claims it bears on.",
+        "notCounted": "A voice is listed only once we can say why it is missing and which Claim it bears on. Names we have not verified stay with the editor.",
+        "inputsRecorded": [
+          4,
+          4
+        ],
+        "completeness": "4 of 4 recorded.",
+        "voices": [
+          {
+            "voice": "People of the Philippines",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "MR-C21"
+            ]
+          },
+          {
+            "voice": "Chinese residents of Manila, in their own words",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "MR-C05",
+              "MR-C21"
+            ]
+          },
+          {
+            "voice": "The crews of the ships",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "MR-C01"
+            ]
+          },
+          {
+            "voice": "Chinese merchants below the rank of official",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "MR-C03",
+              "MR-C07"
+            ]
+          }
+        ],
+        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history."
+      }
+    ],
+    "compactLine": [
+      {
+        "kind": "winner-dominated",
+        "text": "Evidence concentrated in colonial Sources",
+        "strong": true
+      },
+      {
+        "kind": "missing-voices",
+        "text": "Some voices missing",
+        "strong": true
+      },
+      {
+        "kind": "not-scored",
+        "text": "No number yet",
+        "strong": false
+      }
+    ]
+  }
+}

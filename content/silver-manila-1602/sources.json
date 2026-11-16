@@ -1,0 +1,295 @@
+{
+  "sources": [
+    {
+      "id": "SR01",
+      "record": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+      "form": "Primary narrative, English translation",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland00morg",
+      "perspective": "A judge (*oidor*) of the Manila Audiencia, writing for a European readership about 35 years after 1573. Context for the 1570s, not a witness.",
+      "position": {
+        "proximity": "About 35 years after 1573",
+        "role": "Spanish judge of the Manila Audiencia",
+        "audience": "A European readership",
+        "category": "colonial state"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML4"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR02",
+      "record": "*Ming Shi-lu*, Wanli year 17, month 4, day 20 (2 June 1589), trans. Geoff Wade, *Southeast Asia in the Ming Shi-lu: an open access resource* (Singapore: Asia Research Institute and NUS Press).",
+      "form": "Primary document, court record, English translation by a named translator",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://epress.nus.edu.sg/msl/reign/wan-li/year-17-month-4-day-20",
+      "perspective": "The Ming court's historians. The standpoint is imperial: security, licensing, tax. Merchants are subjects, not authors.",
+      "position": {
+        "proximity": "1589; court record",
+        "role": "Ming court historians",
+        "audience": "The imperial court",
+        "interests": "Security, licensing and tax"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML6"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR03",
+      "record": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated by Jose M. and Clara M. Asensio and Emma Helen Blair.",
+      "form": "Primary document, printed memorial",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland12blai",
+      "perspective": "A lawyer arguing for restrictions on Mexican and Peruvian trade. The date is B&R's guess.",
+      "position": {
+        "proximity": "Contemporary; about 1602, a generation after 1573",
+        "role": "Manila lawyer",
+        "audience": "The crown, via a printed pamphlet",
+        "interests": "Restricting the Mexican and Peruvian trade",
+        "category": "colonial elite"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML8"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR04",
+      "record": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/20078638",
+      "perspective": "Two economic historians arguing a thesis: world trade began in 1571 and China's demand for silver drove it. They write against a Europe-centred account. Their Pacific figures come from other scholars (Chuan, TePaske, Barrett), not from their own archive work.",
+      "position": {
+        "proximity": "Appeared in 1995",
+        "category": "later scholarship",
+        "focus": "The world silver market from the sixteenth to the eighteenth century, with China as the main buyer.",
+        "note": "On p. 204 they say Chuan built his Manila estimate from Blair and Robertson, the collection our SB01 to SB13 come from. Two of their page references do not match their own reference list (Chuan 1969, p. 79; \"TePaske 1981\")."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML11"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR05",
+      "record": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/650733",
+      "perspective": "A historian of Ming China. He reads the silver trade for what it did to China's economy and to the dynasty. His Manila material comes from Schurz (1939), Ch'üan Han-sheng, Blair and Robertson, and Morga.",
+      "position": {
+        "proximity": "Appeared in 1982",
+        "category": "later scholarship",
+        "focus": "Japanese and Spanish-American silver entering Ming China, and its effects there.",
+        "note": "His 1573 cargo sentence (p. 73) comes through Schurz and matches the list in SB02; it is not an independent witness. His ratio table (p. 82) is from P'eng Hsin-wei."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML2",
+          "ML4",
+          "ML11",
+          "ML13"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR06",
+      "record": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/jj.5233106.10",
+      "perspective": "A historian of Chinese money, reading the silver trade from the Chinese side. His Manila figures come from Chaunu's customs series and TePaske; his Japan figures from Souza and Innes. He sets his own estimates below the ones most often quoted.",
+      "position": {
+        "proximity": "Appeared in 1996",
+        "category": "later scholarship",
+        "focus": "How foreign silver reached Ming China from 1550 to 1650, by which routes and in what amounts.",
+        "note": "The chapter's endnotes are not in our file. Its Manila series start in 1577 (ships) and 1586 (customs); it has no figure for 1573."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML4",
+          "ML13"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR07",
+      "record": "Ubaldo Iaccarino, \"The 'Galleon System' and Chinese Trade in Manila at the Turn of the 16th Century\", *Ming Qing Yanjiu* 16 (2011), 95–128 (read pp. 95–96, 102–117, 121–122).",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1163/24684791-01601005",
+      "perspective": "A historian of the Chinese at Manila, working mainly from Spanish documents in Blair and Robertson and from Spanish and Chinese-language scholarship. His subject ends in the early 1590s; 1602 and 1603 appear only in passing.",
+      "position": {
+        "proximity": "Appeared in 2011",
+        "category": "later scholarship",
+        "focus": "How the trade between Fujian and Manila became a fixed system between 1571 and the early 1590s.",
+        "note": "He says America was China's main source of silver (p. 110); von Glahn says Japan was. His figures for the 1593 limits (p. 114) differ from Morga's."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML4"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR08",
+      "record": "Arturo Giráldez and Dennis O. Flynn, \"Arbitrage, China, and World Trade in the Early Modern Period\", *Journal of the Economic and Social History of the Orient* 38:4 (1995), 429–448 (read p. 435).",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1163/1568520952600308",
+      "perspective": "The authors of SB14 and SB15, the same year as SB14. They report the Mexico City council's figures and warn that nothing confirms them.",
+      "position": {
+        "proximity": "Appeared in 1995",
+        "category": "later scholarship",
+        "focus": "The gap in silver's price between China and elsewhere, and the trade it drove.",
+        "note": "Same authors as SB14 and SB15; not a separate witness."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML11"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR09",
+      "record": "Pedro de Rojas to Felipe II, Manila, 1586. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 6 (Cleveland, 1903), read p. 269. [The letter's day, its full page range and its translator are to be taken from its first page and the volume's front matter, not yet opened.]",
+      "form": "Primary document, letter",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland06blai",
+      "perspective": "A Spanish official at Manila complaining to the king about governors and soldiers who trade, and about the silver and gold the Chinese take away. He wants the trade restrained.",
+      "position": {
+        "proximity": "Contemporary; writing at Manila",
+        "role": "Licentiate; his office is not on the page read",
+        "audience": "Felipe II",
+        "interests": "Restraining officials' trading and the outflow of silver",
+        "category": "colonial state"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML15"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR10",
+      "record": "Kris Lane, *Potosí: The Silver City That Changed the World* (Oakland: University of California Press, 2019), ch. 4, \"An Improbable Global City\", pp. 92–116 (read pp. 94, 96).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/j.ctvj7wm45.11",
+      "perspective": "A historian of Potosí, describing the town about 1600 from a description of 1603 and from merchants' inventories.",
+      "position": {
+        "proximity": "Appeared in 2019",
+        "category": "later scholarship",
+        "focus": "Potosí as a town, about 1600: who lived there and what was sold."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR11",
+      "record": "Pedro de Acuña, Governor of the Philippines, to the king, Manila, [18 December 1603, as Borao dates it (1998, p. 28)]. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 12 (Cleveland, 1904), read p. 154. [The letter's first page, its page range and its translator are to be taken from the volume, not yet opened.]",
+      "form": "Primary document, letter",
+      "language": "English (translated from Spanish)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland12blai",
+      "perspective": "The governor of the Philippines, writing to the king after the massacre of 1603 about the measures he had taken. He is giving his own account of them. He lays the trouble on 'restless and vagabond people who had nothing to lose' among the Chinese.",
+      "position": {
+        "proximity": "Contemporary; writing at Manila",
+        "role": "Governor of the Philippines",
+        "audience": "The king",
+        "category": "colonial state"
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [
+          "ML16"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR12",
+      "record": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/S0165115300012407",
+      "perspective": "A Spanish historian who sets the Spanish records of 1603 beside the Chinese ones and translates from both. He calls what was done a massacre and what began it an uprising, and says the reasons remain unclear.",
+      "position": {
+        "proximity": "Appeared in 1998",
+        "category": "later scholarship",
+        "focus": "The killing of the Chinese of Manila in 1603, read from Spanish and Chinese records together.",
+        "note": "Our only route to the Chinese records, which are official, anonymous and in Classical Chinese. His Spanish sources include Morga (our SR01) and letters printed in Blair and Robertson vol. 12."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [
+          "ML4"
+        ],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    }
+  ]
+}

@@ -1,0 +1,1433 @@
+{
+  "claims": [
+    {
+      "id": "MR-C01",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga, writing in 1609, said that thirty ships usually came from China to Manila each year, and sometimes forty. They came with the monsoon, most often at the new moon of March, and sailed home before the gales at the end of May.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th to early 17th c. · century"
+      },
+      "notes": "Quote: \"each year thirty usually come, and sometimes forty ships\" (Morga, p. 337); \"they perform their voyage to Manila in fifteen or twenty days\" (Morga, p. 337)\nPage image: https://archive.org/details/philippineisland00morg/page/n378/mode/1up\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "a Spanish official describing the years he knew, not one named year."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 337"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C02",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The count historians use, built from Manila's customs records, has 18 Chinese ships among 21 arrivals at Manila in 1602. That is well below Morga's thirty to forty.",
+      "temporal": {
+        "precision": "year",
+        "label": "1602 · year"
+      },
+      "notes": "Quote: Table row: 1602, Chinese vessels 18, total arrivals 21. Source line: \"Chaunu, Les Philippines et le pacifique des ibériques\" (von Glahn, ch. 4, p. 120, Table 6)\nPage image: web entry, no page scan\nCheck: Read",
+      "confidence": {
+        "level": "medium",
+        "rationale": "one series, from Chaunu, at second hand. The gap with Morga may be ships that paid no duty, or a poor year, or Morga rounding up. No Source read says which. The Story should say that it does not know."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 120, Table 6"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C03",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga wrote that the ships carried the great merchants who owned the goods, their servants, and agents for other merchants who stayed in China, and that they came with leave from their own officials.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th to early 17th c. · century"
+      },
+      "notes": "Quote: \"they come out of that country with permission from their viceroys and mandarins\" (Morga, p. 337); \"the largest number—16—was reserved for Luzon\" (von Glahn, ch. 4, p. 119)\nPage image: https://archive.org/details/philippineisland00morg/page/n378/mode/1up; the scholarship pages: web entry, no page scan\nCheck: Image, Read",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "China to Manila · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 337"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "SR06",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 119"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MR-C04",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga wrote that once a ship's cargo had been listed and valued, it was taken to the Chinese quarter (the Parián) or to other warehouses outside the city, and sold there freely.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th to early 17th c. · century"
+      },
+      "notes": "Quote: \"carried to the parian, or to other houses and warehouses, which they have outside the city\" (Morga, p. 339)\nPage image: https://archive.org/details/philippineisland00morg/page/n380/mode/1up\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila, the Chinese quarter (the Parián) · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 339"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C05",
+      "claimClass": "Disputed",
+      "sensitive": false,
+      "wording": "Historians agree that the Chinese of Manila grew from about forty people in 1570 to many thousands by 1600. They do not agree on how many: more than fifteen thousand in one account, over eighteen thousand in another, with some documents giving thirty thousand or more.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1570–1600 · approximate"
+      },
+      "notes": "Quote: \"increased from approximately forty to more than fifteen thousand\" (Atwell 1982, p. 73); \"from 40 men to over 18,000\" (Iaccarino 2011, p. 112); \"Some documents indicate a number of 30,000 or even 40,000 Chinese.\" (Iaccarino 2011, p. 112, note 64)\nPage image: web entry, no page scan\nCheck: Image, Read",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the counts differ."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Atwell; Iaccarino.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 73"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 112; p. 112, note 64"
+            },
+            "citation": "Ubaldo Iaccarino, \"The 'Galleon System' and Chinese Trade in Manila at the Turn of the 16th Century\", *Ming Qing Yanjiu* 16 (2011), 95–128 (read pp. 95–96, 102–117, 121–122).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C06",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga listed what the ships brought. Raw silk came first, then velvets and brocades, and the list runs on to fine crockery, furniture, and caged birds, some that talked and some that sang.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th to early 17th c. · century"
+      },
+      "notes": "Quote: \"The goods which they usually bring, and sell to the Spaniards, are raw silk\" (Morga, p. 337); \"even caged birds, some of which talk and others sing\" (Morga, p. 339)\nPage image: https://archive.org/details/philippineisland00morg/page/n378/mode/1up; https://archive.org/details/philippineisland00morg/page/n380/mode/1up\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 337; p. 339"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C07",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1604 the governor of Fujian, Xu Xueju, wrote that his people traded at Luzon only for the silver coins to be had there. We have his words in Richard von Glahn's translation.",
+      "temporal": {
+        "precision": "year",
+        "label": "1604 · year"
+      },
+      "notes": "Quote: \"Our subjects engage in commerce in Luzon solely because of the silver coins\" (von Glahn, ch. 4, p. 127); \"vessels returning from Luzon carried no cargo except for silver coins\" (von Glahn, ch. 4, p. 119)\nPage image: web entry, no page scan\nCheck: Image, Read",
+      "confidence": {
+        "level": "medium",
+        "rationale": "a Chinese official, in a scholar's translation. The Chinese text behind it is cited in endnotes we do not hold (note 45). He calls the people of Luzon \"Portuguese\"; von Glahn marks that \"[sic]\". This is the first Chinese voice in either Manila Story."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Fujian, about the Luzon trade · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 127; p. 119"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C08",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga wrote that the royal officers valued each cargo on arrival and took three per cent of it for the king.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th to early 17th c. · century"
+      },
+      "notes": "Quote: \"it at once pays three per cent upon all of them to His Majesty\" (Morga, p. 339); \"set at 3 percent ad valorem up to 1610, and 6 percent thereafter\" (von Glahn, ch. 4, p. 124, note to Table 8); \"with a 6% tariff that exclusively burdened\" (Iaccarino 2011, p. 111)\nPage image: https://archive.org/details/philippineisland00morg/page/n380/mode/1up; the scholarship pages: web entry, no page scan\nCheck: Image, Read",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Morga; von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 339"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 124, note to Table 8"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [
+          {
+            "sourceId": "SR07",
+            "stance": "challenges",
+            "locator": {
+              "status": "verified",
+              "text": "p. 111"
+            },
+            "citation": "Ubaldo Iaccarino, \"The 'Galleon System' and Chinese Trade in Manila at the Turn of the 16th Century\", *Ming Qing Yanjiu* 16 (2011), 95–128 (read pp. 95–96, 102–117, 121–122).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C09",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga wrote that the crown limited the coin that could be sent from New Spain to the Philippines for this trade to five hundred thousand a year.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th to early 17th c. · century"
+      },
+      "notes": "Quote: \"no more should be sent in coin to the Philippines than five hundred thousand dollars each year\" (Morga, p. 337); \"far exceeding the 500,000-peso limitation\" (they are quoting TePaske) (Flynn and Giráldez 1995, p. 204)\nPage image: https://archive.org/details/philippineisland00morg/page/n378/mode/1up; the scholarship pages: web entry, no page scan\nCheck: Image, Read",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Morga; Flynn and Giráldez.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "New Spain to the Philippines · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 337"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 204"
+            },
+            "citation": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C10",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "About 1602 a Manila lawyer, Fernández de Castro, wrote that the royal decrees limiting the trade were not kept, and that citizens of Mexico and Peru brought over so much money that Manila's own citizens were crowded out of the ships.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1602 · approximate"
+      },
+      "notes": "Quote: \"That the royal decrees prohibiting trade with the Filipinas are not observed\" (Fernández de Castro, p. 51); \"the citizens of Mexico and Peru, who bring over a great quantity of money\" (Fernández de Castro, p. 51)\nPage image: https://archive.org/details/philippineisland12blai/page/n54/mode/1up\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Fernández de Castro.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 51"
+            },
+            "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated by Jose M. and Clara M. Asensio and Emma Helen Blair.",
+            "form": "Primary document, printed memorial",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C12",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1602 the city council of Mexico City claimed that five million pesos a year went to Manila, and twelve million in 1597. The historians who report this warn that no other source confirms it, and that the council may have exaggerated for its own ends.",
+      "temporal": {
+        "precision": "year",
+        "label": "1602 · year"
+      },
+      "notes": "Quote: \"these figures have not been confirmed by other sources\" (Giráldez and Flynn 1995, p. 435); \"Whether these enormous figures can be believed or not remains a matter for some debate.\" (Atwell 1982, p. 74); \"seems far-fetched\" (von Glahn, ch. 4, p. 138)\nPage image: web entry, no page scan\nCheck: Read",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the council said it; low that it is true."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Giráldez and Flynn; Atwell; von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Mexico City, about silver sent to Manila · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR08",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 435"
+            },
+            "citation": "Arturo Giráldez and Dennis O. Flynn, \"Arbitrage, China, and World Trade in the Early Modern Period\", *Journal of the Economic and Social History of the Orient* 38:4 (1995), 429–448 (read p. 435).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 74"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 138"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C13",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Customs duties at Manila point to about one million pesos of silver a year leaving on Chinese ships in 1601 to 1605, by von Glahn's reckoning. He thinks the true figure could be three or four times that, because so much went unrecorded.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1601–1605 · approximate"
+      },
+      "notes": "Quote: Table row: 1601-5, Chinese ships, 5,017,333 pesos. \"Extrapolated from almojarifazgo customs duties\" (von Glahn, ch. 4, p. 124, Table 8); \"could easily have been three or four times as great\" (von Glahn, ch. 4, p. 138)\nPage image: web entry, no page scan\nCheck: Read",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 124, Table 8; p. 138"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C14",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Of the silver registered at Acapulco for the Philippines in 1601 to 1610, about three-quarters was private money and a quarter the king's, in the figures John TePaske drew from the treasury accounts.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1601–1610 · approximate"
+      },
+      "notes": "Quote: Table row: 1601-10, public monies 30,030 kg, private stocks 89,886 kg, total 119,916 kg. Source line: \"TePaske, 'New World Silver, Castile, and the Philippines,' pp. 444-45\" (von Glahn, ch. 4, p. 139, Table 12)\nPage image: web entry, no page scan\nCheck: Read",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Acapulco · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-acapulco-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 139, Table 12"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C15",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1586 Pedro de Rojas wrote to the king from Manila that three hundred thousand pesos of silver went to China every year, and more than five hundred thousand that year.",
+      "temporal": {
+        "precision": "year",
+        "label": "1586 · year"
+      },
+      "notes": "Quote: \"Every year there goes out of this country to China three hundred thousand pesos of silver, and this year more than five hundred thousand.\" (Rojas, p. 269)\nPage image: https://archive.org/details/philippineisland06blai/page/n272/mode/1up\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Rojas.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR09",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 269"
+            },
+            "citation": "Pedro de Rojas to Felipe II, Manila, 1586. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 6 (Cleveland, 1903), read p. 269. [The letter's day, its full page range and its translator are to be taken from its first page and the volume's front matter, not yet opened.]",
+            "form": "Primary document, letter",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C17",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The historian Kris Lane writes that a description of Potosí made in 1603 counted twenty-four shops for European dry goods, and that such shops also sold Chinese silk, which turns up in merchants' inventories.",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"Twenty-four shops specialized in European dry goods, which meant they also sold Chinese silk and Indian cotton fabrics.\" (Lane 2019, p. 96); \"In 1603, an anonymous Potosí visitor composed a detailed description of the city, mountain, and mines\" (Lane 2019, p. 94)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "The shop count is from the 1603 description. That those shops sold Chinese silk is Lane's own statement, from merchants' inventories; the page does not say the 1603 description names it. It shows Chinese goods at Potosí. It does not show Potosí silver at Manila."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Lane.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Villa Imperial de Potosí · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-potosi-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 96; p. 94"
+            },
+            "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (Oakland: University of California Press, 2019), ch. 4, \"An Improbable Global City\", pp. 92–116 (read pp. 94, 96).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C18",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In the letter that the historian Borao dates 18 December 1603, Governor Acuña wrote that he had a ditch dug where the Chinese quarter (the Parián) stood, along the whole front from the river to the sea.",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"in the part where their Parian and alcaycería stand, and along the whole front from the river to the sea\" (Acuña, p. 154); \"On 18 December 1603, when the incident had ended, governor Pedro de Acuña wrote the king an account\" (Borao 1998, p. 28)\nPage image: https://archive.org/details/philippineisland12blai/page/n157/mode/1up; the scholarship pages: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the page says it."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Acuña; Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila, the Chinese quarter (the Parián) · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 154"
+            },
+            "citation": "Pedro de Acuña, Governor of the Philippines, to the king, Manila, [18 December 1603, as Borao dates it (1998, p. 28)]. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 12 (Cleveland, 1904), read p. 154. [The letter's first page, its page range and its translator are to be taken from the volume, not yet opened.]",
+            "form": "Primary document, letter",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 28"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C19",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The historian Richard von Glahn writes that Haicheng, the former Yuegang, was the principal home port of the Chinese merchant fleets that sailed overseas.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "from 1567 · approximate"
+      },
+      "notes": "Quote: \"served as the principal home port for the Chinese merchant fleets embarking on overseas trading expeditions\" (von Glahn, ch. 4, p. 118)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Haicheng (Yuegang) · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-haicheng"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 118"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C20",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The historian Richard von Glahn writes that the licence system of 1589 fixed the number of ship licences at 88 and reserved 16 for Luzon, more than for any other destination.",
+      "temporal": {
+        "precision": "year",
+        "label": "1589 · year"
+      },
+      "notes": "Quote: \"fixed the total number of licenses at 88, apportioned among several dozen foreign destinations\" (von Glahn, ch. 4, p. 119); \"By far the largest number—16—was reserved for Luzon\" (von Glahn, ch. 4, p. 119)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Fujian, about the Luzon trade · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 119"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C21",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "In October 1603 there was fighting at Manila between Chinese residents and the Spaniards. It ended in the killing of very many of the Chinese of Manila by Spanish soldiers and by the Japanese and Philippine troops who fought beside them. Spanish and Chinese records tell the same events in the same order.",
+      "temporal": {
+        "precision": "year",
+        "label": "October 1603 · year"
+      },
+      "notes": "Quote: \"put down by the Spanish who, together with Philippine and Japanese troops, massacred some 20,000 Chinese\" (Borao 1998, p. 22); \"chronicles in both languages include the same facts and are alike in the ordering of events\" (Borao 1998, p. 22)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila and the country round it · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 22"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C22",
+      "claimClass": "Disputed",
+      "sensitive": true,
+      "wording": "How many were killed is not agreed. The official history of the Ming gives twenty-five thousand in one place and twenty thousand in another. A second Chinese work speaks of ten thousand killed in a single ambush. The historian José Eugenio Borao writes 'some 20,000'.",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"Twenty five thousand Chinese perished in the massacre.\" (Borao 1998, translating the *Ming Shi*, p. 31); \"Twenty thousand people and commoners have been massacred.\" (Borao 1998, translating the *Ming Shi*, p. 32); \"10,000 of them were killed in an ambush, while others fled to the valleys and died there of starvation\" (Borao 1998, reporting the *Dong Xi Yang Kao*, p. 31); \"massacred some 20,000 Chinese\" (Borao 1998, p. 22)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the counts differ."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila and the country round it · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 31; p. 32; p. 22"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C23",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The Spanish writers say the Chinese of Manila rose. Archbishop Benavides wrote that a rumour had spread among them that the Spaniards meant to kill them all. Governor Acuña told the king it had been stirred up from China. A historian notes that the testimony behind that charge was taken under torture.",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"The Spanish sources (Morga, Argensola, Acuña, etc.) emphatically state that the Chinese staged an uprising.\" (Borao 1998, p. 29); \"that the Spanish were going to kill every one of them\" (Borao 1998, quoting Benavides, p. 29); \"it goes without saying that the uprising was instigated from China\" (Borao 1998, quoting Acuña, p. 29); \"their validity is doubtful since they were obtained through torture\" (Borao 1998, p. 31); \"persuading them that the precautions and measures which I was taking were in order to kill them\" (Acuña, p. 154); \"his eventual moves, preventive and defensive in nature\" (Borao 1998, p. 28)\nPage image: https://archive.org/details/philippineisland12blai/page/n157/mode/1up; the scholarship pages: web entry, no page scan\nCheck: Read, Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the Spanish writers say it."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Borao; Acuña.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 29; p. 31; p. 28"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 154"
+            },
+            "citation": "Pedro de Acuña, Governor of the Philippines, to the king, Manila, [18 December 1603, as Borao dates it (1998, p. 28)]. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 12 (Cleveland, 1904), read p. 154. [The letter's first page, its page range and its translator are to be taken from the volume, not yet opened.]",
+            "form": "Primary document, letter",
+            "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C24",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The Chinese records say the Spaniards prepared the killing. They say the Spaniards bought up the iron the Chinese owned and made them register their names in groups of three hundred, and that the Chinese fled when they learned of a plan to kill them. The same records put the first blame on one of their own, Zhang Yi.",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"they began to buy from the Chinese all the metal objects that they had\" (Borao 1998, translating the *Huang Ming Xiang Xu Lu*, p. 29); \"the Chinese were obliged to register their names and to be divided into groups of 300\" (Borao 1998, translating the *Ming Shi*, p. 29); \"Chinese discovered the Spanish' plot to massacre them\" (Borao 1998, pp. 30-31); \"Zhang Yi, etc. have deceived the imperial court and brought about conflict in a foreign land.\" (Borao 1998, translating the *Ming Shi*, p. 32)\nPage image: web entry, no page scan\nCheck: Read, Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the Chinese records say it, in Borao's translation."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "China, about Manila · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 29; pp. 30-31; p. 32"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C25",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "In May 1603 three Ming officials came to Manila to look for a mountain said to yield gold. Spanish and Chinese records both name this visit as what set off the Spaniards' fear of an invasion.",
+      "temporal": {
+        "precision": "year",
+        "label": "May 1603 · year"
+      },
+      "notes": "Quote: \"Three mandarins landed in Manila, displaying their insignias as judges.\" (Borao 1998, p. 26); \"this trip had been the cause of the Spanish suspicions and the subsequent massacre four months later\" (Borao 1998, p. 28)\nPage image: web entry, no page scan\nCheck: Read",
+      "confidence": {
+        "level": "high",
+        "rationale": "high."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 26; p. 28"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C26",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The Ming emperor, in the official history, said that the governor of Luzon had killed people without leave. The governor of Fujian, Xu Xueju, wrote to Manila demanding that the widows and children of the dead be sent home. China sent no fleet.",
+      "temporal": {
+        "precision": "year",
+        "label": "1604 · year"
+      },
+      "notes": "Quote: \"the governor of Luzon murdered people without license\" (Borao 1998, translating the *Ming Shi*, p. 32); \"demanding that the widows and children of the victims be sent back to China\" (Borao 1998, p. 32); \"For the moment, China did not launch a punitive attack\" (Borao 1998, p. 32)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "China, about Manila · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 32"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C27",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The ships came back. The Spanish account has thirteen ships from China at Manila in May 1604; the customs count has fifteen for that year.",
+      "temporal": {
+        "precision": "year",
+        "label": "1604 · year"
+      },
+      "notes": "Quote: \"in May of 1604, thirteen ships arrived from China\" (Borao 1998, p. 32); Table row: 1604, Chinese vessels 15, total arrivals 26 (von Glahn, ch. 4, p. 120); \"filling up two ships bound for New Spain with their cargo\" (Borao 1998, p. 32)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium; the count differs."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Borao; von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 32"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 120"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C28",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The Chinese records begin their account ten years earlier. In 1593 two hundred and fifty Chinese were forced to row in a Spanish war fleet; they mutinied and killed the governor.",
+      "temporal": {
+        "precision": "year",
+        "label": "1593 · year"
+      },
+      "notes": "Quote: \"two hundred and fifty Chinese were forcibly recruited to row the ships\" (Borao 1998, p. 22); \"the Chinese on the flag ship staged a mutiny, assassinated Dasmariñas, and took over the vessel\" (Borao 1998, p. 22)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "at sea, out of Manila · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 22"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C29",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "José Eugenio Borao, who set the Spanish and Chinese records side by side, writes that the reasons for the uprising remain unclear.",
+      "temporal": {
+        "precision": "year",
+        "label": "written 1998, about 1603 · year"
+      },
+      "notes": "Quote: \"although the reasons for this uprising remain unclear\" (Borao 1998, p. 22)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "about Manila · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 22"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C31",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga, writing in 1609 about the early 1600s and before, said the Chinese traders at Manila were paid in silver and reals, because they wanted neither gold nor other goods.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th to early 17th c. · century"
+      },
+      "notes": "Quote: \"what is given them for it, is silver and reals, for they do not like gold, nor any other goods in exchange\"\nPage image: https://archive.org/details/philippineisland00morg/page/n381/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "A Spanish official, about 35 years after 1573. Does not date the start of the practice."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 340"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C32",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1589 the Fujian grand coordinator Zhou Cai told the Ming court that coastal residents of Zhangzhou went to trade abroad, and proposed allowing 16 ships to go to Luzon. The Ministry of War answered with a cap of 44 ships for each of the Eastern and Western Oceans. The same entry reckons ship duties in silver.",
+      "temporal": {
+        "precision": "year",
+        "label": "2 June 1589 · year"
+      },
+      "notes": "Quote: \"Now it is proposed allowing 16 ships to go to that country\"; \"a limit of 44 ships permitted to trade to each of the Eastern and Western Oceans\"; \"6 liang of silver for each chi of the ship's beam\"\nPage image: web entry, no page scan",
+      "confidence": {
+        "level": "high",
+        "rationale": "high on the text as translated. Not 1573 and not about silver coming in. Whether the licences were granted is not in the entry. \"Fan\" and \"yi\" are Wade's terms."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the Ming record.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "provinces-unlocated",
+        "whereLabel": "coastal Fujian (Zhangzhou) · provinces not located",
+        "precisionLabel": "the provinces are not located",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "Wanli 17/4/20 (2 June 1589); Wade cites *Shen-zong shi-lu* juan 210.6a, *Ming Shi-lu* vol. 105, p. 3939"
+            },
+            "citation": "*Ming Shi-lu*, Wanli year 17, month 4, day 20 (2 June 1589), trans. Geoff Wade, *Southeast Asia in the Ming Shi-lu: an open access resource* (Singapore: Asia Research Institute and NUS Press).",
+            "form": "Primary document, court record, English translation by a named translator",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "SR06",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 119"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MR-C33",
+      "claimClass": "Mainstream interpretation",
+      "sensitive": false,
+      "wording": "Historians of the silver trade generally explain the Manila trade by China's demand for silver. Silver was worth more in Ming China than anywhere else. Spanish America produced it at low cost. From 1571 Manila gave the two a direct meeting place. Flynn and Giráldez (1995), Atwell (1982) and von Glahn (1996) all explain it this way.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "from 1571 · approximate"
+      },
+      "notes": "Quote: \"it was the elevated value of silver inside China that created the opportunities for profit around the globe\" (Flynn and Giráldez 1995, p. 206); \"Manila was the crucial entrepôt linking substantial, direct, and continuous trade between America and Asia for the first time in history.\" (Flynn and Giráldez 1995, p. 201); \"render Spanish American mines the world's lowest cost sources of silver\" (Flynn and Giráldez 1995, p. 209); \"Silver poured into China because the Chinese market valued it more highly than anywhere else in the world\" (von Glahn, *Fountain of Fortune*, ch. 4, p. 133); \"foreign traders found the Chinese demand for silver almost insatiable\" (Atwell 1982, p. 79)\nPage image: web entry, no page scan (JSTOR PDF and book chapter; check: Read)\nField: this is the view of world historians and historians of Chinese money.",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that these three say this. It is an interpretation."
+      },
+      "independenceNote": "Three Sources, all later scholarship, and not independent of each other. Flynn and Giráldez (1995, p. 206) name Atwell as the main earlier voice.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 206; p. 201; p. 209"
+            },
+            "citation": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 133"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 79"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    }
+  ]
+}
