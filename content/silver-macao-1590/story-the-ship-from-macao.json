@@ -483,7 +483,7 @@
       "paragraphs": [
         [
           {
-            "text": "**Not yet researched.** This Story stops at Macao about 1590. What the silver did inside China, what the silk did inside Japan, where the people carried from Japan were taken after Macao, and how Chinese and Japanese ships came to carry this trade themselves have not been researched, so none is offered as a researched path. When a path is researched, it will appear here with its own Claims and Evidence.",
+            "text": "**Not yet researched.** This Story stops at Macao about 1590. What the silver did inside China, what the silk did inside Japan, and how Chinese and Japanese ships came to carry this trade themselves have not been researched, so none is offered as a researched path. Where the people carried from Japan were taken after Macao is told only in part, in the Mexico City Story. When a path is researched, it will appear here with its own Claims and Evidence.",
             "claimIds": []
           }
         ]
@@ -506,6 +506,11 @@
       "momentId": "potosi",
       "label": "Another moment: Potosí, 1573",
       "honestyLine": "No researched Connection joins these two Stories. They are about two different sources of silver: Potosí's mines and Japan's."
+    },
+    {
+      "momentId": "mexico-1602",
+      "label": "Another moment: Mexico City, 1602",
+      "honestyLine": "A poem printed in Mexico City in 1604 names Macao among the places its goods came from. No researched Connection joins the two Stories."
     }
   ],
   "editorialState": "draft",

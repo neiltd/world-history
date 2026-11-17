@@ -151,7 +151,7 @@
             ]
           },
           {
-            "text": "The crown also tried to keep Peru out of the trade altogether. Historians agree it forbade direct trade between Peru and the Philippines in the early 1580s, and later all trade between Peru and New Spain; they do not agree on the years.",
+            "text": "The crown also tried to keep Peru out of the trade altogether. In 1582 it forbade direct trade between Peru and the Philippines. From 1604 it cut the trade between Peru and New Spain down ship by ship, and in 1631 it forbade it.",
             "claimIds": [
               "MR-C11"
             ]
@@ -189,13 +189,13 @@
             ]
           },
           {
-            "text": "In 1602 the city council of Mexico City claimed five million pesos a year, and twelve million in 1597.",
+            "text": "In 1602 the city council of Mexico City told the king that three million a year went to the Philippines, and more than twelve million in five years.",
             "claimIds": [
               "MR-C12"
             ]
           },
           {
-            "text": "The historians who report this warn that no other source confirms it, and that the council may have exaggerated for its own ends.",
+            "text": "Historians long quoted the letter as five million a year and twelve million in 1597, which the minute does not say. No other source confirms the council's figures, and the council was asking for the trade to be closed.",
             "claimIds": [
               "MR-C12"
             ]
@@ -507,7 +507,7 @@
       "paragraphs": [
         [
           {
-            "text": "**Not yet researched.** This Story stops in 1604, when the ships came back. What the trade became after that, what the silver did in China, and what Chinese goods did in Mexico and Peru have not been researched, so none is offered as a researched path. When a path is researched, it will appear here with its own Claims and Evidence.",
+            "text": "**Not yet researched.** This Story stops in 1604, when the ships came back. What the trade became after that, what the silver did in China, and what Chinese goods did in Peru have not been researched, so none is offered as a researched path. When a path is researched, it will appear here with its own Claims and Evidence.",
             "claimIds": []
           }
         ]
@@ -516,6 +516,11 @@
   ],
   "mainstreamAccountClaimId": "MR-C33",
   "momentLinks": [
+    {
+      "momentId": "mexico-1602",
+      "label": "Another moment: Mexico City, 1602",
+      "honestyLine": "Where the ships from Manila went, in the same year. That Story's Connection begins here, at Manila. They share Sources, Morga among them."
+    },
     {
       "momentId": "manila",
       "label": "Another moment: Manila, 1573",
@@ -555,11 +560,11 @@
         "name": "Source diversity",
         "asks": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
         "lastReview": "Not yet editorially reviewed",
-        "reading": "4 primary documents and 0 scholarly books, in 1 language as recorded",
-        "valueText": "4 primary documents and 0 scholarly books, in 1 language as recorded",
+        "reading": "4 primary documents and 0 scholarly books, in 2 languages as recorded",
+        "valueText": "4 primary documents and 0 scholarly books, in 2 languages as recorded",
         "stateText": "No number yet · 2 of 4 kinds of information recorded",
         "origin": "computed",
-        "counted": "Kinds of document: Scholarship (journal article) 6, Scholarship (book chapter) 3, Primary document, letter 2, Primary document, court record, English translation by a named translator 1, Primary document, printed memorial 1, Primary narrative, English translation 1. Languages, as recorded: English 14. Where each author stood: later scholarship 9, colonial state 3, colonial elite 1.",
+        "counted": "Kinds of document: Scholarship (journal article) 7, Scholarship (book chapter) 4, Primary document, letter 2, Institutional record (city council minutes), printed edition 1, Primary document, court record, English translation by a named translator 1, Primary document, printed memorial 1, Primary narrative, English translation 1. Languages, as recorded: English 15, Spanish 2. Where each author stood: later scholarship 11, colonial state 4, colonial elite 1.",
         "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
         "inputsRecorded": [
           2,
@@ -567,30 +572,30 @@
         ],
         "verified": [
           0,
-          14
+          17
         ],
-        "completeness": "2 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 14 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
+        "completeness": "2 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 17 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
       },
       {
         "id": "independence",
         "name": "Source independence",
         "asks": "How many of the Sources actually stand on their own, rather than drawing on one another?",
         "lastReview": "Not yet editorially reviewed",
-        "reading": "14 supporting Sources, in 5 separate groups once you trace who drew on whom; 3 not yet traceable",
-        "valueText": "14 supporting Sources, in 5 separate groups once you trace who drew on whom; 3 not yet traceable",
-        "stateText": "No number yet · 11 of 14 Sources traced",
+        "reading": "16 supporting Sources, in 6 separate groups once you trace who drew on whom; 5 not yet traceable",
+        "valueText": "16 supporting Sources, in 6 separate groups once you trace who drew on whom; 5 not yet traceable",
+        "stateText": "No number yet · 12 of 17 Sources traced",
         "origin": "computed",
-        "counted": "48 supporting citations across 31 Claims and the Connection, from 14 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
-        "notCounted": "",
+        "counted": "48 supporting citations across 31 Claims and the Connection, from 16 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "notCounted": "Cited only for background, so not counted: SR08.",
         "inputsRecorded": [
-          11,
-          14
+          12,
+          17
         ],
         "verified": [
           0,
-          14
+          17
         ],
-        "completeness": "We know what 11 of 14 Sources draw on; an editor has checked 0 of 14. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
+        "completeness": "We know what 12 of 17 Sources draw on; an editor has checked 0 of 17. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
         "independence": {
           "groups": [
             {
@@ -601,10 +606,9 @@
                 "SR05",
                 "SR06",
                 "SR07",
-                "SR08",
                 "SR12"
               ],
-              "text": "Group A — 7 Sources that draw on one another. Starting points: Antonio de Morga SR01. Drawing on them: Dennis O. Flynn and Arturo Giráldez SR04; William S. Atwell SR05; Richard von Glahn SR06; Ubaldo Iaccarino SR07; Arturo Giráldez and Dennis O. Flynn SR08; José Eugenio Borao SR12."
+              "text": "Group A — 6 Sources that draw on one another. Starting points: Antonio de Morga SR01. Drawing on them: Dennis O. Flynn and Arturo Giráldez SR04; William S. Atwell SR05; Richard von Glahn SR06; Ubaldo Iaccarino SR07; José Eugenio Borao SR12."
             },
             {
               "label": "Group B",
@@ -633,20 +637,35 @@
                 "SR11"
               ],
               "text": "Group E — 1 Source. Pedro de Acuña SR11."
+            },
+            {
+              "label": "Group F",
+              "sourceIds": [
+                "SR15"
+              ],
+              "text": "Group F — 1 Source. Actas de Cabildo of the city of Mexico SR15."
             }
           ],
           "notPlaced": [
             {
               "sourceId": "SR10",
-              "text": "Not placed — 3 Sources. Kris Lane SR10: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 5 Sources. Kris Lane SR10: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "SR13",
-              "text": "Not placed — 3 Sources. Katharine Bjork SR13: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 5 Sources. Katharine Bjork SR13: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "SR14",
-              "text": "Not placed — 3 Sources. José Luis Gasch-Tomás SR14: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 5 Sources. José Luis Gasch-Tomás SR14: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "SR16",
+              "text": "Not placed — 5 Sources. Woodrow Borah SR16: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "SR17",
+              "text": "Not placed — 5 Sources. Guillermina del Valle Pavón SR17: we do not yet know what it draws on. It joins no group and is not counted as independent."
             }
           ],
           "rows": [
@@ -672,7 +691,7 @@
               "sourceId": "SR05",
               "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
               "group": "Group A",
-              "claimCount": 3,
+              "claimCount": 2,
               "onConnection": false,
               "subjectOnly": false,
               "accessLevel": "full text reviewed"
@@ -681,7 +700,7 @@
               "sourceId": "SR06",
               "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
               "group": "Group A",
-              "claimCount": 10,
+              "claimCount": 9,
               "onConnection": true,
               "subjectOnly": false,
               "accessLevel": "full text reviewed"
@@ -689,15 +708,6 @@
             {
               "sourceId": "SR07",
               "citation": "Ubaldo Iaccarino, \"The 'Galleon System' and Chinese Trade in Manila at the Turn of the 16th Century\", *Ming Qing Yanjiu* 16 (2011), 95–128 (read pp. 95–96, 102–117, 121–122).",
-              "group": "Group A",
-              "claimCount": 2,
-              "onConnection": false,
-              "subjectOnly": false,
-              "accessLevel": "excerpt reviewed"
-            },
-            {
-              "sourceId": "SR08",
-              "citation": "Arturo Giráldez and Dennis O. Flynn, \"Arbitrage, China, and World Trade in the Early Modern Period\", *Journal of the Economic and Social History of the Orient* 38:4 (1995), 429–448 (read p. 435).",
               "group": "Group A",
               "claimCount": 1,
               "onConnection": false,
@@ -750,6 +760,15 @@
               "accessLevel": "excerpt reviewed"
             },
             {
+              "sourceId": "SR15",
+              "citation": "*Actas de Cabildo* of the city of Mexico, Libro 15, 11 February 1602 to 31 December 1604 (México: Imprenta de Aguilar e Hijos, 1900), session of 6 May 1602 (read pp. 43 and 47 on the page image). In Spanish; no published English translation is known.",
+              "group": "Group F",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
               "sourceId": "SR10",
               "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (Oakland: University of California Press, 2019), ch. 4, \"An Improbable Global City\", pp. 92–116 (read pp. 94, 96).",
               "group": "not placed",
@@ -775,9 +794,27 @@
               "onConnection": false,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR16",
+              "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+              "group": "not placed",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR17",
+              "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+              "group": "not placed",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
             }
           ],
-          "byClaimSentence": "26 of the 31 Claims rest on a single group; 2 on two; 0 on three; for 3 we cannot tell (MR-C09, MR-C11, MR-C17). Forty-eight citations are not forty-eight confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+          "byClaimSentence": "25 of the 31 Claims rest on a single group; 2 on two; 0 on three; for 4 we cannot tell (MR-C09, MR-C11, MR-C12, MR-C17). Forty-eight citations are not forty-eight confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
         }
       },
       {
@@ -797,9 +834,9 @@
         ],
         "verified": [
           0,
-          14
+          17
         ],
-        "completeness": "0 of the 2 things this check needs are in place; an editor has checked 0 of 14 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
+        "completeness": "0 of the 2 things this check needs are in place; an editor has checked 0 of 17 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
       },
       {
         "id": "agreement",

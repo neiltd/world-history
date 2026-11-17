@@ -905,6 +905,10 @@
       "manila-1602": {
         "name": "Manila, 1602",
         "action": "Go to this moment."
+      },
+      "mexico-1602": {
+        "name": "Mexico City, 1602",
+        "action": "Go to this moment."
       }
     },
     "indexNoMarkerMeta": "Place · at Macao's marker · not drawn separately at this scale",

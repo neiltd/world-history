@@ -300,6 +300,11 @@
       "momentId": "macao-1590",
       "label": "Another moment: Macao, 1590",
       "honestyLine": "Two routes by which silver reached China, seventeen years apart. No researched Connection joins the two Stories. They share some Sources, von Glahn among them."
+    },
+    {
+      "momentId": "mexico-1602",
+      "label": "Another moment: Mexico City, 1602",
+      "honestyLine": "Where the ships from this port went, twenty-nine years later. No researched Connection joins the two Stories. They share a Source, Morga."
     }
   ],
   "editorialState": "draft",

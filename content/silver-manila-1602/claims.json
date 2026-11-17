@@ -500,19 +500,19 @@
     },
     {
       "id": "MR-C11",
-      "claimClass": "Disputed",
+      "claimClass": "Supported fact",
       "sensitive": false,
-      "wording": "The crown tried to keep Peru out of the Manila trade. Historians agree that it forbade direct trade between Peru and the Philippines in the early 1580s, in 1581 or 1582, and later forbade trade between Peru and New Spain. They give different years for that second ban: 1604 in one account, 1631 in another, and none in a third. In October 1599 the city council of Lima wrote to Mexico City that a new royal decree against goods from China had just been published there.",
+      "wording": "The crown tried to keep Peru out of the Manila trade. In June 1582 it forbade ships to sail between Peru and the Philippines, and the sale of Philippine goods in Peru. Trade between Peru and New Spain was then cut back in steps: three ships a year from 1604, two from 1609, one from 1620. In 1631 it was forbidden altogether, and the order was repeated in 1634. In October 1599 the city council of Lima wrote to the council of Mexico City that the king's latest decree against goods from China had been published there, and asked for its help against it.",
       "temporal": {
         "precision": "approximate",
-        "label": "1581 to 1631 · approximate"
+        "label": "1582 to 1634 · approximate"
       },
-      "notes": "Quote: \"on 11 November 1581, Philip II issued the first in a succession of restrictions\" (Bjork, p. 42); \"Finally, in 1631, the crown prohibited all trade between New Spain and Peru.\" (Bjork, p. 43); \"Contacts between Peru and the Philippines had been forbidden as early as 1581\" (Iaccarino, p. 116); \"by 1604 all trade between the two viceroyalties of Mexico and Peru was forbidden\" (Iaccarino, p. 116); \"In 1582, however, trade between the Philippines and Peru was forbidden.\" (Gasch-Tomás, p. 121); \"Later, the trade between Peru and New Spain was also prohibited\" (Gasch-Tomás, p. 121); \"the last decree of His Majesty has been published\" (the city council of Lima, in Gasch-Tomás, p. 117); \"Lima, October 18th 1599\" (the same, p. 118)\nCheck: Image",
+      "notes": "Quote: \"he issued instructions on June 11, 1582, forbidding all such navigation in the future\" (Borah, p. 118); \"also forbade all import or sale in Peru of goods from the Philippines\" (Borah, p. 118); \"had decided to allow three ships of 300 tons each to sail every year\" (Borah, p. 126); \"In 1609 the number was cut to two of 200 tons and in 1620 to one of 200 tons.\" (Borah, p. 127); \"The first order of 1631, repeated on November 23, 1634, specified suspension during a trial period of five years.\" (Borah, p. 127); \"the letter of the cabildo of Lima to that of Mexico City, October 18, 1599\" (Borah, p. 158, note 34); \"en 1599 pidió a los regidores de México que su representante ... se uniera a los suyos\" (del Valle Pavón, p. 231); \"Finally, in 1631, the crown prohibited all trade between New Spain and Peru.\" (Bjork, p. 43); \"on 11 November 1581, Philip II issued the first in a succession of restrictions\" (Bjork, p. 42); \"Contacts between Peru and the Philippines had been forbidden as early as 1581\" (Iaccarino, p. 116); \"by 1604 all trade between the two viceroyalties of Mexico and Peru was forbidden\" (Iaccarino, p. 116); \"the last decree of His Majesty has been published\" (the city council of Lima, in Gasch-Tomás, p. 117); \"Lima, October 18th 1599\" (the same, p. 118)\nCheck: Image, except del Valle Pavón pp. 219 and 233 (Read)",
       "confidence": {
         "level": "medium",
-        "rationale": "high that the bans were made; the years differ. Three modern authors, all drawing on Borah or Schurz, which we have not read. No decree is quoted."
+        "rationale": "high that the bans were made; medium on the dates. The dates are Woodrow Borah's, from the printed laws and viceroys' letters; no decree is quoted in full. Two later accounts give 1581 for the first ban, and one has all trade between Peru and New Spain forbidden by 1604; Borah, whom one of them cites, has 1582 and a limit of three ships."
       },
-      "independenceNote": "3 Sources cited; lineage as recorded: Bjork; Iaccarino; Gasch-Tomás. Not independent: all three rest on Borah or Schurz.",
+      "independenceNote": "5 Sources cited; lineage as recorded: Borah; del Valle Pavón; Bjork; Gasch-Tomás; Iaccarino. Bjork, del Valle Pavón and Gasch-Tomás cite Borah. Iaccarino cites Schurz, which we have not read.",
       "editorialState": "draft",
       "spatial": {
         "precision": "not-place-bound",
@@ -523,25 +523,37 @@
       "evidence": {
         "supports": [
           {
-            "sourceId": "SR13",
+            "sourceId": "SR16",
             "stance": "supports",
             "locator": {
               "status": "verified",
-              "text": "p. 42; p. 43"
+              "text": "p. 118; p. 126; p. 127; p. 158, note 34"
             },
-            "citation": "Katharine Bjork, \"The Link That Kept the Philippines Spanish: Mexican Merchant Interests and the Manila Trade, 1571–1815\", *Journal of World History* 9:1 (Spring 1998), 25–50 (read pp. 39–43).",
-            "form": "Scholarship (journal article)",
+            "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+            "form": "Scholarship (book chapter)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
           },
           {
-            "sourceId": "SR07",
+            "sourceId": "SR17",
             "stance": "supports",
             "locator": {
               "status": "verified",
-              "text": "p. 116"
+              "text": "p. 219; p. 231; p. 233"
             },
-            "citation": "Ubaldo Iaccarino, \"The 'Galleon System' and Chinese Trade in Manila at the Turn of the 16th Century\", *Ming Qing Yanjiu* 16 (2011), 95–128 (read pp. 95–96, 102–117, 121–122).",
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 43"
+            },
+            "citation": "Katharine Bjork, \"The Link That Kept the Philippines Spanish: Mexican Merchant Interests and the Manila Trade, 1571–1815\", *Journal of World History* 9:1 (Spring 1998), 25–50 (read pp. 39–43).",
             "form": "Scholarship (journal article)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -559,7 +571,32 @@
             "accessLevel": "excerpt reviewed"
           }
         ],
-        "challenges": [],
+        "challenges": [
+          {
+            "sourceId": "SR13",
+            "stance": "challenges",
+            "locator": {
+              "status": "verified",
+              "text": "p. 42"
+            },
+            "citation": "Katharine Bjork, \"The Link That Kept the Philippines Spanish: Mexican Merchant Interests and the Manila Trade, 1571–1815\", *Journal of World History* 9:1 (Spring 1998), 25–50 (read pp. 39–43).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR07",
+            "stance": "challenges",
+            "locator": {
+              "status": "verified",
+              "text": "p. 116"
+            },
+            "citation": "Ubaldo Iaccarino, \"The 'Galleon System' and Chinese Trade in Manila at the Turn of the 16th Century\", *Ming Qing Yanjiu* 16 (2011), 95–128 (read pp. 95–96, 102–117, 121–122).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
         "contextualizes": []
       }
     },
@@ -567,17 +604,17 @@
       "id": "MR-C12",
       "claimClass": "Supported fact",
       "sensitive": false,
-      "wording": "In 1602 the city council of Mexico City claimed that five million pesos a year went to Manila, and twelve million in 1597. The historians who report this warn that no other source confirms it, and that the council may have exaggerated for its own ends.",
+      "wording": "On 6 May 1602 the city council of Mexico City told its agent at court to put to the king that three million left New Spain for the Philippines every year, and more than twelve million in the past five years. It wanted the trade shut altogether. A study of 1954 reported the letter as five million a year, and twelve million in 1597 alone, and later historians repeated those figures; its own note points to this page of the minutes, which does not say that. No other source confirms the council's figures either way. (Our translation of the minute.)",
       "temporal": {
         "precision": "year",
         "label": "1602 · year"
       },
-      "notes": "Quote: \"these figures have not been confirmed by other sources\" (Giráldez and Flynn 1995, p. 435); \"Whether these enormous figures can be believed or not remains a matter for some debate.\" (Atwell 1982, p. 74); \"seems far-fetched\" (von Glahn, ch. 4, p. 138)\nPage image: web entry, no page scan\nCheck: Read",
+      "notes": "Quote: \"En la ciudad de mexico en seys de mayo de mill e seys cientos y dos años\" (Actas de cabildo, Libro 15, p. 43); \"salen deste Reyno Para las yslas filipinas todos los años tres millones ... de çinco años a esta parte an salido mas de doZe\" (the same, p. 47); \"si no se ssierra esta puerta totalmente a de ser la destrucion de los Reynos de Castilla y destos\" (the same, p. 47); \"came to five million pesos a year and that in 1597 the specie sent from Acapulco reached the staggering total of twelve millions\" (Borah, p. 123); \"Ibid., XV, 47 (Session of May 6, 1602).\" (Borah, p. 158, note 31); \"todos los años tres millones [de pesos] y que de cinco años a esta parte han salido más de doce [millones de pesos]\" (del Valle Pavón, p. 231); \"these figures have not been confirmed by other sources\" (Giráldez and Flynn 1995, p. 435); \"Whether these enormous figures can be believed or not remains a matter for some debate.\" (Atwell 1982, p. 74); \"seems far-fetched\" (von Glahn, ch. 4, p. 138)\nCheck: Image for the minutes, Borah and del Valle Pavón; Read for the three live rows, as before",
       "confidence": {
         "level": "high",
-        "rationale": "high that the council said it; low that it is true."
+        "rationale": "high that the minute says it, on the page image of the 1900 printing; low that the figure is true. The council was arguing for the trade to be closed. The minute gives \"three million\" and \"more than twelve\" with no unit; Borah and del Valle Pavón both read pesos."
       },
-      "independenceNote": "3 Sources cited; lineage as recorded: Giráldez and Flynn; Atwell; von Glahn.",
+      "independenceNote": "6 Sources cited; lineage as recorded: the council's minutes; del Valle Pavón; Borah; Giráldez and Flynn; Atwell; von Glahn. Borah and del Valle Pavón both cite the minutes.",
       "editorialState": "draft",
       "spatial": {
         "precision": "not-place-bound",
@@ -588,8 +625,35 @@
       "evidence": {
         "supports": [
           {
-            "sourceId": "SR08",
+            "sourceId": "SR15",
             "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 43; p. 47"
+            },
+            "citation": "*Actas de Cabildo* of the city of Mexico, Libro 15, 11 February 1602 to 31 December 1604 (México: Imprenta de Aguilar e Hijos, 1900), session of 6 May 1602 (read pp. 43 and 47 on the page image). In Spanish; no published English translation is known.",
+            "form": "Institutional record (city council minutes), printed edition",
+            "language": "Spanish",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 231; p. 228, note 70"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "SR08",
+            "stance": "contextualizes",
             "locator": {
               "status": "verified",
               "text": "p. 435"
@@ -601,7 +665,7 @@
           },
           {
             "sourceId": "SR05",
-            "stance": "supports",
+            "stance": "contextualizes",
             "locator": {
               "status": "verified",
               "text": "p. 74"
@@ -613,7 +677,7 @@
           },
           {
             "sourceId": "SR06",
-            "stance": "supports",
+            "stance": "contextualizes",
             "locator": {
               "status": "verified",
               "text": "p. 138"
@@ -622,10 +686,20 @@
             "form": "Scholarship (book chapter)",
             "language": "English",
             "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR16",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 123; p. 158, note 31"
+            },
+            "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
           }
-        ],
-        "challenges": [],
-        "contextualizes": []
+        ]
       }
     },
     {

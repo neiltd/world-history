@@ -1,0 +1,1896 @@
+{
+  "claims": [
+    {
+      "id": "MX-C01",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Chinese goods reached New Spain by way of Manila, in the Philippines, which the king of Spain also held. The crown set limits on the trade across the Pacific. Goods worth 250,000 pesos a year might come from the Philippines to New Spain in two ships, and 500,000 pesos in coin might go back. Only residents of the Philippines were to trade. Historians date these terms to 1593. In September 1603 the king restated them in a letter from Valladolid and wrote that they had been much exceeded.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1593 to 1603 · approximate"
+      },
+      "notes": "Quote: \"docientos y cincuenta mili pesos de mercadurías de China en dos navíos\" (the king's letter, p. 565); \"se trújese cada año á la Nueva España ... mercadurías de China\" (the king's letter, p. 565); \"de las cuales se ha excedido mucho\" (the king's letter, p. 566); \"en enero de 1593 Felipe II impuso un conjunto de regulaciones\" (del Valle Pavón, p. 227); \"250,000 pesos to Acapulco each year and might return with 500,000 pesos in silver\" (Borah, p. 125); \"In 1593, a royal decree from Philip II limited the trade ... 500,000 pesos of silver from Acapulco to Manila.\" (Gasch-Tomás, p. 121)\nCheck: Image, except the king's letter, p. 565 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: the king's letter of 1603 states the limits and says they had been much exceeded. It gives no year for them. The year 1593 comes from three historians."
+      },
+      "independenceNote": "4 Sources cited; lineage as recorded: the king's letter; del Valle Pavón; Borah; Gasch-Tomás.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "New Spain and the Philippines · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 565"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 566"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 227"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 125"
+            },
+            "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S16",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 121"
+            },
+            "citation": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 4, \"Trans-Pacific Trade and the Political Economy of the Spanish Empire\", pp. 91–128 (read pp. 115–124; the rest searched).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C02",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Antonio de Morga wrote that the ships for the Philippines were despatched from Acapulco, eighty leagues from Mexico City. He called it a good, sheltered port, with a chief magistrate, many Spanish residents and a royal treasury.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1603–1609 · approximate"
+      },
+      "notes": "Quote: \"eighty leagues from Mexico, and in its district; which port is good, sheltered\" (Morga, p. 353); \"a treasury of His Majesty, with royal officers who attend to this despatch\" (Morga, p. 353)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it: he landed at Acapulco in December 1603. His book was printed in Mexico in 1609."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Acapulco · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-acapulco-mexico-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 353"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+            "form": "Primary chronicle, in English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C03",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga made the crossing himself. He left the Philippines in the ship *Espíritu Santo* in July 1603, on his way to be a judge in Mexico City. The printed text leaves the month out of the sailing date, the tenth, and his translator supplies it; a few lines on, Morga has the ships refloated on 22 July after running aground. After storms off the coast, and lightning that killed three men, the ship made Acapulco on 19 December.",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"On the tenth of [July of] the same year the ships Espiritu Santo and Jesus-Maria\" (Morga, p. 229); \"The month is omitted in the text.\" (Morga, p. 229, note); \"it killed three men, and wounded and crippled eight other persons\" (Morga, p. 230); \"afloat on the day of St. Magdalen, the twenty-second of July\" (Morga, p. 230); \"till the nineteenth of December, when it made the port of Acapulco\" (Morga, p. 231)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: his own account of his own crossing, written in the third person. The page prints no year beside 19 December. The ship sailed in 1603, and his next paragraph begins \"The same year of 1603\"."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Acapulco · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-acapulco-mexico-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 229"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+            "form": "Primary chronicle, in English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 229, note"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+            "form": "Primary chronicle, in English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 230"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+            "form": "Primary chronicle, in English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 231"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+            "form": "Primary chronicle, in English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C04",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga wrote that the voyage from the Philippines to Acapulco usually lasted five months and often six or more, with no port touched on the way. The ships sailed on the king's account and left the Philippines from 20 June. The ships going back left Acapulco at the end of February, or by 20 March at the latest.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1603–1609 · approximate"
+      },
+      "notes": "Quote: \"during the whole voyage, which usually lasts five months, a little more or less, and frequently six months or more time\" (Morga, p. 357); \"without any port having been touched at or a landing made since the channel of Capul\" (Morga, p. 357); \"to sail at the end of February, and at latest the twentieth of March\" (Morga, p. 354); \"on account of His Majesty\" (Morga, p. 343); \"from the twentieth of June and later\" (Morga, p. 355)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it: he reports the usual practice of the route, not one dated sailing. He made the crossing once himself, in 1603."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "The Philippines to Acapulco · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": [
+          "e-acapulco-mexico-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 357"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+            "form": "Primary chronicle, in English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 354"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+            "form": "Primary chronicle, in English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 343"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+            "form": "Primary chronicle, in English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 355"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+            "form": "Primary chronicle, in English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C05",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga wrote that goods from the Philippines paid freight of forty ducats a ton at Acapulco, and ten per cent on import and first sale in New Spain. A historian who went through the treasury accounts found goods at Acapulco assessed at five per cent.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1590–1609 · approximate"
+      },
+      "notes": "Quote: \"besides the duties of ten per cent. on the importation and first sale\" (Morga, p. 343); \"imports at Acapulco were assessed at only 5% of their value\" (Bjork, p. 44)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: a rule and a practice that do not match. Morga states the duty as an official who knew the route. Bjork's five per cent comes from a printed edition of the treasury accounts. The Claim does not choose between them."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Morga; Bjork.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Acapulco · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-acapulco-mexico-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 343"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+            "form": "Primary chronicle, in English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S15",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 44"
+            },
+            "citation": "Katharine Bjork, \"The Link That Kept the Philippines Spanish: Mexican Merchant Interests and the Manila Trade, 1571–1815\", *Journal of World History* 9:1 (Spring 1998), 25–50 (read pp. 39–43).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C06",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The merchants of Mexico City had a guild of their own from the 1590s, the *consulado*. The king licensed it in 1592 and it was set up in 1594. It was a different body from the city council.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1592 to 1594 · approximate"
+      },
+      "notes": "Quote: \"licencia para la erección de los consulados de México (1592) y Lima (1593)\" (del Valle Pavón, p. 225); \"A mediados de 1594, unos meses después de haberse erigido el consulado\" (del Valle Pavón, p. 227); \"the consulado or merchant guild, the body which legally represented the community\" (Hoberman, p. 481)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "Image"
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: del Valle Pavón; Hoberman.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Mexico City · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-mexico-city-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 225"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 227"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 481"
+            },
+            "citation": "Louisa Schell Hoberman, \"Merchants in Seventeenth-Century Mexico City: A Preliminary Portrait\", *Hispanic American Historical Review* 57:3 (August 1977), 479–503 (pp. 479–482 on the page image; pp. 490–493 by OCR).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C07",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The law reserved the Manila trade to residents of the Philippines. Mexico City's merchants traded all the same. A historian who read the guild's tax lists for goods landed at Acapulco in 1595 and 1596 found 437 persons who had loaded goods worth a little over 580,000 pesos. Thirty of them were guild members, and seventy-eight people paid the tax on behalf of others. The lists, as she reports them, do not say whether that is one year's goods or two. She reads the payments as merchants shipping under other people's names.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1595 to 1596 · approximate"
+      },
+      "notes": "Quote: \"cargaron mercancías por poco más 580.000 pesos 437 personas, 30 de las cuales\" (del Valle Pavón, p. 228); \"fue pagado por 78 individuos, en nombre de uno o varios cargadores\" (del Valle Pavón, p. 228); \"manipulaban los permisos de carga a fin de mantener dicho tráfico bajo su control\" (del Valle Pavón, p. 228); \"se hiciese solamente por vecinos de las dichas islas Filipinas\" (the king's letter, p. 565)\nCheck: Image, except the king's letter, p. 565 (Read)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: one historian's reading of one account book. Her page does not say whether the 580,000 pesos is one year's goods or two, so the Claim does not set it against the limit."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: del Valle Pavón; the king's letter.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Mexico City and Acapulco · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": [
+          "e-mexico-city-1602",
+          "e-acapulco-mexico-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 228"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 565"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C08",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "One way round the rule was a partner in Manila. A historian reports that in 1593, the year the limits were announced, the guild merchant Diego Rodríguez de Torres formed a company with Lorenzo de Figueroa, who went to live in Manila to buy goods and send them to Mexico City. Another historian writes that officials at the ports declined to open the boxes.",
+      "temporal": {
+        "precision": "year",
+        "label": "1593 · year"
+      },
+      "notes": "Quote: \"había ido a residir en Manila para comprar mercancías y remitirlas a México\" (del Valle Pavón, p. 229); \"royal servants, who conveniently declined to open the boxes\" (Gasch-Tomás, p. 121)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: del Valle Pavón has the company from another scholar's book (Martínez 2001), which has not been read for this set. The officials who declined to open the boxes are one historian's statement."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: del Valle Pavón; Gasch-Tomás.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Mexico City and Manila · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": [
+          "e-mexico-city-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 229"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S16",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 121"
+            },
+            "citation": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 4, \"Trans-Pacific Trade and the Political Economy of the Spanish Empire\", pp. 91–128 (read pp. 115–124; the rest searched).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C09",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "On 6 May 1602 the city council of Mexico City told its agent at court to put one matter to the king before all others. Three million, it said, left New Spain for the Philippines every year, and more than twelve million in the past five years; in those five years the city had not had goods worth six hundred thousand pesos in return. Unless 'this door' was shut altogether, it wrote, it would be the ruin of Castile and of New Spain. Goods from Castile, it said, had no sale in the city, and many residents and merchants were ruined. The minute names no coin for the three million and the twelve; historians read them as pesos. (Our translation.)",
+      "temporal": {
+        "precision": "year",
+        "label": "1602 · year"
+      },
+      "notes": "Quote: \"en seys de mayo de mill e seys cientos y dos años\" (the minutes, p. 43); \"todos los años tres millones y que de çinco años a esta parte an salido mas de doZe\" (the minutes, p. 47); \"si no se ssierra esta puerta totalmente a de ser la destrucion\" (the minutes, p. 47); \"sin ninguna salida muchos vecinos y mercaderes quebrados\" (the minutes, p. 47); \"pidió a Felipe III cerrar totalmente el comercio con Filipinas\" (del Valle Pavón, p. 231); \"came to five million pesos a year and that in 1597 the specie sent from Acapulco reached the staggering total of twelve millions\" (Borah, p. 123); \"Ibid., XV, 47 (Session of May 6, 1602).\" (Borah, p. 158, note 31)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the minute says it: a council's claim in a plea to the king, not a count. The council was asking for the trade to be shut, and said its own city's trade in goods from Castile was failing. The minute gives no unit for the three million and the twelve; del Valle Pavón and Borah both read pesos. Borah reports the letter as five million a year and twelve million in 1597. His note points to this page, which does not say that."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: the council's minutes; del Valle Pavón. Del Valle Pavón cites the minutes. Borah, linked as context, cites the same page and reports different figures.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Mexico City · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-mexico-city-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 43"
+            },
+            "citation": "*Actas de Cabildo* of the city of Mexico, Libro 15, 11 February 1602 to 31 December 1604 (México: Imprenta de Aguilar e Hijos, 1900), session of 6 May 1602 (read pp. 43 and 47 on the page image). In Spanish; no published English translation is known.",
+            "form": "Institutional record (city council minutes), printed edition",
+            "language": "Spanish",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 47"
+            },
+            "citation": "*Actas de Cabildo* of the city of Mexico, Libro 15, 11 February 1602 to 31 December 1604 (México: Imprenta de Aguilar e Hijos, 1900), session of 6 May 1602 (read pp. 43 and 47 on the page image). In Spanish; no published English translation is known.",
+            "form": "Institutional record (city council minutes), printed edition",
+            "language": "Spanish",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 231"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "MX-S06",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 123; p. 158, note 31"
+            },
+            "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MX-C10",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In September 1603 the king wrote from Valladolid that, by the letters of his viceroys and governors, more than two million in silver and coin was carried away each year, most of it, in his words, 'to the kingdoms of infidels'. He wrote too that merchants came from Peru to New Spain with silver for Chinese goods, though that was forbidden. (Our translation.)",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"pasan de dos millones en plata y reales lo que se lleva dello cada año\" (the king's letter, p. 566); \"la mayor parte dello á los reinos de infieles\" (the king's letter, p. 566); \"van allí por ellas los mercaderes con gran cantidad de plata cada año\" (the king's letter, p. 566)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he wrote it: a figure with an owner, a date and a stated basis, the letters of his viceroys and governors. It is not a measurement. \"Infidels\" is the king's word. The English is ours."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the king's letter.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Valladolid, about New Spain · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 566"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C11",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The king added that the Philippines themselves complained. The trade, they said, was carried on by people of New Spain and Peru, who bought up the goods, and the islands' own residents did not get the benefit. (Our translation.)",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"se hace aquella contratación por mano de otras personas de la Nueva España y el Perú\" (the king's letter, p. 566); \"sin que gocen aquel beneficio los vecinos de las islas\" (the king's letter, p. 566)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he wrote it: the king repeats a complaint that reached him from the Philippines. A lawyer at Manila made the same complaint about 1602; that letter is in the Manila 1602 set. The English is ours."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the king's letter.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Valladolid, about the Philippines · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 566"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C12",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The Cardinal-Archbishop of Seville answered on 28 October 1603, after asking men who knew the Indies trade. Seville's merchants had asked the king to forbid the trade altogether. He gave five causes for the decline of Spain's trade with the Indies and called the Philippine trade the most harmful. It filled New Spain and Peru, he wrote, with silks and linens of little value, so that when the fleets from Spain arrived they could not sell what they carried. (Our translation.)",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"La primera de las Filipinas la tienen por la mas dañosa y perjudicial\" (the Cardinal's letter, p. 568); \"hinchen de sedas y lienzos de poco valor á Nueva España y al Perú\" (the Cardinal's letter, p. 568); \"no hallan salida de lo que llevan\" (the Cardinal's letter, p. 569); \"De Sevilla 28 de octubre de 1603\" (the Cardinal's letter, p. 572); \"suplicádoseme mandase prohibir de todo punto aquella contratación\" (the king's letter, p. 566)\nCheck: Image, except p. 572 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he wrote it: he never saw New Spain. He reports what men of the Indies trade at Seville told him, and Seville's merchants had asked for the trade to be closed. The printed text lists the Philippine trade third and then calls it \"the first\"; the Claim keeps to what it says of the harm."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the Cardinal's letter.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Seville, about New Spain and Peru · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 568"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 569"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 572"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 566"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C13",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "He did not ask for the trade to be closed. He feared the islands would be abandoned and the preaching there would end. But he warned the king of a second danger: if the Indies, with Peru's vineyards and the silks, linens and iron the Philippines supplied, could live without Spain, Spain could not be sure of keeping them. (Our translation.)",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"pueden vivir sin nescesidad de España, no habrá seguridad dellas\" (the Cardinal's letter, p. 569); \"se han de despoblar, y el miedo de que ha de cesar la predicación\" (the Cardinal's letter, p. 569)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he wrote it: a Seville churchman's fear, not a fact about New Spain. The English is ours."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the Cardinal's letter.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Seville, about the Indies · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 569"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C14",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "New Spain was the kingdom the king of Spain ruled through a viceroy, his governor, in Mexico City. A historian reports that the viceroys in these years, the Count of Monterrey and the Marquis of Montesclaros, told the king the limits could not be enforced, and advised taxing the trade more heavily in place of restricting it.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1595–1607 · approximate"
+      },
+      "notes": "Quote: \"afirmaron que era imposible hacer cumplir las restricciones impuestas al comercio del Pacífico\" (del Valle Pavón, p. 232)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: at third hand. Del Valle Pavón cites a 1991 book by Hoberman, which has not been read for this set. The first sentence is background; the row supports the second."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: del Valle Pavón.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Mexico City · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-mexico-city-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 232"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C15",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "On 31 December 1604 the king issued new decrees. They kept the limits of 1593 and moved much of the running of the ships to the authorities at Manila. Their preamble said that each ship carried more than two million in registered coin 'with the knowledge and leave of my viceroys', besides what went in secret. (Our translation.)",
+      "temporal": {
+        "precision": "year",
+        "label": "1604 · year"
+      },
+      "notes": "Quote: \"con sabiduría y licencia de mis virreyes, audiencia y gobernadores, más de dos millones\" (del Valle Pavón, p. 232); \"Reales cédulas dadas en Valladolid el 31 de diciembre de 1604\" (del Valle Pavón, p. 233, note 87); \"first issued in 1593 and re-issued in 1604 and 1619\" (Seijas, p. 77, note 10)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "Image"
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: del Valle Pavón; Seijas.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Valladolid, about New Spain and the Philippines · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 232"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 233, note 87"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 77, note 10"
+            },
+            "citation": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C16",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Chinese goods were sold in the shops and streets of Mexico City by the 1590s. A historian of the trade writes that a shopkeeper who died in 1592 had sold silk cloth (taffeta), floss silk and stockings 'all from China', and that in 1598 a man asked the city council for leave to open 'a Chinese shop' in the street of the cloth sellers.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1592 to 1598 · approximate"
+      },
+      "notes": "Quote: \"a Chinese shop,\" una tienda china (Gasch-Tomás, p. 44); \"all from China, along with other fabrics and wine\" (Gasch-Tomás, p. 44); \"semi-manufactured silks – taffetas, damasks, and sinabafas\" (Gasch-Tomás, ch. 5, p. 133)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: one historian, from a council minute of 6 July 1598 and a notary's record, which he cites. Neither paper has been read for this set. Taffeta is the cloth his page names; he lists taffetas among silks elsewhere in the book."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Gasch-Tomás.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Mexico City · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-mexico-city-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 44"
+            },
+            "citation": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 2, \"From Asian Goods to Asian Commodities in the Spanish Empire\", pp. 27–48 (read pp. 43–44; the rest searched; p. 44 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "MX-S13",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 133"
+            },
+            "citation": "The same book, ch. 5, \"Impact of the Manila Galleon Trade on Hispanic Production of Manufactured Goods\", pp. 129–152 (read whole on the text layer; pp. 132, 133, 134, 135 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MX-C17",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Tailors in Mexico City ordered silk from Manila. The papers of a tailor who died in 1591, Manuel Tinoco, record his and another tailor's agreements with a merchant who traded in Manila for them. A tailor who died in 1603, Alonso del Riego, left more Chinese cloth than Chinese raw silk. A craftswoman, Isabel Villalobos, who died in 1591, also had silk sent to her from the Philippines.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1591 to 1603 · approximate"
+      },
+      "notes": "Quote: \"Lorenzo Murientes, a merchant who operated in Manila on behalf of the two tailors\" (Gasch-Tomás, p. 133); \"the tailor Alonso del Riego, who died in 1603\" (Gasch-Tomás, p. 134); \"Isabel Villalobos, a Mexican craftswoman (died 1591) who also had direct commercial links with the Philippines that supplied her with silks\" (Gasch-Tomás, p. 134)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: one historian, from papers made when each person died, which he cites. None has been read for this set. The page says what del Riego left, not how he ordered it."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Gasch-Tomás.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Mexico City · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-mexico-city-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 133"
+            },
+            "citation": "The same book, ch. 5, \"Impact of the Manila Galleon Trade on Hispanic Production of Manufactured Goods\", pp. 129–152 (read whole on the text layer; pp. 132, 133, 134, 135 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 134"
+            },
+            "citation": "The same book, ch. 5, \"Impact of the Manila Galleon Trade on Hispanic Production of Manufactured Goods\", pp. 129–152 (read whole on the text layer; pp. 132, 133, 134, 135 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C18",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The historian José Luis Gasch-Tomás writes that growing imports of Chinese silk contributed to a sharp fall in New Spain's own silk production by 1600, and that Puebla, the colony's main textile town, was forced to shift from silk to wool.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "by 1600 · approximate"
+      },
+      "notes": "Quote: \"contributed to the dramatic fall in New Spanish production of silk by 1600\" (Gasch-Tomás, p. 132); \"the city was forced to shift its textile production to wool\" (Gasch-Tomás, p. 132)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "not-place-bound` | `'New Spain (Puebla) · not place-bound'` | `[]"
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Gasch-Tomás.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "New Spain (Puebla) · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 132"
+            },
+            "citation": "The same book, ch. 5, \"Impact of the Manila Galleon Trade on Hispanic Production of Manufactured Goods\", pp. 129–152 (read whole on the text layer; pp. 132, 133, 134, 135 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C19",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1604 a poem in praise of Mexico City, Bernardo de Balbuena's *Grandeza Mexicana*, was printed in the city. It lists what the city gathered from the world: from the Philippines 'the cream', from Macao 'the most precious', from 'great China, coloured silks'. It says the city's wealth loads 'one fleet for Spain, another for China' each year, and that the city has by way of Manila 'all that the Chinese holds'. It is a poet praising his city to a patron, and shows what a resident boasted of, not what anyone counted. (Our translation.)",
+      "temporal": {
+        "precision": "year",
+        "label": "1604 · year"
+      },
+      "notes": "Quote: \"EN MEXICO. En la Emprenta de Diego Lopez Daualos. Año de 1604.\" (Balbuena, title page); \"de Philipinas / La nata, de Macan lo mas precioso\" (Balbuena, fol. 76v); \"De la gran China sedas de colores\" (Balbuena, fol. 76v); \"Que vna flota de España, otra de China / De sus sobras cada año va cargada\" (Balbuena, fol. 111r); \"Y por Manila quanto el Chino encierra\" (Balbuena, fol. 114r)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the page says it: a poet praising his city to a patron. It shows what a resident boasted of, not what anyone counted. The title page dates the printing to 1604; when he wrote the poem is not on a page read for this set. The English is ours."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Balbuena.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Mexico City · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-mexico-city-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "title page"
+            },
+            "citation": "Bernardo de Balbuena, *Grandeza Mexicana* (Mexico: Diego López Dávalos, 1604). Read: title page; fols. 76v, 111r, 114r. Scan of the John Carter Brown Library copy, which lacks some leaves. In Spanish; our translation.",
+            "form": "Primary poem, first printing",
+            "language": "Spanish",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "fol. 76v"
+            },
+            "citation": "Bernardo de Balbuena, *Grandeza Mexicana* (Mexico: Diego López Dávalos, 1604). Read: title page; fols. 76v, 111r, 114r. Scan of the John Carter Brown Library copy, which lacks some leaves. In Spanish; our translation.",
+            "form": "Primary poem, first printing",
+            "language": "Spanish",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "fol. 111r"
+            },
+            "citation": "Bernardo de Balbuena, *Grandeza Mexicana* (Mexico: Diego López Dávalos, 1604). Read: title page; fols. 76v, 111r, 114r. Scan of the John Carter Brown Library copy, which lacks some leaves. In Spanish; our translation.",
+            "form": "Primary poem, first printing",
+            "language": "Spanish",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "fol. 114r"
+            },
+            "citation": "Bernardo de Balbuena, *Grandeza Mexicana* (Mexico: Diego López Dávalos, 1604). Read: title page; fols. 76v, 111r, 114r. Scan of the John Carter Brown Library copy, which lacks some leaves. In Spanish; our translation.",
+            "form": "Primary poem, first printing",
+            "language": "Spanish",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C20",
+      "claimClass": "Mainstream interpretation",
+      "sensitive": false,
+      "wording": "Historians explain the trade's pull on New Spain by price. Silver bought more in Asia than in Europe, and Chinese cloth cost much less in New Spain than what the fleets brought from Spain. Guillermina del Valle Pavón (2005) explains it this way. Woodrow Borah (1954) says the same of price, writing of merchants from Peru who bought in New Spain. José Luis Gasch-Tomás (2019) adds that Asian goods cost less in Spanish America than in Castile.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th to early 17th c. · century"
+      },
+      "notes": "Quote: \"la plata tenía mayor valor en Oriente que en Europa\" (del Valle Pavón, p. 218); \"Chinese wares were far more abundant, far cheaper than imports from Spain\" (Borah, p. 121); \"cost less in Spanish America than in Castile\" (Gasch-Tomás, p. 153)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: an explanation, not a record. One historian states both halves. A second gives the price half, about buyers from Peru. A third compares the price of Asian goods in Spanish America and in Castile. The silver half rests on one row in this set; the Manila 1602 set holds more on silver's price in Asia."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: del Valle Pavón; Borah; Gasch-Tomás.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "New Spain and Asia · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 218"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 121"
+            },
+            "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 153"
+            },
+            "citation": "The same book, ch. 6, \"Consumption Habits, Fashions, and Taste for Asian Manufactured Goods among Elites in Mexico City and Seville\", pp. 153–197 (read in part; p. 153 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C21",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "From Acapulco the goods went up to Mexico City by mule. A historian reports that in 1592 the viceroy Luis de Velasco had the track to Acapulco made into a mule road as the Pacific trade grew. Agents at Acapulco received the goods for the wholesalers of Mexico City and saw them onto the road. A modern historian puts the road at about 600 kilometres.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1592 to c. 1609 · approximate"
+      },
+      "notes": "Quote: \"transformara la vereda que conducía a Acapulco en un camino de arriería\" (del Valle Pavón, p. 226); \"transport via mule drivers and peddlers along the road linking Acapulco and Mexico City\" (Gasch-Tomás, p. 68); \"eighty leagues from Mexico\" (Morga, p. 353); \"the eighty leagues of road between the capital and Acapulco were held bad even by the tolerant standards of the day\" (Borah, p. 116); \"The China Road (Camino de China) that joined the port to Mexico City was approximately 600 kilometers long\" (Seijas, p. 97)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "Image"
+      },
+      "independenceNote": "5 Sources cited; lineage as recorded: del Valle Pavón; Gasch-Tomás; Morga; Borah; Seijas. Del Valle Pavón cites Borah for the road of 1592.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Acapulco to Mexico City · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": [
+          "e-acapulco-mexico-1602",
+          "e-mexico-city-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 226"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 68"
+            },
+            "citation": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 3, \"Commerce in the Pacific and the Atlantic and Interaction between the Two Oceans\", pp. 49–90 (read where it treats Acapulco; the rest searched; p. 68 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 353"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+            "form": "Primary chronicle, in English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 116"
+            },
+            "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 97"
+            },
+            "citation": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C22",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Not all of it stayed in New Spain. The king wrote in 1603 that Chinese goods went on to Peru in spite of the ban. A historian of the trade writes that what went on to Seville was nearly all raw silk, while New Spain kept the woven cloth.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1603; c. 1600–1640 · approximate"
+      },
+      "notes": "Quote: \"tampoco se ha cumplido la prohibición que está hecha de que no se pasen al Perú\" (the king's letter, p. 566); \"the Atlantic fleets that sailed from New Spain to Castile seldom contained Chinese semi-manufactured silk fabrics\" (Gasch-Tomás, p. 135); \"able to buy much or most of the cargo of the Manila galleons on the shore at Acapulco and reship the goods\" (Borah, p. 122)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "Image"
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: the king's letter; Gasch-Tomás; Borah.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "New Spain, Peru and Seville · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 566"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 135"
+            },
+            "citation": "The same book, ch. 5, \"Impact of the Manila Galleon Trade on Hispanic Production of Manufactured Goods\", pp. 129–152 (read whole on the text layer; pp. 132, 133, 134, 135 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 122"
+            },
+            "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C23",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The ships from Manila carried enslaved people as well as goods. In 1597 the king wrote to Manila and to Mexico that passengers boarded with people held as slaves, whom his letter described as Black and also 'from places like Japan'. He set a number each official might take: six for a departing governor, four for a judge, two for others.",
+      "temporal": {
+        "precision": "year",
+        "label": "1597 · year"
+      },
+      "notes": "Quote: \"In 1597, the king wrote to both the governor of the Philippines and the viceroy of Mexico\" (Seijas, p. 87); \"blacks and also from places like Japan\" (Seijas, p. 88); \"the outgoing governor could take six slaves, judges four, and other officials two\" (Seijas, p. 88)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: the king's letter of 1597 reaches us in one historian's English summary. The letter itself has not been read for this set."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Seijas.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Manila to Acapulco · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 87"
+            },
+            "citation": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 88"
+            },
+            "citation": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C24",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "In 1602 or 1603 officials at Acapulco held a woman named Gracia, whom the record calls a *china* slave, because she had been sent without a licence, which the law required of anyone bringing a person held as a slave. The man who claimed her, Pedro de Vega, came down from Mexico City to pay the duty. The officials would not release her, and he needed an order from the viceroy. The historian who found the case dates it to 1602; the paper she cites is of 1603.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1602 or 1603 · approximate"
+      },
+      "notes": "Quote: \"officials detained Gracia, a china slave who belong to Pedro de Vega\" (Seijas, p. 94); \"Vega had to get a special dispensation from the viceroy\" (Seijas, p. 94); \"everyone who wanted to bring a slave to the Indies had to have a license\" (Seijas, p. 84)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: one historian, from one paper she cites. The record is about who owned Gracia. It does not say where she came from or what became of her. The historian dates the case to 1602; her note dates the paper to 1603."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Seijas.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Acapulco · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-acapulco-mexico-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 94"
+            },
+            "citation": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 84"
+            },
+            "citation": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C25",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The port's books do not count the people carried. For 1600 to 1603 they record seven. The head accountant of the treasury in Mexico City said that more than two hundred Black people had been landed at Acapulco in those years. Neither is a count of everyone carried.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1600 to 1603 · approximate"
+      },
+      "notes": "Quote: \"recorded the entry of only seven slaves\" (Seijas, p. 94); \"more than 200 blacks arrived in Acapulco during that same period\" (Seijas, p. 94)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: both figures come through one historian, and she has the accountant's statement from another (Vila Vilar). The gap between seven and more than two hundred is the finding. Neither is a count."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Seijas.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Acapulco · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-acapulco-mexico-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 94"
+            },
+            "citation": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C26",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "One man's account survives. In 1607 Gregorio Moreno petitioned the government at Seville. The record has him call himself 'an Indian of the Chinese nation from the Philippine islands'. It names an owner, don Lope de Ulloa. Moreno said he had been taken from his land and his parents' home, and carried to Mexico, to Peru, back to Mexico and then to Spain, 'more than 4,500 leagues', and was now 'helpless in a distant land'. The king granted him money for the journey home; the historian who found the case adds that it proved difficult for him to collect. His account reaches us through a petition, in a historian's English.",
+      "temporal": {
+        "precision": "year",
+        "label": "1607 · year"
+      },
+      "notes": "Quote: \"an Indian of the Chinese nation from the Philippine islands\" (Seijas, p. 85); \"removed from his land and the home of his parents\" (Seijas, p. 86); \"helpless in a distant land\" (Seijas, p. 86); \"more than 4,500 leagues\" (Seijas, p. 86); \"yndio de nacion chino de las islas Filipinas\" (Seijas, p. 86, note 44)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: one petition, found by one historian and given in her English. It is the only account by a person carried east in the Sources read for this set. Whether he collected the money, and whether he got home, is not known. The year 1607 is the date of the papers in her notes; her own sentences give no year."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Seijas.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Seville, about New Spain and Peru · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 85"
+            },
+            "citation": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 86"
+            },
+            "citation": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MX-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 86, note 44"
+            },
+            "citation": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C27",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The historian Tatiana Seijas gathered records of 598 enslaved people brought across the Pacific, over more than a century. The work of 182 of them in Mexico City is known: 104 were personal servants and 42 worked in textile mills.",
+      "temporal": {
+        "precision": "century",
+        "label": "17th c. · century"
+      },
+      "notes": "Quote: \"104 were personal servants, 42 worked as laborers in obrajes\" (Seijas, p. 110, note 3)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: her sample runs across the whole seventeenth century. It is not a count for 1602, and it covers only people whose work a record states."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Seijas.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Mexico City · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-mexico-city-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S08",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 110, note 3"
+            },
+            "citation": "The same book, ch. 4, \"Chinos in Mexico City: Slave Labor and Liberty\", pp. 109–142 (read pp. 109–113, 124–125, 130–133; the rest searched; pp. 110, 131, 132 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C28",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "In 1601 the king ruled that Indigenous people, as free vassals, were not to work in the textile mills. In December 1602 the viceroy gave Mexico City's mill owners four months to buy enslaved Black workers and to send away the Indigenous people working in their mills. The owners protested the cost, and the order was soon relaxed.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1601 to 1602 · approximate"
+      },
+      "notes": "Quote: \"gave mill owners four months to purchase black slaves\" (Seijas, p. 131); \"entitled 'to live in liberty as vassals'\" (Seijas, p. 131); \"the viceroy soon arranged for special licenses to compel Indian laborers to return\" (Seijas, pp. 131–132)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: one historian, from a printed collection of labour ordinances she cites, which has not been read for this set."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Seijas.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Mexico City · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-mexico-city-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S08",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 131"
+            },
+            "citation": "The same book, ch. 4, \"Chinos in Mexico City: Slave Labor and Liberty\", pp. 109–142 (read pp. 109–113, 124–125, 130–133; the rest searched; pp. 110, 131, 132 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S08",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "pp. 131–132"
+            },
+            "citation": "The same book, ch. 4, \"Chinos in Mexico City: Slave Labor and Liberty\", pp. 109–142 (read pp. 109–113, 124–125, 130–133; the rest searched; pp. 110, 131, 132 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C29",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "Portuguese traders were the main suppliers of the enslaved people brought to Manila from abroad, the historian Tatiana Seijas writes, from India, Malacca, Macao and other ports. In 1584 and 1586 the court at Manila reported that the Portuguese paid no duty on the people they brought from India and Macao, 'even for those sent to New Spain'.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1584 to 1586 · approximate"
+      },
+      "notes": "Quote: \"the Portuguese were the primary suppliers of foreign slaves to the Philippines\" (Seijas 2008, p. 21); \"brought from India and Macao, even for those sent to New Spain\" (Seijas 2008, p. 21); \"The greater part were transported by Portuguese vessels\" (Slack, p. 41)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: two modern authors, and a dated report from Manila's own court as Seijas gives it. The court's letters are in the archive at Seville and have not been read for this set. Slack's sentence has no note of its own."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Seijas (2008); Slack.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Manila, about India, Macao and New Spain · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S09",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 21"
+            },
+            "citation": "Tatiana Seijas, \"The Portuguese Slave Trade to Spanish Manila: 1580–1640\", *Itinerario* 32:1 (2008), 19–38 (read pp. 19–26; pp. 21, 24 on the page image).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 41"
+            },
+            "citation": "Edward R. Slack Jr., \"The Chinos in New Spain: A Corrective Lens for a Distorted Image\", *Journal of World History* 20:1 (March 2009), 35–67 (read pp. 35–45; p. 41 on the page image).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C31",
+      "claimClass": "Disputed",
+      "sensitive": true,
+      "wording": "The Indigenous population of Central Mexico fell very greatly in the century before 1602, and a reference history of 2006 says most scholars agree that diseases brought from the Old World were a significant factor in the fall of American populations. Tatiana Seijas writes that the collapse transformed the labour system in Mexico. How great the fall was is not agreed. The estimate most often quoted is Sherburne Cook and Woodrow Borah's: from 16.8 million people in 1532 to 1.1 million in 1608. It is worked out from tax records, and a reference history of 2006 says its assumptions have been heavily criticised.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1532 to 1608 · approximate"
+      },
+      "notes": "Quote: \"fell from 16.8 million to 1.1 million\" (Newson, p. 165); \"has been heavily criticized for the assumptions it makes\" (Newson, p. 145); \"Most scholars agree that a significant factor in the decline\" (Newson, p. 145); \"transformed the labor system in Mexico\" (Seijas, p. 110)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "not-place-bound` | `'Central Mexico · not place-bound'` | `[]"
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Newson; Seijas.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Central Mexico · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S18",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 165"
+            },
+            "citation": "Linda A. Newson, \"The Demographic Impact of Colonization\", in Victor Bulmer-Thomas, John H. Coatsworth and Roberto Cortés Conde (eds.), *The Cambridge Economic History of Latin America*, vol. 1, *The Colonial Era and the Short Nineteenth Century* (Cambridge University Press, 2006), pp. 143–184 (read pp. 145, 148, 165–166; pp. 145 and 165 on the page image).",
+            "form": "Scholarship (chapter in a reference history)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S18",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 145"
+            },
+            "citation": "Linda A. Newson, \"The Demographic Impact of Colonization\", in Victor Bulmer-Thomas, John H. Coatsworth and Roberto Cortés Conde (eds.), *The Cambridge Economic History of Latin America*, vol. 1, *The Colonial Era and the Short Nineteenth Century* (Cambridge University Press, 2006), pp. 143–184 (read pp. 145, 148, 165–166; pp. 145 and 165 on the page image).",
+            "form": "Scholarship (chapter in a reference history)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S08",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 110"
+            },
+            "citation": "The same book, ch. 4, \"Chinos in Mexico City: Slave Labor and Liberty\", pp. 109–142 (read pp. 109–113, 124–125, 130–133; the rest searched; pp. 110, 131, 132 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C32",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In these years Mexico City stood on an island in a lake and was reached by causeways. It flooded.",
+      "temporal": {
+        "precision": "century",
+        "label": "17th c. · century"
+      },
+      "notes": "Quote: \"Being an island sometimes made life more difficult, especially during times of flooding, when causeways were impassable\" (Boyer, p. 469); \"la ciudad de México, que estaba rodeada de agua y carecía de muralla\" (del Valle Pavón, p. 222)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "Image"
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Boyer; del Valle Pavón.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Mexico City · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-mexico-city-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S19",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 469"
+            },
+            "citation": "Richard Boyer, \"Mexico in the Seventeenth Century: Transition of a Colonial Society\", *Hispanic American Historical Review* 57:3 (August 1977), 455–478 (pp. 455 and 469 on the page image; the rest by machine reading of the scan).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MX-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 222"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MX-C33",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The Spanish records of New Spain used *chino*, and for a woman *china*, for people brought across the Pacific, whatever land they came from, the historian Tatiana Seijas writes.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th to 17th c. · century"
+      },
+      "notes": "Quote: \"the general term for all slaves who traveled across the Pacific\" (Seijas, p. 74)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "not-place-bound` | `'New Spain · not place-bound'` | `[]"
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Seijas.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "New Spain · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MX-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 74"
+            },
+            "citation": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    }
+  ]
+}

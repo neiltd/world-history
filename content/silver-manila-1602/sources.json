@@ -333,6 +333,69 @@
         "recorded": false
       },
       "editorialState": "draft"
+    },
+    {
+      "id": "SR15",
+      "record": "*Actas de Cabildo* of the city of Mexico, Libro 15, 11 February 1602 to 31 December 1604 (México: Imprenta de Aguilar e Hijos, 1900), session of 6 May 1602 (read pp. 43 and 47 on the page image). In Spanish; no published English translation is known.",
+      "form": "Institutional record (city council minutes), printed edition",
+      "language": "Spanish",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/actasmodernasde20bejagoog",
+      "perspective": "The councillors of Mexico City, instructing their agent at the king's court. In May 1602 they wanted the Philippine trade shut, and said goods from Castile had no sale in the city.",
+      "position": {
+        "proximity": "Made in 1602; printed in 1900",
+        "category": "colonial state",
+        "focus": "The city's business, session by session."
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR16",
+      "record": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.fulcrum.org/concern/monographs/3t945r115",
+      "perspective": "A historian of colonial Mexico working from viceroys' letters, the printed laws and both cities' council minutes. Later writers on the bans on Peru rest on him. His report of the council's letter of 1602 does not match the minute he cites.",
+      "position": {
+        "proximity": "Appeared in 1954",
+        "category": "later scholarship",
+        "focus": "Trade by sea between Mexico and Peru to about 1630."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR17",
+      "record": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+      "form": "Scholarship (journal article)",
+      "language": "Spanish",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/S0212610900012295",
+      "perspective": "A Mexican economic historian of the merchant guild of Mexico City. She reads the council's and the guild's own papers and argues that local interests beat the crown's limits.",
+      "position": {
+        "proximity": "Appeared in 2005",
+        "category": "later scholarship",
+        "focus": "How Mexico City's merchants got round the limits on the Pacific trade."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
     }
   ]
 }

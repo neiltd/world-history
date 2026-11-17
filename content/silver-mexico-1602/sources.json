@@ -1,0 +1,409 @@
+{
+  "sources": [
+    {
+      "id": "MX-S01",
+      "record": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 229–231, 343, 353–357.",
+      "form": "Primary chronicle, in English translation",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/philippineisland00morg",
+      "perspective": "A royal judge who served eight years at Manila, crossed to Acapulco in 1603 and wrote his book in Mexico City. He describes the route and its duties as an official who administered them, and his own crossing in the third person.",
+      "position": {
+        "proximity": "Contemporary; he landed at Acapulco on 19 December 1603; printed at Mexico in 1609",
+        "category": "colonial state",
+        "note": "The month of his sailing, July, is his translator's; the printed text leaves it out."
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S02",
+      "record": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+      "form": "Primary letters, in a nineteenth-century printed collection",
+      "language": "Spanish",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/coleccindedocum01raygoog",
+      "perspective": "The king, repeating what his viceroys and governors had written to him; and Seville's archbishop, reporting what men of the Indies trade in Seville told him. Neither saw New Spain. Seville's merchants had asked for the trade to be closed.",
+      "position": {
+        "proximity": "Contemporary; written in Spain in 1603",
+        "category": "colonial state",
+        "note": "The Cardinal does not ask for closure. The printed text gives \"50 toneladas\" for the ships he proposes, which looks like a slip and is not used."
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S03",
+      "record": "Bernardo de Balbuena, *Grandeza Mexicana* (Mexico: Diego López Dávalos, 1604). Read: title page; fols. 76v, 111r, 114r. Scan of the John Carter Brown Library copy, which lacks some leaves. In Spanish; our translation.",
+      "form": "Primary poem, first printing",
+      "language": "Spanish",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/grandezamexicana00balb",
+      "perspective": "A cleric and poet praising Mexico City to a patron, the president of the Council of the Indies. He lists the world's goods as the city's glory. It shows what a resident boasted of, not what anyone counted.",
+      "position": {
+        "proximity": "Contemporary; printed at Mexico City in 1604",
+        "category": "church",
+        "note": "When he wrote it is not on a page we have read; one modern historian gives 1602."
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S04",
+      "record": "*Actas de Cabildo* of the city of Mexico, Libro 15, 11 February 1602 to 31 December 1604 (México: Imprenta de Aguilar e Hijos, 1900), session of 6 May 1602 (read pp. 43 and 47 on the page image). In Spanish; no published English translation is known.",
+      "form": "Institutional record (city council minutes), printed edition",
+      "language": "Spanish",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/actasmodernasde20bejagoog",
+      "perspective": "The councillors of Mexico City, instructing their agent at the king's court. In May 1602 they wanted the Philippine trade shut, and said goods from Castile had no sale in the city.",
+      "position": {
+        "proximity": "Made in 1602; printed in 1900",
+        "category": "colonial state",
+        "focus": "The city's business, session by session."
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [],
+        "recorded": true
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S05",
+      "record": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+      "form": "Scholarship (journal article)",
+      "language": "Spanish",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/S0212610900012295",
+      "perspective": "A Mexican economic historian of the merchant guild of Mexico City. She reads the council's and the guild's own papers and argues that local interests beat the crown's limits.",
+      "position": {
+        "proximity": "Appeared in 2005",
+        "category": "later scholarship",
+        "focus": "How Mexico City's merchants got round the limits on the Pacific trade."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S06",
+      "record": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.fulcrum.org/concern/monographs/3t945r115",
+      "perspective": "A historian of colonial Mexico working from viceroys' letters, the printed laws and both cities' council minutes. Later writers on the bans on Peru rest on him. His report of the council's letter of 1602 does not match the minute he cites.",
+      "position": {
+        "proximity": "Appeared in 1954",
+        "category": "later scholarship",
+        "focus": "Trade by sea between Mexico and Peru to about 1630."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S07",
+      "record": "Tatiana Seijas, *Asian Slaves in Colonial Mexico: From Chinos to Indians* (Cambridge University Press, 2014), ch. 3, \"The Rise and Fall of the Transpacific Slave Trade\", pp. 73–108 (read whole; pp. 74, 77, 84, 85, 86, 87, 88, 94, 97 on the page image).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/CBO9781107477841.004",
+      "perspective": "A historian of slavery working from the archives of Mexico City and Seville. Almost every person in her pages reaches us through an owner's, a notary's or an official's paper, and she says the number carried will never be known.",
+      "position": {
+        "proximity": "Appeared in 2014",
+        "category": "later scholarship",
+        "focus": "How enslaved people were carried from Manila to Acapulco, and why that trade ended.",
+        "note": "The only study we hold of this subject for these years. Her estimate of the total is not used: the arithmetic on the page does not match the method stated."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S08",
+      "record": "The same book, ch. 4, \"Chinos in Mexico City: Slave Labor and Liberty\", pp. 109–142 (read pp. 109–113, 124–125, 130–133; the rest searched; pp. 110, 131, 132 on the page image).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/CBO9781107477841.005",
+      "perspective": "The same historian, on the work enslaved people from across the Pacific were put to in Mexico City. Her sample of 598 people runs across the whole seventeenth century.",
+      "position": {
+        "proximity": "Appeared in 2014",
+        "category": "later scholarship",
+        "focus": "Household service, trades and textile mills in Mexico City."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S09",
+      "record": "Tatiana Seijas, \"The Portuguese Slave Trade to Spanish Manila: 1580–1640\", *Itinerario* 32:1 (2008), 19–38 (read pp. 19–26; pp. 21, 24 on the page image).",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/S0165115300001686",
+      "perspective": "The same historian, earlier, on who supplied Manila with enslaved people. She builds the article round one woman, Catarina de San Juan, whose story reaches us through two priests who wanted her made a saint.",
+      "position": {
+        "proximity": "Appeared in 2008",
+        "category": "later scholarship",
+        "focus": "Portuguese traders bringing enslaved people to Manila from India, Malacca and Macao."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S10",
+      "record": "Edward R. Slack Jr., \"The Chinos in New Spain: A Corrective Lens for a Distorted Image\", *Journal of World History* 20:1 (March 2009), 35–67 (read pp. 35–45; p. 41 on the page image).",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/40542720",
+      "perspective": "A historian arguing that Asian migrants to New Spain, free and enslaved, have been left out of Mexico's history. His counts take in sailors and free settlers over 250 years.",
+      "position": {
+        "proximity": "Appeared in 2009",
+        "category": "later scholarship",
+        "focus": "Asian migrants of every status in New Spain, 1565 to 1815."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S11",
+      "record": "Louisa Schell Hoberman, \"Merchants in Seventeenth-Century Mexico City: A Preliminary Portrait\", *Hispanic American Historical Review* 57:3 (August 1977), 479–503 (pp. 479–482 on the page image; pp. 490–493 by OCR).",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1215/00182168-57.3.479",
+      "perspective": "A historian of Mexico City's merchant guild. Her study is of the men who led it from 1621 to 1653, a generation after this Moment.",
+      "position": {
+        "proximity": "Appeared in 1977",
+        "category": "later scholarship",
+        "focus": "Who the wholesale merchants were and how they made and used their money.",
+        "note": "She repeats the 1954 figures for the council's letter of 1602."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S12",
+      "record": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 2, \"From Asian Goods to Asian Commodities in the Spanish Empire\", pp. 27–48 (read pp. 43–44; the rest searched; p. 44 on the page image).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1163/9789004383616_003",
+      "perspective": "A historian of the galleon trade working from notaries' and councils' records in Mexico City and Seville. Here he shows Chinese goods on sale in Mexico City's shops and streets, from licences and from inventories made at death.",
+      "position": {
+        "proximity": "Appeared in 2019",
+        "category": "later scholarship",
+        "focus": "How Asian goods went from gifts and rarities to things sold in shops."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S13",
+      "record": "The same book, ch. 5, \"Impact of the Manila Galleon Trade on Hispanic Production of Manufactured Goods\", pp. 129–152 (read whole on the text layer; pp. 132, 133, 134, 135 on the page image).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1163/9789004383616_006",
+      "perspective": "The same historian, on what the imports did to makers in New Spain and Spain. On the fall of Mexican silk he rests on Borah's 1943 book and on Bazant, which we have not read. No silk raiser or weaver speaks in his pages.",
+      "position": {
+        "proximity": "Appeared in 2019",
+        "category": "later scholarship",
+        "focus": "Silk raising, silk weaving and pottery in New Spain and Castile under Chinese competition.",
+        "note": "His shares of raw and woven silk are for about 1600 to 1640, from his own appendix."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S14",
+      "record": "The same book, ch. 6, \"Consumption Habits, Fashions, and Taste for Asian Manufactured Goods among Elites in Mexico City and Seville\", pp. 153–197 (read in part; p. 153 on the page image).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1163/9789004383616_007",
+      "perspective": "The same historian, on who owned Chinese goods, from 122 inventories made in Mexico City between 1580 and 1630. He says himself that people who had no notary are not in them.",
+      "position": {
+        "proximity": "Appeared in 2019",
+        "category": "later scholarship",
+        "focus": "Owners of Asian goods in Mexico City and Seville, by wealth.",
+        "note": "He dates Balbuena's poem to 1602; its title page says 1604."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S15",
+      "record": "Katharine Bjork, \"The Link That Kept the Philippines Spanish: Mexican Merchant Interests and the Manila Trade, 1571–1815\", *Journal of World History* 9:1 (Spring 1998), 25–50 (read pp. 39–43).",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1353/jwh.2005.0111",
+      "perspective": "A historian arguing that merchants and officials in Mexico, not the crown, kept the Manila trade alive. Her dates for the bans on Peru come from Borah and Schurz, which we do not hold.",
+      "position": {
+        "proximity": "Appeared in 1998",
+        "category": "later scholarship",
+        "focus": "Whose interests the Manila trade served, from the Mexican side."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S16",
+      "record": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 4, \"Trans-Pacific Trade and the Political Economy of the Spanish Empire\", pp. 91–128 (read pp. 115–124; the rest searched).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1163/9789004383616_005",
+      "perspective": "A historian of the galleon trade working from the archives of Seville and Mexico City. He reads the limits on the trade as the outcome of bargaining among the merchants of Seville, Mexico City, Lima and Manila and the crown. On the bans on Peru he cites Borah and gives one year only.",
+      "position": {
+        "proximity": "Appeared in 2019",
+        "category": "later scholarship",
+        "focus": "How rival merchant elites pressed the crown to limit, or to free, the trade across the Pacific.",
+        "note": "He prints, in his own translation, a letter of the city council of Lima of 18 October 1599. His year for the first ban on Peru, 1582, differs by one from Bjork's and Iaccarino's."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S17",
+      "record": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 3, \"Commerce in the Pacific and the Atlantic and Interaction between the Two Oceans\", pp. 49–90 (read where it treats Acapulco; the rest searched; p. 68 on the page image).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1163/9789004383616_004",
+      "perspective": "The same historian, on how the trade ran between Manila, Acapulco, Mexico City, Veracruz and Seville, from merchants' letters.",
+      "position": {
+        "proximity": "Appeared in 2019",
+        "category": "later scholarship",
+        "focus": "How Asian goods moved between Manila, Acapulco, Mexico City, Veracruz and Seville, and how that trade rose and then fell.",
+        "note": "The letters he cites for the agents at Acapulco are dated 1608 to 1641."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S18",
+      "record": "Linda A. Newson, \"The Demographic Impact of Colonization\", in Victor Bulmer-Thomas, John H. Coatsworth and Roberto Cortés Conde (eds.), *The Cambridge Economic History of Latin America*, vol. 1, *The Colonial Era and the Short Nineteenth Century* (Cambridge University Press, 2006), pp. 143–184 (read pp. 145, 148, 165–166; pp. 145 and 165 on the page image).",
+      "form": "Scholarship (chapter in a reference history)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/CHOL9780521812894.007",
+      "perspective": "A historical geographer surveying what is known of population in colonial Latin America. She reports the best-known estimate for Central Mexico with its authors and says its method has been heavily criticised. She gives no rival figure on the pages we read.",
+      "position": {
+        "proximity": "Appeared in 2006",
+        "category": "later scholarship",
+        "focus": "How many people lived in the Americas before and after European colonisation, and why the numbers fell."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "MX-S19",
+      "record": "Richard Boyer, \"Mexico in the Seventeenth Century: Transition of a Colonial Society\", *Hispanic American Historical Review* 57:3 (August 1977), 455–478 (pp. 455 and 469 on the page image; the rest by machine reading of the scan).",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1215/00182168-57.3.455",
+      "perspective": "A historian of the city and its valley across the seventeenth century. His sentence on the island city is about the 1620s.",
+      "position": {
+        "proximity": "Appeared in 1977",
+        "category": "later scholarship",
+        "focus": "Mexico City in the seventeenth century, as sailings from Spain grew fewer and the city took a larger part of its own."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    }
+  ]
+}

@@ -795,6 +795,11 @@
       ]
     },
     "viewIndexHeading": "In this view — 1602",
+    "momentsHeading": "Moments in 1602",
+    "momentEntry": {
+      "name": "Mexico City, 1602",
+      "action": "Go to this moment."
+    },
     "otherYearsHeading": "Other years",
     "momentEntryById": {
       "potosi": {
@@ -897,7 +902,7 @@
       "momentShort": "Manila"
     },
     "contextNote": {
-      "world": "World context · one moment in 1602",
+      "world": "World context · two moments in 1602",
       "wider": "Wider context · one moment in 1602"
     },
     "mapStatus": {
@@ -911,7 +916,7 @@
       "MS-7": "The selected Event and its connected Place are outside the current view. Reset the view to show all four markers.",
       "MS-8": "Loading Manila, 1602.",
       "MS-9": "The basemap could not be loaded. The marker and the list beneath the map are still available.",
-      "MS-10": "The world. One 1602 moment is in view: Manila. Select it to go to it.",
+      "MS-10": "The world. Two 1602 moments are in view: Manila and Mexico City. Ships sailed from one to the port of the other, Acapulco. No line is drawn between them. Select a moment to go to it.",
       "MS-11": "East and Southeast Asia. The 1602 view is two points at this scale: Manila, and Haicheng in Fujian, which a historian names as the home port of the ships. Zoom in or reset the view to see Manila's marker.",
       "MS-12": "Luzon and the South China Sea. The 1602 view is one point at Manila at this scale. Zoom in or reset the view to see its marker."
     },
