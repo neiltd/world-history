@@ -333,11 +333,11 @@
         "name": "Source diversity",
         "asks": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
         "lastReview": "Not yet editorially reviewed",
-        "reading": "9 primary documents and 0 scholarly books, in 2 languages as recorded",
-        "valueText": "9 primary documents and 0 scholarly books, in 2 languages as recorded",
+        "reading": "9 primary documents and 0 scholarly books, in 1 language as recorded",
+        "valueText": "9 primary documents and 0 scholarly books, in 1 language as recorded",
         "stateText": "No number yet · 2 of 4 kinds of information recorded",
         "origin": "computed",
-        "counted": "Kinds of document: Primary document, letter 3, Primary document, report to the Crown 2, Scholarship (journal article) 2, Editors' note quoting a primary letter we have not read 1, Primary document, a relation made from letters written at Manila in 1573 1, Primary document, court record, English translation by a named translator 1, Primary document, petition 1, Primary document, printed memorial 1, Primary narrative, English translation 1, Primary treatise, in an early English translation (1604 spelling) 1, Scholarship (book chapter) 1, Scholarship (early) 1. Languages, as recorded: English (translated from Spanish) 9, English 7. Where each author stood: colonial state 7, later scholarship 5, colonial elite 2, church 1.",
+        "counted": "Kinds of document: Primary document, letter 3, Primary document, report to the Crown 2, Scholarship (journal article) 2, Editors' note quoting a primary letter we have not read 1, Primary document, a relation made from letters written at Manila in 1573 1, Primary document, court record, English translation by a named translator 1, Primary document, petition 1, Primary document, printed memorial 1, Primary narrative, English translation 1, Primary treatise, in an early English translation (1604 spelling) 1, Scholarship (book chapter) 1, Scholarship (early) 1. Languages, as recorded: English 16. Where each author stood: colonial state 7, later scholarship 5, colonial elite 2, church 1.",
         "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
         "inputsRecorded": [
           2,
@@ -492,7 +492,7 @@
             },
             {
               "sourceId": "SB11",
-              "citation": "Editors' footnote 75 (Emma Helen Blair and James A. Robertson) to the letter of Andrés de Mirandaola, B&R vol. 3 (Cleveland, 1903), p. 226. It quotes a letter of the Viceroy of New Spain dated 9 January 1574. The editors give no archive reference and the letter was not found in any free volume. Translator of the quoted passage: not named in the volume.",
+              "citation": "Editors' footnote 75 (Emma Helen Blair and James A. Robertson) to the letter of Andrés de Mirandaola, B&R vol. 3 (Cleveland, 1903), p. 226. It quotes a letter of the Viceroy of New Spain dated 9 January 1574. The editors give no archive reference and the letter was not found in any free volume. The quoted passage is given in English, from the Spanish; its translator is not named in the volume.",
               "group": "Group B",
               "claimCount": 1,
               "onConnection": false,
@@ -501,7 +501,7 @@
             },
             {
               "sourceId": "SB03",
-              "citation": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated by Rachel King.",
+              "citation": "Francisco de Sande, \"Relation of the Filipinas Islands\", Manila, 7 June 1576. B&R vol. 4 (Cleveland, 1903), pp. 21–97 (read pp. 53–65). Translated from the Spanish by Rachel King.",
               "group": "Group C",
               "claimCount": 3,
               "onConnection": true,
@@ -510,7 +510,7 @@
             },
             {
               "sourceId": "SB12",
-              "citation": "[Francisco de Sande], \"Relation and description of the Phelipinas Islands\", Manila, 8 June 1577. Blair & Robertson (eds.), *The Philippine Islands, 1493-1898*, vol. 4 (Cleveland, 1903), pp. 98-118 (read p. 101). From a manuscript in the Archivo de Indias, Sevilla. Translated by José M. Ascensio (name as printed in vol. 4's front matter). The editors print only the part that is new compared with Sande's 1576 report.",
+              "citation": "[Francisco de Sande], \"Relation and description of the Phelipinas Islands\", Manila, 8 June 1577. Blair & Robertson (eds.), *The Philippine Islands, 1493-1898*, vol. 4 (Cleveland, 1903), pp. 98-118 (read p. 101). From a manuscript in the Archivo de Indias, Sevilla. Translated from the Spanish by José M. Ascensio (name as printed in vol. 4's front matter). The editors print only the part that is new compared with Sande's 1576 report.",
               "group": "Group C",
               "claimCount": 1,
               "onConnection": false,
@@ -528,7 +528,7 @@
             },
             {
               "sourceId": "SB08",
-              "citation": "Memorial to the Council by citizens of the Filipinas Islands, Santiago de Vera and others, Manila, [26 July] 1586 (the date is bracketed by the editors). B&R vol. 6 (Cleveland, 1903), pp. 157 ff. (used pp. 166–167). Translated by James A. Robertson, Emma Helen Blair and Robert W. Haight.",
+              "citation": "Memorial to the Council by citizens of the Filipinas Islands, Santiago de Vera and others, Manila, [26 July] 1586 (the date is bracketed by the editors). B&R vol. 6 (Cleveland, 1903), pp. 157 ff. (used pp. 166–167). Translated from the Spanish by James A. Robertson, Emma Helen Blair and Robert W. Haight.",
               "group": "Group E",
               "claimCount": 1,
               "onConnection": true,
@@ -537,7 +537,7 @@
             },
             {
               "sourceId": "SB09",
-              "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated by Jose M. and Clara M. Asensio and Emma Helen Blair.",
+              "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated from the Spanish by Jose M. and Clara M. Asensio and Emma Helen Blair.",
               "group": "Group F",
               "claimCount": 1,
               "onConnection": false,
@@ -546,7 +546,7 @@
             },
             {
               "sourceId": "SB10",
-              "citation": "Gonzalo Ronquillo de Peñalosa to Felipe II, Manila, 16 June 1582. B&R vol. 5 (Cleveland, 1903), pp. 23 ff. (used p. 30). Translated by Jose M. and Clara M. Asensio.",
+              "citation": "Gonzalo Ronquillo de Peñalosa to Felipe II, Manila, 16 June 1582. B&R vol. 5 (Cleveland, 1903), pp. 23 ff. (used p. 30). Translated from the Spanish by Jose M. and Clara M. Asensio.",
               "group": "Group G",
               "claimCount": 1,
               "onConnection": false,
@@ -555,7 +555,7 @@
             },
             {
               "sourceId": "SB13",
-              "citation": "Letter to Felipe II, Santiago de Vera and others, Manila, 26 June 1588. B&R vol. 7 (Cleveland, 1903), pp. 52-63 (read p. 57). From the original manuscript in the Archivo General de Indias, Sevilla. Translated by Jose M. and Clara M. Asensio (vol. 7 front matter: \"the others, by Jose M. and Clara M. Asensio\").",
+              "citation": "Letter to Felipe II, Santiago de Vera and others, Manila, 26 June 1588. B&R vol. 7 (Cleveland, 1903), pp. 52-63 (read p. 57). From the original manuscript in the Archivo General de Indias, Sevilla. Translated from the Spanish by Jose M. and Clara M. Asensio (vol. 7 front matter: \"the others, by Jose M. and Clara M. Asensio\").",
               "group": "Group H",
               "claimCount": 1,
               "onConnection": false,

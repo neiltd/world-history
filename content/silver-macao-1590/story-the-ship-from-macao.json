@@ -532,11 +532,11 @@
         "name": "Source diversity",
         "asks": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
         "lastReview": "Not yet editorially reviewed",
-        "reading": "2 primary documents and 0 scholarly books, in 8 languages as recorded",
-        "valueText": "2 primary documents and 0 scholarly books, in 8 languages as recorded",
+        "reading": "2 primary documents and 0 scholarly books, in 4 languages as recorded",
+        "valueText": "2 primary documents and 0 scholarly books, in 4 languages as recorded",
         "stateText": "No number yet · 3 of 4 kinds of information recorded",
         "origin": "computed",
-        "counted": "Kinds of document: Scholarship (book chapter) 4, Scholarship (journal article) 4, Primary document, letter 1, Primary document, record of a church council, in a later French translation 1, Primary narrative, in an early English translation 1, Primary narrative, in an early English translation, with a nineteenth-century editor's notes 1, Primary narrative, in the English of its first printing 1, Primary treatise, a dialogue, in the Latin of the first printing 1, Primary treatise, in an early English translation (1599 spelling) 1. Languages, as recorded: English 8, English (translated from Dutch) 1, English (translated from Italian) 1, English (translated from Japanese) 1, English (translated from Latin) 1, French (translated from Portuguese) 1, Latin 1, Portuguese 1. Where each author stood: later scholarship 8, church 4, colonial elite 3.",
+        "counted": "Kinds of document: Scholarship (book chapter) 4, Scholarship (journal article) 4, Primary document, letter 1, Primary document, record of a church council, in a later French translation 1, Primary narrative, in an early English translation 1, Primary narrative, in an early English translation, with a nineteenth-century editor's notes 1, Primary narrative, in the English of its first printing 1, Primary treatise, a dialogue, in the Latin of the first printing 1, Primary treatise, in an early English translation (1599 spelling) 1. Languages, as recorded: English 12, French 1, Latin 1, Portuguese 1. Where each author stood: later scholarship 8, church 4, colonial elite 3.",
         "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
         "inputsRecorded": [
           3,
@@ -696,7 +696,7 @@
             },
             {
               "sourceId": "MA-S05",
-              "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+              "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, translated from the Dutch, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
               "group": "not placed",
               "claimCount": 7,
               "onConnection": true,
@@ -705,7 +705,7 @@
             },
             {
               "sourceId": "MA-S06",
-              "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+              "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. from the Japanese by W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
               "group": "not placed",
               "claimCount": 8,
               "onConnection": true,

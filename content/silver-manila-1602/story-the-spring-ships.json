@@ -555,11 +555,11 @@
         "name": "Source diversity",
         "asks": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
         "lastReview": "Not yet editorially reviewed",
-        "reading": "4 primary documents and 0 scholarly books, in 2 languages as recorded",
-        "valueText": "4 primary documents and 0 scholarly books, in 2 languages as recorded",
+        "reading": "4 primary documents and 0 scholarly books, in 1 language as recorded",
+        "valueText": "4 primary documents and 0 scholarly books, in 1 language as recorded",
         "stateText": "No number yet · 2 of 4 kinds of information recorded",
         "origin": "computed",
-        "counted": "Kinds of document: Scholarship (journal article) 6, Scholarship (book chapter) 3, Primary document, letter 2, Primary document, court record, English translation by a named translator 1, Primary document, printed memorial 1, Primary narrative, English translation 1. Languages, as recorded: English 11, English (translated from Spanish) 3. Where each author stood: later scholarship 9, colonial state 3, colonial elite 1.",
+        "counted": "Kinds of document: Scholarship (journal article) 6, Scholarship (book chapter) 3, Primary document, letter 2, Primary document, court record, English translation by a named translator 1, Primary document, printed memorial 1, Primary narrative, English translation 1. Languages, as recorded: English 14. Where each author stood: later scholarship 9, colonial state 3, colonial elite 1.",
         "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
         "inputsRecorded": [
           2,
@@ -724,7 +724,7 @@
             },
             {
               "sourceId": "SR03",
-              "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated by Jose M. and Clara M. Asensio and Emma Helen Blair.",
+              "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated from the Spanish by Jose M. and Clara M. Asensio and Emma Helen Blair.",
               "group": "Group C",
               "claimCount": 1,
               "onConnection": true,
@@ -733,7 +733,7 @@
             },
             {
               "sourceId": "SR09",
-              "citation": "Pedro de Rojas to Felipe II, Manila, 1586. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 6 (Cleveland, 1903), read p. 269. [The letter's day, its full page range and its translator are to be taken from its first page and the volume's front matter, not yet opened.]",
+              "citation": "Pedro de Rojas to Felipe II, Manila, 1586. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 6 (Cleveland, 1903), read p. 269. In English translation from the Spanish. [The letter's day, its full page range and its translator are to be taken from its first page and the volume's front matter, not yet opened.]",
               "group": "Group D",
               "claimCount": 1,
               "onConnection": false,
@@ -742,7 +742,7 @@
             },
             {
               "sourceId": "SR11",
-              "citation": "Pedro de Acuña, Governor of the Philippines, to the king, Manila, [18 December 1603, as Borao dates it (1998, p. 28)]. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 12 (Cleveland, 1904), read p. 154. [The letter's first page, its page range and its translator are to be taken from the volume, not yet opened.]",
+              "citation": "Pedro de Acuña, Governor of the Philippines, to the king, Manila, [18 December 1603, as Borao dates it (1998, p. 28)]. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 12 (Cleveland, 1904), read p. 154. In English translation from the Spanish. [The letter's first page, its page range and its translator are to be taken from the volume, not yet opened.]",
               "group": "Group E",
               "claimCount": 2,
               "onConnection": false,
