@@ -718,6 +718,17 @@
       "name": "Manila, 1573",
       "action": "Go to this moment."
     },
+    "otherYearsHeading": "Other years",
+    "momentEntryById": {
+      "macao-1590": {
+        "name": "Macao, 1590",
+        "action": "Go to this moment."
+      },
+      "manila-1602": {
+        "name": "Manila, 1602",
+        "action": "Go to this moment."
+      }
+    },
     "indexGroupHeadings": {
       "events": "Events (1)",
       "places": "Places (3)"

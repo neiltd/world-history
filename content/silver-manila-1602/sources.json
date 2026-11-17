@@ -290,6 +290,49 @@
         "recorded": true
       },
       "editorialState": "draft"
+    },
+    {
+      "id": "SR13",
+      "record": "Katharine Bjork, \"The Link That Kept the Philippines Spanish: Mexican Merchant Interests and the Manila Trade, 1571–1815\", *Journal of World History* 9:1 (Spring 1998), 25–50 (read pp. 39–43).",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1353/jwh.2005.0111",
+      "perspective": "A historian arguing that merchants and officials in Mexico, not the crown, kept the Manila trade alive. Her dates for the bans on Peru come from Borah and Schurz, which we do not hold.",
+      "position": {
+        "proximity": "Appeared in 1998",
+        "category": "later scholarship",
+        "focus": "Whose interests the Manila trade served, from the Mexican side."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR14",
+      "record": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 4, \"Trans-Pacific Trade and the Political Economy of the Spanish Empire\", pp. 91–128 (read pp. 115–124; the rest searched). [Author's first names and the book's subtitle to be confirmed on a title page.]",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1163/9789004383616_005",
+      "perspective": "A historian of the galleon trade working from the archives of Seville and Mexico City. He reads the limits on the trade as the outcome of bargaining among the merchants of Seville, Mexico City, Lima and Manila and the crown. On the bans on Peru he cites Borah and gives one year only.",
+      "position": {
+        "proximity": "Appeared in 2019",
+        "category": "later scholarship",
+        "focus": "How rival merchant elites pressed the crown to limit, or to free, the trade across the Pacific.",
+        "note": "He prints, in his own translation, a letter of the city council of Lima of 18 October 1599. His year for the first ban on Peru, 1582, differs by one from Bjork's and Iaccarino's."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
     }
   ]
 }

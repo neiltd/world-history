@@ -394,17 +394,17 @@
       "id": "MR-C09",
       "claimClass": "Supported fact",
       "sensitive": false,
-      "wording": "Morga wrote that the crown limited the coin that could be sent from New Spain to the Philippines for this trade to five hundred thousand a year.",
+      "wording": "Morga wrote that the crown limited the coin that could be sent from New Spain to the Philippines for this trade to five hundred thousand a year. A historian of the trade dates the decree to 1593 and gives the same figure.",
       "temporal": {
-        "precision": "century",
-        "label": "late 16th to early 17th c. · century"
+        "precision": "approximate",
+        "label": "from 1593 · approximate"
       },
-      "notes": "Quote: \"no more should be sent in coin to the Philippines than five hundred thousand dollars each year\" (Morga, p. 337); \"far exceeding the 500,000-peso limitation\" (they are quoting TePaske) (Flynn and Giráldez 1995, p. 204)\nPage image: https://archive.org/details/philippineisland00morg/page/n378/mode/1up; the scholarship pages: web entry, no page scan\nCheck: Image, Read",
+      "notes": "Quote: \"no more should be sent in coin to the Philippines than five hundred thousand dollars each year\" (Morga, p. 337); \"far exceeding the 500,000-peso limitation\" (they are quoting TePaske) (Flynn and Giráldez 1995, p. 204); \"In 1593, a royal decree from Philip II limited the trade ... 500,000 pesos of silver from Acapulco to Manila.\" (Gasch-Tomás, p. 121); Table 6, row 1593: Acapulco to Manila 500,000 (p. 122)\nPage image: https://archive.org/details/philippineisland00morg/page/n378/mode/1up; the scholarship pages: web entry, no page scan\nCheck: Image, Read",
       "confidence": {
         "level": "high",
-        "rationale": "high that he says it."
+        "rationale": "high that he says it. The year is a modern historian's, from the printed laws of 1681; Morga's page does not give it."
       },
-      "independenceNote": "2 Sources cited; lineage as recorded: Morga; Flynn and Giráldez.",
+      "independenceNote": "3 Sources cited; lineage as recorded: Morga; Flynn and Giráldez; Gasch-Tomás.",
       "editorialState": "draft",
       "spatial": {
         "precision": "not-place-bound",
@@ -437,6 +437,18 @@
             "form": "Scholarship (journal article)",
             "language": "English",
             "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 121; p. 122, Table 6"
+            },
+            "citation": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 4, \"Trans-Pacific Trade and the Political Economy of the Spanish Empire\", pp. 91–128 (read pp. 115–124; the rest searched). [Author's first names and the book's subtitle to be confirmed on a title page.]",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
           }
         ],
         "challenges": [],
@@ -479,6 +491,71 @@
             "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated by Jose M. and Clara M. Asensio and Emma Helen Blair.",
             "form": "Primary document, printed memorial",
             "language": "English (translated from Spanish)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C11",
+      "claimClass": "Disputed",
+      "sensitive": false,
+      "wording": "The crown tried to keep Peru out of the Manila trade. Historians agree that it forbade direct trade between Peru and the Philippines in the early 1580s, in 1581 or 1582, and later forbade trade between Peru and New Spain. They give different years for that second ban: 1604 in one account, 1631 in another, and none in a third. In October 1599 the city council of Lima wrote to Mexico City that a new royal decree against goods from China had just been published there.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1581 to 1631 · approximate"
+      },
+      "notes": "Quote: \"on 11 November 1581, Philip II issued the first in a succession of restrictions\" (Bjork, p. 42); \"Finally, in 1631, the crown prohibited all trade between New Spain and Peru.\" (Bjork, p. 43); \"Contacts between Peru and the Philippines had been forbidden as early as 1581\" (Iaccarino, p. 116); \"by 1604 all trade between the two viceroyalties of Mexico and Peru was forbidden\" (Iaccarino, p. 116); \"In 1582, however, trade between the Philippines and Peru was forbidden.\" (Gasch-Tomás, p. 121); \"Later, the trade between Peru and New Spain was also prohibited\" (Gasch-Tomás, p. 121); \"the last decree of His Majesty has been published\" (the city council of Lima, in Gasch-Tomás, p. 117); \"Lima, October 18th 1599\" (the same, p. 118)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "high that the bans were made; the years differ. Three modern authors, all drawing on Borah or Schurz, which we have not read. No decree is quoted."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Bjork; Iaccarino; Gasch-Tomás. Not independent: all three rest on Borah or Schurz.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Mexico, Peru and the Philippines · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 42; p. 43"
+            },
+            "citation": "Katharine Bjork, \"The Link That Kept the Philippines Spanish: Mexican Merchant Interests and the Manila Trade, 1571–1815\", *Journal of World History* 9:1 (Spring 1998), 25–50 (read pp. 39–43).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 116"
+            },
+            "citation": "Ubaldo Iaccarino, \"The 'Galleon System' and Chinese Trade in Manila at the Turn of the 16th Century\", *Ming Qing Yanjiu* 16 (2011), 95–128 (read pp. 95–96, 102–117, 121–122).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 121; pp. 117–118"
+            },
+            "citation": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 4, \"Trans-Pacific Trade and the Political Economy of the Spanish Empire\", pp. 91–128 (read pp. 115–124; the rest searched). [Author's first names and the book's subtitle to be confirmed on a title page.]",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
             "accessLevel": "excerpt reviewed"
           }
         ],

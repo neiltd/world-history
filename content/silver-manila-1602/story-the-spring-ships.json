@@ -139,7 +139,7 @@
       "paragraphs": [
         [
           {
-            "text": "The crown set a limit. Morga wrote that no more than five hundred thousand in coin was to be sent from New Spain to the Philippines each year.",
+            "text": "In 1593 the crown set a limit. Morga wrote that no more than five hundred thousand in coin was to be sent from New Spain to the Philippines each year.",
             "claimIds": [
               "MR-C09"
             ]
@@ -151,7 +151,13 @@
             ]
           },
           {
-            "text": "Citizens of Mexico and Peru, he wrote, brought over so much money that Manila's own citizens were crowded out of the ships.",
+            "text": "The crown also tried to keep Peru out of the trade altogether. Historians agree it forbade direct trade between Peru and the Philippines in the early 1580s, and later all trade between Peru and New Spain; they do not agree on the years.",
+            "claimIds": [
+              "MR-C11"
+            ]
+          },
+          {
+            "text": "Citizens of Mexico and Peru, Fernández de Castro wrote, brought over so much money that Manila's own citizens were crowded out of the ships.",
             "claimIds": [
               "MR-C10"
             ]
@@ -519,6 +525,11 @@
       "momentId": "potosi",
       "label": "Another moment: Potosí, 1573",
       "honestyLine": "No researched Connection joins these two Stories. The Potosí link is not yet researched."
+    },
+    {
+      "momentId": "macao-1590",
+      "label": "Another moment: Macao, 1590",
+      "honestyLine": "Two routes by which silver reached China, twelve years apart. No researched Connection joins the two Stories. They share some Sources, von Glahn among them."
     }
   ],
   "editorialState": "draft",
@@ -548,7 +559,7 @@
         "valueText": "4 primary documents and 0 scholarly books, in 2 languages as recorded",
         "stateText": "No number yet · 2 of 4 kinds of information recorded",
         "origin": "computed",
-        "counted": "Kinds of document: Scholarship (journal article) 5, Primary document, letter 2, Scholarship (book chapter) 2, Primary document, court record, English translation by a named translator 1, Primary document, printed memorial 1, Primary narrative, English translation 1. Languages, as recorded: English 9, English (translated from Spanish) 3. Where each author stood: later scholarship 7, colonial state 3, colonial elite 1.",
+        "counted": "Kinds of document: Scholarship (journal article) 6, Scholarship (book chapter) 3, Primary document, letter 2, Primary document, court record, English translation by a named translator 1, Primary document, printed memorial 1, Primary narrative, English translation 1. Languages, as recorded: English 11, English (translated from Spanish) 3. Where each author stood: later scholarship 9, colonial state 3, colonial elite 1.",
         "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
         "inputsRecorded": [
           2,
@@ -556,30 +567,30 @@
         ],
         "verified": [
           0,
-          12
+          14
         ],
-        "completeness": "2 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 12 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
+        "completeness": "2 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 14 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
       },
       {
         "id": "independence",
         "name": "Source independence",
         "asks": "How many of the Sources actually stand on their own, rather than drawing on one another?",
         "lastReview": "Not yet editorially reviewed",
-        "reading": "12 supporting Sources, in 5 separate groups once you trace who drew on whom; 1 not yet traceable",
-        "valueText": "12 supporting Sources, in 5 separate groups once you trace who drew on whom; 1 not yet traceable",
-        "stateText": "No number yet · 11 of 12 Sources traced",
+        "reading": "14 supporting Sources, in 5 separate groups once you trace who drew on whom; 3 not yet traceable",
+        "valueText": "14 supporting Sources, in 5 separate groups once you trace who drew on whom; 3 not yet traceable",
+        "stateText": "No number yet · 11 of 14 Sources traced",
         "origin": "computed",
-        "counted": "44 supporting citations across 30 Claims and the Connection, from 12 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "counted": "48 supporting citations across 31 Claims and the Connection, from 14 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
         "notCounted": "",
         "inputsRecorded": [
           11,
-          12
+          14
         ],
         "verified": [
           0,
-          12
+          14
         ],
-        "completeness": "We know what 11 of 12 Sources draw on; an editor has checked 0 of 12. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
+        "completeness": "We know what 11 of 14 Sources draw on; an editor has checked 0 of 14. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
         "independence": {
           "groups": [
             {
@@ -627,7 +638,15 @@
           "notPlaced": [
             {
               "sourceId": "SR10",
-              "text": "Not placed — 1 Source. Kris Lane SR10: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 3 Sources. Kris Lane SR10: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "SR13",
+              "text": "Not placed — 3 Sources. Katharine Bjork SR13: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "SR14",
+              "text": "Not placed — 3 Sources. José Luis Gasch-Tomás SR14: we do not yet know what it draws on. It joins no group and is not counted as independent."
             }
           ],
           "rows": [
@@ -671,7 +690,7 @@
               "sourceId": "SR07",
               "citation": "Ubaldo Iaccarino, \"The 'Galleon System' and Chinese Trade in Manila at the Turn of the 16th Century\", *Ming Qing Yanjiu* 16 (2011), 95–128 (read pp. 95–96, 102–117, 121–122).",
               "group": "Group A",
-              "claimCount": 1,
+              "claimCount": 2,
               "onConnection": false,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
@@ -738,9 +757,27 @@
               "onConnection": false,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR13",
+              "citation": "Katharine Bjork, \"The Link That Kept the Philippines Spanish: Mexican Merchant Interests and the Manila Trade, 1571–1815\", *Journal of World History* 9:1 (Spring 1998), 25–50 (read pp. 39–43).",
+              "group": "not placed",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR14",
+              "citation": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 4, \"Trans-Pacific Trade and the Political Economy of the Spanish Empire\", pp. 91–128 (read pp. 115–124; the rest searched). [Author's first names and the book's subtitle to be confirmed on a title page.]",
+              "group": "not placed",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
             }
           ],
-          "byClaimSentence": "26 of the 30 Claims rest on a single group; 3 on two; 0 on three; for 1 we cannot tell (MR-C17). Forty-four citations are not forty-four confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+          "byClaimSentence": "26 of the 31 Claims rest on a single group; 2 on two; 0 on three; for 3 we cannot tell (MR-C09, MR-C11, MR-C17). Forty-eight citations are not forty-eight confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
         }
       },
       {
@@ -760,9 +797,9 @@
         ],
         "verified": [
           0,
-          12
+          14
         ],
-        "completeness": "0 of the 2 things this check needs are in place; an editor has checked 0 of 12 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
+        "completeness": "0 of the 2 things this check needs are in place; an editor has checked 0 of 14 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
       },
       {
         "id": "agreement",
@@ -790,7 +827,7 @@
         "valueText": "Medium uncertainty about the dates and places only; nothing else graded yet",
         "stateText": "1 of 3 recorded",
         "origin": "computed",
-        "counted": "How precisely the 30 Claims this Story cites are dated: to the year: 17; roughly: 6; to the century: 7; not tied to a date: 0; disputed or unknown: 0. The Event itself is dated c. 1589–1604 · approximate.",
+        "counted": "How precisely the 31 Claims this Story cites are dated: to the year: 17; roughly: 8; to the century: 6; not tied to a date: 0; disputed or unknown: 0. The Event itself is dated c. 1589–1604 · approximate.",
         "notCounted": "Nobody has yet assessed how things worked or who was involved.",
         "inputsRecorded": [
           1,

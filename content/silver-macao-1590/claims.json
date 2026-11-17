@@ -1,0 +1,2210 @@
+{
+  "claims": [
+    {
+      "id": "MA-C01",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1590 the Jesuits printed a book in Latin at their house in Macao. The bishop's licence to print it was signed in Macao on 5 September 1589.",
+      "temporal": {
+        "precision": "year",
+        "label": "1590 · year"
+      },
+      "notes": "Quote: \"In Macaensi portu Sinici regni in domo Societatis IESV ... Anno 1590.\" (DM, title page); \"Dat. in Vrbe Macaensi nonis Septembris anni. 1589.\" (DM, verso of title page); \"Printed in Latine at Macao a citie of the Portugals in China, An. Dom. 1590.\" (H6, p. 348)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: the title page and the licence page say it."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: the Macao book of 1590; Hakluyt's English translation of it. One witness, not two.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Macao · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-macao-1590"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "title page"
+            },
+            "citation": "*De missione legatorum Iaponensium ad Romanam curiam, rebusque in Europa, ac toto itinere animadversis dialogus*, put into Latin by Duarte de Sande, S.J. (Macao: at the house of the Society of Jesus, 1590). Read: title page, licence page, p. 383. Scan of the University of Seville copy.",
+            "form": "Primary treatise, a dialogue, in the Latin of the first printing",
+            "language": "Latin",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "verso of title page"
+            },
+            "citation": "*De missione legatorum Iaponensium ad Romanam curiam, rebusque in Europa, ac toto itinere animadversis dialogus*, put into Latin by Duarte de Sande, S.J. (Macao: at the house of the Society of Jesus, 1590). Read: title page, licence page, p. 383. Scan of the University of Seville copy.",
+            "form": "Primary treatise, a dialogue, in the Latin of the first printing",
+            "language": "Latin",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 348"
+            },
+            "citation": "\"An excellent treatise of the kingdome of China ... Printed in Latine at Macao ... An. Dom. 1590\", in Richard Hakluyt, *The Principal Navigations, Voyages, Traffiques & Discoveries of the English Nation*, vol. 6 (Glasgow: James MacLehose and Sons, 1904), beginning p. 348 (read pp. 348, 354–355). An English translation, first printed by Hakluyt in 1599–1600, of one part of MA-S01. No translator is named in its heading.",
+            "form": "Primary treatise, in an early English translation (1599 spelling)",
+            "language": "English (translated from Latin)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C02",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The book is written as a conversation among three Japanese speakers, Michael, Leo and Linus. Its title page says it was gathered from the journal of the Japanese envoys to Rome and put into Latin by the Jesuit Duarte de Sande. It is a Jesuit book in Japanese voices, not the envoys' own testimony.",
+      "temporal": {
+        "precision": "year",
+        "label": "1590 · year"
+      },
+      "notes": "Quote: \"ex ephemeride ipsorum legatorum collectus, & in sermonem Latinum versus\" (DM, title page); \"written Dialogue-wise. The speakers are Linus, Leo, and Michael.\" (H6, p. 348)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the title page says it. That it is not the envoys' own testimony is our reading of that page."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: the Macao book of 1590; Hakluyt's English translation of it. One witness, not two.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Macao · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-macao-1590"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "title page"
+            },
+            "citation": "*De missione legatorum Iaponensium ad Romanam curiam, rebusque in Europa, ac toto itinere animadversis dialogus*, put into Latin by Duarte de Sande, S.J. (Macao: at the house of the Society of Jesus, 1590). Read: title page, licence page, p. 383. Scan of the University of Seville copy.",
+            "form": "Primary treatise, a dialogue, in the Latin of the first printing",
+            "language": "Latin",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 348"
+            },
+            "citation": "\"An excellent treatise of the kingdome of China ... Printed in Latine at Macao ... An. Dom. 1590\", in Richard Hakluyt, *The Principal Navigations, Voyages, Traffiques & Discoveries of the English Nation*, vol. 6 (Glasgow: James MacLehose and Sons, 1904), beginning p. 348 (read pp. 348, 354–355). An English translation, first printed by Hakluyt in 1599–1600, of one part of MA-S01. No translator is named in its heading.",
+            "form": "Primary treatise, in an early English translation (1599 spelling)",
+            "language": "English (translated from Latin)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C03",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "A Venetian merchant who had gone no further east than Malacca was told that the Portuguese had built a small town called Macao, with a church and houses of wood, and that the customs belonged to the king of China and were paid at Canton.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1566–1581 · approximate"
+      },
+      "notes": "Quote: \"the customs belong to the king of China, and they goe and pay the same\" (Frederick, p. 406); \"I have not passed further then Malacca towards the East\" (Frederick, p. 404); \"one thousand, five hundred, sixtie and sixe, I went from Goa unto Malacca\" (Frederick, p. 403)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it. He was told it at Malacca and did not see Macao."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Federici.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Malacca, about Macao · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 406"
+            },
+            "citation": "Cesare Federici (Caesar Frederick), \"The voyage and travell of M. Cæsar Fredericke, Marchant of Venice, into the East India, and beyond the Indies\", translated out of Italian by Thomas Hickocke, in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), beginning p. 365 (read pp. 403–406). The account covers 1563–1581.",
+            "form": "Primary narrative, in an early English translation",
+            "language": "English (translated from Italian)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 404"
+            },
+            "citation": "Cesare Federici (Caesar Frederick), \"The voyage and travell of M. Cæsar Fredericke, Marchant of Venice, into the East India, and beyond the Indies\", translated out of Italian by Thomas Hickocke, in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), beginning p. 365 (read pp. 403–406). The account covers 1563–1581.",
+            "form": "Primary narrative, in an early English translation",
+            "language": "English (translated from Italian)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 403"
+            },
+            "citation": "Cesare Federici (Caesar Frederick), \"The voyage and travell of M. Cæsar Fredericke, Marchant of Venice, into the East India, and beyond the Indies\", translated out of Italian by Thomas Hickocke, in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), beginning p. 365 (read pp. 403–406). The account covers 1563–1581.",
+            "form": "Primary narrative, in an early English translation",
+            "language": "English (translated from Italian)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C04",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Historians date the Portuguese settlement to the 1550s: an understanding with officials at Canton in 1554, and leave to settle at Macao in 1557.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1554 to 1557 · approximate"
+      },
+      "notes": "Quote: \"In 1557, the Portuguese received permission to found a permanent base at Macao\" (von Glahn, p. 118)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "one scholar, and his note is not in our file. Who gave the permission, and in what form, is not on the page."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Macao · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-macao-1590"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 118"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C05",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Linschoten, a Dutchman who lived in Goa from 1583 to 1589 and never reached China, wrote from what he heard there that Macao was lived in by Portuguese together with Chinese people, and that they traded with the men of Canton.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1583–1589 · approximate"
+      },
+      "notes": "Quote: \"inhabited by Portingales, together with the naturall borne [Countrimen] of China\" (L1, p. 145); \"entirely from what Van Linschoten heard at Goa\" (L1, p. 145, editor's note 4); \"Linschoten stayed five years in Goa.\" (L1, p. xxv)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it. He wrote from what he heard at Goa. It is the only line we hold that puts Chinese residents in the town."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Linschoten, with his editor of 1885.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Goa, about Macao · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 145"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 145, editor's note 4"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. xxv"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C06",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Three reports made far from Macao agree that the Portuguese could not stay inside Canton. Fitch, at Malacca in 1588, wrote that they had to enter their names in a book at the gate and sleep in their boats outside the city.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1566–1589 · approximate"
+      },
+      "notes": "Quote: \"They may not lie in the towne all night\" (Fitch, p. 498); \"they will not consent that they shall lie or lodge within the citie\" (Frederick, p. 406); \"in the night time hee must lye in the Suburbs without the towne\" (L1, p. 146)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that they say it. None of the three was an eyewitness."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Fitch; Federici; Linschoten. Not fully independent: Fitch and Linschoten were in Goa at the same time.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Canton · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-canton"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 498"
+            },
+            "citation": "Ralph Fitch, \"The voyage of M. Ralph Fitch marchant of London by the way of Tripolis in Syria, to Ormus, and so to Goa in the East India ... begunne in the yeere of our Lord 1583, and ended 1591\", in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), pp. 465–505 (read pp. 497–500).",
+            "form": "Primary narrative, in the English of its first printing",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 406"
+            },
+            "citation": "Cesare Federici (Caesar Frederick), \"The voyage and travell of M. Cæsar Fredericke, Marchant of Venice, into the East India, and beyond the Indies\", translated out of Italian by Thomas Hickocke, in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), beginning p. 365 (read pp. 403–406). The account covers 1563–1581.",
+            "form": "Primary narrative, in an early English translation",
+            "language": "English (translated from Italian)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 146"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C07",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Ralph Fitch, an English merchant, was at Malacca from 8 February to 29 March 1588. He reported that the Portuguese sent a great ship from Macao to Japan every year, carrying white silk, gold, musk and porcelain, and that it brought back nothing but silver.",
+      "temporal": {
+        "precision": "year",
+        "label": "8 February to 29 March 1588 · year"
+      },
+      "notes": "Quote: \"they carry much white silke, golde, muske, and porcelanes\" (Fitch, p. 498); \"and they bring from thence nothing but silver\" (Fitch, p. 498); \"came to Malacca the 8 of February\"; \"The 29 of March 1588, I returned from Malacca\" (Fitch, pp. 498, 500)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it. He does not say who told him."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Fitch.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Malacca, about Macao and Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 498"
+            },
+            "citation": "Ralph Fitch, \"The voyage of M. Ralph Fitch marchant of London by the way of Tripolis in Syria, to Ormus, and so to Goa in the East India ... begunne in the yeere of our Lord 1583, and ended 1591\", in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), pp. 465–505 (read pp. 497–500).",
+            "form": "Primary narrative, in the English of its first printing",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 498"
+            },
+            "citation": "Ralph Fitch, \"The voyage of M. Ralph Fitch marchant of London by the way of Tripolis in Syria, to Ormus, and so to Goa in the East India ... begunne in the yeere of our Lord 1583, and ended 1591\", in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), pp. 465–505 (read pp. 497–500).",
+            "form": "Primary narrative, in the English of its first printing",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "pp. 498, 500"
+            },
+            "citation": "Ralph Fitch, \"The voyage of M. Ralph Fitch marchant of London by the way of Tripolis in Syria, to Ormus, and so to Goa in the East India ... begunne in the yeere of our Lord 1583, and ended 1591\", in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), pp. 465–505 (read pp. 497–500).",
+            "form": "Primary narrative, in the English of its first printing",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C08",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Linschoten, writing from Goa, said the same: silks went from Macao to Japan, and nothing but silver came back.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1583–1589 · approximate"
+      },
+      "notes": "Quote: \"from Iapen they return nothing but silver, whereby they doe greatly profit\" (L1, p. 147)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it. A modern historian places him at Macao in 1587; no page supports that."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Linschoten.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Goa, about Macao and Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 147"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C09",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Linschoten wrote that only one ship a year could sail to Japan, by the king of Portugal's licence, and that the whole voyage from Goa by Malacca and Macao to Japan and back took at least three years, because the ships had to wait for the monsoon at each stop. A modern historian, following Boxer, writes that between 1557 and 1590 the Portuguese often used more than one ship a year.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1557–1590 · approximate"
+      },
+      "notes": "Quote: \"there must but one ship sayle that viage every yere\" (L1, p. 146); \"which continueth at the least thrée yeares\" (L1, p. 147); \"the Portuguese often employed more than one ship per year in their trade with Japan\" (Atwell 1982, p. 71)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it. A modern count, from Boxer, has more than one ship in many years."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Linschoten; Atwell.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Goa to Japan, by Malacca and Macao · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 146"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 147"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S16",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 71"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C10",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Linschoten, writing from Goa, said that the captain of the Japan ship was also the chief ruler at Macao for as long as he was there, and that he could gain 150,000 or 200,000 ducats by the voyage.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1583–1589 · approximate"
+      },
+      "notes": "Quote: \"he is there chief Ruler and Governour [of the place]\" (L1, p. 147); \"hee may well gaine 150. or 200. thousand Ducats\" (L1, p. 146)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it. The sum is what he heard the captain could gain; the page does not say it was the silver carried."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Linschoten.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Goa, about Macao · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 147"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 146"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C11",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The crews were not all Portuguese. In a letter from Goa, Linschoten wrote that a friend from his home province, Dirck Gerritsz of Enkhuizen, had gone to China and Japan that year as a ship's gunner, and had been there once before.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1584 · approximate"
+      },
+      "notes": "Quote: \"has gone thither as gunner in a ship\" (L1, p. xxvi); \"His name is Dirck Gerritsz.\" (L1, p. xxvi)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the letter says it, as his editor quotes it in English. One man; it does not show who else was aboard."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Linschoten, in a letter quoted by his editor of 1885.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Goa, about a voyage to China and Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. xxvi"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. xxvi"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C12",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The Ming court had cut off trade with Japan. When it reopened sea trade to its own merchants in 1567, it kept the ban on Japan. Chinese merchants still traded with Japan against the ban, but a historian of Chinese money writes that Portuguese ships from Macao were the main route by which Japanese silver reached China.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "from 1567 · approximate"
+      },
+      "notes": "Quote: \"while retaining the ban against all diplomatic or commercial relations with Japan\" (von Glahn, p. 118); \"Portuguese vessels operating out of Macao provided the major conduit\" (von Glahn, p. 118); \"but that does not seem to have stopped them\" (Atwell 1982, p. 69)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "two scholars. The Chinese records behind them are not read."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: von Glahn; Atwell.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "China and Japan, by way of Macao · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 118"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 118"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S16",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 69"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C13",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Japan's silver boom began in the 1530s, with rich finds at Iwami and a refining method that came by way of Korea.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "from the 1530s · approximate"
+      },
+      "notes": "Quote: \"The discovery of abundant silver deposits in Iwami\" (von Glahn, p. 114); \"the adoption of the 'cupellation method' from Korea\" (Deng, p. 326); \"the sudden opening of gold and silver mines throughout the country\" (Kobata, p. 245)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "three scholars agree. No Japanese record is read by us."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: von Glahn; Deng; Kobata.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan (Iwami) · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 114"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S08",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 326"
+            },
+            "citation": "Kent G. Deng, \"Miracle or Mirage? Foreign Silver, China's Economy and Globalization from the Sixteenth to the Nineteenth Centuries\", *Pacific Economic Review* 13:3 (2008), 320–358 (read pp. 325–327).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 245"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C14",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The Portuguese first reached Japan in 1543. A Japanese historian writes that their ships called at Hirado each year from 1550 to 1561, and that Nagasaki was opened in 1570. Linschoten, in Goa, knew its name.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1543 to 1570 · approximate"
+      },
+      "notes": "Quote: \"after 1550 they entered Hirado harbour every year until 1561\" (Kobata, p. 253); \"in 1570 Nagasaki was opened\" (Kobata, p. 253); \"the Haven where commonly the Portingals use to traffique, is called Nangasache\" (L1, p. 152)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "Kobata says the port was opened and does not say by whom. Linschoten names it from Goa."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Kobata; Linschoten.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Nagasaki · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-nagasaki"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 253"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 253"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 152"
+            },
+            "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+            "form": "Primary narrative, in an early English translation, with a nineteenth-century editor's notes",
+            "language": "English (translated from Dutch)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C15",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Silk was what Japan wanted most. A Jesuit who lived there from 1577 wrote that silk had been rare when he arrived and that under Hideyoshi even farmers and their wives came to wear it.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "from 1577 to the 1590s · approximate"
+      },
+      "notes": "Quote: \"even peasants and their wives have silk sashes\" (Atwell 1998, p. 399, quoting João Rodrigues); \"raw silk, silk goods, and other Chinese products as import and Japanese silver as export\" (Kobata, p. 253); \"silk yarn destined for the weaving shops in Kyoto's burgeoning Nishijin district\" (von Glahn, p. 121)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "Rodrigues is at second hand, through Atwell. A Jesuit describing Japanese buyers; no Japanese voice."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Atwell, quoting Rodrigues; Kobata; von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 399, quoting João Rodrigues"
+            },
+            "citation": "William S. Atwell, \"Ming China and the Emerging World Economy, c. 1470–1650\", in Denis Twitchett and Frederick W. Mote (eds.), *The Cambridge History of China*, vol. 8, *The Ming Dynasty, 1368–1644, Part 2* (Cambridge: Cambridge University Press, 1998), 376–416 (read pp. 390–399 and the passages on Macao and Nagasaki at pp. 403, 409–411).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 253"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 121"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C16",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Fitch, at Malacca, was told that the ship brought back above 600,000 cruzados in silver every year, and that the Portuguese spent it in China together with 200,000 more from India. Federici put Malacca eighteen hundred miles from China.",
+      "temporal": {
+        "precision": "year",
+        "label": "8 February to 29 March 1588 · year"
+      },
+      "notes": "Quote: \"above sixe hundred thousand crusadoes\" (Fitch, p. 498); \"two hundred thousand crusadoes more in silver which they bring yeerely out of India\" (Fitch, p. 498); \"From Malacca to China is eighteene hundred miles\" (Frederick, p. 405)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it; low that the figure is right. He was told it, far from the ship."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Fitch; Federici.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Malacca, about Macao and Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 498"
+            },
+            "citation": "Ralph Fitch, \"The voyage of M. Ralph Fitch marchant of London by the way of Tripolis in Syria, to Ormus, and so to Goa in the East India ... begunne in the yeere of our Lord 1583, and ended 1591\", in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), pp. 465–505 (read pp. 497–500).",
+            "form": "Primary narrative, in the English of its first printing",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 498"
+            },
+            "citation": "Ralph Fitch, \"The voyage of M. Ralph Fitch marchant of London by the way of Tripolis in Syria, to Ormus, and so to Goa in the East India ... begunne in the yeere of our Lord 1583, and ended 1591\", in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), pp. 465–505 (read pp. 497–500).",
+            "form": "Primary narrative, in the English of its first printing",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 405"
+            },
+            "citation": "Cesare Federici (Caesar Frederick), \"The voyage and travell of M. Cæsar Fredericke, Marchant of Venice, into the East India, and beyond the Indies\", translated out of Italian by Thomas Hickocke, in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), beginning p. 365 (read pp. 403–406). The account covers 1563–1581.",
+            "form": "Primary narrative, in an early English translation",
+            "language": "English (translated from Italian)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C17",
+      "claimClass": "Disputed",
+      "sensitive": false,
+      "wording": "No one counted the silver at the time. The figures come from merchants and missionaries, most of them far from the ship. Kobata, the Japanese historian of the mines, wrote that Japan's output in these years cannot now be calculated. Kobata, Atwell and von Glahn all quote Fitch's figure. A later historian, Kent Deng, warns that European traders almost certainly mixed Japanese silver with silver from elsewhere, so the same silver can be counted twice.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th c. · century"
+      },
+      "notes": "Quote: \"it is now impossible to calculate the production of gold and silver in Japan\" (Kobata, p. 247); \"based principally on statements of contemporary European merchants and missionaries\" (von Glahn, p. 133); \"European traders (mainly the Portuguese and the Dutch) almost certainly mixed Japanese silver with silver from other parts of the world for payment.\"; \"There is a real danger of double counting.\" (Deng, p. 326); \"every year the silver amounted to more than 600,000 cruzados\" (Kobata, p. 253); \"above six hundred thousand cruzados\" (Atwell 1982, p. 71); \"about six hundred thousand cruzados\" (von Glahn, p. 129)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the Sources say no count exists and that modern totals differ. No number is given here."
+      },
+      "independenceNote": "4 Sources cited; lineage as recorded: Kobata; von Glahn; Deng; Atwell. The three who quote Fitch are one line of descent.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan to China · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 247"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 133"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S08",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 326"
+            },
+            "citation": "Kent G. Deng, \"Miracle or Mirage? Foreign Silver, China's Economy and Globalization from the Sixteenth to the Nineteenth Centuries\", *Pacific Economic Review* 13:3 (2008), 320–358 (read pp. 325–327).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 253"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S16",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 71"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 129"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C18",
+      "claimClass": "Mainstream interpretation",
+      "sensitive": false,
+      "wording": "Historians say that from the 1530s until at least the 1570s Japan was China's main source of foreign silver. Von Glahn writes that before 1600 less silver reached China from the Philippines than from Japan.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1530s to 1600 · approximate"
+      },
+      "notes": "Quote: \"From the 1530s until at least the 1570s, China's primary source of foreign silver was western Japan\" (Atwell 1982, p. 68); \"Japanese silver played a more important part\" (Kobata, p. 246); \"Japan as the dominant supplier and China the end-customer\" (Flynn and Giráldez 1995, p. 213); \"though less than Japanese imports, nonetheless was considerable\" (von Glahn, p. 134)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "four modern accounts. Their periods differ: Atwell says until at least the 1570s; Kobata, into the early seventeenth century."
+      },
+      "independenceNote": "4 Sources cited; lineage as recorded: Atwell; Kobata; Flynn and Giráldez; von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "China · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S16",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 68"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 246"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S15",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 213"
+            },
+            "citation": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 134"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C19",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The Macao book has a Japanese speaker say he heard that one ship, 'this present year', carried 2,000 loaves of Chinese gold to Japan, each worth almost 100 ducats. The book was licensed in 1589, so the year meant is 1589 or earlier. A modern historian calls the cargo scarcely credible.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1589 · approximate"
+      },
+      "notes": "Quote: \"in one and the same ship, this present yeere, 2000 such pieces\" (H6, p. 354); \"vna, & eadem naui praesenti anno duo millia\" (DM, p. 383); \"I heard say\" (H6, p. 354); \"a scarcely-credible cargo of 750 kgs. of gold\" (von Glahn, pp. 129-130)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the book says it; low that the figure is right. The speaker gives it as something he heard."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: the Macao book of 1590; Hakluyt's translation of it; von Glahn. The first two are one witness.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Macao, where the book was printed · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-macao-1590"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 354"
+            },
+            "citation": "\"An excellent treatise of the kingdome of China ... Printed in Latine at Macao ... An. Dom. 1590\", in Richard Hakluyt, *The Principal Navigations, Voyages, Traffiques & Discoveries of the English Nation*, vol. 6 (Glasgow: James MacLehose and Sons, 1904), beginning p. 348 (read pp. 348, 354–355). An English translation, first printed by Hakluyt in 1599–1600, of one part of MA-S01. No translator is named in its heading.",
+            "form": "Primary treatise, in an early English translation (1599 spelling)",
+            "language": "English (translated from Latin)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 383"
+            },
+            "citation": "*De missione legatorum Iaponensium ad Romanam curiam, rebusque in Europa, ac toto itinere animadversis dialogus*, put into Latin by Duarte de Sande, S.J. (Macao: at the house of the Society of Jesus, 1590). Read: title page, licence page, p. 383. Scan of the University of Seville copy.",
+            "form": "Primary treatise, a dialogue, in the Latin of the first printing",
+            "language": "Latin",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 354"
+            },
+            "citation": "\"An excellent treatise of the kingdome of China ... Printed in Latine at Macao ... An. Dom. 1590\", in Richard Hakluyt, *The Principal Navigations, Voyages, Traffiques & Discoveries of the English Nation*, vol. 6 (Glasgow: James MacLehose and Sons, 1904), beginning p. 348 (read pp. 348, 354–355). An English translation, first printed by Hakluyt in 1599–1600, of one part of MA-S01. No translator is named in its heading.",
+            "form": "Primary treatise, in an early English translation (1599 spelling)",
+            "language": "English (translated from Latin)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "pp. 129-130"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C20",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Gold went to Japan because it bought more silver there. In the later sixteenth century one tael of gold was worth about seven or eight taels of silver in China, and about ten in Japan. A tael was a Chinese weight of about 37.5 grams.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th c. · century"
+      },
+      "notes": "Quote: \"the market prices of gold and silver were in the ratio of 1 to 7 or 8\" (Kobata, p. 254); \"were generally in the ratio of 1 to 10\" (Kobata, p. 254); \"1 tael of pure gold and 7 taels of pure silver had the same price\" (Kobata, p. 254); Baeza on Canton in the 1590s: \"at a ratio of 1:5.5 with silver\" (von Glahn, p. 130); \"the tael itself was a measure of weight (37.5 g.)\" (von Glahn, p. 133)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "ranges, from two scholars, and they do not match exactly."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Kobata; von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "China and Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 254"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 254"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 254"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 130"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 133"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C21",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The same book says that Portuguese merchants carried silver into Canton every year to buy goods, and that almost none came out again, because the people of China wanted little from other kingdoms.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1589 · approximate"
+      },
+      "notes": "Quote: \"and yet nothing in a maner is conveied out of the Chinian kingdom\" (H6, p. 354); \"nihil fere e Sinico regno extrahatur\" (DM, p. 383)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the book says it. The amount it gives is left out: it is in a Roman unit we cannot convert."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Hakluyt's translation; the Macao book of 1590. One witness, not two.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Macao, where the book was printed · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-macao-1590"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 354"
+            },
+            "citation": "\"An excellent treatise of the kingdome of China ... Printed in Latine at Macao ... An. Dom. 1590\", in Richard Hakluyt, *The Principal Navigations, Voyages, Traffiques & Discoveries of the English Nation*, vol. 6 (Glasgow: James MacLehose and Sons, 1904), beginning p. 348 (read pp. 348, 354–355). An English translation, first printed by Hakluyt in 1599–1600, of one part of MA-S01. No translator is named in its heading.",
+            "form": "Primary treatise, in an early English translation (1599 spelling)",
+            "language": "English (translated from Latin)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 383"
+            },
+            "citation": "*De missione legatorum Iaponensium ad Romanam curiam, rebusque in Europa, ac toto itinere animadversis dialogus*, put into Latin by Duarte de Sande, S.J. (Macao: at the house of the Society of Jesus, 1590). Read: title page, licence page, p. 383. Scan of the University of Seville copy.",
+            "form": "Primary treatise, a dialogue, in the Latin of the first printing",
+            "language": "Latin",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C22",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "On silk, the book says that the ships from India to Macao, and at least one a year to Japan, were loaded with it above all.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1589 · approximate"
+      },
+      "notes": "Quote: \"at the least one every yeere comming unto us, are laden especially with this fraight\" (H6, p. 355)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the book says it."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Hakluyt's translation of the Macao book of 1590.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Macao, where the book was printed · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-macao-1590"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 355"
+            },
+            "citation": "\"An excellent treatise of the kingdome of China ... Printed in Latine at Macao ... An. Dom. 1590\", in Richard Hakluyt, *The Principal Navigations, Voyages, Traffiques & Discoveries of the English Nation*, vol. 6 (Glasgow: James MacLehose and Sons, 1904), beginning p. 348 (read pp. 348, 354–355). An English translation, first printed by Hakluyt in 1599–1600, of one part of MA-S01. No translator is named in its heading.",
+            "form": "Primary treatise, in an early English translation (1599 spelling)",
+            "language": "English (translated from Latin)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C23",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "On 24 July 1587 Hideyoshi sent the head of the Jesuits in Japan a list of charges. One of them, in a letter of the Jesuit Luís Fróis printed in 1598, was that the Portuguese bought many Japanese people and carried them away as captives to their own lands.",
+      "temporal": {
+        "precision": "year",
+        "label": "24 July 1587 · year"
+      },
+      "notes": "Quote: \"os Portugueses compravão muitos Iapões & os levavão cativos pera suas terras\" (Fróis letter, fol. 207v); \"no dia da vigilia de Santiago, que he a vinte & quatro de Iulho\" (Fróis letter, fol. 205r); \"No fim de Iulho deste anno de oitenta & sete\" (Fróis letter, fol. 210r)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the letter says it. A Jesuit reporting what Hideyoshi's messengers said; Hideyoshi's own words are not on any page we have read. The day and the year are on two different leaves of the same letter."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Fróis.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "fol. 207v"
+            },
+            "citation": "Luís Fróis, S.J., letter on the wars in Japan and on Hideyoshi's turn against the Jesuits in 1587, printed in *Segunda parte das cartas de Iapão que escreverão os padres, & irmãos da Companhia de Iesus* (Évora: Manuel de Lyra, 1598), beginning fol. 187r (read: the heading on fol. 187r; fols. 205r, 207v, 208r and 210r). The letter's text dates the events to 24 July of 1587. Its own date and place of writing are at its end, which we have not read.",
+            "form": "Primary document, letter",
+            "language": "Portuguese",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "fol. 205r"
+            },
+            "citation": "Luís Fróis, S.J., letter on the wars in Japan and on Hideyoshi's turn against the Jesuits in 1587, printed in *Segunda parte das cartas de Iapão que escreverão os padres, & irmãos da Companhia de Iesus* (Évora: Manuel de Lyra, 1598), beginning fol. 187r (read: the heading on fol. 187r; fols. 205r, 207v, 208r and 210r). The letter's text dates the events to 24 July of 1587. Its own date and place of writing are at its end, which we have not read.",
+            "form": "Primary document, letter",
+            "language": "Portuguese",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "fol. 210r"
+            },
+            "citation": "Luís Fróis, S.J., letter on the wars in Japan and on Hideyoshi's turn against the Jesuits in 1587, printed in *Segunda parte das cartas de Iapão que escreverão os padres, & irmãos da Companhia de Iesus* (Évora: Manuel de Lyra, 1598), beginning fol. 187r (read: the heading on fol. 187r; fols. 205r, 207v, 208r and 210r). The letter's text dates the events to 24 July of 1587. Its own date and place of writing are at its end, which we have not read.",
+            "form": "Primary document, letter",
+            "language": "Portuguese",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C24",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The Jesuit superior answered that the Portuguese bought these people because other Japanese sold them, that the Fathers were grieved by it and could not stop it, and that Hideyoshi could end it by forbidding the lords of the ports to let any Japanese be sold.",
+      "temporal": {
+        "precision": "year",
+        "label": "24 July 1587 · year"
+      },
+      "notes": "Quote: \"elles os compravão porque outros Iapões lhos vendião\" (Fróis letter, fol. 208r); \"que não deixassem vender nenhum Iapão\" (Fróis letter, fol. 208r); \"no dia da vigilia de Santiago, que he a vinte & quatro de Iulho\" (Fróis letter, fol. 205r); \"No fim de Iulho deste anno de oitenta & sete\" (Fróis letter, fol. 210r)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the letter says it. The answer of a man defending his mission; it admits the buying."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Fróis.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "fol. 208r"
+            },
+            "citation": "Luís Fróis, S.J., letter on the wars in Japan and on Hideyoshi's turn against the Jesuits in 1587, printed in *Segunda parte das cartas de Iapão que escreverão os padres, & irmãos da Companhia de Iesus* (Évora: Manuel de Lyra, 1598), beginning fol. 187r (read: the heading on fol. 187r; fols. 205r, 207v, 208r and 210r). The letter's text dates the events to 24 July of 1587. Its own date and place of writing are at its end, which we have not read.",
+            "form": "Primary document, letter",
+            "language": "Portuguese",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "fol. 208r"
+            },
+            "citation": "Luís Fróis, S.J., letter on the wars in Japan and on Hideyoshi's turn against the Jesuits in 1587, printed in *Segunda parte das cartas de Iapão que escreverão os padres, & irmãos da Companhia de Iesus* (Évora: Manuel de Lyra, 1598), beginning fol. 187r (read: the heading on fol. 187r; fols. 205r, 207v, 208r and 210r). The letter's text dates the events to 24 July of 1587. Its own date and place of writing are at its end, which we have not read.",
+            "form": "Primary document, letter",
+            "language": "Portuguese",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "fol. 205r"
+            },
+            "citation": "Luís Fróis, S.J., letter on the wars in Japan and on Hideyoshi's turn against the Jesuits in 1587, printed in *Segunda parte das cartas de Iapão que escreverão os padres, & irmãos da Companhia de Iesus* (Évora: Manuel de Lyra, 1598), beginning fol. 187r (read: the heading on fol. 187r; fols. 205r, 207v, 208r and 210r). The letter's text dates the events to 24 July of 1587. Its own date and place of writing are at its end, which we have not read.",
+            "form": "Primary document, letter",
+            "language": "Portuguese",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "fol. 210r"
+            },
+            "citation": "Luís Fróis, S.J., letter on the wars in Japan and on Hideyoshi's turn against the Jesuits in 1587, printed in *Segunda parte das cartas de Iapão que escreverão os padres, & irmãos da Companhia de Iesus* (Évora: Manuel de Lyra, 1598), beginning fol. 187r (read: the heading on fol. 187r; fols. 205r, 207v, 208r and 210r). The letter's text dates the events to 24 July of 1587. Its own date and place of writing are at its end, which we have not read.",
+            "form": "Primary document, letter",
+            "language": "Portuguese",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C25",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "On 4 September 1598 the bishop of Japan and the Jesuit superiors met at Nagasaki. Their record says that Hideyoshi had forbidden, on pain of death, the carrying of bought people out of Japan, and that Japanese sellers and brokers had been put to death at Nagasaki, among them the master of the boat the Portuguese used to reach their ship.",
+      "temporal": {
+        "precision": "year",
+        "label": "recorded 4 September 1598 · year"
+      },
+      "notes": "Quote: \"Le 4 septembre 1598, à Nangasaki ... dans la maison de la Compagnie de Jésus\" (1598 record, p. 70); \"de ne pas conduire hors du Japon vers d'autres royaumes des personnes achetées\" (1598 record, p. 78); \"on a crucifié le patron de la barque\" (1598 record, p. 78)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the record says it. Churchmen reporting a Japanese law at second hand, in a translation of 1870; no year is given for the executions."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the Nagasaki record of 1598.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Nagasaki · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-nagasaki"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 70"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 78"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 78"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C26",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The same record says that Portuguese of every rank bought as many people as they could, that those sold were boys and girls, most of them tricked or taken by force, and that many died on the voyage to Macao because they were packed one on top of another.",
+      "temporal": {
+        "precision": "year",
+        "label": "recorded 4 September 1598 · year"
+      },
+      "notes": "Quote: \"ils achètent un aussi grand nombre d'esclaves qu'ils le peuvent\" (1598 record, p. 75); \"un grand nombre de ceux-ci meurent dans le voyage\" (1598 record, p. 75); \"la plupart des garçons et des filles ainsi vendus ont été séduits ou ravis de force\" (1598 record, p. 72); \"Un grand nombre de ces enfants sont amenés au navire\" (1598 record, p. 75); \"l'on vendait tous les ans aux Portugais un grand nombre de Japonais\" (1598 record, p. 73)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the record says it. It describes some years, dates no voyage and gives no figure."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the Nagasaki record of 1598.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan to Macao · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 75"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 75"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 72"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 75"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 73"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C27",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The churchmen wrote that their own side had taken part. The late bishop had at first given licences to take bought boys and girls out of Japan, and Jesuit Fathers had advised and signed papers binding them to years of service. They wrote that they had thought it the lesser of two evils. The meeting resolved to forbid all of it under excommunication.",
+      "temporal": {
+        "precision": "year",
+        "label": "recorded 4 September 1598 · year"
+      },
+      "notes": "Quote: \"donné certaines licences pour emmener hors du Japon des garçons et des filles achetés\" (1598 record, p. 71); \"leur conseillèrent ces années de service pour ne pouvoir faire différemment\" (1598 record, p. 78); \"sur cent, pas un seul n'est acheté légitimement\" (1598 record, p. 72); \"préférant de deux maux le moindre\" (1598 record, p. 78)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the record says it. An admission, with the writers' own excuse beside it."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the Nagasaki record of 1598.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Nagasaki · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-nagasaki"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 71"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 78"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 72"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 78"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C28",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "People bought in Japan lived in Macao. The 1598 record says some had sold themselves to get there and then fled into China, and that boys set free in Macao with nothing turned to robbing Chinese farmers on their way to market.",
+      "temporal": {
+        "precision": "year",
+        "label": "recorded 4 September 1598 · year"
+      },
+      "notes": "Quote: \"avec l'intention de s'échapper de Macao et de se réfugier dans l'intérieur de la Chine\" (1598 record, p. 75); \"se trouvant sans ressource à Macao, se font voleurs et pillent les Chinois\" (1598 record, p. 76)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the record says it. The churchmen's account of people who do not speak in it."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the Nagasaki record of 1598.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Macao · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-macao-1590"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 75"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 76"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C31",
+      "claimClass": "Hypothesis",
+      "sensitive": false,
+      "wording": "An economist, Dennis Flynn, has argued that profits from the silver mines are what let one lord unify Japan. He calls this a hypothesis for specialists to test. The documented cases are fewer: a Japanese historian records silver sent to Hideyoshi as tribute from the mines, and Iwami silver cast into coin for his army in Korea in the 1590s.",
+      "temporal": {
+        "precision": "century",
+        "label": "late 16th c. · century"
+      },
+      "notes": "Quote: \"transported from the Ikuno silver mine (Hyogo Prefecture) as tribute to Hideyoshi\" (Kobata, p. 248); \"silver from Iwami (Shimane prefecture) was cast into coins for military use\" (Kobata, p. 257); \"the one in control of the silver mines\" (Flynn 1991, p. 350); \"silver profits helped finance the shogun's consolidation of the country\" (Flynn 1991, p. 359); \"Acceptance or rejection of the hypothesis is left ... to those knowledgeable\" (Flynn 1991, p. 359)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "The cases are a Japanese historian's, from Japanese records. The link between them is an economist's argument, and he calls it speculation for specialists to test."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Kobata; Flynn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 248"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 257"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S09",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 350"
+            },
+            "citation": "Dennis O. Flynn, \"Comparing the Tokugawa Shogunate with Hapsburg Spain: Two Silver-Based Empires in a Global Setting\", in James D. Tracy (ed.), *The Political Economy of Merchant Empires* (Cambridge: Cambridge University Press, 1991), 332–359. Read in the author's Variorum reprint, where it is item XIV and keeps the 1991 page numbers. The reprint volume's own title and year are not on the pages we hold.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S09",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 359"
+            },
+            "citation": "Dennis O. Flynn, \"Comparing the Tokugawa Shogunate with Hapsburg Spain: Two Silver-Based Empires in a Global Setting\", in James D. Tracy (ed.), *The Political Economy of Merchant Empires* (Cambridge: Cambridge University Press, 1991), 332–359. Read in the author's Variorum reprint, where it is item XIV and keeps the 1991 page numbers. The reprint volume's own title and year are not on the pages we hold.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S09",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 359"
+            },
+            "citation": "Dennis O. Flynn, \"Comparing the Tokugawa Shogunate with Hapsburg Spain: Two Silver-Based Empires in a Global Setting\", in James D. Tracy (ed.), *The Political Economy of Merchant Empires* (Cambridge: Cambridge University Press, 1991), 332–359. Read in the author's Variorum reprint, where it is item XIV and keeps the 1991 page numbers. The reprint volume's own title and year are not on the pages we hold.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C32",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The 1598 record says that sellers made the people they sold tell the Portuguese they had been taken in a lawful war, and threatened to kill them if they refused. Once they were free of the threat, the record says, they told the whole truth.",
+      "temporal": {
+        "precision": "year",
+        "label": "recorded 4 September 1598 · year"
+      },
+      "notes": "Quote: \"les menaçant de mort s'ils s'y refusaient\" (1598 record, p. 74); \"ils déclaraient toute la vérité\" (1598 record, p. 74)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the record says it. It reports that they spoke and does not give their words."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the Nagasaki record of 1598.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 74"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 74"
+            },
+            "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+            "form": "Primary document, record of a church council, in a later French translation",
+            "language": "French (translated from Portuguese)",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C35",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "A historian who counted the sailings, George Bryan Souza, lists two departures from Macao for Japan in 1589 and two in 1590, one in 1588 and one in 1591, and none in 1592. He warns that not every ship counted was a great carrack; some were junks the Portuguese had bought.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1588–1592 · approximate"
+      },
+      "notes": "Quote: rows 1588 to 1592: 1, 2, 2, 1, 0 (Souza, p. 55, Table 4.2); \"included Portuguese-purchased Chinese shipping of the ocean-going junk variety\" (Souza, p. 59)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "one scholar's table, from Boxer and Brown at second hand. A later study says no ship sailed in 1589 and gives no source."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Souza.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Macao · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-macao-1590"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 55, Table 4.2"
+            },
+            "citation": "George Bryan Souza, *The Survival of Empire: Portuguese Trade and Society in China and the South China Sea, 1630–1754* (Cambridge: Cambridge University Press, 1986), ch. 4, \"Country traders and Crown monopoly\", pp. 46–86 (read pp. 46–59; the rest searched). The chapter number is taken from its table numbering, 4.1 to 4.6; we do not hold the contents page.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 59"
+            },
+            "citation": "George Bryan Souza, *The Survival of Empire: Portuguese Trade and Society in China and the South China Sea, 1630–1754* (Cambridge: Cambridge University Press, 1986), ch. 4, \"Country traders and Crown monopoly\", pp. 46–86 (read pp. 46–59; the rest searched). The chapter number is taken from its table numbering, 4.1 to 4.6; we do not hold the contents page.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MA-C36",
+      "claimClass": "Disputed",
+      "sensitive": false,
+      "wording": "Souza estimates that Portuguese ships took 7.5 to 8.9 million taels of silver out of Japan between 1580 and 1597. He reached it by taking Kobata's estimate of 500,000 to 600,000 taels a year, about 18,700 to 22,500 kilograms, and multiplying by the years in which a ship sailed. Kobata had reached his from the figures of Fitch and two Jesuits. Souza calls his data far from perfect. Other modern totals are twice as high or more, and von Glahn rejects them.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1580–1597 · approximate"
+      },
+      "notes": "Quote: \"it is estimated that the Portuguese exported 7.5 to 8.9 million taels in those seventeen years\" (Souza, p. 56); \"between 500–600,000 taels (18,700–22,500 kilograms)\" (Souza, p. 56); \"Although they are far from perfect\" (Souza, p. 56); \"something like five or six thousand kan of silver every year\" (Kobata, p. 253); \"80,000 taels (800 kan)\" (Kobata, p. 252); \"On balance, Souza's estimate stands as the most persuasive.\" (von Glahn, p. 134); \"far more conservative\" (von Glahn, p. 134)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the estimate is his; low that the total is right. It is Kobata's yearly figure multiplied by the years of sailing, and Kobata's rests on Fitch and two Jesuits."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Souza; Kobata; von Glahn. One line of descent, from Fitch's report.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan to Macao · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "George Bryan Souza, *The Survival of Empire: Portuguese Trade and Society in China and the South China Sea, 1630–1754* (Cambridge: Cambridge University Press, 1986), ch. 4, \"Country traders and Crown monopoly\", pp. 46–86 (read pp. 46–59; the rest searched). The chapter number is taken from its table numbering, 4.1 to 4.6; we do not hold the contents page.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "George Bryan Souza, *The Survival of Empire: Portuguese Trade and Society in China and the South China Sea, 1630–1754* (Cambridge: Cambridge University Press, 1986), ch. 4, \"Country traders and Crown monopoly\", pp. 46–86 (read pp. 46–59; the rest searched). The chapter number is taken from its table numbering, 4.1 to 4.6; we do not hold the contents page.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "George Bryan Souza, *The Survival of Empire: Portuguese Trade and Society in China and the South China Sea, 1630–1754* (Cambridge: Cambridge University Press, 1986), ch. 4, \"Country traders and Crown monopoly\", pp. 46–86 (read pp. 46–59; the rest searched). The chapter number is taken from its table numbering, 4.1 to 4.6; we do not hold the contents page.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 253"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 252"
+            },
+            "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+            "form": "Scholarship (journal article)",
+            "language": "English (translated from Japanese)",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 134"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "MA-S17",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 134"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MA-C37",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Von Glahn estimates that in the second half of the sixteenth century about 60 per cent of the silver China imported came from Japan. He calls the total a minimum, because smuggled silver went unrecorded.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1550–1600 · approximate"
+      },
+      "notes": "Quote: \"about 60 percent of which originated in Japan\" (von Glahn, p. 135); \"this figure should be seen as a minimum level\" (von Glahn, p. 135)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "one scholar's share, built on Souza and on an estimate he calls crude. He calls his total a minimum."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "China · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 135"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "MA-S17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 135"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    }
+  ]
+}

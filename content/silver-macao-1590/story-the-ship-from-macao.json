@@ -1,0 +1,920 @@
+{
+  "id": "the-ship-from-macao",
+  "title": "The ship from Macao",
+  "learnerQuestion": "What did the yearly ship from Macao carry to Japan and bring back, who told us so, and how far from the ship were they standing?",
+  "sensitiveContentNotice": "One part of this Story, \"The people on the ship\", describes the buying and carrying away of people from Japan, children among them, and deaths at sea.",
+  "sensitive": true,
+  "header": {
+    "whenLine": "1590 view · Reports c. 1566–1598 · approximate",
+    "whereLine": "Macao · coast of Guangdong",
+    "whereLineClaimIds": [
+      "MA-C01"
+    ]
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "paragraphs": [
+        [
+          {
+            "text": "In 1590 the Jesuits printed a book in Latin at their house in Macao.",
+            "claimIds": [
+              "MA-C01"
+            ]
+          },
+          {
+            "text": "The bishop's licence to print it had been signed there on 5 September 1589.",
+            "claimIds": [
+              "MA-C01"
+            ]
+          },
+          {
+            "text": "It is written as a conversation among three Japanese speakers, Michael, Leo and Linus.",
+            "claimIds": [
+              "MA-C02"
+            ]
+          },
+          {
+            "text": "Its title page says it was gathered from the journal of the Japanese envoys to Rome and put into Latin by a Jesuit, Duarte de Sande.",
+            "claimIds": [
+              "MA-C02"
+            ]
+          },
+          {
+            "text": "So it is a Jesuit book in Japanese voices. It is not the envoys' own testimony.",
+            "claimIds": [
+              "MA-C02"
+            ]
+          },
+          {
+            "text": "Among much else it describes a trade: silk and gold going to Japan, and silver coming into China.",
+            "claimIds": [
+              "MA-C19",
+              "MA-C21",
+              "MA-C22"
+            ]
+          },
+          {
+            "text": "Most of what Europe knew of that trade was written by men who never saw Macao. Who they were, where they stood, and what they left out, is the Story.",
+            "claimIds": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": "orient",
+      "paragraphs": [
+        [
+          {
+            "text": "A Venetian merchant, Cesare Federici, went to Malacca in 1566 and wrote that he went no further east.",
+            "claimIds": [
+              "MA-C03"
+            ]
+          },
+          {
+            "text": "He was told that the Portuguese had built a small town called Macao, with a church and houses of wood.",
+            "claimIds": [
+              "MA-C03"
+            ]
+          },
+          {
+            "text": "The customs, he was told, belonged to the king of China and were paid at Canton.",
+            "claimIds": [
+              "MA-C03"
+            ]
+          },
+          {
+            "text": "Historians date the settlement to the 1550s: an understanding with officials at Canton in 1554, and leave to settle at Macao in 1557.",
+            "claimIds": [
+              "MA-C04"
+            ]
+          },
+          {
+            "text": "A Dutchman, Jan Huygen van Linschoten, lived in Goa from 1583 to 1589 and never reached China.",
+            "claimIds": [
+              "MA-C05"
+            ]
+          },
+          {
+            "text": "He wrote, from what he heard there, that Portuguese and Chinese people lived in Macao together and traded with the men of Canton.",
+            "claimIds": [
+              "MA-C05"
+            ]
+          },
+          {
+            "text": "The Portuguese could buy at Canton. They could not stay.",
+            "claimIds": [
+              "MA-C06"
+            ]
+          },
+          {
+            "text": "Ralph Fitch, an Englishman at Malacca in 1588, wrote that they had to enter their names in a book at the gate and sleep in their boats outside the city.",
+            "claimIds": [
+              "MA-C06"
+            ]
+          },
+          {
+            "text": "Federici and Linschoten were told the same.",
+            "claimIds": [
+              "MA-C06"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "connect",
+      "paragraphs": [
+        [
+          {
+            "text": "Fitch was at Malacca from 8 February to 29 March 1588.",
+            "claimIds": [
+              "MA-C07"
+            ]
+          },
+          {
+            "text": "He reported that the Portuguese sent a great ship from Macao to Japan every year, carrying white silk, gold, musk and porcelain.",
+            "claimIds": [
+              "MA-C07"
+            ]
+          },
+          {
+            "text": "It brought back, he wrote, nothing but silver.",
+            "claimIds": [
+              "MA-C07"
+            ]
+          },
+          {
+            "text": "Linschoten, writing from Goa, said the same: silks went out, and nothing but silver came back.",
+            "claimIds": [
+              "MA-C08"
+            ]
+          },
+          {
+            "text": "By his account only one ship a year could sail to Japan, by the king of Portugal's licence.",
+            "claimIds": [
+              "MA-C09"
+            ]
+          },
+          {
+            "text": "The whole voyage, from Goa by Malacca and Macao to Japan and back, took at least three years, because the ships waited for the monsoon at each stop.",
+            "claimIds": [
+              "MA-C09"
+            ]
+          },
+          {
+            "text": "A modern historian counts more than one ship in many of the years from 1557 to 1590.",
+            "claimIds": [
+              "MA-C09"
+            ]
+          },
+          {
+            "text": "Souza's count has two sailings from Macao in 1590, and warns that some of the ships counted were junks, not great carracks.",
+            "claimIds": [
+              "MA-C35"
+            ]
+          },
+          {
+            "text": "The captain of the Japan ship, Linschoten wrote from Goa, was also the chief ruler at Macao for as long as he was there, and could gain 150,000 or 200,000 ducats by the voyage.",
+            "claimIds": [
+              "MA-C10"
+            ]
+          },
+          {
+            "text": "The crews were not all Portuguese. Linschoten wrote home that a friend from his own province, Dirck Gerritsz of Enkhuizen, had gone to China and Japan as a ship's gunner.",
+            "claimIds": [
+              "MA-C11"
+            ]
+          },
+          {
+            "text": "The port the ship used in Japan was Nagasaki. A Japanese historian writes that it was opened in 1570.",
+            "claimIds": [
+              "MA-C14"
+            ]
+          }
+        ]
+      ],
+      "connectionId": "cn-macao-ship-trades-chinese-silk-for-japanese-silver"
+    },
+    {
+      "id": "people",
+      "paragraphs": [
+        [
+          {
+            "text": "Fitch and Linschoten wrote of silk and silver. They did not write of this.",
+            "claimIds": []
+          },
+          {
+            "text": "The ship that carried silver back to Macao also carried people who had been bought in Japan.",
+            "claimIds": [
+              "MA-C23",
+              "MA-C26"
+            ]
+          },
+          {
+            "text": "We know it from the Church's own papers. No one carried on the ship left an account that we have read.",
+            "claimIds": [
+              "MA-C23",
+              "MA-C25"
+            ]
+          },
+          {
+            "text": "None of these papers is dated to 1590. One is from three years earlier and one from eight years later. Both describe something that happened year after year.",
+            "claimIds": [
+              "MA-C23",
+              "MA-C25",
+              "MA-C26"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "On 24 July 1587 Hideyoshi, the ruler of Japan, sent the head of the Jesuits in Japan a list of charges.",
+            "claimIds": [
+              "MA-C23",
+              "MA-C25"
+            ]
+          },
+          {
+            "text": "One of them, in a letter of the Jesuit Luís Fróis printed in 1598, was that the Portuguese bought many Japanese people and carried them away as captives to their own lands.",
+            "claimIds": [
+              "MA-C23"
+            ]
+          },
+          {
+            "text": "The Jesuit superior answered that the Portuguese bought them because other Japanese sold them, and that the Fathers were grieved by it and could not stop it.",
+            "claimIds": [
+              "MA-C24"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "On 4 September 1598 the bishop of Japan and the Jesuit superiors met at Nagasaki and set down what they knew.",
+            "claimIds": [
+              "MA-C25"
+            ]
+          },
+          {
+            "text": "Their record says that a great number of Japanese were sold to the Portuguese every year.",
+            "claimIds": [
+              "MA-C26"
+            ]
+          },
+          {
+            "text": "It says those sold were boys and girls, children among them, and that most had been tricked or taken by force.",
+            "claimIds": [
+              "MA-C26"
+            ]
+          },
+          {
+            "text": "It says that Portuguese of every rank bought as many as they could.",
+            "claimIds": [
+              "MA-C26"
+            ]
+          },
+          {
+            "text": "And it says that many died on the voyage to Macao, because they were packed one on top of another.",
+            "claimIds": [
+              "MA-C26"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "The record says sellers made them tell the buyers they had been taken in a lawful war, and threatened to kill them if they refused.",
+            "claimIds": [
+              "MA-C32"
+            ]
+          },
+          {
+            "text": "Once they were free of the threat, it says, they told the whole truth. It does not give their words.",
+            "claimIds": [
+              "MA-C32"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "The churchmen wrote that their own side had taken part. The late bishop had given licences to take bought boys and girls out of Japan, and Jesuit Fathers had advised and signed papers binding them to years of service.",
+            "claimIds": [
+              "MA-C27"
+            ]
+          },
+          {
+            "text": "They wrote that they had thought it the lesser of two evils. The meeting resolved to forbid all of it.",
+            "claimIds": [
+              "MA-C27"
+            ]
+          },
+          {
+            "text": "Hideyoshi had already forbidden it, on pain of death. The record says Japanese sellers and brokers were put to death at Nagasaki, among them the master of the boat the Portuguese used to reach their ship.",
+            "claimIds": [
+              "MA-C25"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Some of those carried lived on in Macao. The record says some had sold themselves to get there and then fled into China.",
+            "claimIds": [
+              "MA-C28"
+            ]
+          },
+          {
+            "text": "It says boys set free in Macao with nothing turned to robbing Chinese farmers on their way to market.",
+            "claimIds": [
+              "MA-C28"
+            ]
+          }
+        ]
+      ],
+      "sensitiveNotice": "This part describes people bought in Japan and carried to Macao, children among them. Many died on the voyage."
+    },
+    {
+      "id": "complicate",
+      "paragraphs": [
+        [
+          {
+            "text": "The Ming court had cut off trade with Japan.",
+            "claimIds": [
+              "MA-C12"
+            ]
+          },
+          {
+            "text": "When it reopened sea trade to its own merchants in 1567, it kept the ban on Japan.",
+            "claimIds": [
+              "MA-C12"
+            ]
+          },
+          {
+            "text": "Chinese merchants still traded with Japan against the ban. But a historian of Chinese money writes that Portuguese ships from Macao were the main route by which Japanese silver reached China.",
+            "claimIds": [
+              "MA-C12"
+            ]
+          },
+          {
+            "text": "Japan had the silver. Its boom began in the 1530s, with rich finds at Iwami and a refining method that came by way of Korea.",
+            "claimIds": [
+              "MA-C13"
+            ]
+          },
+          {
+            "text": "And Japan wanted silk. A Jesuit who lived there from 1577 wrote that silk had been rare when he arrived, and that under Hideyoshi even farmers and their wives came to wear it.",
+            "claimIds": [
+              "MA-C15"
+            ]
+          },
+          {
+            "text": "Gold went on the same ship, because it bought more silver in Japan. In the later sixteenth century one tael of gold was worth about seven or eight taels of silver in China, and about ten in Japan. A tael was a Chinese weight of about 37.5 grams.",
+            "claimIds": [
+              "MA-C20"
+            ]
+          },
+          {
+            "text": "The Macao book has a Japanese speaker say he heard that one ship, 'this present year', carried 2,000 loaves of Chinese gold to Japan.",
+            "claimIds": [
+              "MA-C19"
+            ]
+          },
+          {
+            "text": "The book was licensed in 1589, so the year meant is 1589 or earlier. A modern historian calls the cargo scarcely credible.",
+            "claimIds": [
+              "MA-C19"
+            ]
+          },
+          {
+            "text": "The same book says Portuguese merchants carried silver into Canton every year, and that almost none came out again.",
+            "claimIds": [
+              "MA-C21"
+            ]
+          },
+          {
+            "text": "Inside Japan, a Japanese historian records silver sent to Hideyoshi as tribute from the mines, and Iwami silver cast into coin for his army in Korea in the 1590s.",
+            "claimIds": [
+              "MA-C31"
+            ]
+          },
+          {
+            "text": "An economist has argued that the mines' profits are what let one lord unify Japan. He calls this a hypothesis for specialists to test.",
+            "claimIds": [
+              "MA-C31"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "resolve",
+      "paragraphs": [
+        [
+          {
+            "text": "How much silver came back? No one counted it at the time.",
+            "claimIds": [
+              "MA-C17"
+            ]
+          },
+          {
+            "text": "Fitch, at Malacca, was told that the ship brought above 600,000 cruzados in silver every year, and that the Portuguese spent it in China with 200,000 more from India.",
+            "claimIds": [
+              "MA-C16"
+            ]
+          },
+          {
+            "text": "That is a figure he was given, eighteen hundred miles from Macao. It is the one most historians start from.",
+            "claimIds": [
+              "MA-C16",
+              "MA-C17"
+            ]
+          },
+          {
+            "text": "A modern historian, George Bryan Souza, counted the years in which a ship sailed. He estimates that the Portuguese took 7.5 to 8.9 million taels of silver out of Japan between 1580 and 1597.",
+            "claimIds": [
+              "MA-C36"
+            ]
+          },
+          {
+            "text": "He built that on Kobata's estimate of 500,000 to 600,000 taels a year, about 18,700 to 22,500 kilograms. Kobata had built his on the figures of Fitch and two Jesuits.",
+            "claimIds": [
+              "MA-C36"
+            ]
+          },
+          {
+            "text": "So the modern total is the old reports multiplied by the years of sailing. It is not a separate count, and Souza himself calls his data far from perfect.",
+            "claimIds": [
+              "MA-C36"
+            ]
+          },
+          {
+            "text": "Kobata, the Japanese historian of the mines, wrote that Japan's output in these years cannot now be calculated.",
+            "claimIds": [
+              "MA-C17"
+            ]
+          },
+          {
+            "text": "A later historian, Kent Deng, warns that European traders almost certainly mixed Japanese silver with silver from elsewhere, so the same silver can be counted twice.",
+            "claimIds": [
+              "MA-C17"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Historians say that from the 1530s until at least the 1570s Japan was China's main source of foreign silver.",
+            "claimIds": [
+              "MA-C18"
+            ]
+          },
+          {
+            "text": "Von Glahn estimates that about 60 per cent of the silver China imported in the second half of the century came from Japan, and calls his total a minimum.",
+            "claimIds": [
+              "MA-C37"
+            ]
+          },
+          {
+            "text": "That is the mainstream account, and it is an interpretation. The Claim beneath each sentence says whose voice it rests on.",
+            "claimIds": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": "next",
+      "paragraphs": [
+        [
+          {
+            "text": "**Not yet researched.** This Story stops at Macao about 1590. What the silver did inside China, what the silk did inside Japan, where the people carried from Japan were taken after Macao, and how Chinese and Japanese ships came to carry this trade themselves have not been researched, so none is offered as a researched path. When a path is researched, it will appear here with its own Claims and Evidence.",
+            "claimIds": []
+          }
+        ]
+      ]
+    }
+  ],
+  "mainstreamAccountClaimId": "MA-C18",
+  "momentLinks": [
+    {
+      "momentId": "manila-1602",
+      "label": "Another moment: Manila, 1602",
+      "honestyLine": "Two routes by which silver reached China, twelve years apart. No researched Connection joins the two Stories. They share some Sources, von Glahn among them."
+    },
+    {
+      "momentId": "manila",
+      "label": "Another moment: Manila, 1573",
+      "honestyLine": "Two routes by which silver reached China, seventeen years apart. No researched Connection joins the two Stories. They share some Sources, von Glahn among them."
+    },
+    {
+      "momentId": "potosi",
+      "label": "Another moment: Potosí, 1573",
+      "honestyLine": "No researched Connection joins these two Stories. They are about two different sources of silver: Potosí's mines and Japan's."
+    }
+  ],
+  "editorialState": "draft",
+  "profile": {
+    "rulesVersion": "0.1-draft",
+    "mode": "draft-preview",
+    "statusLine": "Draft · not yet editorially reviewed. The counts below come from our working records; no historian has checked them yet. Rules version 0.1, draft.",
+    "warnings": [
+      {
+        "kind": "winner-dominated",
+        "name": "Evidence concentrated in colonial Sources",
+        "text": "No European who described this trade saw Macao. On the people carried, every Source is a churchman writing about his own side.",
+        "basisClaimIds": [
+          "MA-C07",
+          "MA-C08",
+          "MA-C23",
+          "MA-C25"
+        ]
+      }
+    ],
+    "components": [
+      {
+        "id": "diversity",
+        "name": "Source diversity",
+        "asks": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "2 primary documents and 0 scholarly books, in 8 languages as recorded",
+        "valueText": "2 primary documents and 0 scholarly books, in 8 languages as recorded",
+        "stateText": "No number yet · 3 of 4 kinds of information recorded",
+        "origin": "computed",
+        "counted": "Kinds of document: Scholarship (book chapter) 4, Scholarship (journal article) 4, Primary document, letter 1, Primary document, record of a church council, in a later French translation 1, Primary narrative, in an early English translation 1, Primary narrative, in an early English translation, with a nineteenth-century editor's notes 1, Primary narrative, in the English of its first printing 1, Primary treatise, a dialogue, in the Latin of the first printing 1, Primary treatise, in an early English translation (1599 spelling) 1. Languages, as recorded: English 8, English (translated from Dutch) 1, English (translated from Italian) 1, English (translated from Japanese) 1, English (translated from Latin) 1, French (translated from Portuguese) 1, Latin 1, Portuguese 1. Where each author stood: later scholarship 8, church 4, colonial elite 3.",
+        "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
+        "inputsRecorded": [
+          3,
+          4
+        ],
+        "verified": [
+          0,
+          15
+        ],
+        "completeness": "3 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 15 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
+      },
+      {
+        "id": "independence",
+        "name": "Source independence",
+        "asks": "How many of the Sources actually stand on their own, rather than drawing on one another?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "15 supporting Sources, in 1 separate group once you trace who drew on whom; 12 not yet traceable",
+        "valueText": "15 supporting Sources, in 1 separate group once you trace who drew on whom; 12 not yet traceable",
+        "stateText": "No number yet · 3 of 15 Sources traced",
+        "origin": "computed",
+        "counted": "109 supporting citations across 33 Claims and the Connection, from 15 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "notCounted": "",
+        "inputsRecorded": [
+          3,
+          15
+        ],
+        "verified": [
+          0,
+          15
+        ],
+        "completeness": "We know what 3 of 15 Sources draw on; an editor has checked 0 of 15. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
+        "independence": {
+          "groups": [
+            {
+              "label": "Group A",
+              "sourceIds": [
+                "MA-S15",
+                "MA-S16",
+                "MA-S17"
+              ],
+              "text": "Group A — 3 Sources that draw on one another. Drawing on them: Dennis O. Flynn and Arturo Giráldez MA-S15; William S. Atwell MA-S16; Richard von Glahn MA-S17."
+            }
+          ],
+          "notPlaced": [
+            {
+              "sourceId": "MA-S01",
+              "text": "Not placed — 12 Sources. De missione legatorum Iaponensium ad Romanam curiam MA-S01: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "MA-S02",
+              "text": "Not placed — 12 Sources. \"An excellent treatise of the kingdome of China ... Printed in Latine at Macao ... An. Dom. 1590\" MA-S02: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "MA-S03",
+              "text": "Not placed — 12 Sources. Ralph Fitch MA-S03: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "MA-S04",
+              "text": "Not placed — 12 Sources. Cesare Federici (Caesar Frederick) MA-S04: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "MA-S05",
+              "text": "Not placed — 12 Sources. The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598 MA-S05: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "MA-S06",
+              "text": "Not placed — 12 Sources. A. Kobata MA-S06: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "MA-S07",
+              "text": "Not placed — 12 Sources. William S. Atwell MA-S07: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "MA-S08",
+              "text": "Not placed — 12 Sources. Kent G. Deng MA-S08: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "MA-S09",
+              "text": "Not placed — 12 Sources. Dennis O. Flynn MA-S09: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "MA-S10",
+              "text": "Not placed — 12 Sources. Luís Fróis MA-S10: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "MA-S11",
+              "text": "Not placed — 12 Sources. Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors MA-S11: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "MA-S14",
+              "text": "Not placed — 12 Sources. George Bryan Souza MA-S14: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            }
+          ],
+          "rows": [
+            {
+              "sourceId": "MA-S15",
+              "citation": "Dennis O. Flynn and Arturo Giráldez, \"Born with a 'Silver Spoon': The Origin of World Trade in 1571\", *Journal of World History* 6:2 (Fall 1995), 201–221.",
+              "group": "Group A",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "MA-S16",
+              "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+              "group": "Group A",
+              "claimCount": 4,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "MA-S17",
+              "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+              "group": "Group A",
+              "claimCount": 10,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "MA-S01",
+              "citation": "*De missione legatorum Iaponensium ad Romanam curiam, rebusque in Europa, ac toto itinere animadversis dialogus*, put into Latin by Duarte de Sande, S.J. (Macao: at the house of the Society of Jesus, 1590). Read: title page, licence page, p. 383. Scan of the University of Seville copy.",
+              "group": "not placed",
+              "claimCount": 4,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "MA-S02",
+              "citation": "\"An excellent treatise of the kingdome of China ... Printed in Latine at Macao ... An. Dom. 1590\", in Richard Hakluyt, *The Principal Navigations, Voyages, Traffiques & Discoveries of the English Nation*, vol. 6 (Glasgow: James MacLehose and Sons, 1904), beginning p. 348 (read pp. 348, 354–355). An English translation, first printed by Hakluyt in 1599–1600, of one part of MA-S01. No translator is named in its heading.",
+              "group": "not placed",
+              "claimCount": 5,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "MA-S03",
+              "citation": "Ralph Fitch, \"The voyage of M. Ralph Fitch marchant of London by the way of Tripolis in Syria, to Ormus, and so to Goa in the East India ... begunne in the yeere of our Lord 1583, and ended 1591\", in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), pp. 465–505 (read pp. 497–500).",
+              "group": "not placed",
+              "claimCount": 3,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "MA-S04",
+              "citation": "Cesare Federici (Caesar Frederick), \"The voyage and travell of M. Cæsar Fredericke, Marchant of Venice, into the East India, and beyond the Indies\", translated out of Italian by Thomas Hickocke, in Hakluyt, *Principal Navigations*, vol. 5 (Glasgow: James MacLehose and Sons, 1904), beginning p. 365 (read pp. 403–406). The account covers 1563–1581.",
+              "group": "not placed",
+              "claimCount": 3,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "MA-S05",
+              "citation": "*The Voyage of John Huyghen van Linschoten to the East Indies. From the Old English Translation of 1598*, vol. 1, ed. Arthur Coke Burnell, with an Introduction by P. A. Tiele (London: Hakluyt Society, 1885). Read: Introduction pp. xxv–xxvii; pp. 145–147, 152, 162.",
+              "group": "not placed",
+              "claimCount": 7,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "MA-S06",
+              "citation": "A. Kobata, \"The Production and Uses of Gold and Silver in Sixteenth- and Seventeenth-Century Japan\", trans. W. D. Burton, *Economic History Review* 18:2 (1965), 245–266.",
+              "group": "not placed",
+              "claimCount": 8,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "MA-S07",
+              "citation": "William S. Atwell, \"Ming China and the Emerging World Economy, c. 1470–1650\", in Denis Twitchett and Frederick W. Mote (eds.), *The Cambridge History of China*, vol. 8, *The Ming Dynasty, 1368–1644, Part 2* (Cambridge: Cambridge University Press, 1998), 376–416 (read pp. 390–399 and the passages on Macao and Nagasaki at pp. 403, 409–411).",
+              "group": "not placed",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "MA-S08",
+              "citation": "Kent G. Deng, \"Miracle or Mirage? Foreign Silver, China's Economy and Globalization from the Sixteenth to the Nineteenth Centuries\", *Pacific Economic Review* 13:3 (2008), 320–358 (read pp. 325–327).",
+              "group": "not placed",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "MA-S09",
+              "citation": "Dennis O. Flynn, \"Comparing the Tokugawa Shogunate with Hapsburg Spain: Two Silver-Based Empires in a Global Setting\", in James D. Tracy (ed.), *The Political Economy of Merchant Empires* (Cambridge: Cambridge University Press, 1991), 332–359. Read in the author's Variorum reprint, where it is item XIV and keeps the 1991 page numbers. The reprint volume's own title and year are not on the pages we hold.",
+              "group": "not placed",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "MA-S10",
+              "citation": "Luís Fróis, S.J., letter on the wars in Japan and on Hideyoshi's turn against the Jesuits in 1587, printed in *Segunda parte das cartas de Iapão que escreverão os padres, & irmãos da Companhia de Iesus* (Évora: Manuel de Lyra, 1598), beginning fol. 187r (read: the heading on fol. 187r; fols. 205r, 207v, 208r and 210r). The letter's text dates the events to 24 July of 1587. Its own date and place of writing are at its end, which we have not read.",
+              "group": "not placed",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "MA-S11",
+              "citation": "Record of the consultation held by Bishop Luís Cerqueira with the Jesuit superiors, Nagasaki, 4 September 1598, on people bought or bound to service and carried out of Japan; written by the church notary Matheus de Couros. Read in French translation: \"Consultation tenue par l'Évêque Cerqueira au sujet des esclaves achetés ou engagés et transportés hors du Japon\", Annexe 13 in Léon Pagès, *Histoire de la religion chrétienne au Japon depuis 1598 jusqu'à 1651*, the volume of Annexes (Paris: Charles Douniol, 1870), pp. 70–79 (read whole). From a Portuguese copy in the archives of the Academy of History, Madrid.",
+              "group": "not placed",
+              "claimCount": 5,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "MA-S14",
+              "citation": "George Bryan Souza, *The Survival of Empire: Portuguese Trade and Society in China and the South China Sea, 1630–1754* (Cambridge: Cambridge University Press, 1986), ch. 4, \"Country traders and Crown monopoly\", pp. 46–86 (read pp. 46–59; the rest searched). The chapter number is taken from its table numbering, 4.1 to 4.6; we do not hold the contents page.",
+              "group": "not placed",
+              "claimCount": 2,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            }
+          ],
+          "byClaimSentence": "3 of the 33 Claims rest on a single group; 0 on two; 0 on three; for 30 we cannot tell (MA-C01, MA-C02, MA-C03, MA-C05, MA-C06, MA-C07, MA-C08, MA-C09, MA-C10, MA-C11, MA-C13, MA-C14, MA-C15, MA-C16, MA-C17, MA-C18, MA-C19, MA-C20, MA-C21, MA-C22, MA-C23, MA-C24, MA-C25, MA-C26, MA-C27, MA-C28, MA-C31, MA-C32, MA-C35, MA-C36). 109 citations are not 109 confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+        }
+      },
+      {
+        "id": "coverage",
+        "name": "Perspective coverage",
+        "asks": "Of the viewpoints this Story needs, how many have evidence we can actually use?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "An editor has not yet listed which viewpoints this Story needs",
+        "valueText": "An editor has not yet listed which viewpoints this Story needs",
+        "stateText": "No number yet · 1 of 2 things in place",
+        "origin": "computed",
+        "counted": "Nothing yet. Until an editor lists the viewpoints this Story needs, there is nothing to measure against.",
+        "notCounted": "The standpoints we do have among the supporting Sources: church, colonial elite, later scholarship.",
+        "inputsRecorded": [
+          1,
+          2
+        ],
+        "verified": [
+          0,
+          15
+        ],
+        "completeness": "1 of the 2 things this check needs are in place; an editor has checked 0 of 15 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
+      },
+      {
+        "id": "agreement",
+        "name": "Scholarly agreement",
+        "asks": "Do the historians who have studied this agree with one another?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Not assessed",
+        "valueText": "Not assessed",
+        "stateText": "0 of 2 recorded",
+        "origin": "computed",
+        "counted": "We have not yet recorded what different historians make of this Story. The one mainstream account (`MA-C18`) does not yet say which field it comes from or when it was made. Agreement among historians is not proof. It shows where the field stands today, and fields move.",
+        "notCounted": "We have not yet recorded which historians accept the mainstream account.",
+        "inputsRecorded": [
+          0,
+          2
+        ],
+        "completeness": "0 of 2 recorded."
+      },
+      {
+        "id": "uncertainty",
+        "name": "Historical uncertainty",
+        "asks": "How sure are we about the key dates and places, how things worked, and who was involved?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Medium uncertainty about the dates and places only; nothing else graded yet",
+        "valueText": "Medium uncertainty about the dates and places only; nothing else graded yet",
+        "stateText": "1 of 3 recorded",
+        "origin": "computed",
+        "counted": "How precisely the 33 Claims this Story cites are dated: to the year: 11; roughly: 19; to the century: 3; not tied to a date: 0; disputed or unknown: 0. The Event itself is dated c. 1570–1590 · approximate.",
+        "notCounted": "Nobody has yet assessed how things worked or who was involved.",
+        "inputsRecorded": [
+          1,
+          3
+        ],
+        "completeness": "1 of 3 recorded."
+      },
+      {
+        "id": "controversy",
+        "name": "Controversy",
+        "asks": "Is this account still being argued over, and does the argument change anything?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Not assessed",
+        "valueText": "Not assessed",
+        "stateText": "0 of 1 recorded",
+        "origin": "computed",
+        "counted": "Nobody has yet recorded whether this account is argued over. \"Not assessed\" does not mean \"low\".",
+        "notCounted": "No editor has yet assessed how actively it is disputed.",
+        "inputsRecorded": [
+          0,
+          1
+        ],
+        "completeness": "0 of 1 recorded."
+      },
+      {
+        "id": "missing",
+        "name": "Missing Voices",
+        "asks": "Who was involved or affected, but barely shows up in the evidence?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "5 voices listed · we are still looking",
+        "valueText": "5 voices listed · we are still looking",
+        "stateText": "editor's list",
+        "origin": "editorial",
+        "counted": "Each voice below says why it is missing and which Claims it bears on.",
+        "notCounted": "A voice is listed only once we can say why it is missing and which Claim it bears on. Names we have not verified stay with the editor.",
+        "inputsRecorded": [
+          5,
+          5
+        ],
+        "completeness": "5 of 5 recorded.",
+        "voices": [
+          {
+            "voice": "The people bought in Japan and carried on the ship",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "MA-C26",
+              "MA-C32"
+            ]
+          },
+          {
+            "voice": "Chinese merchants at Canton",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "MA-C06"
+            ]
+          },
+          {
+            "voice": "Chinese residents of Macao",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "MA-C05"
+            ]
+          },
+          {
+            "voice": "Miners and mine-holders in Japan",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "MA-C13"
+            ]
+          },
+          {
+            "voice": "The ship's crews",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "MA-C11"
+            ]
+          }
+        ],
+        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history."
+      }
+    ],
+    "compactLine": [
+      {
+        "kind": "winner-dominated",
+        "text": "Evidence concentrated in colonial Sources",
+        "strong": true
+      },
+      {
+        "kind": "missing-voices",
+        "text": "Some voices missing",
+        "strong": true
+      },
+      {
+        "kind": "not-scored",
+        "text": "No number yet",
+        "strong": false
+      }
+    ]
+  }
+}

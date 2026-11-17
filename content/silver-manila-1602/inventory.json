@@ -804,6 +804,10 @@
       "manila": {
         "name": "Manila, 1573",
         "action": "Go to this moment."
+      },
+      "macao-1590": {
+        "name": "Macao, 1590",
+        "action": "Go to this moment."
       }
     },
     "indexNoMarkerMeta": "Place · at Manila's marker · not drawn separately at this scale",
@@ -969,7 +973,7 @@
       "markerStateConnected": "Connected to the current selection.",
       "markerStateSubdued": "In view; not part of the selected Story.",
       "orientationLinePrefix": "present-day",
-      "jurisdictionsRegionName": "Jurisdictions in 1573",
+      "jurisdictionsRegionName": "Jurisdictions in 1602",
       "zoomOutAtWidestName": "Zoom out. At the widest view.",
       "zoomInAtClosestName": "Zoom in. At the closest view.",
       "copyLinkName": "Copy link to this view",

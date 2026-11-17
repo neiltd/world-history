@@ -1,0 +1,131 @@
+{
+  "viewBox": [
+    2055,
+    1152
+  ],
+  "tilePx": 512,
+  "cols": 5,
+  "rows": 3,
+  "tiles": [
+    {
+      "col": 0,
+      "row": 0,
+      "file": "0_0.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 120662
+    },
+    {
+      "col": 1,
+      "row": 0,
+      "file": "1_0.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 110812
+    },
+    {
+      "col": 2,
+      "row": 0,
+      "file": "2_0.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 78062
+    },
+    {
+      "col": 3,
+      "row": 0,
+      "file": "3_0.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 2264
+    },
+    {
+      "col": 4,
+      "row": 0,
+      "file": "4_0.webp",
+      "width": 7,
+      "height": 512,
+      "bytes": 44
+    },
+    {
+      "col": 0,
+      "row": 1,
+      "file": "0_1.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95462
+    },
+    {
+      "col": 1,
+      "row": 1,
+      "file": "1_1.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 44428
+    },
+    {
+      "col": 2,
+      "row": 1,
+      "file": "2_1.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 14030
+    },
+    {
+      "col": 3,
+      "row": 1,
+      "file": "3_1.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 54
+    },
+    {
+      "col": 4,
+      "row": 1,
+      "file": "4_1.webp",
+      "width": 7,
+      "height": 512,
+      "bytes": 44
+    },
+    {
+      "col": 0,
+      "row": 2,
+      "file": "0_2.webp",
+      "width": 512,
+      "height": 128,
+      "bytes": 10264
+    },
+    {
+      "col": 1,
+      "row": 2,
+      "file": "1_2.webp",
+      "width": 512,
+      "height": 128,
+      "bytes": 10036
+    },
+    {
+      "col": 2,
+      "row": 2,
+      "file": "2_2.webp",
+      "width": 512,
+      "height": 128,
+      "bytes": 3960
+    },
+    {
+      "col": 3,
+      "row": 2,
+      "file": "3_2.webp",
+      "width": 512,
+      "height": 128,
+      "bytes": 1586
+    },
+    {
+      "col": 4,
+      "row": 2,
+      "file": "4_2.webp",
+      "width": 7,
+      "height": 128,
+      "bytes": 38
+    }
+  ]
+}
