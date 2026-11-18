@@ -15,7 +15,10 @@
         "AY-C18",
         "AY-C27",
         "AY-C30",
-        "AY-C31"
+        "AY-C31",
+        "AY-C36",
+        "AY-C37",
+        "AY-C39"
       ],
       "editorialState": "draft",
       "coordinate": {
@@ -372,7 +375,7 @@
           "locator": {
             "status": "pending"
           },
-          "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+          "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
           "form": "Scholarship (book chapters)",
           "language": "English",
           "accessLevel": "excerpt reviewed"
@@ -1026,9 +1029,10 @@
       "id": "wwdk-1617-thai-record",
       "segments": [
         {
-          "text": "What a Siamese merchant, port officer or monk wrote in 1617. The one long history written in Thai in the Ayutthaya period stops at 1605.",
+          "text": "What a Siamese merchant, port officer or monk wrote in 1617. The one long history in Thai that survives from the Ayutthaya period stops at 1605, and the court chronicles of these years survive only as rewritten later.",
           "claimIds": [
-            "AY-C32"
+            "AY-C32",
+            "AY-C38"
           ]
         }
       ]

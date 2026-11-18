@@ -31,7 +31,7 @@
               "status": "verified",
               "text": "ch. 3, p. 116"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -43,7 +43,7 @@
               "status": "verified",
               "text": "ch. 4, p. 120"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -62,12 +62,12 @@
         "precision": "approximate",
         "label": "1610/11 to 1628 · approximate"
       },
-      "notes": "Quote: \"From Songtham (1610/11–28) onwards\" (Baker and Pasuk, ch. 4, p. 121); \"King Songtham (r. 1610/1-28)\" (Bhawan, p. 26)\nCheck: Image, except Bhawan p. 26 (Read)",
+      "notes": "Quote: \"From Songtham (1610/11–28) onwards\" (Baker and Pasuk, ch. 4, p. 121); \"King Songtham (r. 1610/1-28)\" (Bhawan, p. 26); \"KING SONG THAM, 1610 OR 1611-1628\" (the Royal Chronicles, p. 208, heading)\nCheck: Image, except Bhawan p. 26 (Read)",
       "confidence": {
         "level": "medium",
-        "rationale": "medium: two other dates exist and are not in the prose: Andaya has \"r. 1620-8\" (AND p. 351, Read) and Satow has \"1603 to 1628\" (SAT p. 151 note, Image). Both scholars who work from the Dutch records agree on 1610/11. Medium because three dates are in print."
+        "rationale": "medium: two other dates are in print and are not in the prose: Andaya has \"r. 1620-8\" (AND p. 351, Read) and Satow has \"1603 to 1628\" (SAT p. 151 note, Image). The court chronicle's own count is different again: it gives him \"twenty-five ... rainy seasons\" (p. 210, Image) and opens the reign about year 964 or 965 of its era. Its editors head the reign \"1610 or 1611-1628\" all the same. A historian writing in 1934 quotes another on this chronicle: \"almost every date given is wrong\" (Floris, ed. Moreland, p. xxviii, Image). Both scholars who work from the Dutch records agree on 1610/11."
       },
-      "independenceNote": "2 Sources cited; lineage as recorded: Baker and Pasuk; Bhawan.",
+      "independenceNote": "3 Sources cited; lineage as recorded: Baker and Pasuk; Bhawan; the Royal Chronicles (its editors' heading).",
       "editorialState": "draft",
       "spatial": {
         "precision": "not-place-bound",
@@ -84,7 +84,7 @@
               "status": "verified",
               "text": "ch. 4, p. 121"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -99,6 +99,18 @@
             "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
             "form": "Scholarship (monograph)",
             "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 208, heading"
+            },
+            "citation": "Richard D. Cushman (trans.) and David K. Wyatt (ed.), *The Royal Chronicles of Ayutthaya: A Synoptic Translation* (Bangkok: The Siam Society, 2000), pp. 199–210 (read whole; quoted from pp. 208–210).",
+            "form": "Primary narrative (court chronicle), English translation",
+            "language": "English, translated from Thai",
             "accessLevel": "excerpt reviewed"
           }
         ],
@@ -163,7 +175,7 @@
               "status": "verified",
               "text": "ch. 4, p. 160"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -261,7 +273,7 @@
               "status": "verified",
               "text": "ch. 4, p. 130"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -369,7 +381,7 @@
               "status": "verified",
               "text": "ch. 4, p. 123"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -617,7 +629,7 @@
               "status": "verified",
               "text": "ch. 4, p. 123"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -670,7 +682,7 @@
               "status": "verified",
               "text": "ch. 4, p. 123"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -682,7 +694,7 @@
               "status": "verified",
               "text": "ch. 4, p. 131"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -737,7 +749,7 @@
               "status": "verified",
               "text": "ch. 4, p. 123"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -847,7 +859,7 @@
               "status": "verified",
               "text": "ch. 4, p. 129"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -888,7 +900,7 @@
               "status": "verified",
               "text": "ch. 4, p. 123"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -955,7 +967,7 @@
               "status": "verified",
               "text": "ch. 4, p. 121"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -1087,7 +1099,7 @@
               "status": "verified",
               "text": "ch. 4, p. 120"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -1186,7 +1198,7 @@
       "notes": "Quote: \"I have treated them with even greater affection than if they had been my own subjects\" (Satow, p. 152); \"I have appointed an officer named Khun Chaija Sun to superintend the affairs of those who choose to stay\" (Satow, p. 152)\nCheck: Image",
       "confidence": {
         "level": "high",
-        "rationale": "high that the translation says it: this is the nearest thing to a Thai voice we hold. Thai, then a Chinese settler's translation, then a Japanese collection, then Satow. Clulow quotes it as \"trusted\" (CLU p. 341); the page says \"treated\". A king writing to a trading partner is being polite; it is not evidence of how the Japanese were in fact treated (see AY-C27)."
+        "rationale": "high that the translation says it: this is the only voice from the Siamese court of these years that we hold; the court chronicle (AY-S13) survives in versions rewritten long after. Thai, then a Chinese settler's translation, then a Japanese collection, then Satow. Clulow quotes it as \"trusted\" (CLU p. 341); the page says \"treated\". A king writing to a trading partner is being polite; it is not evidence of how the Japanese were in fact treated (see AY-C27)."
       },
       "independenceNote": "1 Source cited; lineage as recorded: Satow, translating the king's letter.",
       "editorialState": "draft",
@@ -1299,7 +1311,7 @@
               "status": "verified",
               "text": "ch. 4, p. 124"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -1414,17 +1426,17 @@
       "id": "AY-C25",
       "claimClass": "Supported fact",
       "sensitive": true,
-      "wording": "A chronicle that a Dutch merchant wrote down in 1640, probably from temple histories, calls Songtham 'not warlike, but very studious, devout'. Baker and Pasuk report that he appears in the court's chronicles as Songtham, 'upholder of the dhamma', a name they think was perhaps given for his work for Buddhism.",
+      "wording": "A chronicle that a Dutch merchant wrote down in 1640, probably from temple histories, calls Songtham 'not warlike, but very studious, devout'. The court chronicles are where he is named Songtham. Baker and Pasuk gloss the name as 'upholder of the dhamma' and think it was perhaps given for his work for Buddhism.",
       "temporal": {
         "precision": "approximate",
         "label": "1610/11 to 1628; written down in 1640 · approximate"
       },
-      "notes": "Quote: \"He was not warlike, but very studious, devout\" (Baker and Pasuk, ch. 4, p. 141); \"probably drew from contemporary chronicles compiled in wat rather than palace\" (Baker and Pasuk, ch. 4, p. 141); \"he appears in the chronicles as Songtham, upholder of the dhamma, a name perhaps conferred because of his exertions on behalf of Buddhism\" (Baker and Pasuk, ch. 4, p. 142); \"In February 1640, he produced the second account\" (Bhawan, p. 237, note 4)\nCheck: Image",
+      "notes": "Quote: \"He was not warlike, but very studious, devout\" (Baker and Pasuk, ch. 4, p. 141); \"probably drew from contemporary chronicles compiled in wat rather than palace\" (Baker and Pasuk, ch. 4, p. 141); \"he appears in the chronicles as Songtham, upholder of the dhamma, a name perhaps conferred because of his exertions on behalf of Buddhism\" (Baker and Pasuk, ch. 4, p. 142); \"In February 1640, he produced the second account\" (Bhawan, p. 237, note 4); \"took the holy name of the Supreme-Holy- [CDEF: Buddhist-] Lord-Omnipotent-Song-Tham-of-Great-Excellence\" (the Royal Chronicles, p. 208)\nCheck: Image",
       "confidence": {
         "level": "high",
-        "rationale": "high that the chronicle says it: we have not read the chronicles."
+        "rationale": "high that the chronicle says it: the gloss on the name is Baker and Pasuk's; the chronicle gives the name and does not explain it."
       },
-      "independenceNote": "2 Sources cited; lineage as recorded: Baker and Pasuk; Bhawan.",
+      "independenceNote": "3 Sources cited; lineage as recorded: Baker and Pasuk; Bhawan; the Royal Chronicles.",
       "editorialState": "draft",
       "spatial": {
         "precision": "not-place-bound",
@@ -1441,7 +1453,7 @@
               "status": "verified",
               "text": "ch. 4, p. 141"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -1453,7 +1465,7 @@
               "status": "verified",
               "text": "ch. 4, p. 142"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -1469,6 +1481,18 @@
             "form": "Scholarship (monograph)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 208"
+            },
+            "citation": "Richard D. Cushman (trans.) and David K. Wyatt (ed.), *The Royal Chronicles of Ayutthaya: A Synoptic Translation* (Bangkok: The Siam Society, 2000), pp. 199–210 (read whole; quoted from pp. 208–210).",
+            "form": "Primary narrative (court chronicle), English translation",
+            "language": "English, translated from Thai",
+            "accessLevel": "excerpt reviewed"
           }
         ],
         "challenges": [],
@@ -1479,7 +1503,7 @@
       "id": "AY-C27",
       "claimClass": "Supported fact",
       "sensitive": true,
-      "wording": "Not all the Japanese came to trade. Japanese soldiers had fought for King Naresuan in the 1590s. In 1612 a group of Japanese soldiers attacked the palace at Ayutthaya. They were overwhelmed, yet they left with treasure. Historians call it a confused incident. Who they were is not certain; they may have been soldiers left without work when Siam's big wars stopped.",
+      "wording": "Not all the Japanese came to trade. Japanese soldiers had fought for King Naresuan in the 1590s. In 1612 a group of Japanese attacked the palace at Ayutthaya. Historians call it a confused incident. Baker and Pasuk suggest the attackers may have been soldiers left without work when Siam's big wars stopped.",
       "temporal": {
         "precision": "approximate",
         "label": "1590s; 1612 · approximate"
@@ -1487,7 +1511,7 @@
       "notes": "Quote: \"A unit of 500 Japanese was part of Naresuan's forces in 1592/3.\" (Baker and Pasuk, ch. 4, p. 123); \"In a confused incident in 1612, a group of some 300 Japanese soldiers attacked the palace\" (Baker and Pasuk, ch. 4, p. 123); \"but were overwhelmed and\" (Baker and Pasuk, ch. 4, p. 123); \"Possibly these were soldiers of fortune, unemployed after the abrupt ending of the age of warfare.\" (Baker and Pasuk, ch. 4, p. 123)\nCheck: Image",
       "confidence": {
         "level": "medium",
-        "rationale": "medium: \"the age of warfare\" is the title of the book's chapter on Siam's wars, so \"Siam's wars\" is the page's meaning. The same book gives \"some 300\" on p. 123 and \"180 Japanese guards\" on p. 158."
+        "rationale": "medium: \"the age of warfare\" is the title of the book's chapter on Siam's wars, so \"Siam's wars\" is the page's meaning. The same book gives \"some 300\" on p. 123 and \"180 Japanese guards\" on p. 158. Bhawan dates the attack \"in 1611-12\" (note 10 to ch. 5, Read)."
       },
       "independenceNote": "1 Source cited; lineage as recorded: Baker and Pasuk.",
       "editorialState": "draft",
@@ -1508,7 +1532,7 @@
               "status": "verified",
               "text": "ch. 4, p. 123"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -1549,7 +1573,7 @@
               "status": "verified",
               "text": "ch. 4, p. 123"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -1671,7 +1695,7 @@
               "status": "verified",
               "text": "ch. 4, p. 120"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -1705,7 +1729,7 @@
       "notes": "Quote: \"the only lengthy history written in Thai to have survived from the Ayutthaya period\" (Baker and Pasuk, ch. 4, p. 150); \"compiled in 1681 under Narai\" (Baker and Pasuk, ch. 4, p. 150); \"through to 1605\" (Baker and Pasuk, ch. 4, p. 150)\nCheck: Image",
       "confidence": {
         "level": "high",
-        "rationale": "high: this is the Luang Prasoet chronicle. Later chronicles cover our years and are in Cushman's translation, which we do not hold. The Claim is about what was written in the period, not about all Thai chronicles."
+        "rationale": "high: this is the Luang Prasoet chronicle. A longer court chronicle covers our years (the Royal Chronicles, AY-S13), but the versions that survive are of the late 1700s at the earliest (Baker and Pasuk ch. 3, p. 107). The Claim is about what survives from the period, not about all Thai chronicles."
       },
       "independenceNote": "1 Source cited; lineage as recorded: Baker and Pasuk.",
       "editorialState": "draft",
@@ -1724,7 +1748,7 @@
               "status": "verified",
               "text": "ch. 4, p. 150"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
@@ -1832,8 +1856,476 @@
               "status": "verified",
               "text": "ch. 4, p. 120"
             },
-            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
             "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C35",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "In the court chronicles, as Richard Cushman translates them, Songtham was a monk learned in the Buddhist scriptures before he was king. Their longest passage on his reign tells of a footprint of the Buddha that a hunter found on a hillside, and of the shrine the king built over it.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1610/11 to 1628; the chronicle as it survives is of the late 1700s or later · approximate"
+      },
+      "notes": "Quote: \"expertly versed in the Three [BCEF: Holy] Baskets\" (the Royal Chronicles, p. 208); \"Hunter Bun had found a large footprint on a hillside\" (the Royal Chronicles, p. 209); \"to cover the [B: print of the] Holy Paramount Buddha’s Foot\" (the Royal Chronicles, p. 210); \"In the chronicles, the discovery of the footprint is the high point of Songtham’s reign\" (Baker and Pasuk, ch. 4, p. 142); \"who had spent time in the monkhood before ascending the throne\" (Baker and Pasuk, ch. 4, p. 141)\nCheck: Image, except Baker and Pasuk ch. 4, p. 141 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the chronicles say it: \"longest passage\" is our count: about 45 of the roughly 105 lines the chronicle gives the reign. \"The Three Baskets\" are the Buddhist scriptures; the gloss is ours. How he came to the throne is in the same pages and is not told here."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: the Royal Chronicles; Baker and Pasuk, who read the same chronicles.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 208"
+            },
+            "citation": "Richard D. Cushman (trans.) and David K. Wyatt (ed.), *The Royal Chronicles of Ayutthaya: A Synoptic Translation* (Bangkok: The Siam Society, 2000), pp. 199–210 (read whole; quoted from pp. 208–210).",
+            "form": "Primary narrative (court chronicle), English translation",
+            "language": "English, translated from Thai",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 209"
+            },
+            "citation": "Richard D. Cushman (trans.) and David K. Wyatt (ed.), *The Royal Chronicles of Ayutthaya: A Synoptic Translation* (Bangkok: The Siam Society, 2000), pp. 199–210 (read whole; quoted from pp. 208–210).",
+            "form": "Primary narrative (court chronicle), English translation",
+            "language": "English, translated from Thai",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 210"
+            },
+            "citation": "Richard D. Cushman (trans.) and David K. Wyatt (ed.), *The Royal Chronicles of Ayutthaya: A Synoptic Translation* (Bangkok: The Siam Society, 2000), pp. 199–210 (read whole; quoted from pp. 208–210).",
+            "form": "Primary narrative (court chronicle), English translation",
+            "language": "English, translated from Thai",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 142"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 141"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C36",
+      "claimClass": "Disputed",
+      "sensitive": true,
+      "wording": "Two accounts of the attack of 1612 disagree. Peter Floris, writing that year, says about 280 Japanese took the king into their hands, forced terms on him and left with a great treasure, while Siam could only look on. The court chronicles say about five hundred came to seize the king, that monks led him out past them, and that a minister's troops killed many and drove the rest to their junks.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1612, or 1611 to 1612 · approximate"
+      },
+      "notes": "Quote: \"aboute 280 Japanders\" (Floris, p. 56); \"tooke the courte and gotte the King into theyr handes\" (Floris, p. 56); \"they departed with a greate treasure, using muche violence att theyr departure\" (Floris, pp. 56-57); \"they of Siam knew no other remedy then to sitte still and looke on\" (Floris, p. 57); \"about five hundred Japanese managed to assemble together\" (the Royal Chronicles, p. 208); \"eight holy monks from the Monastery of the Pradu Tree and the Hall of the Law came in and escorted His Highness out right in front of the Japanese\" (the Royal Chronicles, p. 208); \"The Japanese were routed from the holy royal palace, boarded their junks and fled\" (the Royal Chronicles, p. 208); \"In a confused incident in 1612, a group of some 300 Japanese soldiers attacked the palace\" (Baker and Pasuk, ch. 4, p. 123)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: high that each account says this; no historian we have read says which is right. Baker and Pasuk take a middle line: \"overwhelmed\", yet leaving with treasure. Floris adds that the king gave up four nobles, signed in his own blood and handed over monks as hostages (p. 56); those details are not in the wording. The chronicle's bracketed variants are left out of the last quote: \"[CDEF: away]\"."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Floris; the Royal Chronicles; Baker and Pasuk, who quote Floris.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "Peter Floris, *Peter Floris, His Voyage to the East Indies in the Globe, 1611–1615: The Contemporary Translation of his Journal*, ed. W. H. Moreland (London: Hakluyt Society, 1934) (read the editor's introduction, pp. xxviii–xxix, and the journal, pp. 55–57).",
+            "form": "Primary narrative (journal), printed edition",
+            "language": "English, a translation of the 1610s from Dutch",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "pp. 56-57"
+            },
+            "citation": "Peter Floris, *Peter Floris, His Voyage to the East Indies in the Globe, 1611–1615: The Contemporary Translation of his Journal*, ed. W. H. Moreland (London: Hakluyt Society, 1934) (read the editor's introduction, pp. xxviii–xxix, and the journal, pp. 55–57).",
+            "form": "Primary narrative (journal), printed edition",
+            "language": "English, a translation of the 1610s from Dutch",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 57"
+            },
+            "citation": "Peter Floris, *Peter Floris, His Voyage to the East Indies in the Globe, 1611–1615: The Contemporary Translation of his Journal*, ed. W. H. Moreland (London: Hakluyt Society, 1934) (read the editor's introduction, pp. xxviii–xxix, and the journal, pp. 55–57).",
+            "form": "Primary narrative (journal), printed edition",
+            "language": "English, a translation of the 1610s from Dutch",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 208"
+            },
+            "citation": "Richard D. Cushman (trans.) and David K. Wyatt (ed.), *The Royal Chronicles of Ayutthaya: A Synoptic Translation* (Bangkok: The Siam Society, 2000), pp. 199–210 (read whole; quoted from pp. 208–210).",
+            "form": "Primary narrative (court chronicle), English translation",
+            "language": "English, translated from Thai",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 123"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C37",
+      "claimClass": "Disputed",
+      "sensitive": false,
+      "wording": "The court chronicles say that after the attack no Japanese junks ever came to trade at Ayutthaya again. Records made at the time say otherwise. Japan's government issued 56 licences for Siam between 1604 and 1635. An English letter of December 1617 speaks of a Japanese headman at Ayutthaya. In 1621 King Songtham wrote to Japan that its merchant vessels 'have continually visited us'.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1612 to 1635 · approximate"
+      },
+      "notes": "Quote: \"Ever since then no [B: Japanese] junks [CDEF: from the Japanese municipalities] have [D: ever] come in to trade at the [D: Celestial] Capital [D: and Great Metropolis] at all.\" (the Royal Chronicles, p. 208); \"the shogunate issued 56 licenses for voyages to Siam\" (Nagazumi, p. 96); \"your honoured country’s merchant vessels have continually visited us\" (Satow, p. 152); \"the Japan Ompra\" (Satow, p. 188); \"sent missions to Japan in 1616, 1621, 1623, 1626, and 1629\" (Baker and Pasuk, ch. 4, p. 123)\nCheck: Image, except Baker and Pasuk ch. 4, p. 123 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the records contradict the sentence: setting the chronicle's sentence beside these records is our reading; no historian we have read comments on the sentence. The licences are not counted by year in our Sources, so how many fall after 1612 is not known; the 1617 and 1621 rows carry the point. Why the chronicle says it, no Source we have read explains."
+      },
+      "independenceNote": "4 Sources cited; lineage as recorded: the Royal Chronicles; Nagazumi; Satow, translating the king's letter and printing Cocks; Baker and Pasuk.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 208"
+            },
+            "citation": "Richard D. Cushman (trans.) and David K. Wyatt (ed.), *The Royal Chronicles of Ayutthaya: A Synoptic Translation* (Bangkok: The Siam Society, 2000), pp. 199–210 (read whole; quoted from pp. 208–210).",
+            "form": "Primary narrative (court chronicle), English translation",
+            "language": "English, translated from Thai",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 96"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 152"
+            },
+            "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+            "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+            "language": "English (translated from Chinese and Japanese)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 188"
+            },
+            "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+            "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+            "language": "English (translated from Chinese and Japanese)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 123"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C38",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Neither surviving account of 1612 is an eyewitness's. Floris worked from letters that his partner, Lucas Antheunis, wrote from Ayutthaya. In 1885 Ernest Satow found Floris contradicted by the Siamese chronicle, on dates above all; Floris's editor, W. H. Moreland, reports that Satow evidently trusted the chronicle more. Moreland answered in 1934 that the chronicle's dates had been shown to be wrong, and judged Floris's outline good evidence, from a merchant who had to know how matters stood and might err in details. The court chronicles survive in versions of the late 1700s at the earliest. Baker and Pasuk write that they were probably first composed near the events, have been rewritten over the years, and were most likely compiled to teach royal princes how to rule.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "written 1612; and the late 1700s or later · approximate"
+      },
+      "notes": "Quote: \"He was not actually an eye-witness, but he had before him the letters of his partner Antheunis, written from Ayuthia\" (Floris, p. xxix); \"he had no motive for distorting those facts in his confidential correspondence with his partner\" (Floris, p. xxix); \"The extant versions date from the late eighteenth century at the earliest, and have clearly been rewritten over the years, but were probably first composed near the events they record\" (Baker and Pasuk, ch. 3, p. 107); \"Most likely this chronicle was compiled for use in educating royal princes on how to rule\" (Baker and Pasuk, ch. 3, p. 107); \"Floris was contradicted, as regards dates in particular, by the Siamese chronicle known as the Phongsawadan, which he evidently regarded as the more trustworthy authority of the two\" (Floris, p. xxviii); \"His view may have been tenable half a century ago, but the progress of research in the interval has finally disposed of it\" (Floris, p. xxviii); \"Antheunis may have made mistakes as to details\" (Floris, p. xxix); \"This chronicle has survived in many versions, but the differences in their accounts of the sixteenth and early seventeenth centuries are minor\" (Baker and Pasuk, ch. 3, p. 107, n. 108)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that these historians say it: Satow's view is given as Moreland reports it; Satow's own pp. 181 on were not read. Moreland adds that Satow \"had not seen the full text of the Journal, but only the condensed version\" (p. xxviii note, Image). Moreland in 1934 is harsher on the chronicle: \"a compilation made from uncertain materials after the original annals had been destroyed at the capture of Ayuthia by the Burmese in 1767\" (p. xxviii, Image). Baker and Pasuk add that under Songtham the chronicle \"returns to a simpler style and shorter length\" (ch. 4, p. 146, Image), and that the versions differ little for these years (ch. 3, p. 107 n. 108, Image). Baker and Pasuk's p. 107 is in ch. 3; AY-S01's record needs \"p. 107\" added to its pages read."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Floris's editor, Moreland; Baker and Pasuk.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. xxix"
+            },
+            "citation": "Peter Floris, *Peter Floris, His Voyage to the East Indies in the Globe, 1611–1615: The Contemporary Translation of his Journal*, ed. W. H. Moreland (London: Hakluyt Society, 1934) (read the editor's introduction, pp. xxviii–xxix, and the journal, pp. 55–57).",
+            "form": "Primary narrative (journal), printed edition",
+            "language": "English, a translation of the 1610s from Dutch",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 3, p. 107"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. xxviii"
+            },
+            "citation": "Peter Floris, *Peter Floris, His Voyage to the East Indies in the Globe, 1611–1615: The Contemporary Translation of his Journal*, ed. W. H. Moreland (London: Hakluyt Society, 1934) (read the editor's introduction, pp. xxviii–xxix, and the journal, pp. 55–57).",
+            "form": "Primary narrative (journal), printed edition",
+            "language": "English, a translation of the 1610s from Dutch",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 3, p. 107, n. 108"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C39",
+      "claimClass": "Disputed",
+      "sensitive": true,
+      "wording": "Who the attackers of 1612 were is told three ways. The court chronicles make them traders off the Japanese ships, angry at the king's ministers. Floris makes them the armed followers of a great lord who had been put to death. Baker and Pasuk suggest they may have been soldiers left without work.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1612, or 1611 to 1612 · approximate"
+      },
+      "notes": "Quote: \"At that time many Japanese boats had come in to trade. The Japanese had been angry, claiming the ministers were unjust\" (the Royal Chronicles, p. 208); \"thinking to revenge theyr master’s death\" (Floris, p. 56); \"Possibly these were soldiers of fortune, unemployed after the abrupt ending of the age of warfare.\" (Baker and Pasuk, ch. 4, p. 123)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: Floris calls them the lord's \"slaves\"; his editor doubts the word and thinks \"probably they formed his body-guard\" (p. 56 n. 3, Image). Bhawan thinks such foreign groups were armed \"perhaps because they were maritime traders\" (note 10 to ch. 5, Read). Who the lord was, and why he died, belongs to the succession and is not told."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: the Royal Chronicles; Floris; Baker and Pasuk.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 208"
+            },
+            "citation": "Richard D. Cushman (trans.) and David K. Wyatt (ed.), *The Royal Chronicles of Ayutthaya: A Synoptic Translation* (Bangkok: The Siam Society, 2000), pp. 199–210 (read whole; quoted from pp. 208–210).",
+            "form": "Primary narrative (court chronicle), English translation",
+            "language": "English, translated from Thai",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "Peter Floris, *Peter Floris, His Voyage to the East Indies in the Globe, 1611–1615: The Contemporary Translation of his Journal*, ed. W. H. Moreland (London: Hakluyt Society, 1934) (read the editor's introduction, pp. xxviii–xxix, and the journal, pp. 55–57).",
+            "form": "Primary narrative (journal), printed edition",
+            "language": "English, a translation of the 1610s from Dutch",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 123"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C40",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In their pages on Songtham's reign the court chronicles do not mention the Dutch or the English, any embassy to Japan, or the trade in hides.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1610/11 to 1628 · approximate"
+      },
+      "notes": "Quote: \"KING SONG THAM, 1610 OR 1611-1628\" (the Royal Chronicles, pp. 208-210); \"the Dutch are virtually absent from the royal chronicles of Ayutthaya\" (Bhawan, p. 4)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: a claim about an absence, checked by searching the whole text of pp. 199-210. Foreigners do appear: the Japanese of 1612, a Burmese and Mon army at Tenasserim (p. 209), and \"Farang\" ordered to cut a road to the footprint (p. 210). The translation leaves \"Farang\" untranslated; a note in Baker and Pasuk (ch. 3, n. 43, Read) glosses the word for an earlier century, so we do not gloss it here."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: the Royal Chronicles; Bhawan.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "pp. 208-210"
+            },
+            "citation": "Richard D. Cushman (trans.) and David K. Wyatt (ed.), *The Royal Chronicles of Ayutthaya: A Synoptic Translation* (Bangkok: The Siam Society, 2000), pp. 199–210 (read whole; quoted from pp. 208–210).",
+            "form": "Primary narrative (court chronicle), English translation",
+            "language": "English, translated from Thai",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 4"
+            },
+            "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+            "form": "Scholarship (monograph)",
             "language": "English",
             "accessLevel": "excerpt reviewed"
           }

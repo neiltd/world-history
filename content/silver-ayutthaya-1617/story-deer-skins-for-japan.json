@@ -76,9 +76,10 @@
             ]
           },
           {
-            "text": "Baker and Pasuk report that the court's chronicles call him Songtham, 'upholder of the dhamma', the Buddha's teaching. The name, they think, was perhaps given for his work for Buddhism. We have not read those chronicles ourselves.",
+            "text": "The court's own chronicles survive in several versions, and Richard Cushman's English prints them side by side. They agree about the piety. They make him a learned monk before he was king, and their longest passage on his reign is about a footprint of the Buddha that a hunter found on a hillside. The king built a shrine over it. The name Songtham is theirs. Baker and Pasuk gloss it as 'upholder of the dhamma', the Buddha's teaching.",
             "claimIds": [
-              "AY-C25"
+              "AY-C25",
+              "AY-C35"
             ]
           },
           {
@@ -101,9 +102,10 @@
             ]
           },
           {
-            "text": "Much of what historians know of the city in these years comes from outsiders like these: Dutch merchants who lived there and kept daybooks, and European visitors.",
+            "text": "Much of what historians know of the city in these years comes from outsiders like these: Dutch merchants who lived there and kept daybooks, and European visitors. The court chronicles do not mention the Dutch or the English once in this reign.",
             "claimIds": [
-              "AY-C31"
+              "AY-C31",
+              "AY-C40"
             ]
           }
         ]
@@ -199,14 +201,19 @@
             ]
           },
           {
-            "text": "In 1612 a group of Japanese soldiers attacked the palace at Ayutthaya. They were overwhelmed, yet they left with treasure. Historians call it a confused incident, and nothing we have read explains how both could be so. Who the soldiers were is not certain either. They may have been men left without work when Siam's big wars stopped.",
+            "text": "In 1612 a group of Japanese attacked the palace at Ayutthaya. Historians call it a confused incident. Two accounts survive, and they do not agree. Peter Floris, a Dutchman sailing for the English company, wrote that year that about 280 men took the king into their hands, forced terms on him and 'departed with a greate treasure', while Siam could only 'sitte still and looke on'. The court chronicles have about five hundred. In their telling monks led the king out past them, and a minister's troops killed many and drove the rest to their junks. Who they were is told three ways. The chronicles make them traders off the ships, angry at the king's ministers. Floris makes them the armed followers of a great lord who had been put to death. Baker and Pasuk suggest soldiers left without work when Siam's big wars stopped.",
             "claimIds": [
-              "AY-C27"
+              "AY-C27",
+              "AY-C36",
+              "AY-C39"
             ]
           },
           {
-            "text": "What followed for the Japanese who stayed in the city, nothing we have read says.",
-            "claimIds": []
+            "text": "Neither surviving account is an eyewitness's. Floris worked from letters his partner sent from the city. Scholars have weighed the two differently. In 1885 Ernest Satow found Floris contradicted by the chronicle, on dates above all, and by his editor's report trusted the chronicle more. In 1934 that editor, W. H. Moreland, answered him. The chronicle's dates, he wrote, had since been shown to be wrong, and a merchant had to know how matters stood and had no reason to bend a private letter, though he might err in details. The chronicles as they survive date from the late 1700s at the earliest. Baker and Pasuk think they were first written near the events, rewritten since, and most likely made to teach princes how to rule. They say that after the attack no Japanese junk ever came to trade again. The shogun's licences, the headman of 1617 and the king's own letter of 1621 say otherwise.",
+            "claimIds": [
+              "AY-C38",
+              "AY-C37"
+            ]
           },
           {
             "text": "Five years later, by December 1617, the Japanese at Ayutthaya had a headman with a Siamese title. An English merchant in Japan, Richard Cocks, wrote to his colleagues in Siam that 'the Japan Ompra' could help them load their ship and keep their Japanese sailors in order. 'Ompra' is the title, as Cocks spelled it. His letter does not name the man.",
@@ -321,7 +328,7 @@
             ]
           },
           {
-            "text": "This is a king writing to a trading partner, and it reaches us through three hands. It is still the nearest thing to a voice from the Siamese court that we have read.",
+            "text": "This is a king writing to a trading partner, and it reaches us through three hands. It is still the only voice from the Siamese court of those years that we have read. The chronicles as we have them were rewritten long after.",
             "claimIds": [
               "AY-C21"
             ]
@@ -412,11 +419,11 @@
         "name": "Source diversity",
         "asks": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
         "lastReview": "Not yet editorially reviewed",
-        "reading": "0 primary documents and 0 scholarly books, in 2 languages as recorded",
-        "valueText": "0 primary documents and 0 scholarly books, in 2 languages as recorded",
+        "reading": "0 primary documents and 0 scholarly books, in 4 languages as recorded",
+        "valueText": "0 primary documents and 0 scholarly books, in 4 languages as recorded",
         "stateText": "No number yet · 3 of 4 kinds of information recorded",
         "origin": "computed",
-        "counted": "Kinds of document: Scholarship (book chapter) 4, Scholarship (journal article) 3, Primary letters in a nineteenth-century English translation, with the translator's notes 1, Scholarship (book chapters) 1, Scholarship (monograph) 1, Scholarship (monograph) summarising English company papers 1, Scholarship (review article) 1. Languages, as recorded: English 11, English (translated from Chinese and Japanese) 1. Where each author stood: later scholarship 12.",
+        "counted": "Kinds of document: Scholarship (book chapter) 4, Scholarship (journal article) 3, Primary letters in a nineteenth-century English translation, with the translator's notes 1, Primary narrative (court chronicle), English translation 1, Primary narrative (journal), printed edition 1, Scholarship (book chapters) 1, Scholarship (monograph) 1, Scholarship (monograph) summarising English company papers 1, Scholarship (review article) 1. Languages, as recorded: English 11, English (translated from Chinese and Japanese) 1, English, a translation of the 1610s from Dutch 1, English, translated from Thai 1. Where each author stood: later scholarship 12, colonial elite 1, royal court 1.",
         "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
         "inputsRecorded": [
           3,
@@ -424,84 +431,92 @@
         ],
         "verified": [
           0,
-          12
+          14
         ],
-        "completeness": "3 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 12 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
+        "completeness": "3 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 14 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
       },
       {
         "id": "independence",
         "name": "Source independence",
         "asks": "How many of the Sources actually stand on their own, rather than drawing on one another?",
         "lastReview": "Not yet editorially reviewed",
-        "reading": "11 supporting Sources, in 0 separate groups once you trace who drew on whom; 11 not yet traceable",
-        "valueText": "11 supporting Sources, in 0 separate groups once you trace who drew on whom; 11 not yet traceable",
-        "stateText": "No number yet · 0 of 12 Sources traced",
+        "reading": "13 supporting Sources, in 0 separate groups once you trace who drew on whom; 13 not yet traceable",
+        "valueText": "13 supporting Sources, in 0 separate groups once you trace who drew on whom; 13 not yet traceable",
+        "stateText": "No number yet · 0 of 14 Sources traced",
         "origin": "computed",
-        "counted": "77 supporting citations across 31 Claims and the Connection, from 11 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "counted": "103 supporting citations across 37 Claims and the Connection, from 13 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
         "notCounted": "Cited only for background, so not counted: AY-S05.",
         "inputsRecorded": [
           0,
-          12
+          14
         ],
         "verified": [
           0,
-          12
+          14
         ],
-        "completeness": "We know what 0 of 12 Sources draw on; an editor has checked 0 of 12. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
+        "completeness": "We know what 0 of 14 Sources draw on; an editor has checked 0 of 14. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
         "independence": {
           "groups": [],
           "notPlaced": [
             {
               "sourceId": "AY-S01",
-              "text": "Not placed — 11 Sources. Chris Baker and Pasuk Phongpaichit AY-S01: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 13 Sources. Chris Baker and Pasuk Phongpaichit AY-S01: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "AY-S02",
-              "text": "Not placed — 11 Sources. Nagazumi Yoko AY-S02: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 13 Sources. Nagazumi Yoko AY-S02: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "AY-S03",
-              "text": "Not placed — 11 Sources. Bhawan Ruangsilp AY-S03: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 13 Sources. Bhawan Ruangsilp AY-S03: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "AY-S04",
-              "text": "Not placed — 11 Sources. Anthony Reid AY-S04: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 13 Sources. Anthony Reid AY-S04: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "AY-S06",
-              "text": "Not placed — 11 Sources. Victor Lieberman AY-S06: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 13 Sources. Victor Lieberman AY-S06: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "AY-S07",
-              "text": "Not placed — 11 Sources. Adam Clulow AY-S07: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 13 Sources. Adam Clulow AY-S07: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "AY-S08",
-              "text": "Not placed — 11 Sources. Craig A. Lockard AY-S08: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 13 Sources. Craig A. Lockard AY-S08: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "AY-S09",
-              "text": "Not placed — 11 Sources. Chris Baker AY-S09: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 13 Sources. Chris Baker AY-S09: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "AY-S10",
-              "text": "Not placed — 11 Sources. Ernest M. Satow AY-S10: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 13 Sources. Ernest M. Satow AY-S10: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "AY-S11",
-              "text": "Not placed — 11 Sources. John Anderson AY-S11: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 13 Sources. John Anderson AY-S11: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "AY-S12",
-              "text": "Not placed — 11 Sources. Jurgis Elisonas AY-S12: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 13 Sources. Jurgis Elisonas AY-S12: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S13",
+              "text": "Not placed — 13 Sources. Richard D. Cushman (trans.) and David K. Wyatt (ed.) AY-S13: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S14",
+              "text": "Not placed — 13 Sources. Peter Floris AY-S14: we do not yet know what it draws on. It joins no group and is not counted as independent."
             }
           ],
           "rows": [
             {
               "sourceId": "AY-S01",
-              "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+              "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
               "group": "not placed",
-              "claimCount": 18,
+              "claimCount": 23,
               "onConnection": true,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
@@ -510,7 +525,7 @@
               "sourceId": "AY-S02",
               "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
               "group": "not placed",
-              "claimCount": 11,
+              "claimCount": 12,
               "onConnection": true,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
@@ -519,7 +534,7 @@
               "sourceId": "AY-S03",
               "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
               "group": "not placed",
-              "claimCount": 7,
+              "claimCount": 8,
               "onConnection": false,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
@@ -573,7 +588,7 @@
               "sourceId": "AY-S10",
               "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
               "group": "not placed",
-              "claimCount": 7,
+              "claimCount": 8,
               "onConnection": true,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
@@ -595,9 +610,27 @@
               "onConnection": false,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S13",
+              "citation": "Richard D. Cushman (trans.) and David K. Wyatt (ed.), *The Royal Chronicles of Ayutthaya: A Synoptic Translation* (Bangkok: The Siam Society, 2000), pp. 199–210 (read whole; quoted from pp. 208–210).",
+              "group": "not placed",
+              "claimCount": 7,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S14",
+              "citation": "Peter Floris, *Peter Floris, His Voyage to the East Indies in the Globe, 1611–1615: The Contemporary Translation of his Journal*, ed. W. H. Moreland (London: Hakluyt Society, 1934) (read the editor's introduction, pp. xxviii–xxix, and the journal, pp. 55–57).",
+              "group": "not placed",
+              "claimCount": 3,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
             }
           ],
-          "byClaimSentence": "0 of the 31 Claims rest on a single group; 0 on two; 0 on three; for 31 we cannot tell (AY-C01, AY-C02, AY-C03, AY-C04, AY-C05, AY-C06, AY-C07, AY-C08, AY-C09, AY-C10, AY-C11, AY-C12, AY-C13, AY-C14, AY-C15, AY-C16, AY-C17, AY-C18, AY-C19, AY-C20, AY-C21, AY-C22, AY-C23, AY-C24, AY-C25, AY-C27, AY-C29, AY-C30, AY-C31, AY-C33, AY-C34). Seventy-seven citations are not seventy-seven confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+          "byClaimSentence": "0 of the 37 Claims rest on a single group; 0 on two; 0 on three; for 37 we cannot tell (AY-C01, AY-C02, AY-C03, AY-C04, AY-C05, AY-C06, AY-C07, AY-C08, AY-C09, AY-C10, AY-C11, AY-C12, AY-C13, AY-C14, AY-C15, AY-C16, AY-C17, AY-C18, AY-C19, AY-C20, AY-C21, AY-C22, AY-C23, AY-C24, AY-C25, AY-C27, AY-C29, AY-C30, AY-C31, AY-C33, AY-C34, AY-C35, AY-C36, AY-C37, AY-C38, AY-C39, AY-C40). 103 citations are not 103 confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
         }
       },
       {
@@ -610,16 +643,16 @@
         "stateText": "No number yet · 1 of 2 things in place",
         "origin": "computed",
         "counted": "Nothing yet. Until an editor lists the viewpoints this Story needs, there is nothing to measure against.",
-        "notCounted": "The standpoints we do have among the supporting Sources: later scholarship.",
+        "notCounted": "The standpoints we do have among the supporting Sources: colonial elite, later scholarship, royal court.",
         "inputsRecorded": [
           1,
           2
         ],
         "verified": [
           0,
-          12
+          14
         ],
-        "completeness": "1 of the 2 things this check needs are in place; an editor has checked 0 of 12 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
+        "completeness": "1 of the 2 things this check needs are in place; an editor has checked 0 of 14 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
       },
       {
         "id": "agreement",
@@ -647,7 +680,7 @@
         "valueText": "High uncertainty about the dates and places only; nothing else graded yet",
         "stateText": "1 of 3 recorded",
         "origin": "computed",
-        "counted": "How precisely the 31 Claims this Story cites are dated: to the year: 11; roughly: 17; to the century: 2; not tied to a date: 0; disputed or unknown: 1. The Event itself is dated c. 1604–1635 · approximate.",
+        "counted": "How precisely the 37 Claims this Story cites are dated: to the year: 11; roughly: 23; to the century: 2; not tied to a date: 0; disputed or unknown: 1. The Event itself is dated c. 1604–1635 · approximate.",
         "notCounted": "Nobody has yet assessed how things worked or who was involved.",
         "inputsRecorded": [
           1,

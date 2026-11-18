@@ -2,7 +2,7 @@
   "sources": [
     {
       "id": "AY-S01",
-      "record": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+      "record": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read pp. 107, 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 146, 150, 158, 160).",
       "form": "Scholarship (book chapters)",
       "language": "English",
       "accessLevel": "excerpt reviewed",
@@ -258,6 +258,54 @@
         "category": "later scholarship",
         "focus": "Christianity in Japan under Hideyoshi and the early Tokugawa; the pages read run from the edict of 1587 to 1612.",
         "note": "His \"heads of the Tokugawa regime\" is said of 1612; the reign dates he gives (Ieyasu r. 1603-5, Hidetada r. 1605-23) are what fix 1606. He says Hideyoshi did not at first enforce the edict of 1587 (p. 363)."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S13",
+      "record": "Richard D. Cushman (trans.) and David K. Wyatt (ed.), *The Royal Chronicles of Ayutthaya: A Synoptic Translation* (Bangkok: The Siam Society, 2000), pp. 199–210 (read whole; quoted from pp. 208–210).",
+      "form": "Primary narrative (court chronicle), English translation",
+      "language": "English, translated from Thai",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "EDITORIAL-TODO",
+      "perspective": "The chronicles of the kings of Ayutthaya, written at court, in the several versions that survive, translated into English. The translation prints several versions as one text and marks where they differ. Our pages cover King Ekathotsarot and King Songtham. Historians date the versions that survive to the late 1700s at the earliest, well over a century after Songtham.",
+      "position": {
+        "proximity": "The versions that survive date from the late 1700s at the earliest; probably first written near the events and rewritten since (Baker and Pasuk)",
+        "role": "Writers at the royal court; not named",
+        "audience": "Most likely royal princes learning how to rule (Baker and Pasuk)",
+        "interests": "The standing of the king and the court",
+        "category": "royal court",
+        "note": "In Songtham's reign the chronicle does not mention the Dutch, the English, any embassy to Japan, or the trade in hides. Its years follow its own era and run earlier than the dates historians use; the headings with Western years are the translation's editors'. Our copy lacks the page that says which manuscript each version letter stands for."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S14",
+      "record": "Peter Floris, *Peter Floris, His Voyage to the East Indies in the Globe, 1611–1615: The Contemporary Translation of his Journal*, ed. W. H. Moreland (London: Hakluyt Society, 1934) (read the editor's introduction, pp. xxviii–xxix, and the journal, pp. 55–57).",
+      "form": "Primary narrative (journal), printed edition",
+      "language": "English, a translation of the 1610s from Dutch",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "EDITORIAL-TODO",
+      "perspective": "A Dutch merchant sailing for the English East India Company. On Siam in 1612 he was not an eyewitness. He worked from letters his partner, Lucas Antheunis, wrote from Ayutthaya.",
+      "position": {
+        "proximity": "Written in 1612, within months of the events",
+        "role": "Merchant of the English East India Company",
+        "audience": "The company, and his own record of the voyage",
+        "interests": "To know how safe the market was. His editor finds no motive to bend the facts in a private letter.",
+        "category": "colonial elite",
+        "note": "The judgement on his reliability is his editor's, W. H. Moreland, in 1934. Ernest Satow in 1885 trusted the Thai chronicle over Floris; Moreland answers him."
       },
       "lineage": {
         "isRoot": false,
