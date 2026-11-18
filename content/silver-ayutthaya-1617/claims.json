@@ -1,0 +1,1846 @@
+{
+  "claims": [
+    {
+      "id": "AY-C01",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1605 King Naresuan died on the march against a Burmese army. His brother Ekathotsarot took the army home. The invasions and sieges that had come about every two years since the 1550s stopped, and small fights went on. Baker and Pasuk write that 'an era of commerce began'.",
+      "temporal": {
+        "precision": "year",
+        "label": "1605 · year"
+      },
+      "notes": "Quote: \"now came to an abrupt end. There followed a fifty-year peace\" (Baker and Pasuk, ch. 3, p. 116); \"the abrupt decline of warring after 1605\" (Baker and Pasuk, ch. 4, p. 120); \"an era of commerce began\" (Baker and Pasuk, ch. 4, p. 120); \"The cross-range invasions and sieges which had been roughly biennial between the 1550s and 1605\" (Baker and Pasuk, ch. 3, p. 116); \"warfare was for the most part limited to minor skirmishing\" (Baker and Pasuk, ch. 3, p. 116); \"when Burma sent an army to reestablish control in Lanna and the Shan states, Naresuan set out north again, but died on the march\" (Baker and Pasuk, ch. 3, p. 116)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: one book, two chapters. \"Stopped\" is fair for the big invasions; small fights went on (p. 116 lists 1613, 1618, 1621/2). Naresuan's deathbed order is \"according to legend\" on the page and is not in the wording."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Baker and Pasuk.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam and Burma · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 3, p. 116"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 120"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C02",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The king in 1617 was Songtham. He reigned from 1610 or 1611 to 1628.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1610/11 to 1628 · approximate"
+      },
+      "notes": "Quote: \"From Songtham (1610/11–28) onwards\" (Baker and Pasuk, ch. 4, p. 121); \"King Songtham (r. 1610/1-28)\" (Bhawan, p. 26)\nCheck: Image, except Bhawan p. 26 (Read)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: two other dates exist and are not in the prose: Andaya has \"r. 1620-8\" (AND p. 351, Read) and Satow has \"1603 to 1628\" (SAT p. 151 note, Image). Both scholars who work from the Dutch records agree on 1610/11. Medium because three dates are in print."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Baker and Pasuk; Bhawan.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 121"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 26"
+            },
+            "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+            "form": "Scholarship (monograph)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C03",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "English East India Company men were living in Ayutthaya in 1617. One of them, John Johnson, died there on 12 August. Another, Richard Pitt, wrote that the price of hides had fallen and the house had neither money nor goods.",
+      "temporal": {
+        "precision": "year",
+        "label": "1617 · year"
+      },
+      "notes": "Quote: \"On the 12th August, 1617, John Johnson died at Ayuthia\" (Anderson, p. 69); \"laments a fall in the price of hides\" (Anderson, p. 69); \"the East India Company\" (Anderson, p. 70); \"an agency was briefly established in 1612–23\" (Baker and Pasuk, ch. 4, p. 160)\nCheck: Image, except Baker and Pasuk ch. 4, p. 160 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the page says it: Anderson is summarising the Calendar of State Papers (his notes 4 and 6). This is the firmest 1617 line we hold."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Anderson; Baker and Pasuk.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 69"
+            },
+            "citation": "John Anderson, *English Intercourse with Siam in the Seventeenth Century* (London: Kegan Paul, Trench, Trübner & Co., 1890) (read pp. 69–70).",
+            "form": "Scholarship (monograph) summarising English company papers",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 70"
+            },
+            "citation": "John Anderson, *English Intercourse with Siam in the Seventeenth Century* (London: Kegan Paul, Trench, Trübner & Co., 1890) (read pp. 69–70).",
+            "form": "Scholarship (monograph) summarising English company papers",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 160"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C04",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The head of the Dutch house in 1617 was Cornelis van Nijenrode. He ran it from 1617 to 1621 and had served there before, in 1611 and 1612.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1611 to 1621 · approximate"
+      },
+      "notes": "Quote: \"served in Ayutthaya in 1611-12 and as the director there in 1617-21\" (Bhawan, p. 237, note 1 to ch. 3); \"permission to establish a trading house in Ayutthaya in 1608\" (Nagazumi, p. 96 / 248)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: one scholar for the dates."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Bhawan; Nagazumi.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 237, note 1 to ch. 3"
+            },
+            "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+            "form": "Scholarship (monograph)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 96 / 248"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C05",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1621 Van Nijenrode wrote that Ayutthaya surpassed any place in the Indies except China in people, elephants, gold, shipping and trade. He wrote it to stop his company closing the house.",
+      "temporal": {
+        "precision": "year",
+        "label": "1621 · year"
+      },
+      "notes": "Quote: \"any place in the Indies (except for China) in terms of populace, elephants, gold, gemstones, shipping, commerce, trade and fertility\" (Baker and Pasuk, ch. 4, p. 130); \"he tried to convince his superiors in Batavia not to close down the office\" (Bhawan, p. 55)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: the motive belongs in the wording. Dutch, through an unpublished English translation (BHA says so in her note), through two scholars. The words \"[and the city surpasses]\" are Bhawan's bracket (BHA p. 55, Image). Without it the sentence runs on from \"a powerful and wealthy monarch\". Baker and Pasuk read it as the city (BP p. 130, Image), and they quote it from Bhawan."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Baker and Pasuk; Bhawan. Baker and Pasuk take the quotation from Bhawan.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 130"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 55"
+            },
+            "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+            "form": "Scholarship (monograph)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C06",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The English company's directors, in London, noted from the accounts they had received that Siam was 'as great a city as London'. They used the kingdom's name for its city.",
+      "temporal": {
+        "precision": "unknown",
+        "label": "date not given · unknown"
+      },
+      "notes": "Quote: \"one very fair at Sia (?) Siam, which is as great a city as London\" (Anderson, p. 69)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that they said it; low as a measure: directors repeating a report. Anderson's sentence gives no date; Reid dates it 1617 (REID p. 474, Read) and prints \"big\" for \"great\"."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Anderson.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "London, about Ayutthaya · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 69"
+            },
+            "citation": "John Anderson, *English Intercourse with Siam in the Seventeenth Century* (London: Kegan Paul, Trench, Trübner & Co., 1890) (read pp. 69–70).",
+            "form": "Scholarship (monograph) summarising English company papers",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C07",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "A Japanese ship sailing abroad needed a licence with the shogun's red seal. Each licence was good for one voyage out and back. The licensed ships were known as shuinsen. Between 1604 and 1635, 56 were issued for Siam.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1604 to 1635 · approximate"
+      },
+      "notes": "Quote: \"the shogunate issued 56 licenses for voyages to Siam\" (Nagazumi, p. 96 / 248); \"junks known as shuinsen\" (Nagazumi, p. 96 / 248); \"fifty-six vermilion seals were issued for junks trading to Siam between 1604 and 1635\" (Baker and Pasuk, ch. 4, p. 123); \"fifty-six for Siam during the lifespan of the system\" (Clulow, p. 340); \"and Siam (56)\" (Reid, p. 467)\nCheck: Image, except Clulow p. 340 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: four scholars, one root (Iwao's count, CLU p. 340 n. 14). Agreement here is not four independent counts."
+      },
+      "independenceNote": "4 Sources cited; lineage as recorded: Nagazumi; Baker and Pasuk; Clulow; Reid. The count is one Japanese study, Iwao's, repeated by all four; it is one witness, not four.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan and Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 96 / 248"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 123"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 340"
+            },
+            "citation": "Adam Clulow, \"Like Lambs in Japan and Devils outside Their Land: Diplomacy, Violence, and Japanese Merchants in Southeast Asia\", *Journal of World History* 24, no. 2 (2013), 335–358 (read pp. 340–343, 347).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 467"
+            },
+            "citation": "Anthony Reid, \"Economic and Social Change, c. 1400–1800\", ch. 8 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 460–507 (read pp. 462, 464, 467, 474, 487, 490, 500, 504). [Volume number and year to be confirmed on a title page.]",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C08",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In the early years Siam drew more of these licences than any other country.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "early 1600s · approximate"
+      },
+      "notes": "Quote: \"the principal destination in the early Tokugawa era\" (Nagazumi, p. 96 / 248)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: Nagazumi supports the rank, not a number."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Nagazumi.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan and Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 96 / 248"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C09",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Nagazumi writes that a considerable number of unlicensed Japanese ships must have sailed the same routes, and that they are not documented. The 'must have' is her inference, and she gives no number.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1604 to 1635 · approximate"
+      },
+      "notes": "Quote: \"must have plied the same sea lanes, although they are not documented\" (Nagazumi, p. 96 / 248)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: \"must have\" is Nagazumi's inference. The wording keeps the gap. \"Not documented\" is her statement. We have not searched other records ourselves."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Nagazumi.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan and Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 96 / 248"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C10",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The first letter we have between the two courts is from 1606. It came from Tokugawa Ieyasu. He had been shogun from 1603 to 1605, and Hidetada had followed him in the office. As retired shogun he was still a head of the government, and he went on writing Japan's letters to foreign rulers. He asked the king of Siam for firearms and for a scented wood.",
+      "temporal": {
+        "precision": "year",
+        "label": "1606 · year"
+      },
+      "notes": "Quote: \"he asks to be furnished with some muskets and fragrant wood\" (Satow, p. 143); \"the very best quality of eagle-wood and fire-arms\" (Satow, p. 144); \"requested some of Siam's finest-quality aloes wood and some guns\" (Nagazumi, p. 90 / 242); \"came to power as shogun of Japan in 1603\" (Nagazumi, p. 89 / 241); \"the heads of the Tokugawa regime, the retired shogun Ieyasu (r. 1603–5) and his successor Hidetada (1579–1632, r. 1605–23)\" (Elisonas, pp. 366–367); \"Between 1601 and 1614, Tokugawa Ieyasu dispatched forty-eight diplomatic missives\" (Clulow, p. 339)\nCheck: Image, except Nagazumi p. 89 / 241 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: no day or month in the wording. Satow dates the letter 22 October 1606; Nagazumi says July. The king in 1606 was Ekathotsarot (AY-C02's sources); the letter does not name him. Elisonas's 'heads of the Tokugawa regime' is said of 1612. The reign dates are what fix 1606."
+      },
+      "independenceNote": "4 Sources cited; lineage as recorded: Satow; Nagazumi; Elisonas; Clulow.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan and Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 143"
+            },
+            "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+            "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+            "language": "English (translated from Chinese and Japanese)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 144"
+            },
+            "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+            "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+            "language": "English (translated from Chinese and Japanese)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 90 / 242"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 89 / 241"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "pp. 366–367"
+            },
+            "citation": "Jurgis Elisonas, \"Christianity and the Daimyo\", ch. 7 in *The Cambridge History of Japan*, vol. 4, *Early Modern Japan*, ed. John Whitney Hall (Cambridge: Cambridge University Press, 1991), pp. 301–372 (read pp. 360, 363–367).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 339"
+            },
+            "citation": "Adam Clulow, \"Like Lambs in Japan and Devils outside Their Land: Diplomacy, Violence, and Japanese Merchants in Southeast Asia\", *Journal of World History* 24, no. 2 (2013), 335–358 (read pp. 340–343, 347).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C11",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Ieyasu also wanted saltpetre. Guns and saltpetre, he wrote, were 'what I desire more than gold brocade'. Baker and Pasuk write that of gunpowder's two ingredients, Siam had a lot of saltpetre and little sulphur, and Japan the reverse.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "early 1600s · approximate"
+      },
+      "notes": "Quote: \"what I desire more than gold brocade\" (Baker and Pasuk, ch. 4, p. 123); \"Of the two ingredients of gunpowder, Siam had a lot of saltpeter but little sulfur, and Japan vice versa.\" (Baker and Pasuk, ch. 4, p. 123)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: the quote reaches us through two modern articles (BP n. 21). Satow's text has no saltpetre anywhere (searched). Medium for that reason."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Baker and Pasuk.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan and Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 123"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C12",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "What Siam sent to Japan was deer hides, rayskins (the skins of rays) and sappanwood, a wood used for dye. Deer hides and rayskins were among the main exports. The hides and skins went into military dress and equipment. Early in 1618 the head of the English company at Bantam reported that Siam 'yielded deer-skins and sappan-wood for Japan'.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "early 1600s; 1618 · approximate"
+      },
+      "notes": "Quote: \"the country yielded deer-skins and sappan-wood for Japan\" (Anderson, p. 70); \"Besides saltpeter, the main exports from Siam to Japan were deer hides and rayskins\" (Baker and Pasuk, ch. 4, p. 123); \"deer hides and rayskins, used in military dress and equipment\" (Baker and Pasuk, ch. 4, p. 123); \"Skins of rays, deer, and other animals were sent to Japan and India to be made into apparel, armor, and decorations.\" (Baker and Pasuk, ch. 4, p. 131); \"Siamese sappanwood (used for dye)\" (Reid, p. 464)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: the quoted words are Anderson's summary of George Ball's letter, not Ball's own."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Anderson; Baker and Pasuk; Reid.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam and Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 70"
+            },
+            "citation": "John Anderson, *English Intercourse with Siam in the Seventeenth Century* (London: Kegan Paul, Trench, Trübner & Co., 1890) (read pp. 69–70).",
+            "form": "Scholarship (monograph) summarising English company papers",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 123"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 131"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 464"
+            },
+            "citation": "Anthony Reid, \"Economic and Social Change, c. 1400–1800\", ch. 8 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 460–507 (read pp. 462, 464, 467, 474, 487, 490, 500, 504). [Volume number and year to be confirmed on a title page.]",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C13",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Japanese people had a village of their own south-east of the city. Baker and Pasuk write that it may have existed by 1579 and 'certainly did by 1617'.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "by 1617; perhaps by 1579 · approximate"
+      },
+      "notes": "Quote: \"may have existed to the southeast of Ayutthaya by 1579, and certainly did by 1617\" (Baker and Pasuk, ch. 4, p. 123)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: one page. AY-C14 is independent support for late 1617."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Baker and Pasuk.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "The Japanese village, south-east of Ayutthaya · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": [
+          "e-japanese-village-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 123"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C14",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "By December 1617 the Japanese at Ayutthaya had a headman with a Siamese title. An English merchant in Japan wrote to his colleagues in Siam that 'the Japan Ompra' could help them load their ship and keep their Japanese sailors in order. The letter does not name him.",
+      "temporal": {
+        "precision": "year",
+        "label": "1617 · year"
+      },
+      "notes": "Quote: \"recommended to them the 'Japan ompra' as a man who would help them\" (Anderson, p. 70); \"The ompra himself was a Japanese\" (Anderson, p. 70); \"on the 23rd December, 1617, Cocks says he understands 'the Japan Ompra' is a man that may help them\" (Satow, p. 188); \"the junk of the opra [okphra]—the head of the Japanese residents\" (Nagazumi, p. 96 / 248)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: the merchant is Richard Cocks, at the English house in Japan. The date is Satow's. \"Ompra\" is the English hearing of okphra. No page we have names this man. He is not shown to be Yamada, who became a head of the community \"by 1621\" (BHA p. 241 n. 19, Read). Satow thought the man was \"in all probability\" Yamada, reasoning from Cocks's notes about \"the Umpras father\" (p. 188, Image). A Dutch merchant in 1629 wrote \"opra\" for the head of the Japanese residents; Nagazumi gives the word as okphra. That \"Ompra\" (English, 1617) and \"opra\" (Dutch, 1629) are one title is our reading. No page we hold says so in words."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Anderson; Satow; Nagazumi. Anderson and Satow report the same letter of 1617; they are one witness to it, not two.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 70"
+            },
+            "citation": "John Anderson, *English Intercourse with Siam in the Seventeenth Century* (London: Kegan Paul, Trench, Trübner & Co., 1890) (read pp. 69–70).",
+            "form": "Scholarship (monograph) summarising English company papers",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 188"
+            },
+            "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+            "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+            "language": "English (translated from Chinese and Japanese)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 96 / 248"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C15",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The Dutch saw the export of hides to Japan as their best prospect and signed their first treaty in 1617. Profits did not come easily. Japanese traders living in Ayutthaya chose, cured and packed the hides for the Japanese market, and the Dutch were left with 'the low-margin business'.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1617; the packing is undated · approximate"
+      },
+      "notes": "Quote: \"They identified the export of hides to Japan as the most promising enterprise, and signed the first treaty in 1617. Profits did not come easily.\" (Baker and Pasuk, ch. 4, p. 129); \"selected, cured, and packed hides specially for the Japanese market, and left the Dutch with the low-margin business\" (Baker and Pasuk, ch. 4, p. 129)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: the page gives no year for the packing; the 1629 Dutch complaint (NAG p. 97 / 249) shows it was still so twelve years on. Who did the hunting and skinning is on no page. The page does not say with whom the treaty was signed."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Baker and Pasuk. Their account of the Dutch at Ayutthaya rests on Bhawan and two other scholars.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 129"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C16",
+      "claimClass": "Mainstream interpretation",
+      "sensitive": false,
+      "wording": "Reid writes that Japan was mining exceptional amounts of silver between 1570 and 1630, and that Japanese ships were forbidden to trade in China, so they traded in Southeast Asian ports. He names Manila, a Spanish port, and Hoi An in central Vietnam. Baker and Pasuk say, in one clause, that Siam's imports from Japan included copper and silver. That Japan's silver came looking for Siam's goods is our reading of the two together. No Source we have read gives an amount.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1570 to 1630 · approximate"
+      },
+      "notes": "Quote: \"while imports included copper and silver\" (Baker and Pasuk, ch. 4, p. 123); \"exceptional quantities of silver were extracted from the mines to form the basis of a vigorous trade with Southeast Asia\" (Reid, p. 467); \"Japanese vessels were still forbidden to trade directly with China\" (Reid, p. 467); \"the flourishing Spanish port of Manila\" (Reid, p. 467); \"Hoi An (known to Westerners as Faifo, central Vietnam)\" (Reid, p. 467)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: the join is ours: Reid speaks of Southeast Asia as a whole, and for the silver-for-silk exchange he names Manila and Hoi An, not Ayutthaya. Baker and Pasuk's one clause is the only direct line. No amount, no year. That is why this is an Interpretation and not a fact. Reid's page does not say who forbade Japanese ships to trade in China."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Baker and Pasuk; Reid.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan, Manila, Hoi An and Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 123"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 467"
+            },
+            "citation": "Anthony Reid, \"Economic and Social Change, c. 1400–1800\", ch. 8 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 460–507 (read pp. 462, 464, 467, 474, 487, 490, 500, 504). [Volume number and year to be confirmed on a title page.]",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C17",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The Dutch opened a trading house at Ayutthaya in 1608. They wanted Siam's goods to sell in Japan for silver.",
+      "temporal": {
+        "precision": "year",
+        "label": "1608 · year"
+      },
+      "notes": "Quote: \"permission to establish a trading house in Ayutthaya in 1608\" (Nagazumi, p. 96 / 248); \"inserted themselves into the eastbound trade in order to earn Japanese silver\" (Baker and Pasuk, ch. 4, p. 121); \"used to barter for Japanese bullion\" (Bhawan, pp. 18–19)\nCheck: Image, except Bhawan pp. 18–19 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: three scholars agree on the purpose. The king who allowed it was Ekathotsarot (BHA p. 19)."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Nagazumi; Baker and Pasuk; Bhawan.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 96 / 248"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 121"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "pp. 18–19"
+            },
+            "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+            "form": "Scholarship (monograph)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C18",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The Dutch hoped to profit from Siam's link with China. In September 1617 Van Nijenrode wrote from Ayutthaya that the junks made the crossing every year, and that one waited for the Siamese ambassador, who went to China about every two years, and left when he did. The ambassador was free to trade. The Dutch could not enter the China trade, Chinese who knew the matter told him, unless they asked through an ambassador with presents.",
+      "temporal": {
+        "precision": "year",
+        "label": "1617 · year"
+      },
+      "notes": "Quote: \"Yearly, the [Siamese] junks come over and one remains behind to wait for the ambassador's arrival.\" (Bhawan, pp. 70–71); \"unless it is requested by means of an ambassador with credentials and appropriate presents\" (Bhawan, p. 70); \"Since the Dutch initially hoped to profit from the connection between Siam and China\" (Bhawan, p. 70); \"the Dutch realized that the only way to get access to the China trade was to use an embassy\" (Bhawan, p. 70); \"Without asking for [permission to] trade, the ambassadors have liberty [to trade]\" (Bhawan, p. 71); \"When he departs, both junks go with him.\" (Bhawan, p. 71); \"usually [every] two years\" (Bhawan, p. 71)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: the letter is in the Dutch archive (VOC 1067, 20 Sept. 1617, fo. 121r-v; BHA note 51). Bhawan's bracket reads the junks as Siamese; the Dutch word is not on the page. His informants were \"all Chinese who understand the affairs of China\". \"Both junks\" is the page's; it does not say which two. The wording says only that the waiting junk left with him."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Bhawan.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Ayutthaya and China · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "pp. 70–71"
+            },
+            "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+            "form": "Scholarship (monograph)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 70"
+            },
+            "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+            "form": "Scholarship (monograph)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 71"
+            },
+            "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+            "form": "Scholarship (monograph)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C19",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The trade with China had long been of major importance to Siam. Sappanwood from Siam was bought in China in great quantity from the 1400s, and forest goods went to China. In 1567 China had lifted its ban on private trade to the south, for ships that held a licence. In the 1590s four licensed Chinese junks a year were bound for Siam.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1400s to 1590s · approximate"
+      },
+      "notes": "Quote: \"the Nguyen-ruled kingdom of what is now central Vietnam (8 ships) and Siam (4 ships)\" (Reid, p. 467); \"The Ming ban on private trade in China had been lifted in 1567.\" (Baker and Pasuk, ch. 4, p. 120); \"As in the past, the trade to China was of major importance to Siam.\" (Baker and Pasuk, ch. 4, p. 120); \"During the fifteenth century Indonesian pepper and Siamese sappanwood (used for dye) became for the first time items of mass consumption in China.\" (Reid, p. 464); \"New ports on the Vietnamese coastline competed to deliver forest goods to China by a shorter route.\" (Baker and Pasuk, ch. 4, p. 120); \"In 1567 the emperor Mu-tsung for the first time lifted the Ming ban on private trade to the south.\" (Reid, p. 467); \"Fifty junks were initially licensed to leave from the southern Chinese ports each year\" (Reid, p. 467)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: Reid's source is Zhang Xie's book of 1617. The figure is for the 1590s, twenty years before our year, and \"a roughly equal number\" sailed unlicensed (same page). Baker and Pasuk's line is about rivals to Ayutthaya; it shows what the trade was in, not a cargo. No page read lists what was carried in 1617. Baker and Pasuk say the ban 'had been lifted'. Reid's page limits it to the south and to licensed junks, and the wording follows Reid."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Reid; Baker and Pasuk.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam and China · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 467"
+            },
+            "citation": "Anthony Reid, \"Economic and Social Change, c. 1400–1800\", ch. 8 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 460–507 (read pp. 462, 464, 467, 474, 487, 490, 500, 504). [Volume number and year to be confirmed on a title page.]",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 120"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 464"
+            },
+            "citation": "Anthony Reid, \"Economic and Social Change, c. 1400–1800\", ch. 8 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 460–507 (read pp. 462, 464, 467, 474, 487, 490, 500, 504). [Volume number and year to be confirmed on a title page.]",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C20",
+      "claimClass": "Disputed",
+      "sensitive": false,
+      "wording": "In 1621 a Siamese embassy reached the shogun's court with a letter from King Songtham. It was inscribed on a thin sheet of gold, rolled up and placed in an elephant's tusk. Satow wrote in 1885 that such letters were in the Siamese language with a Chinese translation alongside. Nagazumi writes that this one was in Chinese. What survives is Chinese.",
+      "temporal": {
+        "precision": "year",
+        "label": "1621 · year"
+      },
+      "notes": "Quote: \"The text was entirely in Chinese\" (Nagazumi, p. 91 / 243); \"inserted in a hollow elephant tusk\" (Nagazumi, p. 91 / 243); \"the originals were in their own language, engraved on a thin sheet of gold\" (Satow, p. 143); \"The second series of documents relates to the Siamese Embassy of 1621.\" (Satow, p. 147)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that each says it: Satow says \"in all cases\", a general statement, and Nagazumi says this letter's text \"was entirely in Chinese\". They fit if she means what survives. \"Only the Chinese survives\" is from Satow, p. 143 (\"consists of documents in Chinese\"). No day in the wording. That the king is Songtham: SAT p. 151 note (Image) and NAG p. 91."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Nagazumi; Satow.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "The shogun's court, Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 91 / 243"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 143"
+            },
+            "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+            "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+            "language": "English (translated from Chinese and Japanese)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 147"
+            },
+            "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+            "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+            "language": "English (translated from Chinese and Japanese)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C21",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In Satow's English the king wrote: 'For years past your honoured country's merchant vessels have continually visited us, and I have treated them with even greater affection than if they had been my own subjects.' He said he had named an officer to look after the Japanese who chose to stay.",
+      "temporal": {
+        "precision": "year",
+        "label": "1621 · year"
+      },
+      "notes": "Quote: \"I have treated them with even greater affection than if they had been my own subjects\" (Satow, p. 152); \"I have appointed an officer named Khun Chaija Sun to superintend the affairs of those who choose to stay\" (Satow, p. 152)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the translation says it: this is the nearest thing to a Thai voice we hold. Thai, then a Chinese settler's translation, then a Japanese collection, then Satow. Clulow quotes it as \"trusted\" (CLU p. 341); the page says \"treated\". A king writing to a trading partner is being polite; it is not evidence of how the Japanese were in fact treated (see AY-C27)."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Satow, translating the king's letter.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam, to the shogun's court in Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 152"
+            },
+            "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+            "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+            "language": "English (translated from Chinese and Japanese)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C22",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The same letter says: 'Siam and Japan are States of equal rank.'",
+      "temporal": {
+        "precision": "year",
+        "label": "1621 · year"
+      },
+      "notes": "Quote: \"Siam and Japan are States of equal rank, and I would desire that friendly relations might exist between us\" (Satow, p. 152)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the translation says it: the Japanese side did not quite agree. Satow notes the shogun's reply gave the king \"a title inferior to that of 'Highness'\" (p. 147, Image)."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Satow, translating the king's letter.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam, to the shogun's court in Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 152"
+            },
+            "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+            "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+            "language": "English (translated from Chinese and Japanese)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C23",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "It did not last. In the 1630s Japan forbade its people to sail abroad, and the licences ended in 1635. After that the trade between Ayutthaya and Japan went in Chinese junks and Dutch ships.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1630s and after · approximate"
+      },
+      "notes": "Quote: \"the only foreign vessels allowed to call at Nagasaki were those of the Chinese and Dutch\" (Nagazumi, p. 98 / 250); \"the issue of vermilion seals lapsed\" (Baker and Pasuk, ch. 4, p. 124); \"Between 1635 and 1723 up to nine Chinese-operated Ayutthayan ships went to Nagasaki each year.\" (Lockard, p. 243)\nCheck: Image, except Lockard p. 243 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: this is where the Chinese junks on the Japan run belong. Nothing here on 1629-30 and the killing of Japanese residents."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Nagazumi; Baker and Pasuk; Lockard.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Japan and Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 98 / 250"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 124"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S08",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 243"
+            },
+            "citation": "Craig A. Lockard, \"'The Sea Common to All': Maritime Frontiers, Port Cities, and Chinese Traders in the Southeast Asian Age of Commerce, ca. 1400–1750\", *Journal of World History* 21, no. 2 (2010), 219–247 (read p. 243).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C24",
+      "claimClass": "Disputed",
+      "sensitive": false,
+      "wording": "Why isn't Southeast Asia as closely knit as Europe? Historians give different answers. Anthony Reid writes about trade, and about Southeast Asia as a whole. He says sea trade tied the region together until the 1600s and then came apart: the trading cities most open to all comers were the first to fall to European force, and the stronger kings who rose in answer sooner or later ruined or drove off their own shipowners. He words this with care ('it seems as though'). The case he tells at length is the sultanate of Aceh. Siam comes into his account only for the years 1650 to 1675, where he speaks of royal monopolies. Victor Lieberman writes about states. He says that picture fits the islands. On the mainland he counts about twenty-two kingdoms in 1400 and three large ones by 1680, and he sets that beside Europe, where some five hundred states in the mid-1400s became about twenty-five by the mid-1800s. The mainland, he argues, went the way Europe went, more weakly. The islands, he says, were different: broken geography, coastal peoples who moved, and Europeans who arrived early. Chris Baker, writing of the centuries before 1617, warns against maps that give Ayutthaya far-flung borders: its armies were used to keep trade routes open, not to set up firmer control.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1400 to 1680; Europe to the mid-1800s · approximate"
+      },
+      "notes": "Quote: \"those pluralistic societies most congenial to competitive trade were the first to fall before the European onslaught—Melaka to the Portuguese in 1511 and Banda to the Dutch in 1621\" (Reid, p. 487); \"the more absolutist states which arose in reaction to this pressure sooner or later fell prey to excesses of personal power which destroyed or alienated the important shipowners and capitalists\" (Reid, p. 487); \"the mainland states succeeded in retaining their coherence by withdrawing from international commerce\" (Reid, p. 500); \"in 1400 there were some twenty-two independent kingdoms, but by 1680 there were only three major contending imperial systems\" (Lieberman, p. 799); \"over five hundred states of the mid-fifteenth century had been reduced to some twenty-five by the mid-nineteenth century\" (Lieberman, p. 804); \"consolidation across mainland Southeast Asia after 1680 continued to parallel in anemic but recognizable fashion the experience of Europe\" (Lieberman, p. 804); \"tortured geography, shifting coastal populations, and precocious European involvement\" (Lieberman, p. 799); \"delight in drawing maps with far-flung borders\" (Baker, p. 56); \"military might seems to have been used to maintain commercial access and render glory, rather than establishing any firmer forms of control\" (Baker, p. 56); \"it seems as though the needs of trade for security and for freedom proved ultimately irreconcilable\" (Reid, p. 487); \"The sultanate of Aceh oscillated revealingly between these two dangers\" (Reid, p. 487); \"In Siam, Banten, Makassar, Jambi and Banjarmasin, the third quarter of the seventeenth century saw a steady expansion of royal monopolies\" (Reid, p. 487)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that each says it: Lieberman's Europe figure runs to the mid-1800s, later than his Southeast Asia one. Lieberman's parallel is said of the years after 1680. Baker's page is about the 1400s and 1500s. Reid's sentence about absolutist states is regional and hedged. On this page Siam appears only for 1650 to 1675."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Reid; Lieberman; Baker.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Southeast Asia and Europe · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 487"
+            },
+            "citation": "Anthony Reid, \"Economic and Social Change, c. 1400–1800\", ch. 8 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 460–507 (read pp. 462, 464, 467, 474, 487, 490, 500, 504). [Volume number and year to be confirmed on a title page.]",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 500"
+            },
+            "citation": "Anthony Reid, \"Economic and Social Change, c. 1400–1800\", ch. 8 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 460–507 (read pp. 462, 464, 467, 474, 487, 490, 500, 504). [Volume number and year to be confirmed on a title page.]",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 799"
+            },
+            "citation": "Victor Lieberman, \"An Age of Commerce in Southeast Asia? Problems of Regional Coherence: A Review Article\", *Journal of Asian Studies* 54, no. 3 (1995), 796–807 (read pp. 796–801, 804).",
+            "form": "Scholarship (review article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 804"
+            },
+            "citation": "Victor Lieberman, \"An Age of Commerce in Southeast Asia? Problems of Regional Coherence: A Review Article\", *Journal of Asian Studies* 54, no. 3 (1995), 796–807 (read pp. 796–801, 804).",
+            "form": "Scholarship (review article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S09",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "Chris Baker, \"Ayutthaya Rising: From Land or Sea?\", *Journal of Southeast Asian Studies* 34, no. 1 (2003), 41–62 (read pp. 41, 53, 56, 62).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C25",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "A chronicle that a Dutch merchant wrote down in 1640, probably from temple histories, calls Songtham 'not warlike, but very studious, devout'. Baker and Pasuk report that he appears in the court's chronicles as Songtham, 'upholder of the dhamma', a name they think was perhaps given for his work for Buddhism.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1610/11 to 1628; written down in 1640 · approximate"
+      },
+      "notes": "Quote: \"He was not warlike, but very studious, devout\" (Baker and Pasuk, ch. 4, p. 141); \"probably drew from contemporary chronicles compiled in wat rather than palace\" (Baker and Pasuk, ch. 4, p. 141); \"he appears in the chronicles as Songtham, upholder of the dhamma, a name perhaps conferred because of his exertions on behalf of Buddhism\" (Baker and Pasuk, ch. 4, p. 142); \"In February 1640, he produced the second account\" (Bhawan, p. 237, note 4)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the chronicle says it: we have not read the chronicles."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Baker and Pasuk; Bhawan.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 141"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 142"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 237, note 4"
+            },
+            "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+            "form": "Scholarship (monograph)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C27",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "Not all the Japanese came to trade. Japanese soldiers had fought for King Naresuan in the 1590s. In 1612 a group of Japanese soldiers attacked the palace at Ayutthaya. They were overwhelmed, yet they left with treasure. Historians call it a confused incident. Who they were is not certain; they may have been soldiers left without work when Siam's big wars stopped.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1590s; 1612 · approximate"
+      },
+      "notes": "Quote: \"A unit of 500 Japanese was part of Naresuan's forces in 1592/3.\" (Baker and Pasuk, ch. 4, p. 123); \"In a confused incident in 1612, a group of some 300 Japanese soldiers attacked the palace\" (Baker and Pasuk, ch. 4, p. 123); \"but were overwhelmed and\" (Baker and Pasuk, ch. 4, p. 123); \"Possibly these were soldiers of fortune, unemployed after the abrupt ending of the age of warfare.\" (Baker and Pasuk, ch. 4, p. 123)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: \"the age of warfare\" is the title of the book's chapter on Siam's wars, so \"Siam's wars\" is the page's meaning. The same book gives \"some 300\" on p. 123 and \"180 Japanese guards\" on p. 158."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Baker and Pasuk.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 123"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C29",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "Some of the Japanese in Siam had fled the wars in Japan, and some had fled the persecution of Christians there. Japan's ruler, Toyotomi Hideyoshi, ordered the missionaries out in 1587, and in 1597 he had twenty-six Christians put to death at Nagasaki. Baker and Pasuk date the persecution from 1597.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1587 and 1597; the arrivals are undated · approximate"
+      },
+      "notes": "Quote: \"or fleeing the persecution of Christians which began in 1597\" (Baker and Pasuk, ch. 4, p. 123); \"issued his edict condemning Christianity as a \"pernicious doctrine\" and giving the missionaries twenty days to get out of Japan\" (Elisonas, p. 360); \"He ordered the execution of twenty-six Christians\" (Elisonas, p. 364); \"crucified in Nagasaki. This was the first bloody persecution of the\" (Elisonas, p. 364)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: Baker and Pasuk give 1597 as the start. Elisonas dates the first ban to 1587 and the first executions to 1597, and says the 1587 edict was not enforced at first (p. 363). The wording gives both dates and leaves 1597 as Baker and Pasuk's."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Baker and Pasuk; Elisonas.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam and Japan · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 123"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 360"
+            },
+            "citation": "Jurgis Elisonas, \"Christianity and the Daimyo\", ch. 7 in *The Cambridge History of Japan*, vol. 4, *Early Modern Japan*, ed. John Whitney Hall (Cambridge: Cambridge University Press, 1991), pp. 301–372 (read pp. 360, 363–367).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 364"
+            },
+            "citation": "Jurgis Elisonas, \"Christianity and the Daimyo\", ch. 7 in *The Cambridge History of Japan*, vol. 4, *Early Modern Japan*, ed. John Whitney Hall (Cambridge: Cambridge University Press, 1991), pp. 301–372 (read pp. 360, 363–367).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C30",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "With the 1621 embassy went a letter from Yamada Nagamasa, whom Nagazumi calls the head of the Japanese trading community in Ayutthaya.",
+      "temporal": {
+        "precision": "year",
+        "label": "1621 · year"
+      },
+      "notes": "Quote: \"a letter from Yamada Nagamasa (the head of the Japanese trading community in Ayutthaya)\" (Nagazumi, p. 91 / 243); \"6. From Yamada Nagamasa to Doi Oye no kami.\" (Satow, p. 147)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: the two name different men as the letter's reader, so the wording names none. Nothing else about Yamada is used. Baker and Pasuk write that Yamada arrived in 1612 and \"Around 1620, when he was thirty years old, he became head of the Japanese village in Ayutthaya\" (BP pp. 123-124, Image). Satow guessed he was the headman of December 1617 (SAT p. 188, Image). The two do not agree."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Nagazumi; Satow.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 91 / 243"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 147"
+            },
+            "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+            "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+            "language": "English (translated from Chinese and Japanese)",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C31",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Much of what historians know of Ayutthaya in the 1600s comes from outsiders: European visitors, and Dutch merchants who lived there and kept daybooks.",
+      "temporal": {
+        "precision": "century",
+        "label": "17th c. · century"
+      },
+      "notes": "Quote: \"contemporary observations by outsiders, including European visitors ... and the resident Dutch merchants who kept daybooks\" (Baker and Pasuk, ch. 4, p. 120); \"Despite the absence of indigenous sources\" (Bhawan, p. 17)\nCheck: Image, except Bhawan p. 17 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: Baker and Pasuk say the sources \"include\" these; \"much\" is our word for it and fits their chapter's notes. Bhawan's phrase is about one question, how the court saw the Dutch."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Baker and Pasuk; Bhawan.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Ayutthaya · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-ayutthaya-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 120"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 17"
+            },
+            "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+            "form": "Scholarship (monograph)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C32",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The only long history written in Thai that survives from the Ayutthaya period was compiled in 1681. It stops at 1605.",
+      "temporal": {
+        "precision": "year",
+        "label": "1681 · year"
+      },
+      "notes": "Quote: \"the only lengthy history written in Thai to have survived from the Ayutthaya period\" (Baker and Pasuk, ch. 4, p. 150); \"compiled in 1681 under Narai\" (Baker and Pasuk, ch. 4, p. 150); \"through to 1605\" (Baker and Pasuk, ch. 4, p. 150)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: this is the Luang Prasoet chronicle. Later chronicles cover our years and are in Cushman's translation, which we do not hold. The Claim is about what was written in the period, not about all Thai chronicles."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Baker and Pasuk.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Siam · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 150"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C33",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Ships between Siam and Japan used the port of Nagasaki. A Siamese vessel arrived there in the summer of 1612, and the embassy of 1621 landed there.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1612 and 1621 · approximate"
+      },
+      "notes": "Quote: \"In the summer of 1612 a Siamese vessel arrived at Nagasaki\" (Satow, p. 147); \"When the second Thai embassy arrived at Nagasaki in 1621\" (Nagazumi, p. 90 / 242); \"the magistrate of Nagasaki and therefore had jurisdiction over the ships that entered the port\" (Nagazumi, p. 90 / 242)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: two dated arrivals and the port's magistrate. No page says where the licensed ships of 1617 landed their hides. Medium for that reason, and the Connection says so."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Satow; Nagazumi.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Nagasaki · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-nagasaki-1617"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 147"
+            },
+            "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+            "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+            "language": "English (translated from Chinese and Japanese)",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 90 / 242"
+            },
+            "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "AY-C34",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Siam was a kingdom on the mainland of Southeast Asia. Some historians write 'Thailand' for it.",
+      "temporal": {
+        "precision": "century",
+        "label": "17th c. · century"
+      },
+      "notes": "Quote: \"When we turn to mainland Southeast Asia\" (Lieberman, p. 799); \"communities in the Chaophraya basin to form a Siamese identity\" (Lieberman, p. 799); \"three major contending imperial systems, those of Burma, Thailand, and Vietnam\" (Lieberman, p. 799); \"the exchange between China and Mainland Southeast Asia\" (Baker and Pasuk, ch. 4, p. 120)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: no page we hold says when or why the name changed, so the wording says only that some historians use it."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Lieberman; Baker and Pasuk.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Mainland Southeast Asia · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "AY-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 799"
+            },
+            "citation": "Victor Lieberman, \"An Age of Commerce in Southeast Asia? Problems of Regional Coherence: A Review Article\", *Journal of Asian Studies* 54, no. 3 (1995), 796–807 (read pp. 796–801, 804).",
+            "form": "Scholarship (review article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "AY-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "ch. 4, p. 120"
+            },
+            "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+            "form": "Scholarship (book chapters)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    }
+  ]
+}

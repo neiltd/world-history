@@ -1,0 +1,270 @@
+{
+  "sources": [
+    {
+      "id": "AY-S01",
+      "record": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+      "form": "Scholarship (book chapters)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/9781108120197.005",
+      "perspective": "Two historians of Thailand writing a general history of the kingdom. They join Thai chronicles, read in translation and in Thai, to the Dutch, English, French and Persian accounts, and they say which is which.",
+      "position": {
+        "proximity": "Appeared in 2017",
+        "category": "later scholarship",
+        "focus": "Ayutthaya from its beginnings to 1767; ch. 4 covers trade, kings, religion and succession from 1605 to about 1700.",
+        "note": "Their section on the Dutch rests on Dhiravat, Smith and Bhawan (p. 129 n. 44), and their 1621 quotation is taken from Bhawan (p. 130 n. 45). Their one clause on copper and silver coming from Japan (p. 123) cites Nidhi, Iwamoto and Reid, none of which we hold."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S02",
+      "record": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "EDITORIAL-TODO",
+      "perspective": "A Japanese historian of the Dutch and Japanese records. She reads the embassies and the trade from the Japanese side: the shogun's counsellors, the licence holders, the Nagasaki magistrate.",
+      "position": {
+        "proximity": "Appeared in 1999",
+        "category": "later scholarship",
+        "focus": "Letters and embassies between Siam and Japan from 1606 to 1629, and the trade before and after Japan closed its ports.",
+        "note": "She says the 1621 letter's text \"was entirely in Chinese\" (p. 91); Satow says such letters were in Siamese with a Chinese translation. She dates Ieyasu's first letter to July 1606 and the audience to 1 September 1621; Satow has 22 October 1606 and October 1621. The word silver does not occur in her pages on 1606 to 1629."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S03",
+      "record": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+      "form": "Scholarship (monograph)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "EDITORIAL-TODO",
+      "perspective": "A Thai historian working in the Dutch company's archive. Her subject is how Dutch merchants saw the Thai court, and she says the court's own view of them is not on record.",
+      "position": {
+        "proximity": "Appeared in 2007",
+        "category": "later scholarship",
+        "focus": "The Dutch company and the court of Ayutthaya from 1604 to 1765, mostly from 1629 on.",
+        "note": "Our witness for Van Nijenrode: his letter of 20 September 1617 (VOC 1067, fo. 121r-v) and his report of 1621, which she quotes from an English translation by Han ten Brummelhuis that was not yet published. In the 1621 quotation the words \"[and the city surpasses]\" are her bracket."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S04",
+      "record": "Anthony Reid, \"Economic and Social Change, c. 1400–1800\", ch. 8 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 460–507 (read pp. 462, 464, 467, 474, 487, 490, 500, 504). [Volume number and year to be confirmed on a title page.]",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/CHOL9780521355056.010",
+      "perspective": "The historian who named Southeast Asia's \"age of commerce\". He reads the region as one trading world that boomed with silver and Chinese demand and was broken in the 1600s.",
+      "position": {
+        "proximity": "Appeared in 1992",
+        "category": "later scholarship",
+        "focus": "Population, trade, cities and states across Southeast Asia from about 1400 to 1800.",
+        "note": "For the exchange of Japanese silver he names Manila and Hoi An, not Ayutthaya (p. 467). He prints \"as big a city as London\" and dates it 1617 (p. 474); Anderson's page has \"as great a city\" and no date. His four junks a year for Siam come from Zhang Xie's book of 1617, for the 1590s."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S05",
+      "record": "Leonard Y. Andaya, \"Interactions with the Outside World and Adaptation in Southeast Asian Society, 1500–1800\", ch. 6 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 345–401 (read p. 351, and the unsigned introduction to Part Two on p. 343). [Volume number and year to be confirmed on a title page.]",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/CHOL9780521355056.008",
+      "perspective": "A historian of the Malay world and eastern Indonesia, surveying how Chinese, Japanese and Europeans fitted into Southeast Asian societies.",
+      "position": {
+        "proximity": "Appeared in 1992",
+        "category": "later scholarship",
+        "focus": "Foreign groups in Southeast Asia from 1500 to 1800.",
+        "note": "He gives \"r. 1620-8\" for Songtham, against 1610/11 in two other Sources. His page also has 1632 for the killing of Japanese residents, against Nagazumi's 1629–30, and a silver figure that does not say whether it is per year."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S06",
+      "record": "Victor Lieberman, \"An Age of Commerce in Southeast Asia? Problems of Regional Coherence: A Review Article\", *Journal of Asian Studies* 54, no. 3 (1995), 796–807 (read pp. 796–801, 804).",
+      "form": "Scholarship (review article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "EDITORIAL-TODO",
+      "perspective": "A historian of Burma reviewing Reid's two volumes. He praises them and argues that a model built on the islands does not fit the mainland kingdoms.",
+      "position": {
+        "proximity": "Appeared in 1995",
+        "category": "later scholarship",
+        "focus": "Whether mainland and island Southeast Asia changed in the same way between 1450 and 1680.",
+        "note": "He writes \"Burma, Thailand, and Vietnam\" for the three systems of 1680. His Europe comparison runs to the mid-nineteenth century, later than his Southeast Asian count. He calls the forming of a Siamese identity \"rather more tentative\" than the Burman or Vietnamese."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S07",
+      "record": "Adam Clulow, \"Like Lambs in Japan and Devils outside Their Land: Diplomacy, Violence, and Japanese Merchants in Southeast Asia\", *Journal of World History* 24, no. 2 (2013), 335–358 (read pp. 340–343, 347).",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1353/jwh.2013.0065",
+      "perspective": "A historian of Tokugawa Japan's dealings abroad. He reads the shogun's letters to Southeast Asian rulers for what they say about Japanese merchants who turned violent.",
+      "position": {
+        "proximity": "Appeared in 2013",
+        "category": "later scholarship",
+        "focus": "Nine letters from the shogun to Cambodia, Cochinchina, Patani and the Philippines, 1601 to the 1630s.",
+        "note": "He quotes the king of Siam's letter from Satow as \"I have trusted them\"; Satow's page has \"treated\". The \"devils\" line of his title is a Dutch rival's, and we do not use it. His nine letters do not include one to Siam. His count of licences is Iwao's (p. 340 n. 14)."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S08",
+      "record": "Craig A. Lockard, \"'The Sea Common to All': Maritime Frontiers, Port Cities, and Chinese Traders in the Southeast Asian Age of Commerce, ca. 1400–1750\", *Journal of World History* 21, no. 2 (2010), 219–247 (read p. 243).",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1353/jwh.0.0127",
+      "perspective": "A world historian surveying Chinese traders in three ports, from other scholars' work.",
+      "position": {
+        "proximity": "Appeared in 2010",
+        "category": "later scholarship",
+        "focus": "Chinese merchants at Melaka, Hoi An and Ayutthaya, about 1400 to 1750.",
+        "note": "His line on Japanese copper and silver reaching Ayutthaya is for 1635 to 1723, after the Moment."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S09",
+      "record": "Chris Baker, \"Ayutthaya Rising: From Land or Sea?\", *Journal of Southeast Asian Studies* 34, no. 1 (2003), 41–62 (read pp. 41, 53, 56, 62).",
+      "form": "Scholarship (journal article)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/S0022463403000031",
+      "perspective": "A historian of Thailand arguing that early Ayutthaya was a sea power that later became a land power, against the usual national story.",
+      "position": {
+        "proximity": "Appeared in 2003",
+        "category": "later scholarship",
+        "focus": "Ayutthaya from the 1200s to the 1500s.",
+        "note": "About the centuries before the Moment. His caution that Ayutthaya's armies kept trade routes open and did not set up firmer control is on p. 56. He warns against reading nineteenth-century Siam back into earlier times (p. 62)."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S10",
+      "record": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+      "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+      "language": "English (translated from Chinese and Japanese)",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/transactionsasi25japagoog",
+      "perspective": "A British diplomat and scholar of Japan putting into English the letters that passed between the shoguns and the kings of Siam, from a Japanese collection of foreign correspondence. He adds extracts from an English merchant's diary.",
+      "position": {
+        "proximity": "The letters are of 1606 to 1687; the translation appeared in 1885",
+        "role": "Translator and commentator",
+        "audience": "Members of a learned society in Japan",
+        "interests": "The history of Japan's early dealings abroad",
+        "category": "later scholarship",
+        "note": "The chain for the king's letter of 1621: the Siamese court, a Chinese version, a Japanese collection (the Gwai-Han Tsū-sho), Satow's English. He says the Siamese originals were in their own language on a sheet of gold with a Chinese translation (p. 143); Nagazumi says this letter was in Chinese. He gives Songtham's reign as 1603 to 1628. His view that the Japanese headman of December 1617 was \"in all probability\" Yamada (p. 188) is an inference and is not used. Public domain; scan marked not in copyright."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S11",
+      "record": "John Anderson, *English Intercourse with Siam in the Seventeenth Century* (London: Kegan Paul, Trench, Trübner & Co., 1890) (read pp. 69–70).",
+      "form": "Scholarship (monograph) summarising English company papers",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/englishintercou00andegoog",
+      "perspective": "A Victorian naturalist who had worked at Mergui, writing the English company's history in Siam from the printed Calendar of State Papers. He tells it as the story of his countrymen's trade.",
+      "position": {
+        "proximity": "Appeared in 1890; the papers he summarises are of 1612 on",
+        "category": "later scholarship",
+        "focus": "The English East India Company in Siam, 1612 to the 1680s.",
+        "note": "Our pages are his summaries, with entry numbers from the Calendar; the letters themselves are not on any page we have read. Only the words inside his quotation marks are the writers' own. The \"as great a city as London\" line is the directors' and carries no date in his sentence. Public domain; scan marked not in copyright."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "AY-S12",
+      "record": "Jurgis Elisonas, \"Christianity and the Daimyo\", ch. 7 in *The Cambridge History of Japan*, vol. 4, *Early Modern Japan*, ed. John Whitney Hall (Cambridge: Cambridge University Press, 1991), pp. 301–372 (read pp. 360, 363–367).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/CHOL9780521223553.008",
+      "perspective": "A historian of Japan writing the chapter on Christianity and the daimyo for a multi-author history of early modern Japan.",
+      "position": {
+        "proximity": "Appeared in 1991",
+        "category": "later scholarship",
+        "focus": "Christianity in Japan under Hideyoshi and the early Tokugawa; the pages read run from the edict of 1587 to 1612.",
+        "note": "His \"heads of the Tokugawa regime\" is said of 1612; the reign dates he gives (Ieyasu r. 1603-5, Hidetada r. 1605-23) are what fix 1606. He says Hideyoshi did not at first enforce the edict of 1587 (p. 363)."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    }
+  ]
+}

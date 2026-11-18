@@ -1,0 +1,759 @@
+{
+  "id": "deer-skins-for-japan",
+  "title": "Deer skins for Japan",
+  "learnerQuestion": "What did Japanese ships come to Ayutthaya for around 1617, who handled the trade, and what do we still not know about the silver behind it?",
+  "sensitiveContentNotice": "One part of this Story, \"The Japanese village\", tells of an armed attack on the royal palace at Ayutthaya in 1612, and of people who fled religious persecution in Japan.",
+  "sensitive": true,
+  "header": {
+    "whenLine": "1617 view · Events 1605–1635 · approximate",
+    "whereLine": "Ayutthaya",
+    "whereLineClaimIds": [
+      "AY-C03"
+    ]
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "paragraphs": [
+        [
+          {
+            "text": "This view is of 1617, at Ayutthaya, in the kingdom of Siam. Siam lay on the mainland of Southeast Asia. Some historians write 'Thailand' for it.",
+            "claimIds": [
+              "AY-C34"
+            ]
+          },
+          {
+            "text": "On 12 August that year an English merchant, John Johnson, died there. His death, on record, places Englishmen in the city that year.",
+            "claimIds": [
+              "AY-C03"
+            ]
+          },
+          {
+            "text": "He worked for the English East India Company, which kept a trading house in the city.",
+            "claimIds": [
+              "AY-C03"
+            ]
+          },
+          {
+            "text": "A colleague, Richard Pitt, wrote that the price of hides had fallen and that the house had neither money nor goods.",
+            "claimIds": [
+              "AY-C03"
+            ]
+          },
+          {
+            "text": "Early the next year a senior man of the same company, George Ball, reported that Siam 'yielded deer-skins and sappan-wood for Japan'. Hides, in this Story, means deer skins above all.",
+            "claimIds": [
+              "AY-C12"
+            ]
+          },
+          {
+            "text": "Why Japan wanted deer skins from Siam, who handled the trade, and what came back, is the Story.",
+            "claimIds": []
+          }
+        ]
+      ]
+    },
+    {
+      "id": "orient",
+      "paragraphs": [
+        [
+          {
+            "text": "Twelve years earlier the big wars had stopped. In 1605 King Naresuan died on the march against a Burmese army, and his brother Ekathotsarot took the army home. The invasions and sieges that had come about every two years since the 1550s ended. Small fights went on. Two historians of Ayutthaya, Chris Baker and Pasuk Phongpaichit, write that 'an era of commerce began'.",
+            "claimIds": [
+              "AY-C01"
+            ]
+          },
+          {
+            "text": "The king in 1617 was not Ekathotsarot but Songtham, who reigned from 1610 or 1611 to 1628.",
+            "claimIds": [
+              "AY-C02"
+            ]
+          },
+          {
+            "text": "A chronicle that a Dutch merchant wrote down in 1640, probably from temple histories, calls him 'not warlike, but very studious, devout'.",
+            "claimIds": [
+              "AY-C25"
+            ]
+          },
+          {
+            "text": "Baker and Pasuk report that the court's chronicles call him Songtham, 'upholder of the dhamma', the Buddha's teaching. The name, they think, was perhaps given for his work for Buddhism. We have not read those chronicles ourselves.",
+            "claimIds": [
+              "AY-C25"
+            ]
+          },
+          {
+            "text": "In 1621 the head of the Dutch trading house, Cornelis van Nijenrode, wrote a report on Siam. As Baker and Pasuk read him, he said the city surpassed any place in the Indies except China in people, elephants, gold, shipping and trade.",
+            "claimIds": [
+              "AY-C04",
+              "AY-C05"
+            ]
+          },
+          {
+            "text": "He was arguing against his own company's plan to close the house.",
+            "claimIds": [
+              "AY-C05"
+            ]
+          },
+          {
+            "text": "The English company's directors sat in London. From the accounts they had received, they noted that Siam was 'as great a city as London'. They used the kingdom's name for its city.",
+            "claimIds": [
+              "AY-C06"
+            ]
+          },
+          {
+            "text": "Much of what historians know of the city in these years comes from outsiders like these: Dutch merchants who lived there and kept daybooks, and European visitors.",
+            "claimIds": [
+              "AY-C31"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "connect",
+      "paragraphs": [
+        [
+          {
+            "text": "The first letter we have between the two courts is from 1606. It came from Tokugawa Ieyasu. He had been shogun from 1603 to 1605, and Hidetada had followed him in the office. As retired shogun he was still a head of the government, and he went on writing Japan's letters to foreign rulers. He asked the king of Siam for firearms and a scented wood.",
+            "claimIds": [
+              "AY-C10"
+            ]
+          },
+          {
+            "text": "He also wanted saltpetre. Guns and saltpetre, he wrote, were 'what I desire more than gold brocade'.",
+            "claimIds": [
+              "AY-C11"
+            ]
+          },
+          {
+            "text": "Baker and Pasuk speak of gunpowder's two ingredients, saltpetre and sulphur. Siam, they write, had a lot of saltpetre and little sulphur, and Japan the reverse.",
+            "claimIds": [
+              "AY-C11"
+            ]
+          },
+          {
+            "text": "A Japanese ship sailing abroad needed a licence with the shogun's red seal. Each was good for one voyage out and back. The licensed ships were known as shuinsen.",
+            "claimIds": [
+              "AY-C07"
+            ]
+          },
+          {
+            "text": "Between 1604 and 1635, 56 licences were issued for Siam. That is fewer than two a year. Even so, in the early years Siam drew more of them than any other country.",
+            "claimIds": [
+              "AY-C07",
+              "AY-C08"
+            ]
+          },
+          {
+            "text": "The historian Nagazumi Yoko reasons that a considerable number of other Japanese ships must have sailed the same routes without a licence. She writes that they are not documented. The 'must have' is her inference, and she gives no number.",
+            "claimIds": [
+              "AY-C09"
+            ]
+          },
+          {
+            "text": "What the ships took home was deer hides, rayskins (the skins of rays) and sappanwood. The hides and skins went into military dress and equipment. Sappanwood is a wood that was used for dye.",
+            "claimIds": [
+              "AY-C12"
+            ]
+          },
+          {
+            "text": "What follows is our reading of two Sources together. Anthony Reid writes that Japan was mining exceptional amounts of silver in these years, and that Japanese ships were forbidden to trade in China, so they traded in the ports of Southeast Asia. The ports he names are Manila, a Spanish port, and Hoi An in central Vietnam, not Ayutthaya. That Japan's silver came looking for Siam's goods as well is our reading, not his.",
+            "claimIds": [
+              "AY-C16"
+            ]
+          },
+          {
+            "text": "What the ships brought to Siam, Baker and Pasuk say in one clause: copper and silver. How much, no Source we have read says.",
+            "claimIds": [
+              "AY-C16"
+            ]
+          },
+          {
+            "text": "Japan's silver has a Story of its own, \"The ship from Macao\", set in 1590.",
+            "claimIds": []
+          }
+        ]
+      ],
+      "connectionId": "cn-japanese-traders-of-ayutthaya-send-hides-to-japan"
+    },
+    {
+      "id": "people",
+      "paragraphs": [
+        [
+          {
+            "text": "Japanese people had a village of their own south-east of the city. Baker and Pasuk write that it may have existed by 1579, and 'certainly did by 1617'.",
+            "claimIds": [
+              "AY-C13"
+            ]
+          },
+          {
+            "text": "Some had fled the wars in Japan. Some had fled the persecution of Christians there. Japan's ruler, Toyotomi Hideyoshi, ordered the missionaries out in 1587, and in 1597 he had twenty-six Christians put to death at Nagasaki. Baker and Pasuk date the persecution from 1597.",
+            "claimIds": [
+              "AY-C29"
+            ]
+          },
+          {
+            "text": "Not all came to trade. Japanese soldiers had fought for King Naresuan in the 1590s.",
+            "claimIds": [
+              "AY-C27"
+            ]
+          },
+          {
+            "text": "In 1612 a group of Japanese soldiers attacked the palace at Ayutthaya. They were overwhelmed, yet they left with treasure. Historians call it a confused incident, and nothing we have read explains how both could be so. Who the soldiers were is not certain either. They may have been men left without work when Siam's big wars stopped.",
+            "claimIds": [
+              "AY-C27"
+            ]
+          },
+          {
+            "text": "What followed for the Japanese who stayed in the city, nothing we have read says.",
+            "claimIds": []
+          },
+          {
+            "text": "Five years later, by December 1617, the Japanese at Ayutthaya had a headman with a Siamese title. An English merchant in Japan, Richard Cocks, wrote to his colleagues in Siam that 'the Japan Ompra' could help them load their ship and keep their Japanese sailors in order. 'Ompra' is the title, as Cocks spelled it. His letter does not name the man.",
+            "claimIds": [
+              "AY-C14"
+            ]
+          },
+          {
+            "text": "Japanese traders living in the city chose, cured and packed the hides for the Japanese market.",
+            "claimIds": [
+              "AY-C15"
+            ]
+          },
+          {
+            "text": "The Dutch had opened their house in 1608. They wanted Siam's goods to sell in Japan for silver, and they saw hides for Japan as their best prospect. They signed their first treaty in 1617. Profits did not come easily, Baker and Pasuk write: the Japanese traders' hold on the hides left the Dutch with 'the low-margin business'.",
+            "claimIds": [
+              "AY-C17",
+              "AY-C15"
+            ]
+          },
+          {
+            "text": "Who hunted the deer, cut the wood and carried it to the port, no Source we have read says.",
+            "claimIds": []
+          }
+        ]
+      ],
+      "sensitiveNotice": "This part tells of Japanese people who fled war and the persecution of Christians, and of an attack on the royal palace in 1612. Historians are not sure what happened in that attack."
+    },
+    {
+      "id": "complicate",
+      "paragraphs": [
+        [
+          {
+            "text": "Japan was one market. China was the other, and an old one. Baker and Pasuk write that 'as in the past, the trade to China was of major importance to Siam'.",
+            "claimIds": [
+              "AY-C19"
+            ]
+          },
+          {
+            "text": "Reid writes that sappanwood from Siam was bought in China in great quantity from the 1400s. Baker and Pasuk speak of forest goods going to China. We have not read a page that lists what the ships carried in 1617.",
+            "claimIds": [
+              "AY-C19"
+            ]
+          },
+          {
+            "text": "In 1567 China had lifted its ban on private trade to the south, for ships that held a licence. In the 1590s four licensed Chinese ships a year, called junks, were bound for Siam. So licensed Chinese junks could sail south, while Japan's ships were forbidden to trade in China.",
+            "claimIds": [
+              "AY-C19",
+              "AY-C16"
+            ]
+          },
+          {
+            "text": "The Dutch hoped to profit from Siam's link with China. In September 1617 Cornelis van Nijenrode, the Dutchman who later praised the city, wrote from Ayutthaya that junks made the crossing every year. One stayed behind to wait for the Siamese ambassador, who went to China about every two years, and left when he did.",
+            "claimIds": [
+              "AY-C18"
+            ]
+          },
+          {
+            "text": "The ambassador, he wrote, was free to trade there without asking.",
+            "claimIds": [
+              "AY-C18"
+            ]
+          },
+          {
+            "text": "The Dutch were not. Chinese who knew the matter told him the Dutch could not enter the China trade unless they asked through an ambassador with presents.",
+            "claimIds": [
+              "AY-C18"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "resolve",
+      "paragraphs": [
+        [
+          {
+            "text": "In 1621 a Siamese embassy reached the court of the shogun of the day with a letter from King Songtham.",
+            "claimIds": [
+              "AY-C20"
+            ]
+          },
+          {
+            "text": "It was inscribed on a thin sheet of gold, rolled up and placed in an elephant's tusk.",
+            "claimIds": [
+              "AY-C20"
+            ]
+          },
+          {
+            "text": "We have the king's words in English. Ernest Satow translated them in 1885 from Chinese versions kept in a Japanese collection.",
+            "claimIds": [
+              "AY-C20",
+              "AY-C21"
+            ]
+          },
+          {
+            "text": "In Satow's English the king claims an equal's place: 'Siam and Japan are States of equal rank.'",
+            "claimIds": [
+              "AY-C22"
+            ]
+          },
+          {
+            "text": "And: 'For years past your honoured country's merchant vessels have continually visited us, and I have treated them with even greater affection than if they had been my own subjects.' He says he has named an officer to look after the Japanese who choose to stay.",
+            "claimIds": [
+              "AY-C21"
+            ]
+          },
+          {
+            "text": "Scholars differ on the language the king wrote in. Satow wrote that such letters were in the Siamese language, with a Chinese translation alongside. Nagazumi writes that this one was entirely in Chinese. What survives is Chinese.",
+            "claimIds": [
+              "AY-C20"
+            ]
+          },
+          {
+            "text": "This is a king writing to a trading partner, and it reaches us through three hands. It is still the nearest thing to a voice from the Siamese court that we have read.",
+            "claimIds": [
+              "AY-C21"
+            ]
+          },
+          {
+            "text": "With the embassy went a letter from Yamada Nagamasa, whom Nagazumi calls the head of the Japanese trading community in Ayutthaya. Whether he was the unnamed headman of 1617, nothing we have read settles.",
+            "claimIds": [
+              "AY-C30"
+            ]
+          },
+          {
+            "text": "The licensed trade did not last. In the 1630s Japan forbade its people to sail abroad, and the licences ended in 1635. After that the trade between Ayutthaya and Japan went in Chinese junks and Dutch ships.",
+            "claimIds": [
+              "AY-C23"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "next",
+      "paragraphs": [
+        [
+          {
+            "text": "Ayutthaya in 1617 dealt with Japan, China, and Dutch and English companies. Two historians answer different halves of the question. One writes about trade. The other writes about states.",
+            "claimIds": []
+          },
+          {
+            "text": "Anthony Reid writes about trade, and about Southeast Asia as a whole. He says sea trade tied the region together until the 1600s, and then the tie came apart. By his account the trading cities most open to all comers were the first to fall to European force. He names Melaka and Banda. Stronger kings rose in answer, and sooner or later, he writes, they ruined or drove off their own shipowners. He words this with care: 'it seems as though'. The case he tells at length is the sultanate of Aceh. Siam comes into his account only for the years 1650 to 1675, and there he speaks of royal monopolies. This is Reid's argument about the region. It is not a finding about Siam's kings in 1617, and it is disputed.",
+            "claimIds": [
+              "AY-C24"
+            ]
+          },
+          {
+            "text": "Victor Lieberman writes about states. He says Reid's picture fits the islands. Siam is on the mainland, and there he counts about twenty-two kingdoms in 1400 and three large ones by 1680: Burma, Vietnam and Siam, which he calls Thailand.",
+            "claimIds": [
+              "AY-C24",
+              "AY-C34"
+            ]
+          },
+          {
+            "text": "He sets that beside Europe, where some five hundred states in the mid-1400s became about twenty-five by the mid-1800s. The mainland, he argues, went the way Europe went, more weakly.",
+            "claimIds": [
+              "AY-C24"
+            ]
+          },
+          {
+            "text": "The islands, he says, were different: broken geography, coastal peoples who moved, and Europeans who arrived early.",
+            "claimIds": [
+              "AY-C24"
+            ]
+          },
+          {
+            "text": "Chris Baker adds a caution about Ayutthaya in the centuries before 1617. He warns against maps that give it far-flung borders. Its armies, he writes, were used to keep trade routes open, not to set up firmer control.",
+            "claimIds": [
+              "AY-C24"
+            ]
+          },
+          {
+            "text": "The question is still open. These historians do not agree.",
+            "claimIds": [
+              "AY-C24"
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  "mainstreamAccountClaimId": "AY-C16",
+  "momentLinks": [
+    {
+      "momentId": "macao-1590",
+      "label": "Another moment: Macao, 1590",
+      "honestyLine": "Both Stories are about ships trading with Japan, twenty-seven years apart, and Japan's silver is in both. Christians in Japan are in both as well: in this one, Japanese people who had fled the persecution of Christians; in that one, the Jesuits and the bishop of Japan. No Source we have read joins the one to the other. No researched Connection joins the two Stories. In this one the silver has no amount, and no Source we have read names the Japanese port for 1617.",
+      "featured": true,
+      "researched": false
+    }
+  ],
+  "editorialState": "draft",
+  "profile": {
+    "rulesVersion": "0.1-draft",
+    "mode": "draft-preview",
+    "statusLine": "Draft · not yet editorially reviewed. The counts below come from our working records; no historian has checked them yet. Rules version 0.1, draft.",
+    "warnings": [],
+    "components": [
+      {
+        "id": "diversity",
+        "name": "Source diversity",
+        "asks": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "0 primary documents and 0 scholarly books, in 2 languages as recorded",
+        "valueText": "0 primary documents and 0 scholarly books, in 2 languages as recorded",
+        "stateText": "No number yet · 3 of 4 kinds of information recorded",
+        "origin": "computed",
+        "counted": "Kinds of document: Scholarship (book chapter) 4, Scholarship (journal article) 3, Primary letters in a nineteenth-century English translation, with the translator's notes 1, Scholarship (book chapters) 1, Scholarship (monograph) 1, Scholarship (monograph) summarising English company papers 1, Scholarship (review article) 1. Languages, as recorded: English 11, English (translated from Chinese and Japanese) 1. Where each author stood: later scholarship 12.",
+        "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
+        "inputsRecorded": [
+          3,
+          4
+        ],
+        "verified": [
+          0,
+          12
+        ],
+        "completeness": "3 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 12 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
+      },
+      {
+        "id": "independence",
+        "name": "Source independence",
+        "asks": "How many of the Sources actually stand on their own, rather than drawing on one another?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "11 supporting Sources, in 0 separate groups once you trace who drew on whom; 11 not yet traceable",
+        "valueText": "11 supporting Sources, in 0 separate groups once you trace who drew on whom; 11 not yet traceable",
+        "stateText": "No number yet · 0 of 12 Sources traced",
+        "origin": "computed",
+        "counted": "77 supporting citations across 31 Claims and the Connection, from 11 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "notCounted": "Cited only for background, so not counted: AY-S05.",
+        "inputsRecorded": [
+          0,
+          12
+        ],
+        "verified": [
+          0,
+          12
+        ],
+        "completeness": "We know what 0 of 12 Sources draw on; an editor has checked 0 of 12. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
+        "independence": {
+          "groups": [],
+          "notPlaced": [
+            {
+              "sourceId": "AY-S01",
+              "text": "Not placed — 11 Sources. Chris Baker and Pasuk Phongpaichit AY-S01: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S02",
+              "text": "Not placed — 11 Sources. Nagazumi Yoko AY-S02: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S03",
+              "text": "Not placed — 11 Sources. Bhawan Ruangsilp AY-S03: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S04",
+              "text": "Not placed — 11 Sources. Anthony Reid AY-S04: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S06",
+              "text": "Not placed — 11 Sources. Victor Lieberman AY-S06: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S07",
+              "text": "Not placed — 11 Sources. Adam Clulow AY-S07: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S08",
+              "text": "Not placed — 11 Sources. Craig A. Lockard AY-S08: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S09",
+              "text": "Not placed — 11 Sources. Chris Baker AY-S09: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S10",
+              "text": "Not placed — 11 Sources. Ernest M. Satow AY-S10: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S11",
+              "text": "Not placed — 11 Sources. John Anderson AY-S11: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "AY-S12",
+              "text": "Not placed — 11 Sources. Jurgis Elisonas AY-S12: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            }
+          ],
+          "rows": [
+            {
+              "sourceId": "AY-S01",
+              "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+              "group": "not placed",
+              "claimCount": 18,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S02",
+              "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+              "group": "not placed",
+              "claimCount": 11,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S03",
+              "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+              "group": "not placed",
+              "claimCount": 7,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S04",
+              "citation": "Anthony Reid, \"Economic and Social Change, c. 1400–1800\", ch. 8 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 460–507 (read pp. 462, 464, 467, 474, 487, 490, 500, 504). [Volume number and year to be confirmed on a title page.]",
+              "group": "not placed",
+              "claimCount": 5,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S06",
+              "citation": "Victor Lieberman, \"An Age of Commerce in Southeast Asia? Problems of Regional Coherence: A Review Article\", *Journal of Asian Studies* 54, no. 3 (1995), 796–807 (read pp. 796–801, 804).",
+              "group": "not placed",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S07",
+              "citation": "Adam Clulow, \"Like Lambs in Japan and Devils outside Their Land: Diplomacy, Violence, and Japanese Merchants in Southeast Asia\", *Journal of World History* 24, no. 2 (2013), 335–358 (read pp. 340–343, 347).",
+              "group": "not placed",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S08",
+              "citation": "Craig A. Lockard, \"'The Sea Common to All': Maritime Frontiers, Port Cities, and Chinese Traders in the Southeast Asian Age of Commerce, ca. 1400–1750\", *Journal of World History* 21, no. 2 (2010), 219–247 (read p. 243).",
+              "group": "not placed",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S09",
+              "citation": "Chris Baker, \"Ayutthaya Rising: From Land or Sea?\", *Journal of Southeast Asian Studies* 34, no. 1 (2003), 41–62 (read pp. 41, 53, 56, 62).",
+              "group": "not placed",
+              "claimCount": 1,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S10",
+              "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+              "group": "not placed",
+              "claimCount": 7,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S11",
+              "citation": "John Anderson, *English Intercourse with Siam in the Seventeenth Century* (London: Kegan Paul, Trench, Trübner & Co., 1890) (read pp. 69–70).",
+              "group": "not placed",
+              "claimCount": 4,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "AY-S12",
+              "citation": "Jurgis Elisonas, \"Christianity and the Daimyo\", ch. 7 in *The Cambridge History of Japan*, vol. 4, *Early Modern Japan*, ed. John Whitney Hall (Cambridge: Cambridge University Press, 1991), pp. 301–372 (read pp. 360, 363–367).",
+              "group": "not placed",
+              "claimCount": 2,
+              "onConnection": false,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            }
+          ],
+          "byClaimSentence": "0 of the 31 Claims rest on a single group; 0 on two; 0 on three; for 31 we cannot tell (AY-C01, AY-C02, AY-C03, AY-C04, AY-C05, AY-C06, AY-C07, AY-C08, AY-C09, AY-C10, AY-C11, AY-C12, AY-C13, AY-C14, AY-C15, AY-C16, AY-C17, AY-C18, AY-C19, AY-C20, AY-C21, AY-C22, AY-C23, AY-C24, AY-C25, AY-C27, AY-C29, AY-C30, AY-C31, AY-C33, AY-C34). Seventy-seven citations are not seventy-seven confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+        }
+      },
+      {
+        "id": "coverage",
+        "name": "Perspective coverage",
+        "asks": "Of the viewpoints this Story needs, how many have evidence we can actually use?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "An editor has not yet listed which viewpoints this Story needs",
+        "valueText": "An editor has not yet listed which viewpoints this Story needs",
+        "stateText": "No number yet · 1 of 2 things in place",
+        "origin": "computed",
+        "counted": "Nothing yet. Until an editor lists the viewpoints this Story needs, there is nothing to measure against.",
+        "notCounted": "The standpoints we do have among the supporting Sources: later scholarship.",
+        "inputsRecorded": [
+          1,
+          2
+        ],
+        "verified": [
+          0,
+          12
+        ],
+        "completeness": "1 of the 2 things this check needs are in place; an editor has checked 0 of 12 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
+      },
+      {
+        "id": "agreement",
+        "name": "Scholarly agreement",
+        "asks": "Do the historians who have studied this agree with one another?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Not assessed",
+        "valueText": "Not assessed",
+        "stateText": "0 of 2 recorded",
+        "origin": "computed",
+        "counted": "We have not yet recorded what different historians make of this Story. The one mainstream account (`AY-C16`) does not yet say which field it comes from or when it was made. Agreement among historians is not proof. It shows where the field stands today, and fields move.",
+        "notCounted": "We have not yet recorded which historians accept the mainstream account.",
+        "inputsRecorded": [
+          0,
+          2
+        ],
+        "completeness": "0 of 2 recorded."
+      },
+      {
+        "id": "uncertainty",
+        "name": "Historical uncertainty",
+        "asks": "How sure are we about the key dates and places, how things worked, and who was involved?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "High uncertainty about the dates and places only; nothing else graded yet",
+        "valueText": "High uncertainty about the dates and places only; nothing else graded yet",
+        "stateText": "1 of 3 recorded",
+        "origin": "computed",
+        "counted": "How precisely the 31 Claims this Story cites are dated: to the year: 11; roughly: 17; to the century: 2; not tied to a date: 0; disputed or unknown: 1. The Event itself is dated c. 1604–1635 · approximate.",
+        "notCounted": "Nobody has yet assessed how things worked or who was involved.",
+        "inputsRecorded": [
+          1,
+          3
+        ],
+        "completeness": "1 of 3 recorded."
+      },
+      {
+        "id": "controversy",
+        "name": "Controversy",
+        "asks": "Is this account still being argued over, and does the argument change anything?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "Not assessed",
+        "valueText": "Not assessed",
+        "stateText": "0 of 1 recorded",
+        "origin": "computed",
+        "counted": "Nobody has yet recorded whether this account is argued over. \"Not assessed\" does not mean \"low\".",
+        "notCounted": "No editor has yet assessed how actively it is disputed.",
+        "inputsRecorded": [
+          0,
+          1
+        ],
+        "completeness": "0 of 1 recorded."
+      },
+      {
+        "id": "missing",
+        "name": "Missing Voices",
+        "asks": "Who was involved or affected, but barely shows up in the evidence?",
+        "lastReview": "Not yet editorially reviewed",
+        "reading": "6 voices listed · we are still looking",
+        "valueText": "6 voices listed · we are still looking",
+        "stateText": "editor's list",
+        "origin": "editorial",
+        "counted": "Each voice below says why it is missing and which Claims it bears on.",
+        "notCounted": "A voice is listed only once we can say why it is missing and which Claim it bears on. Names we have not verified stay with the editor.",
+        "inputsRecorded": [
+          6,
+          6
+        ],
+        "completeness": "6 of 6 recorded.",
+        "voices": [
+          {
+            "voice": "Siamese merchants, port officers and monks",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "AY-C31"
+            ]
+          },
+          {
+            "voice": "The hunters, woodcutters and carriers who supplied the goods",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "AY-C12",
+              "AY-C15"
+            ]
+          },
+          {
+            "voice": "The Japanese traders of the village",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "AY-C13",
+              "AY-C15"
+            ]
+          },
+          {
+            "voice": "The Japanese who fled war and persecution",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "AY-C29"
+            ]
+          },
+          {
+            "voice": "The Japanese soldiers of 1612",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "AY-C27"
+            ]
+          },
+          {
+            "voice": "Chinese junk captains and merchants",
+            "reason": "Search not yet complete",
+            "basisClaimIds": [
+              "AY-C18",
+              "AY-C19"
+            ]
+          }
+        ],
+        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history."
+      }
+    ],
+    "compactLine": [
+      {
+        "kind": "missing-voices",
+        "text": "Some voices missing",
+        "strong": true
+      },
+      {
+        "kind": "highly-uncertain",
+        "text": "Highly uncertain",
+        "strong": true
+      },
+      {
+        "kind": "not-scored",
+        "text": "No number yet",
+        "strong": false
+      }
+    ]
+  }
+}

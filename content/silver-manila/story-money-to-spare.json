@@ -289,22 +289,27 @@
     {
       "momentId": "potosi",
       "label": "Another moment in 1573: Potosí",
-      "honestyLine": "No researched Connection joins these two Stories. The Potosí link is not yet researched."
+      "honestyLine": "No researched Connection joins these two Stories. The Potosí link is not yet researched.",
+      "researched": false
     },
     {
       "momentId": "manila-1602",
       "label": "Another moment: Manila, 1602",
-      "honestyLine": "The same port, twenty-nine years apart. No researched Connection joins the two Stories. They share some Sources, Morga among them."
+      "honestyLine": "The same port, twenty-nine years apart. No researched Connection joins the two Stories. They share some Sources, Morga among them.",
+      "researched": false
     },
     {
       "momentId": "macao-1590",
       "label": "Another moment: Macao, 1590",
-      "honestyLine": "Two routes by which silver reached China, seventeen years apart. No researched Connection joins the two Stories. They share some Sources, von Glahn among them."
+      "honestyLine": "Two routes by which silver reached China, seventeen years apart. No researched Connection joins the two Stories. They share some Sources, von Glahn among them.",
+      "featured": true,
+      "researched": false
     },
     {
       "momentId": "mexico-1602",
       "label": "Another moment: Mexico City, 1602",
-      "honestyLine": "Where the ships from this port went, twenty-nine years later. No researched Connection joins the two Stories. They share a Source, Morga."
+      "honestyLine": "Where the ships from this port went, twenty-nine years later. No researched Connection joins the two Stories. They share a Source, Morga.",
+      "researched": false
     }
   ],
   "editorialState": "draft",

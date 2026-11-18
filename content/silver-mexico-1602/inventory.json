@@ -867,6 +867,10 @@
       "macao-1590": {
         "name": "Macao, 1590",
         "action": "Go to this moment."
+      },
+      "ayutthaya-1617": {
+        "name": "Ayutthaya, 1617",
+        "action": "Go to this moment."
       }
     },
     "indexNoMarkerMeta": "Place · at Mexico City's marker · not drawn separately at this scale",

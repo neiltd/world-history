@@ -1,0 +1,1037 @@
+{
+  "entities": [
+    {
+      "id": "e-ayutthaya-1617",
+      "historicalName": "Ayutthaya",
+      "locatingClaimIds": [
+        "AY-C02",
+        "AY-C03",
+        "AY-C04",
+        "AY-C05",
+        "AY-C06",
+        "AY-C14",
+        "AY-C15",
+        "AY-C17",
+        "AY-C18",
+        "AY-C27",
+        "AY-C30",
+        "AY-C31"
+      ],
+      "editorialState": "draft",
+      "coordinate": {
+        "lon": 100.568424,
+        "lat": 14.358799,
+        "precision": "settlement",
+        "gazetteerProvenance": "NE-5.1.2-populated-places-simple"
+      },
+      "kind": "place",
+      "placeForm": "settlement",
+      "presentDayName": "Ayutthaya, Thailand",
+      "placeContext": {
+        "kindLabel": "Place, settlement",
+        "headerLine": "Jurisdiction not yet researched in this pilot",
+        "headerClaimIds": [],
+        "role": [
+          {
+            "text": "In view because this Story happens here.",
+            "claimIds": []
+          },
+          {
+            "text": "The king in 1617 was Songtham, who reigned from 1610 or 1611 to 1628.",
+            "claimIds": [
+              "AY-C02"
+            ]
+          },
+          {
+            "text": "English company men were living here that year. One of them died here on 12 August.",
+            "claimIds": [
+              "AY-C03"
+            ]
+          },
+          {
+            "text": "The Dutch had kept a trading house here since 1608.",
+            "claimIds": [
+              "AY-C17"
+            ]
+          },
+          {
+            "text": "A Dutch merchant who lived here wrote in 1621 that the city surpassed any place in the Indies except China. He was arguing to keep his company's house open.",
+            "claimIds": [
+              "AY-C05"
+            ]
+          },
+          {
+            "text": "The marker shows the island city of Ayutthaya; it is not a surveyed position for any building of 1617.",
+            "claimIds": []
+          }
+        ],
+        "coverageVariant": "not-yet-researched"
+      }
+    },
+    {
+      "id": "e-japanese-village-ayutthaya-1617",
+      "historicalName": "The Japanese village",
+      "locatingClaimIds": [
+        "AY-C13",
+        "AY-C14",
+        "AY-C29"
+      ],
+      "editorialState": "draft",
+      "kind": "place",
+      "placeForm": "settlement",
+      "presentDayName": "Ayutthaya, Thailand; the site of the village is not located",
+      "placeContext": {
+        "kindLabel": "Place, settlement",
+        "headerLine": "Jurisdiction not yet researched in this pilot",
+        "headerClaimIds": [],
+        "role": [
+          {
+            "text": "In view because the people who handled the hide trade lived here.",
+            "claimIds": []
+          },
+          {
+            "text": "Historians place it south-east of the city. It may be as old as 1579 and was certainly here by 1617.",
+            "claimIds": [
+              "AY-C13"
+            ]
+          },
+          {
+            "text": "By December 1617 its people had a headman with a Siamese title.",
+            "claimIds": [
+              "AY-C14"
+            ]
+          },
+          {
+            "text": "Some of them had fled the wars in Japan, and some the persecution of Christians there.",
+            "claimIds": [
+              "AY-C29"
+            ]
+          },
+          {
+            "text": "No Source we have read marks the site.",
+            "claimIds": []
+          }
+        ],
+        "coverageVariant": "not-yet-researched"
+      }
+    },
+    {
+      "id": "e-nagasaki-1617",
+      "historicalName": "Nagasaki",
+      "locatingClaimIds": [
+        "AY-C33"
+      ],
+      "editorialState": "draft",
+      "markerOrder": 2,
+      "markerForm": "PlaceMarker",
+      "coordinate": {
+        "lon": 129.885033,
+        "lat": 32.764988,
+        "precision": "settlement",
+        "gazetteerProvenance": "NE-5.1.2-populated-places-simple"
+      },
+      "kind": "place",
+      "placeForm": "settlement",
+      "presentDayName": "Nagasaki, Japan",
+      "placeContext": {
+        "kindLabel": "Place, settlement",
+        "headerLine": "Jurisdiction not yet researched in this pilot",
+        "headerClaimIds": [],
+        "role": [
+          {
+            "text": "In view because ships between Siam and Japan used this port.",
+            "claimIds": []
+          },
+          {
+            "text": "A Siamese vessel arrived here in the summer of 1612, and the embassy of 1621 landed here.",
+            "claimIds": [
+              "AY-C33"
+            ]
+          },
+          {
+            "text": "No Source we have read names the port where the hides of 1617 were landed.",
+            "claimIds": []
+          },
+          {
+            "text": "This port is also in the Story \"The ship from Macao\".",
+            "claimIds": []
+          },
+          {
+            "text": "The marker shows present-day Nagasaki, an approximate location. It is drawn at the wider view only.",
+            "claimIds": []
+          }
+        ],
+        "coverageVariant": "not-yet-researched"
+      }
+    },
+    {
+      "id": "c-japanese-traders-of-ayutthaya",
+      "historicalName": "Japanese traders of Ayutthaya",
+      "locatingClaimIds": [
+        "AY-C13",
+        "AY-C15"
+      ],
+      "editorialState": "draft",
+      "kind": "community"
+    },
+    {
+      "id": "ev-hide-trade-at-ayutthaya",
+      "historicalName": "The hide trade at Ayutthaya",
+      "locatingClaimIds": [
+        "AY-C12",
+        "AY-C15",
+        "AY-C03"
+      ],
+      "editorialState": "draft",
+      "markerOrder": 1,
+      "markerForm": "EventMarker",
+      "kind": "event",
+      "eventForm": "Trade and exchange",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1604–1635 · approximate"
+      },
+      "locatedAtPlaceId": "e-ayutthaya-1617",
+      "spatialPrecision": "settlement",
+      "claimIds": [
+        "AY-C12",
+        "AY-C15",
+        "AY-C03"
+      ],
+      "connectionIds": [
+        "cn-japanese-traders-of-ayutthaya-send-hides-to-japan"
+      ],
+      "sensitive": false
+    }
+  ],
+  "connection": {
+    "id": "cn-japanese-traders-of-ayutthaya-send-hides-to-japan",
+    "sourceEntityId": "c-japanese-traders-of-ayutthaya",
+    "targetEntityId": "e-nagasaki-1617",
+    "relationshipType": "enabled",
+    "directionNote": "Ayutthaya to Japan and back, by licensed Japanese ships. Deer hides, rayskins and sappanwood one way; copper and silver the other. Directional; not symmetric.",
+    "directionFigureText": "Japanese traders of Ayutthaya  →  enabled  →  the hide trade to Japan",
+    "temporal": {
+      "precision": "approximate",
+      "label": "c. 1604–1635 · approximate"
+    },
+    "spatial": {
+      "originText": "Ayutthaya · settlement precision",
+      "targetText": "Nagasaki · settlement precision · where a Siamese vessel arrived in 1612 and the embassy landed in 1621; no Source we have read names the port for 1617",
+      "routeStatement": "Japanese ships came to Ayutthaya under the shogun's licence and went home with deer hides, rayskins and sappanwood. Japanese traders who lived in the city chose, cured and packed the hides. The ships brought copper and silver to Siam, by one clause in Baker and Pasuk; how much, no Source we have read says. The men who wrote about the trade in 1617 were Dutch and English merchants, and the Japanese traders themselves speak in nothing we have read."
+    },
+    "interpretationClass": "Mainstream interpretation",
+    "scholarlyStanding": "Nagazumi (1999), Baker and Pasuk (2017), Reid and Clulow all describe a licensed Japanese trade to Siam between 1604 and 1635, and all take the count of 56 licences from the same Japanese study. Baker and Pasuk alone, among those we have read, say in so many words that copper and silver came back. None gives an amount for Ayutthaya.",
+    "mechanismClaimIds": [
+      "AY-C07",
+      "AY-C08",
+      "AY-C09",
+      "AY-C10",
+      "AY-C11",
+      "AY-C12",
+      "AY-C13",
+      "AY-C14",
+      "AY-C15",
+      "AY-C16",
+      "AY-C17",
+      "AY-C33"
+    ],
+    "supportSourceIds": [
+      "AY-S01",
+      "AY-S02",
+      "AY-S10",
+      "AY-S11"
+    ],
+    "challengeSourceIds": [],
+    "contextSourceIds": [
+      "AY-S03",
+      "AY-S04",
+      "AY-S05",
+      "AY-S07",
+      "AY-S08"
+    ],
+    "mechanismText": [
+      {
+        "text": "The shogun wanted things Siam had: firearms, a scented wood, and saltpetre for gunpowder.",
+        "claimIds": [
+          "AY-C10",
+          "AY-C11"
+        ]
+      },
+      {
+        "text": "Japan was mining more silver than ever, and its ships could not trade in China.",
+        "claimIds": [
+          "AY-C16"
+        ]
+      },
+      {
+        "text": "A Japanese ship sailing abroad needed the shogun's licence. Fifty-six were issued for Siam between 1604 and 1635.",
+        "claimIds": [
+          "AY-C07"
+        ]
+      },
+      {
+        "text": "At Ayutthaya the ships loaded deer hides, rayskins and sappanwood.",
+        "claimIds": [
+          "AY-C12"
+        ]
+      },
+      {
+        "text": "Japanese traders who lived in a village south-east of the city chose, cured and packed the hides.",
+        "claimIds": [
+          "AY-C13",
+          "AY-C15"
+        ]
+      },
+      {
+        "text": "They had a headman with a Siamese title by December 1617.",
+        "claimIds": [
+          "AY-C14"
+        ]
+      },
+      {
+        "text": "The ships brought copper and silver to Siam, by one clause in Baker and Pasuk. No Source we have read gives an amount.",
+        "claimIds": [
+          "AY-C16"
+        ]
+      },
+      {
+        "text": "The Dutch came for the same trade, to earn Japanese silver, and were left with its poorer end.",
+        "claimIds": [
+          "AY-C17",
+          "AY-C15"
+        ]
+      },
+      {
+        "text": "This is how the Japanese traders of Ayutthaya made the hide trade to Japan work. The Claims it rests on are listed beneath it. Read together, the pages say this; no one Source lays out the whole of it.",
+        "claimIds": []
+      }
+    ],
+    "participants": [
+      {
+        "text": "Japanese traders living at Ayutthaya, who chose, cured and packed the hides",
+        "claimIds": [
+          "AY-C15"
+        ]
+      },
+      {
+        "text": "Their headman, who held a Siamese title and is named by no Source we have read for 1617",
+        "claimIds": [
+          "AY-C14"
+        ]
+      },
+      {
+        "text": "Holders of the shogun's licences, and the shipowners who, Nagazumi reasons, sailed without one",
+        "claimIds": [
+          "AY-C07",
+          "AY-C09"
+        ]
+      },
+      {
+        "text": "Tokugawa Ieyasu, the retired shogun, who wrote first, in 1606",
+        "claimIds": [
+          "AY-C10"
+        ]
+      },
+      {
+        "text": "King Songtham, whose letter of 1621 says he had named an officer to look after the Japanese who stayed",
+        "claimIds": [
+          "AY-C21"
+        ]
+      },
+      {
+        "text": "The Dutch company's house, opened in 1608, and its head from 1617, Cornelis van Nijenrode",
+        "claimIds": [
+          "AY-C17",
+          "AY-C04"
+        ]
+      },
+      {
+        "text": "English East India Company men at Ayutthaya, who wrote about the price of hides",
+        "claimIds": [
+          "AY-C03"
+        ]
+      },
+      {
+        "text": "Hunters, woodcutters and carriers, of whom no Source we have read says anything",
+        "claimIds": []
+      }
+    ],
+    "evidenceIndependenceNote": "The count of licences is one Japanese study, Iwao's, repeated by four of the historians here; it is one witness, not four. Baker and Pasuk's account of the Dutch at Ayutthaya rests on Bhawan and two others, and their 1621 quotation is taken from Bhawan. Clulow quotes the king's letter from Satow. Anderson and Satow both draw on the English Calendar of State Papers for 1617. The letters between the courts survive only as Chinese versions in a Japanese collection. No Siamese or Japanese merchant's own record is among the Sources.",
+    "reverseDisclosure": {
+      "summary": "What about the other direction?",
+      "body": "Copper and silver from Japan to Ayutthaya is the other half of this trade, and it is in this Connection's Claims, without an amount. What that silver did inside Siam, and what the hides did inside Japan, are different Connections with their own Sources. They are not researched here."
+    },
+    "reverseRelationshipNote": "A separate Connection, not an inversion of this one.",
+    "editorialState": "draft",
+    "evidence": {
+      "supports": [
+        {
+          "sourceId": "AY-S01",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Chris Baker and Pasuk Phongpaichit, *A History of Ayutthaya: Siam in the Early Modern World* (Cambridge: Cambridge University Press, 2017), ch. 3, \"An Age of Warfare\" (read p. 116), and ch. 4, \"Peace and Commerce\", pp. 119 on (read pp. 120–124, 129–131, 139, 141–142, 150, 158, 160).",
+          "form": "Scholarship (book chapters)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "AY-S02",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Nagazumi Yoko, \"Ayutthaya and Japan: Embassies and Trade in the Seventeenth Century\", in Kennon Breazeale (ed.), *From Japan to Arabia* (Bangkok: Foundation for the Promotion of Social Sciences and Humanities Textbooks Project, 1999), pp. 89–102; read in the reprint in Mark Caprio and Matsuda Koichiro (eds.), *Japan and the Pacific, 1540–1920* (The Pacific World, vol. 10; first published by Ashgate, 2006; our copy is the Routledge issue of 2016), pp. 241 on (read her pp. 89–98).",
+          "form": "Scholarship (book chapter)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "AY-S10",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Ernest M. Satow, \"Notes on the Intercourse between Japan and Siam in the Seventeenth Century\", *Transactions of the Asiatic Society of Japan* 13 (1885) (read pp. 143, 144, 147, 151, 152, 188). [The article's first and last pages are to be confirmed from the volume.]",
+          "form": "Primary letters in a nineteenth-century English translation, with the translator's notes",
+          "language": "English (translated from Chinese and Japanese)",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "AY-S11",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "John Anderson, *English Intercourse with Siam in the Seventeenth Century* (London: Kegan Paul, Trench, Trübner & Co., 1890) (read pp. 69–70).",
+          "form": "Scholarship (monograph) summarising English company papers",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        }
+      ],
+      "challenges": [],
+      "contextualizes": [
+        {
+          "sourceId": "AY-S03",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Bhawan Ruangsilp, *Dutch East India Company Merchants at the Court of Ayutthaya: Dutch Perceptions of the Thai Kingdom, c. 1604–1765* (Leiden: Brill, 2007) (read pp. 17–20, 26, 30–31, 55, 70–71, 93, and p. 237 notes 1 and 4).",
+          "form": "Scholarship (monograph)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "AY-S04",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Anthony Reid, \"Economic and Social Change, c. 1400–1800\", ch. 8 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 460–507 (read pp. 462, 464, 467, 474, 487, 490, 500, 504). [Volume number and year to be confirmed on a title page.]",
+          "form": "Scholarship (book chapter)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "AY-S05",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Leonard Y. Andaya, \"Interactions with the Outside World and Adaptation in Southeast Asian Society, 1500–1800\", ch. 6 in Nicholas Tarling (ed.), *The Cambridge History of Southeast Asia*, vol. 1 (Cambridge: Cambridge University Press, 1992), pp. 345–401 (read p. 351, and the unsigned introduction to Part Two on p. 343). [Volume number and year to be confirmed on a title page.]",
+          "form": "Scholarship (book chapter)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "AY-S07",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Adam Clulow, \"Like Lambs in Japan and Devils outside Their Land: Diplomacy, Violence, and Japanese Merchants in Southeast Asia\", *Journal of World History* 24, no. 2 (2013), 335–358 (read pp. 340–343, 347).",
+          "form": "Scholarship (journal article)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "AY-S08",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Craig A. Lockard, \"'The Sea Common to All': Maritime Frontiers, Port Cities, and Chinese Traders in the Southeast Asian Age of Commerce, ca. 1400–1750\", *Journal of World History* 21, no. 2 (2010), 219–247 (read p. 243).",
+          "form": "Scholarship (journal article)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        }
+      ]
+    }
+  },
+  "strings": {
+    "pilotNotice": "Pilot content — not yet reviewed by a historian. If you know a Source we have wrong or missing, every Claim and Source has a way to say so.",
+    "report": {
+      "door": {
+        "claim": {
+          "text": "Question this Claim",
+          "name": "Question this Claim: {id}"
+        },
+        "source": {
+          "text": "Know this Source?",
+          "name": "Know this Source: {id}"
+        },
+        "profile": {
+          "text": "Know a Source for a missing voice?",
+          "name": "Know a Source for a missing voice?"
+        }
+      },
+      "handover": {
+        "heading": "Tell us what you found",
+        "shown": {
+          "page": "This page",
+          "claim": "Claim",
+          "source": "Source",
+          "build": "Build",
+          "mode": "Mode"
+        },
+        "registerLegend": "What is it?",
+        "registers": {
+          "not-true": "The Claim says something the Source does not.",
+          "one-standpoint": "The Source's standpoint is described wrongly, or a Source counted as support is partisan.",
+          "something-missing": "A perspective or a Source is missing.",
+          "remove": "Remove my credit or my data."
+        },
+        "evidenceLegend": "Your evidence",
+        "sourceTitle": "Source",
+        "sourceTitleHint": "title, author, edition",
+        "sourceWhere": "Where in it",
+        "sourceWhereHint": "page, chapter, archive signature",
+        "noSource": "I have no Source; this is a hunch.",
+        "evidenceHelp": "A hunch is welcome and is recorded. Only a Source can change the page. Please do not include anyone else's personal details.",
+        "message": "Anything else",
+        "creditLegend": "Credit",
+        "creditNone": "No credit",
+        "creditAs": "Credit me as:",
+        "nickname": "Preferred name",
+        "creditHelp": "Shown only if your report changes the page, next to the change, on the Changes page. Removable: choose 'Remove my credit or my data' in this form. Never your email.",
+        "emailLabel": "Email, if you want a reply",
+        "emailHelp": "Never shown on the site. Used once, to reply.",
+        "privacyNote": "This report goes by email to the site's editor through Web3Forms, a form service run from India. It is not public. Web3Forms says it keeps submissions for up to three years unless they are deleted sooner. To catch spam, it may send your IP address, and your email if you leave one, to the spam filters CleanTalk and Akismet. The editor also sees your IP address, in the email that carries your report. You will not be asked to tick a box. The editor keeps your report until it has been dealt with and for 90 days after, then deletes it, including the copy held at Web3Forms. To remove your credit or your data, choose \"Remove my credit or my data\" in the first question of the form, and say in \"Anything else\" which preferred name or email. Please do not include anyone else's personal details. A person reads the reports we receive. We aim to reply within a week if you left an email. Checking a Source can take weeks, because we read it ourselves, through a library. What you report cannot change the page by itself; only a Source we have read can. This is not a vote, and it is not the place to add a fact.",
+        "privacyLink": "Privacy",
+        "send": "Send the report",
+        "close": "Close"
+      },
+      "thanks": {
+        "heading": "Thank you",
+        "text": "Thank you. Your report is with the editor. If you left an email, we aim to reply within a week.",
+        "back": "Back to the site",
+        "privacy": "Privacy"
+      },
+      "privacy": {
+        "heading": "Privacy",
+        "cookies": "This site sets no cookies.",
+        "analytics": "This site uses no analytics.",
+        "sessionFlag": "It keeps one flag in your browser's session storage, so that the opening plays once per visit; it holds only that the opening has played, and it is gone when you close the tab.",
+        "serverLogs": "The site is served by GitHub Pages. GitHub keeps its own server logs, which can include your IP address, under its own privacy statement.",
+        "formIntro": "If you send a report, this is what happens. A report sends what you type, plus the web address of the page, the Claim or Source you were looking at, the version of the site, and whether you were in Explore or Research. A name and an email are optional.",
+        "removal": "To remove your credit or your data, open any \"Question this Claim\" or \"Know this Source?\" control and choose \"Remove my credit or my data\". Say in \"Anything else\" which preferred name or email to remove.",
+        "back": "Back to the site"
+      },
+      "changes": {
+        "heading": "Changes",
+        "empty": "No decisions yet. Reports are read as they come.",
+        "labels": {
+          "date": "Date",
+          "reported": "What was reported",
+          "did": "What we did",
+          "why": "Why",
+          "checkedBy": "Checked by",
+          "credit": "Credit",
+          "considered": "Reports considered"
+        },
+        "checkedByValue": "the editors, against the Source; approved by the product owner",
+        "changed": "Changed",
+        "notChanged": "Not changed",
+        "before": "Before",
+        "after": "After",
+        "thanksTo": "Thanks to {nickname}",
+        "thanksToReader": "Thanks to a reader",
+        "consideredText": "{n}",
+        "back": "Back to the site"
+      }
+    },
+    "editorialStateLine": "Draft · not yet editorially reviewed",
+    "editorialWhyLine": "Why: {rationale}",
+    "editorialStates": {
+      "draft": "Draft · not yet editorially reviewed",
+      "in-review": "In editorial review · not yet editorially reviewed",
+      "checked": "Checked against the Source by the editors · {decidedOn}",
+      "disputed": "Editorial dispute open · not yet editorially reviewed",
+      "reviewed": "Reviewed · {decidedOn}",
+      "published": "Published · reviewed {decidedOn}"
+    },
+    "profile": {
+      "label": "Evidence & Perspective Profile",
+      "summaryLabel": "The evidence behind this Story",
+      "open": "See the details",
+      "openState": "Details below",
+      "close": "Close profile",
+      "lead": "Here is what the evidence for this Story rests on: where it comes from, how much of it is really separate, and what is still missing. It says nothing about whether the history is true; it says how much we have to go on.",
+      "statusDraft": "Draft · not yet editorially reviewed. The counts below come from our working records; no historian has checked them yet. Rules version {rules}, draft.",
+      "statusPublished": "Reviewed · {decidedOn} · rules version {rules}",
+      "warningsHeading": "Warnings ({n})",
+      "warningsNone": "No warning for this Story. That does not mean its evidence is complete.",
+      "componentsHeading": "What we checked ({n})",
+      "compact": {
+        "winnerDominated": "Evidence concentrated in colonial Sources",
+        "missingVoices": "Some voices missing",
+        "contested": "Still argued over",
+        "highlyUncertain": "Highly uncertain",
+        "notScored": "No number yet",
+        "coverage": "Viewpoints covered: {n}"
+      },
+      "componentNames": {
+        "diversity": "Source diversity",
+        "independence": "Source independence",
+        "coverage": "Perspective coverage",
+        "agreement": "Scholarly agreement",
+        "uncertainty": "Historical uncertainty",
+        "controversy": "Controversy",
+        "missing": "Missing Voices"
+      },
+      "componentQuestions": {
+        "diversity": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
+        "independence": "How many of the Sources actually stand on their own, rather than drawing on one another?",
+        "coverage": "Of the viewpoints this Story needs, how many have evidence we can actually use?",
+        "agreement": "Do the historians who have studied this agree with one another?",
+        "uncertainty": "How sure are we about the key dates and places, how things worked, and who was involved?",
+        "controversy": "Is this account still being argued over, and does the argument change anything?",
+        "missing": "Who was involved or affected, but barely shows up in the evidence?"
+      },
+      "fields": {
+        "asks": "The question",
+        "counted": "What we counted",
+        "notCounted": "Not counted, and why",
+        "completeness": "How complete",
+        "lastReview": "Last review",
+        "editorialNote": "Editor's note",
+        "dependencyView": "Who draws on whom"
+      },
+      "notScored": "No number yet · {n} of {m} recorded",
+      "inputsOnly": "{n} of {m} recorded",
+      "stateChecked": "{k} of {m} checked",
+      "stateEditorial": "editor's list",
+      "stateOverride": "set by an editor",
+      "completenessCategorical": "{n} of {m} recorded.",
+      "lastReviewDraft": "Not yet editorially reviewed",
+      "lastReviewPublished": "Reviewed · {decidedOn}",
+      "floors": {
+        "diversity": "three of the four kinds of detail are recorded for every Source",
+        "independence": "we know, and an editor has checked, what every supporting Source draws on",
+        "coverage": "an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded"
+      },
+      "diversity": {
+        "value": "{primary} primary {primaryWord} and {scholarly} scholarly {scholarlyWord}, in {languages} {languageWord} as recorded",
+        "noNumber": "No number yet · {n} of {m} kinds of information recorded",
+        "counted": "Kinds of document: {forms}. Languages, as recorded: {languageList}. Where each author stood: {positions}.",
+        "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
+        "completeness": "{n} of the 4 kinds of detail are recorded for every Source; an editor has checked {k} of {v} Sources. A number appears only once the Story has been editorially reviewed and {floor}."
+      },
+      "independence": {
+        "value": "{sources} supporting {sourceWord}, in {groups} separate {groupWord} once you trace who drew on whom",
+        "valueUnplaced": "{sources} supporting {sourceWord}, in {groups} separate {groupWord} once you trace who drew on whom; {unplaced} not yet traceable",
+        "noNumber": "No number yet · {n} of {m} Sources traced",
+        "counted": "{citations} supporting citations across {claims} Claims and the Connection, from {sources} Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "notCounted": "Cited only for background, so not counted: {ids}.",
+        "subjectNote": "Listed in its own group but kept out of any number: {ids}, cited only as what a Claim is about, not as support for it.",
+        "completeness": "We know what {n} of {m} Sources draw on; an editor has checked {k} of {m}. A number appears only once the Story has been editorially reviewed and {floor}.",
+        "notPlaced": "we do not yet know what it draws on. It joins no group and is not counted as independent.",
+        "groupHeading": "Group {letter} — {n} {sourceWord}.",
+        "groupHeadingChain": "Group {letter} — {n} {sourceWord} that draw on one another.",
+        "roots": "Starting points: {names}.",
+        "others": "Drawing on them: {names}.",
+        "subjectOnly": ", cited only as what {claims} is about",
+        "notPlacedHeading": "Not placed — {n} {sourceWord}.",
+        "row": {
+          "supports": "supports {n} {claimWord}",
+          "subject": "is the subject of {n} {claimWord}",
+          "connection": " and the Connection",
+          "connectionOnly": "supports the Connection"
+        },
+        "byClaim": {
+          "head": "{single} of the {total} Claims rest on a single group; {two} on two; {three} on three",
+          "more": "; {more} on four or more",
+          "undetermined": "; for {n} we cannot tell ({ids})",
+          "none": "; {n} have no supporting Evidence yet ({ids})",
+          "tail": ". {citations} citations are not {citationsLower} confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+        }
+      },
+      "coverage": {
+        "valueUndefined": "An editor has not yet listed which viewpoints this Story needs",
+        "valueNoCategory": "The viewpoints are listed, but {n} supporting Sources have no standpoint recorded",
+        "valueSet": "{covered} of the {total} viewpoints this Story needs have supporting Evidence",
+        "noNumber": "No number yet · {n} of {m} things in place",
+        "counted": "Needed: {expected}. Covered by supporting Evidence: {covered}. Not covered: {missing}.",
+        "countedUndefined": "Nothing yet. Until an editor lists the viewpoints this Story needs, there is nothing to measure against.",
+        "notCounted": "The standpoints we do have among the supporting Sources: {positions}.",
+        "subjectNote": "Not counted as support, because a Claim is about them rather than resting on them: {ids}.",
+        "completeness": "{n} of the 2 things this check needs are in place; an editor has checked {k} of {v} Sources. A number appears only once the Story has been editorially reviewed and {floor}."
+      },
+      "agreement": {
+        "notAssessed": "Not assessed",
+        "unclear": "Unclear",
+        "counted": "We have not yet recorded what different historians make of this Story. The one mainstream account ({claim}) does not yet say which field it comes from or when it was made.",
+        "notCounted": "We have not yet recorded which historians accept the mainstream account.",
+        "note": "Agreement among historians is not proof. It shows where the field stands today, and fields move."
+      },
+      "uncertainty": {
+        "partial": "{value} uncertainty about the dates and places only; nothing else graded yet",
+        "counted": "How precisely the {n} Claims this Story cites are dated: {precisions}.",
+        "notCounted": "Nobody has yet assessed how things worked or who was involved.",
+        "event": "The Event itself is dated {label}.",
+        "partialOne": "{value} uncertainty, going by the dates and places and by {assessed}; {unassessed} is not graded yet",
+        "notCountedMechanisms": "Nobody has yet assessed how things worked.",
+        "notCountedIdentities": "Nobody has yet assessed who was involved.",
+        "mechanismsPhrase": "how things worked",
+        "identitiesPhrase": "who was involved",
+        "unknownReading": "We cannot yet say how uncertain this is",
+        "buckets": {
+          "year": "to the year",
+          "decade": "to the decade",
+          "approximate": "roughly",
+          "century": "to the century",
+          "notTimeBounded": "not tied to a date",
+          "disputed": "disputed or unknown"
+        }
+      },
+      "controversy": {
+        "notAssessed": "Not assessed",
+        "notAssessedNote": "\"Not assessed\" does not mean \"low\".",
+        "counted": "Nobody has yet recorded whether this account is argued over.",
+        "assessed": "An editor's assessment: {level}.",
+        "notCounted": "No editor has yet assessed how actively it is disputed."
+      },
+      "missingVoices": {
+        "valueLine": "{n} {voiceWord} listed",
+        "valueLineIncomplete": "{n} {voiceWord} listed · we are still looking",
+        "counted": "Each voice below says why it is missing and which Claims it bears on.",
+        "notCounted": "A voice is listed only once we can say why it is missing and which Claim it bears on. Names we have not verified stay with the editor.",
+        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history.",
+        "reasonLabels": {
+          "Not identified in this documented search": "We looked in the records gathered so far and found nothing",
+          "Search not yet complete": "We are still looking",
+          "Not yet researched": "Not yet looked for",
+          "Known record not yet consulted": "A record exists; we have not reached it yet",
+          "Known archive inaccessible": "A record exists but cannot be reached",
+          "Records not preserved (established)": "The records did not survive (historians have established this)"
+        }
+      },
+      "lineageLabels": {
+        "L5": "colonial administrative and fiscal records (no single Source record)",
+        "ML11": "Ch'üan Han-sheng's Manila estimates, built on Blair and Robertson",
+        "ML12": "O'Rourke and Williamson's price and trade-growth series (their 2002 articles)",
+        "ML13": "Chinese monetary scholarship after P'eng Hsin-wei",
+        "ML14": "de Vries's Cape-route shipping series",
+        "ML2": "the 1573 Manila relation"
+      },
+      "sourcePosition": {
+        "labels": {
+          "proximity": "When and where",
+          "role": "Role",
+          "audience": "Written for",
+          "interests": "Their stake",
+          "position": "Standpoint",
+          "focus": "Focus",
+          "note": "Note",
+          "dependsOn": "Draws on"
+        },
+        "categoryNote": "Context for reading this Source, not a rating of it.",
+        "drawsOn": {
+          "rootWithDescendants": "None recorded: this is a starting point. Drawn on by {names}.",
+          "root": "None recorded: this is a starting point.",
+          "derived": "{names}.",
+          "notRecorded": "Not recorded yet; an editor still has to trace it.",
+          "unchecked": "As recorded; not yet checked by an editor.",
+          "checked": "As recorded; checked by the editors."
+        },
+        "notRecorded": "not recorded"
+      }
+    },
+    "sensitiveFlagText": "Sensitive content",
+    "orientationToggleLabel": "Add present-day orientation",
+    "siteLinks": {
+      "changes": "Changes",
+      "privacy": "Privacy"
+    },
+    "yearStatement": "1617 · exact year · single-year view",
+    "jurisdictionLine": {
+      "text": "In 1617 Ayutthaya was the seat of King Songtham. The Japanese there had a headman with a Siamese title, and Dutch and English companies kept houses. How far the king's rule reached is not researched, so no boundary is drawn.",
+      "claimIds": [
+        "AY-C02",
+        "AY-C14",
+        "AY-C17",
+        "AY-C03"
+      ]
+    },
+    "viewIndexHeading": "In this view — 1617",
+    "otherYearsHeading": "Other years",
+    "momentEntryById": {
+      "potosi": {
+        "name": "Potosí, 1573",
+        "action": "Go to this moment."
+      },
+      "manila": {
+        "name": "Manila, 1573",
+        "action": "Go to this moment."
+      },
+      "macao-1590": {
+        "name": "Macao, 1590",
+        "action": "Go to this moment."
+      },
+      "manila-1602": {
+        "name": "Manila, 1602",
+        "action": "Go to this moment."
+      },
+      "mexico-1602": {
+        "name": "Mexico City, 1602",
+        "action": "Go to this moment."
+      }
+    },
+    "indexNoMarkerMeta": "Place · inside Ayutthaya's marker at this scale · not drawn separately",
+    "noMarkerStatus": {
+      "e-ayutthaya-1617": "Selected: Ayutthaya. In 1617 it was the seat of King Songtham, and Dutch and English companies each kept a house here. The marker shows the island city of Ayutthaya; it is not a surveyed position for any building of 1617.",
+      "e-japanese-village-ayutthaya-1617": "Selected: The Japanese village. Historians place it south-east of the city by 1617. No Source we have read marks its site, so it is not drawn; at this scale it lies inside Ayutthaya's marker."
+    },
+    "indexGroupHeadings": {
+      "events": "Events (1)",
+      "places": "Places (3)"
+    },
+    "whatWeDontKnowHeading": "What we don't know",
+    "lineClaims": {
+      "notKnownHeading": "What is not known",
+      "claimsHeading": "Claims behind this line",
+      "groups": [
+        {
+          "heading": "The Crown's money",
+          "note": "Morga names the royal chest. Sande's reals are placed here by context: he does not say whose money it was.",
+          "claimIds": [
+            "M-C20",
+            "M-C18"
+          ]
+        },
+        {
+          "heading": "Money from private people",
+          "note": "The 1586 memorial names rich men in Mexico. Morga's duty on money brought from New Spain is placed here by context: he does not say whose money it was.",
+          "claimIds": [
+            "M-C15",
+            "M-C21"
+          ]
+        },
+        {
+          "heading": "Whose money is not said",
+          "claimIds": [
+            "M-C19"
+          ]
+        },
+        {
+          "heading": "Why Acapulco is drawn",
+          "note": "Sande sailed from Acapulco in 1575. No primary Source says the money left from there.",
+          "claimIds": [
+            "M-C22"
+          ]
+        }
+      ],
+      "eastbound": [
+        {
+          "text": "Ships went east as well. Two that sailed from the Philippines on 1 July 1573 reached Acapulco in November, and the cargo listed at Mexico for them included silks and porcelain.",
+          "claimIds": [
+            "M-C01",
+            "M-C02"
+          ]
+        },
+        {
+          "text": "That direction is not drawn.",
+          "claimIds": []
+        }
+      ]
+    },
+    "attributionDataLine": "Historical data: World History Explorer pilot fixture — draft, not yet editorially reviewed; Sources are cited per Claim.",
+    "attributionDataLinePublished": "Historical data: World History Explorer pilot corpus — editorially reviewed; Sources are cited per Claim.",
+    "attributionTruncationControl": "Attribution",
+    "readingPaneEmpty": {
+      "heading": "One moment, and how we know it.",
+      "body": [
+        "Select the Event on the map, or in the list beneath it, to open its Story.",
+        "This Moment is Ayutthaya in 1617: the hide trade with Japan, and the one Connection this pilot explains for it, the Japanese traders of Ayutthaya and the hide trade to Japan. Nagasaki is drawn at the wider view as the port where a Siamese vessel arrived in 1612 and the embassy landed in 1621. One part of the Story is about Japanese people who fled war and persecution, and about an attack on the royal palace in 1612."
+      ]
+    },
+    "coverageStatements": {
+      "notYetResearched": {
+        "viewIndex": "Only the Story at Ayutthaya has been researched for this view.",
+        "placeContext": "No Story has been researched for this Place yet."
+      },
+      "noKnownEvent": "No Event is known here in 1617 in the evidence consulted. That is a finding, not an absence of research.",
+      "evidenceDoesNotSurvive": "No records for this Place in 1617 were identified in the sources consulted. Absence from the record is not absence from history."
+    },
+    "frameBreadcrumb": {
+      "navName": "Map frames",
+      "world": "World",
+      "americas": "East and Southeast Asia",
+      "andes": "Mainland Southeast Asia",
+      "moment": "Ayutthaya, 1617",
+      "andesShort": "The mainland",
+      "momentShort": "Ayutthaya"
+    },
+    "contextNote": {
+      "world": "World context · one moment in 1617",
+      "wider": "Wider context · one moment in 1617"
+    },
+    "mapStatus": {
+      "MS-0": "",
+      "MS-1": "Selected: The hide trade at Ayutthaya. One Connection belongs to this Event: the Japanese traders of Ayutthaya and the hide trade to Japan. Japanese traders lived in a village south-east of the city; its site is not known, so it is not drawn. Nagasaki, where a Siamese vessel arrived in 1612 and the embassy landed in 1621, is drawn at the wider view of East and Southeast Asia.",
+      "MS-2": "Selected: Nagasaki. A Siamese vessel arrived here in 1612 and the embassy of 1621 landed here; no Source we have read names the port for 1617. It is drawn at this wider view only. The marker shows present-day Nagasaki; where the ships lay is not located.",
+      "MS-3": "Selected: Ciudad de La Plata, seat of the Audiencia de Charcas. No Story has been researched for this Place yet.",
+      "MS-4": "Selected: Ciudad de los Reyes, seat of the Viceroy of Peru. No Story has been researched for this Place yet.",
+      "MS-5": "The selected marker, {historical name}, is outside the current view. Reset the view to show its marker.",
+      "MS-6": "The connected Place, Mina de Santa Bárbara, Huancavelica, is outside the current view. Reset the view to show all four markers.",
+      "MS-7": "The selected Event and its connected Place are outside the current view. Reset the view to show all four markers.",
+      "MS-8": "Loading Ayutthaya, 1617.",
+      "MS-9": "The basemap could not be loaded. The marker and the list beneath the map are still available.",
+      "MS-10": "The world. One 1617 moment is in view: Ayutthaya. Japanese ships came to it under licence, and junks crossed between it and China. No line is drawn. Select the moment to go to it.",
+      "MS-11": "East and Southeast Asia. The 1617 view is two points at this scale: Ayutthaya, and Nagasaki in Japan, where a Siamese vessel arrived in 1612 and the embassy landed in 1621. Zoom in or reset the view to see Ayutthaya's marker.",
+      "MS-12": "Mainland Southeast Asia. The 1617 view is one point at this scale, at Ayutthaya. Zoom in or reset the view to see the marker."
+    },
+    "claimCard": {
+      "emptySupports": "No supporting Evidence has been linked to this Claim yet — pending editorial verification.",
+      "emptyChallenges": "No challenging Evidence has been linked to this Claim. This does not mean none exists.",
+      "emptyContextualizes": "No contextual Evidence has been linked to this Claim."
+    },
+    "accessBlockLocatorPending": "pending editorial verification",
+    "accessReadings": {
+      "unverified": "An access level is recorded, but no human has verified it.",
+      "unknown": "No access level was recorded for this Source.",
+      "abstract only": "Only the abstract was reviewed. This Source cannot support detail as if the whole work had been read.",
+      "metadata only": "Only the catalogue record was reviewed. This Source supports no more than its record states.",
+      "inaccessible": "The Source could not be reached. Support from it is not established."
+    },
+    "withdrawnNote": "A sentence here rested on Claim {id}, which has been {state}, and is not shown.",
+    "connectionSources": {
+      "label": "Sources for this step",
+      "emptySupports": "No supporting Evidence has been linked to this step yet — pending editorial verification.",
+      "emptyChallenges": "No challenging Evidence has been linked to this step. This does not mean none exists.",
+      "emptyContextualizes": "No contextual Evidence has been linked to this step."
+    },
+    "closeControls": {
+      "closeClaim": "Close Claim",
+      "closeSource": "Close Source",
+      "closeStory": "Close Story",
+      "closePlace": "Close Place",
+      "closeLine": "Close line"
+    },
+    "interfaceStrings": {
+      "sheetHandleAccessibleName": "Raise or lower the reading surface",
+      "mapPaneTabsAccessibleName": "Map or list",
+      "storyLoadError": "Couldn't load this Story. The map and the list are unaffected, and the Event stays selected.",
+      "claimLoadError": "Couldn't load this Claim. The Story, the map, and the list are unaffected.",
+      "retryButton": "Try again",
+      "sourceLoadError": "Couldn't load this Source. The Source record, its access level, and the Claim it is cited under are unchanged.",
+      "sourceAccessPathError": "Couldn't open the link to this Source. The Source record, its access level, and the Claim it is cited under are unchanged.",
+      "participantListLabel": "Who was involved, and who was affected",
+      "connectionEvidenceLabel": "Claims behind this step",
+      "beatHeadings": {
+        "hook": "August 1617",
+        "orient": "A city at peace",
+        "connect": "What Japan wanted",
+        "complicate": "The other road: China",
+        "resolve": "1621: a letter on gold",
+        "people": "The Japanese village",
+        "next": "Why isn't Southeast Asia as closely knit as Europe?"
+      }
+    },
+    "assistiveOnly": {
+      "pilotNoticeLandmarkName": "Pilot notice",
+      "mapCanvasGroupName": "Map",
+      "zoomInName": "Zoom in",
+      "zoomOutName": "Zoom out",
+      "resetViewName": "Reset view",
+      "directionFigureArrowText": "to",
+      "markerStateSelected": "Selected.",
+      "markerStateConnected": "Connected to the current selection.",
+      "markerStateSubdued": "In view; not part of the selected Story.",
+      "orientationLinePrefix": "present-day",
+      "jurisdictionsRegionName": "Jurisdictions in 1617",
+      "zoomOutAtWidestName": "Zoom out. At the widest view.",
+      "zoomInAtClosestName": "Zoom in. At the closest view.",
+      "copyLinkName": "Copy link to this view",
+      "copyLinkDone": "Link copied",
+      "copyLinkFailed": "Could not copy. The link is in the address bar."
+    }
+  },
+  "physicalFeatures": [],
+  "whatWeDontKnow": [
+    {
+      "id": "wwdk-1617-silver",
+      "segments": [
+        {
+          "text": "The amount of silver and copper. A ship's cargo list or a port's customs book would tell us. None is among the Sources we have read.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-1617-labour",
+      "segments": [
+        {
+          "text": "The hunters, woodcutters and carriers. The writers we have are merchants and courts; none of them wrote about the people who supplied the goods.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-1617-headman",
+      "segments": [
+        {
+          "text": "The headman of 1617. The one letter that mentions him gives his title and not his name.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-1617-after-1612",
+      "segments": [
+        {
+          "text": "The years between the attack of 1612 and the headman of 1617.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-1617-letter",
+      "segments": [
+        {
+          "text": "The king's letter of 1621 in the Siamese language. Only a Chinese version survives.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-1617-thai-record",
+      "segments": [
+        {
+          "text": "What a Siamese merchant, port officer or monk wrote in 1617. The one long history written in Thai in the Ayutthaya period stops at 1605.",
+          "claimIds": [
+            "AY-C32"
+          ]
+        }
+      ]
+    }
+  ]
+}

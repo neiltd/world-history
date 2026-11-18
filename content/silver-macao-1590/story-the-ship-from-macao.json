@@ -495,22 +495,33 @@
     {
       "momentId": "manila-1602",
       "label": "Another moment: Manila, 1602",
-      "honestyLine": "Two routes by which silver reached China, twelve years apart. No researched Connection joins the two Stories. They share some Sources, von Glahn among them."
+      "honestyLine": "Two routes by which silver reached China, twelve years apart. No researched Connection joins the two Stories. They share some Sources, von Glahn among them.",
+      "featured": true,
+      "researched": false
     },
     {
       "momentId": "manila",
       "label": "Another moment: Manila, 1573",
-      "honestyLine": "Two routes by which silver reached China, seventeen years apart. No researched Connection joins the two Stories. They share some Sources, von Glahn among them."
+      "honestyLine": "Two routes by which silver reached China, seventeen years apart. No researched Connection joins the two Stories. They share some Sources, von Glahn among them.",
+      "researched": false
     },
     {
       "momentId": "potosi",
       "label": "Another moment: Potosí, 1573",
-      "honestyLine": "No researched Connection joins these two Stories. They are about two different sources of silver: Potosí's mines and Japan's."
+      "honestyLine": "No researched Connection joins these two Stories. They are about two different sources of silver: Potosí's mines and Japan's.",
+      "researched": false
     },
     {
       "momentId": "mexico-1602",
       "label": "Another moment: Mexico City, 1602",
-      "honestyLine": "A poem printed in Mexico City in 1604 names Macao among the places its goods came from. No researched Connection joins the two Stories."
+      "honestyLine": "A poem printed in Mexico City in 1604 names Macao among the places its goods came from. No researched Connection joins the two Stories.",
+      "researched": false
+    },
+    {
+      "momentId": "ayutthaya-1617",
+      "label": "Another moment: Ayutthaya, 1617",
+      "honestyLine": "Both Stories are about ships trading with Japan, twenty-seven years apart, and Japan's silver is in both. Christians in Japan are in both as well: in this one, the Jesuits and the bishop of Japan; in that one, Japanese people who had fled the persecution of Christians. No Source we have read joins the one to the other. No researched Connection joins the two Stories. For Ayutthaya no Source we have read gives an amount of silver.",
+      "researched": false
     }
   ],
   "editorialState": "draft",
