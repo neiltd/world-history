@@ -1168,7 +1168,7 @@
       "MS-7": "The selected Event and its connected Place are outside the current view. Reset the view to show all four markers.",
       "MS-8": "Loading Manila, 1602.",
       "MS-9": "The basemap could not be loaded. The marker and the list beneath the map are still available.",
-      "MS-10": "The world. Three 1602 moments: Manila, Mexico City and Haicheng. Manila and Mexico City are drawn. Ships sailed from one to the port of the other, Acapulco. Haicheng, which a historian names as the home port of the ships that came to Manila, lies too close to be drawn apart at this scale; the wider view shows it. No line is drawn. Select a moment to go to it, or choose Haicheng, 1602 from the index.",
+      "MS-10": "The world. Three 1602 moments: Manila, Mexico City and Haicheng. Mexico City has its own ring. Haicheng, which a historian names as the home port of the ships that came to Manila, lies too close to Manila to be drawn apart, so the two share one ring; choose it to see both. Researched legs are drawn: Fujian to Manila and back, and Manila to Haicheng (two Connections drawn as one line), Peru by sea to Acapulco and west to Manila, and Manila by sea to Acapulco and by road to Mexico City. Sea legs are approximate. A dotted tie to Potosí is one historian's reading. Select a moment to go to it, or choose Haicheng, 1602 from the index.",
       "MS-11": "East and Southeast Asia. The 1602 view is two points at this scale: Manila, and Haicheng in Fujian, which a historian names as the home port of the ships. Zoom in or reset the view to see Manila's marker.",
       "MS-12": "Luzon and the South China Sea. The 1602 view is one point at Manila at this scale. Zoom in or reset the view to see its marker."
     },

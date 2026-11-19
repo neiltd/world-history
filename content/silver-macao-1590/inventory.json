@@ -1021,7 +1021,7 @@
       "MS-7": "The selected Event and its connected Place are outside the current view. Reset the view to show all four markers.",
       "MS-8": "Loading Macao, 1590.",
       "MS-9": "The basemap could not be loaded. The marker and the list beneath the map are still available.",
-      "MS-10": "The world. One 1590 moment is in view: Macao. Select it to go to it.",
+      "MS-10": "The world. One 1590 moment is in view: Macao. Researched legs are drawn: Macao to Nagasaki and back, documented here about 1570 to 1590; Fujian to Manila and back, and Manila to Haicheng (two Connections drawn as one line), about 1589 to 1604; and Peru by sea to Acapulco and west to Manila, about 1590 to 1604. Sea courses are approximate. Nagasaki, the port a Dutchman writing from Goa names, is marked. A dotted tie to Potosí is one historian's reading. Select the moment to go to it.",
       "MS-11": "East and Southeast Asia. The 1590 view is two points at this scale: Macao, and Nagasaki in Japan, which a Dutchman writing from Goa names as the port the Portuguese used. Zoom in or reset the view to see Macao's marker.",
       "MS-12": "South China and the South China Sea. The 1590 view is one point at Macao at this scale. Zoom in or reset the view to see its marker."
     },

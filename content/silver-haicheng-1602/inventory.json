@@ -822,7 +822,7 @@
       "MS-7": "Selected: The Luzon ships come home. One Connection leads to this Event: the trade at Manila. Manila is drawn at the wider view of East and Southeast Asia.",
       "MS-8": "Loading Haicheng, 1602.",
       "MS-9": "The basemap could not be loaded. The marker and the list beneath the map are still available.",
-      "MS-10": "The world. Three 1602 moments: Haicheng, Manila and Mexico City. Haicheng and Mexico City are drawn. Ships licensed at Haicheng sailed to Manila and came home with silver coin. Manila lies too close to Haicheng to be drawn apart at this scale; the wider view shows it. No line is drawn. Select a moment to go to it, or choose Manila, 1602 from the index.",
+      "MS-10": "The world. Three 1602 moments: Haicheng, Manila and Mexico City. Mexico City has its own ring. Manila lies too close to Haicheng to be drawn apart, so the two share one ring; choose it to see both. Ships licensed at Haicheng sailed to Manila and came home with silver coin. Researched legs are drawn: Fujian to Manila and back, and Manila to Haicheng (two Connections drawn as one line), Peru by sea to Acapulco and west to Manila, and Manila by sea to Acapulco and by road to Mexico City. Sea legs are approximate. A dotted tie to Potosí is one historian's reading. Select a moment to go to it, or choose Manila, 1602 from the index.",
       "MS-11": "East and Southeast Asia. The 1602 view is two points at this scale: Haicheng in Fujian, and Manila, where its ships sailed. Zoom in or reset the view to see Haicheng's marker.",
       "MS-12": "The South China coast. The 1602 view is one point at Haicheng at this scale. North Luzon is at the edge of the view; Manila is not in it. Zoom in or reset the view to see its marker."
     },

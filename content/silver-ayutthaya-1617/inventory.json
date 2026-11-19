@@ -907,7 +907,7 @@
       "MS-7": "The selected Event and its connected Place are outside the current view. Reset the view to show all four markers.",
       "MS-8": "Loading Ayutthaya, 1617.",
       "MS-9": "The basemap could not be loaded. The marker and the list beneath the map are still available.",
-      "MS-10": "The world. One 1617 moment is in view: Ayutthaya. Japanese ships came to it under licence, and junks crossed between it and China. No line is drawn. Select the moment to go to it.",
+      "MS-10": "The world. One 1617 moment is in view: Ayutthaya. Japanese ships came to it under licence, and junks crossed between it and China. A researched leg runs from Ayutthaya to Nagasaki and back, about 1604 to 1635; its sea course is approximate, and its last stretch is dotted because no Source we have read names the port for 1617. No leg is drawn between Ayutthaya and China. Select the moment to go to it.",
       "MS-11": "East and Southeast Asia. The 1617 view is two points at this scale: Ayutthaya, and Nagasaki in Japan, where a Siamese vessel arrived in 1612 and the embassy landed in 1621. Zoom in or reset the view to see Ayutthaya's marker.",
       "MS-12": "Mainland Southeast Asia. The 1617 view is one point at this scale, at Ayutthaya. Zoom in or reset the view to see the marker."
     },
