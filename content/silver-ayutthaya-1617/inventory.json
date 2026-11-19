@@ -801,6 +801,10 @@
       "mexico-1602": {
         "name": "Mexico City, 1602",
         "action": "Go to this moment."
+      },
+      "haicheng-1602": {
+        "name": "Haicheng, 1602",
+        "action": "Go to this moment."
       }
     },
     "indexNoMarkerMeta": "Place · inside Ayutthaya's marker at this scale · not drawn separately",

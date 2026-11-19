@@ -856,6 +856,14 @@
     },
     "otherYearsHeading": "Other years",
     "momentEntryById": {
+      "manila-1602": {
+        "name": "Manila, 1602",
+        "action": "Go to this moment."
+      },
+      "haicheng-1602": {
+        "name": "Haicheng, 1602",
+        "action": "Go to this moment."
+      },
       "potosi": {
         "name": "Potosí, 1573",
         "action": "Go to this moment."
@@ -961,8 +969,8 @@
       "momentShort": "Mexico City"
     },
     "contextNote": {
-      "world": "World context · two moments in 1602",
-      "wider": "Wider context · one moment in 1602"
+      "world": "World context · three moments in 1602",
+      "wider": "Wider context · Mexico City, 1602"
     },
     "mapStatus": {
       "MS-0": "",
@@ -975,7 +983,7 @@
       "MS-7": "The selected Event and its connected Place are outside the current view. Reset the view to show all four markers.",
       "MS-8": "Loading Mexico City, 1602.",
       "MS-9": "The basemap could not be loaded. The marker and the list beneath the map are still available.",
-      "MS-10": "The world. Two 1602 moments are in view: Manila and Mexico City. Ships sailed from one to the port of the other, Acapulco. No line is drawn between them. Select a moment to go to it.",
+      "MS-10": "The world. Three 1602 moments: Mexico City, Manila and Haicheng. Mexico City and Manila are drawn. Ships sailed from one to the port of the other, Acapulco. Haicheng, in Fujian, is where the licences for the ships that came to Manila were issued; it lies too close to Manila to be drawn apart at this scale. No line is drawn. Select a moment to go to it, or choose Haicheng, 1602 from the index.",
       "MS-11": "Mexico and the Pacific. The 1602 view is one point at this scale, at Mexico City. The ocean to the west is the one the ships from Manila crossed; Manila lies beyond the edge of this view. Zoom in or reset the view to see the marker.",
       "MS-12": "Mexico and Central America. The 1602 view is one point at Mexico City at this scale. Acapulco, the port, is drawn at the closer view. Zoom in or reset the view to see both."
     },

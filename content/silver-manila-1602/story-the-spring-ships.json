@@ -507,7 +507,7 @@
       "paragraphs": [
         [
           {
-            "text": "**Not yet researched.** This Story stops in 1604, when the ships came back. What the trade became after that, what the silver did in China, and what Chinese goods did in Peru have not been researched, so none is offered as a researched path. When a path is researched, it will appear here with its own Claims and Evidence.",
+            "text": "**Not yet researched.** This Story stops in 1604, when the ships came back. What the trade became after that, what the silver did in China beyond the ships' home port, and what Chinese goods did in Peru have not been researched, so none is offered as a researched path. When a path is researched, it will appear here with its own Claims and Evidence.",
             "claimIds": []
           }
         ]
@@ -532,14 +532,20 @@
     {
       "momentId": "potosi",
       "label": "Another moment: Potosí, 1573",
-      "honestyLine": "No researched Connection joins these two Stories. The Potosí link is not yet researched.",
-      "researched": false
+      "honestyLine": "A researched Connection joins Peru's silver and Manila for about 1590 to 1604, some twenty years after the Potosí Story. Silver from Peru went by sea to Acapulco for Chinese goods, and most of it was sent on to Manila. The letters of the time say Peru. That Potosí silver was in it is one historian's reading, Kris Lane's, and he writes that how much is uncertain.",
+      "researched": true
     },
     {
       "momentId": "macao-1590",
       "label": "Another moment: Macao, 1590",
       "honestyLine": "Two routes by which silver reached China, twelve years apart. No researched Connection joins the two Stories. They share some Sources, von Glahn among them.",
       "researched": false
+    },
+    {
+      "momentId": "haicheng-1602",
+      "label": "Another moment: Haicheng, 1602",
+      "honestyLine": "The home port of the ships, in the same year. That Story's Connection begins here, at Manila: it tells what the port did when the ships came back with coin. They share Sources, von Glahn and Borao among them.",
+      "researched": true
     }
   ],
   "editorialState": "draft",
@@ -569,7 +575,7 @@
         "valueText": "4 primary documents and 0 scholarly books, in 2 languages as recorded",
         "stateText": "No number yet · 2 of 4 kinds of information recorded",
         "origin": "computed",
-        "counted": "Kinds of document: Scholarship (journal article) 7, Scholarship (book chapter) 4, Primary document, letter 2, Institutional record (city council minutes), printed edition 1, Primary document, court record, English translation by a named translator 1, Primary document, printed memorial 1, Primary narrative, English translation 1. Languages, as recorded: English 15, Spanish 2. Where each author stood: later scholarship 11, colonial state 4, colonial elite 1.",
+        "counted": "Kinds of document: Scholarship (journal article) 7, Scholarship (book chapter) 6, Primary document, letter 2, Institutional record (city council minutes), printed edition 1, Primary document, court record, English translation by a named translator 1, Primary document, printed memorial 1, Primary letters, in a nineteenth-century printed collection 1, Primary narrative, English translation 1. Languages, as recorded: English 17, Spanish 3. Where each author stood: later scholarship 13, colonial state 5, colonial elite 1.",
         "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
         "inputsRecorded": [
           2,
@@ -577,30 +583,30 @@
         ],
         "verified": [
           0,
-          17
+          20
         ],
-        "completeness": "2 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 17 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
+        "completeness": "2 of the 4 kinds of detail are recorded for every Source; an editor has checked 0 of 20 Sources. A number appears only once the Story has been editorially reviewed and three of the four kinds of detail are recorded for every Source."
       },
       {
         "id": "independence",
         "name": "Source independence",
         "asks": "How many of the Sources actually stand on their own, rather than drawing on one another?",
         "lastReview": "Not yet editorially reviewed",
-        "reading": "16 supporting Sources, in 6 separate groups once you trace who drew on whom; 5 not yet traceable",
-        "valueText": "16 supporting Sources, in 6 separate groups once you trace who drew on whom; 5 not yet traceable",
-        "stateText": "No number yet · 12 of 17 Sources traced",
+        "reading": "18 supporting Sources, in 6 separate groups once you trace who drew on whom; 7 not yet traceable",
+        "valueText": "18 supporting Sources, in 6 separate groups once you trace who drew on whom; 7 not yet traceable",
+        "stateText": "No number yet · 12 of 20 Sources traced",
         "origin": "computed",
-        "counted": "48 supporting citations across 31 Claims and the Connection, from 16 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
-        "notCounted": "Cited only for background, so not counted: SR08.",
+        "counted": "62 supporting citations across 36 Claims and the Connection, from 18 Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "notCounted": "Cited only for background, so not counted: SR08, SR20.",
         "inputsRecorded": [
           12,
-          17
+          20
         ],
         "verified": [
           0,
-          17
+          20
         ],
-        "completeness": "We know what 12 of 17 Sources draw on; an editor has checked 0 of 17. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
+        "completeness": "We know what 12 of 20 Sources draw on; an editor has checked 0 of 20. A number appears only once the Story has been editorially reviewed and we know, and an editor has checked, what every supporting Source draws on.",
         "independence": {
           "groups": [
             {
@@ -654,23 +660,31 @@
           "notPlaced": [
             {
               "sourceId": "SR10",
-              "text": "Not placed — 5 Sources. Kris Lane SR10: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 7 Sources. Kris Lane SR10: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "SR13",
-              "text": "Not placed — 5 Sources. Katharine Bjork SR13: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 7 Sources. Katharine Bjork SR13: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "SR14",
-              "text": "Not placed — 5 Sources. José Luis Gasch-Tomás SR14: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 7 Sources. José Luis Gasch-Tomás SR14: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "SR16",
-              "text": "Not placed — 5 Sources. Woodrow Borah SR16: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 7 Sources. Woodrow Borah SR16: we do not yet know what it draws on. It joins no group and is not counted as independent."
             },
             {
               "sourceId": "SR17",
-              "text": "Not placed — 5 Sources. Guillermina del Valle Pavón SR17: we do not yet know what it draws on. It joins no group and is not counted as independent."
+              "text": "Not placed — 7 Sources. Guillermina del Valle Pavón SR17: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "SR18",
+              "text": "Not placed — 7 Sources. Kris Lane SR18: we do not yet know what it draws on. It joins no group and is not counted as independent."
+            },
+            {
+              "sourceId": "SR19",
+              "text": "Not placed — 7 Sources. Philip III to the Cardinal-Archbishop of Seville SR19: we do not yet know what it draws on. It joins no group and is not counted as independent."
             }
           ],
           "rows": [
@@ -678,7 +692,7 @@
               "sourceId": "SR01",
               "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
               "group": "Group A",
-              "claimCount": 7,
+              "claimCount": 8,
               "onConnection": true,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
@@ -804,8 +818,8 @@
               "sourceId": "SR16",
               "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
               "group": "not placed",
-              "claimCount": 1,
-              "onConnection": false,
+              "claimCount": 4,
+              "onConnection": true,
               "subjectOnly": false,
               "accessLevel": "excerpt reviewed"
             },
@@ -813,13 +827,31 @@
               "sourceId": "SR17",
               "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
               "group": "not placed",
-              "claimCount": 2,
+              "claimCount": 4,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "full text reviewed"
+            },
+            {
+              "sourceId": "SR18",
+              "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (Oakland: University of California Press, 2019), ch. 3, \"The Viceroy's Great Machine\", read pp. 89–90.",
+              "group": "not placed",
+              "claimCount": 1,
+              "onConnection": true,
+              "subjectOnly": false,
+              "accessLevel": "excerpt reviewed"
+            },
+            {
+              "sourceId": "SR19",
+              "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+              "group": "not placed",
+              "claimCount": 1,
               "onConnection": false,
               "subjectOnly": false,
               "accessLevel": "full text reviewed"
             }
           ],
-          "byClaimSentence": "25 of the 31 Claims rest on a single group; 2 on two; 0 on three; for 4 we cannot tell (MR-C09, MR-C11, MR-C12, MR-C17). Forty-eight citations are not forty-eight confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+          "byClaimSentence": "26 of the 36 Claims rest on a single group; 2 on two; 0 on three; for 8 we cannot tell (MR-C09, MR-C11, MR-C12, MR-C17, MR-C34, MR-C35, MR-C36, MR-C39). Sixty-two citations are not sixty-two confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
         }
       },
       {
@@ -839,9 +871,9 @@
         ],
         "verified": [
           0,
-          17
+          20
         ],
-        "completeness": "0 of the 2 things this check needs are in place; an editor has checked 0 of 17 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
+        "completeness": "0 of the 2 things this check needs are in place; an editor has checked 0 of 20 Sources. A number appears only once the Story has been editorially reviewed and an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded."
       },
       {
         "id": "agreement",
@@ -869,7 +901,7 @@
         "valueText": "Medium uncertainty about the dates and places only; nothing else graded yet",
         "stateText": "1 of 3 recorded",
         "origin": "computed",
-        "counted": "How precisely the 31 Claims this Story cites are dated: to the year: 17; roughly: 8; to the century: 6; not tied to a date: 0; disputed or unknown: 0. The Event itself is dated c. 1589–1604 · approximate.",
+        "counted": "How precisely the 36 Claims this Story cites are dated: to the year: 18; roughly: 11; to the century: 7; not tied to a date: 0; disputed or unknown: 0. The Event itself is dated c. 1589–1604 · approximate.",
         "notCounted": "Nobody has yet assessed how things worked or who was involved.",
         "inputsRecorded": [
           1,

@@ -522,6 +522,12 @@
       "label": "Another moment: Ayutthaya, 1617",
       "honestyLine": "Both Stories are about ships trading with Japan, twenty-seven years apart, and Japan's silver is in both. Christians in Japan are in both as well: in this one, the Jesuits and the bishop of Japan; in that one, Japanese people who had fled the persecution of Christians. No Source we have read joins the one to the other. No researched Connection joins the two Stories. For Ayutthaya no Source we have read gives an amount of silver.",
       "researched": false
+    },
+    {
+      "momentId": "haicheng-1602",
+      "label": "Another moment: Haicheng, 1602",
+      "honestyLine": "Two ways silver reached China, twelve years apart: here in a Portuguese ship from Japan, there in Chinese ships from Manila. No researched Connection joins the two Stories. They share a Source, von Glahn.",
+      "researched": false
     }
   ],
   "editorialState": "draft",

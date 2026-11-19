@@ -1,0 +1,2453 @@
+{
+  "claims": [
+    {
+      "id": "HC-C01",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Before 1567 the court of the Ming dynasty forbade its people to go abroad to trade. Yuegang, the Moon Harbour, in the Zhangzhou estuary in southern Fujian, was a port for that forbidden trade.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "before 1567 · approximate"
+      },
+      "notes": "Quote: \"Yuegang, which had been the center of a never-suppressed illegal trade\" (Wills, p. 40); \"Yuegang (Moon Harbor), a well-known port for smuggling trade in Zhangzhou\" (Chin, p. 189); \"already an illicit depot for trade with Southeast Asia\" (Hang, p. 30); \"the Chinese people were completely prohibited from going abroad\" (Chang, p. 52); \"the founding emperor of the Ming dynasty\" (Chang, p. 58)\nCheck: Image, except Hang p. 30 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: three scholars, one picture. \"The law forbade\" keeps \"smuggling\" as the law's word, not ours."
+      },
+      "independenceNote": "4 Sources cited; lineage as recorded: Wills; Chin; Hang; Chang.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Yuegang (Haicheng), Fujian · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 40"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 189"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S09",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 30"
+            },
+            "citation": "Xing Hang, *Conflict and Commerce in Maritime East Asia* (Cambridge: Cambridge University Press, 2015), ch. 1, \"Setting the stage\" (read pp. 30–31).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 52"
+            },
+            "citation": "Pin-tsun Chang, \"The Evolution of Chinese Thought on Maritime Foreign Trade from the Sixteenth to the Eighteenth Century\", *International Journal of Maritime History* 1:1 (1989), 51–64 (read pp. 51–52, 54–56, 58).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 58"
+            },
+            "citation": "Pin-tsun Chang, \"The Evolution of Chinese Thought on Maritime Foreign Trade from the Sixteenth to the Eighteenth Century\", *International Journal of Maritime History* 1:1 (1989), 51–64 (read pp. 51–52, 54–56, 58).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C02",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1567, soon after a new emperor, Longqing, came to the throne, the governor of Fujian, Tu Zemin, asked the court, in a memorial, a written proposal, to open the seaports to overseas trade. The court agreed.",
+      "temporal": {
+        "precision": "year",
+        "label": "1567 · year"
+      },
+      "notes": "Quote: \"T'u Tse-min (d. 1569), the Governor of Fukien province, submitted a memorial asking for the opening of seaports for overseas trade. His petition was granted immediately\" (Chang, p. 54); \"the newly ascended Ming Emperor Longqing approved the repeated plea of the Fujian Governor and the Grand Censor Tu Zemin\" (Chin, p. 189); \"the governor of Fukien requested that the ban on maritime trade be repealed and that a maritime customs office be established\" (Geiss, p. 504)\nCheck: Image, except Geiss p. 504 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: Chin's sentence can be read as two men; Chang's is one. The wording follows Chang. Geiss adds that the grand secretary Xu Jie advised approval; not in the wording."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Chang; Chin; Geiss.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Fujian and the Ming court · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 54"
+            },
+            "citation": "Pin-tsun Chang, \"The Evolution of Chinese Thought on Maritime Foreign Trade from the Sixteenth to the Eighteenth Century\", *International Journal of Maritime History* 1:1 (1989), 51–64 (read pp. 51–52, 54–56, 58).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 189"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S08",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 504"
+            },
+            "citation": "James Geiss, \"The Chia-ching reign, 1522–1566\", in *The Cambridge History of China*, vol. 7 (Cambridge: Cambridge University Press, 1988), ch. 8 (read p. 504).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C03",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Tu Zemin's memorial is not in the court's own record. It is known because a later governor, Xu Fuyuan, mentioned it in 1594. The historian Pin-tsun Chang suggests the new emperor may not have wanted it recorded, since it went against his father's wishes.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1567 to 1594 · approximate"
+      },
+      "notes": "Quote: \"was not recorded in Ming Shih Lu, but was mentioned in a memorial by Governor Hsu Fu-yuan in 1594. Perhaps Emperor Lung-ch'ing did not want to have it recorded\" (Chang, p. 54 n. 11)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: one scholar. The reason is his \"Perhaps\" and the wording keeps it his."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Chang.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "The Ming court record · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 54 n. 11"
+            },
+            "citation": "Pin-tsun Chang, \"The Evolution of Chinese Thought on Maritime Foreign Trade from the Sixteenth to the Eighteenth Century\", *International Journal of Maritime History* 1:1 (1989), 51–64 (read pp. 51–52, 54–56, 58).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C04",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The court made Yuegang a county seat and gave it a new name, Haicheng. It is on the south-east coast of China. The county lay in Zhangzhou prefecture, in the province of Fujian. The licensed trade was based there.",
+      "temporal": {
+        "precision": "year",
+        "label": "1567 · year"
+      },
+      "notes": "Quote: \"based at Haicheng in the Zhangzhou estuary, Fujian, was legalized. Haicheng was the new name for Yuegang\" (Wills, p. 40); \"designated Yüeh-kang near modern Amoy as the port through which such maritime trade should pass\" (Huang, p. 559); \"raised to the status of a county seat and rechristened as Haicheng\" (von Glahn, p. 118); \"which it renamed Haicheng county\" (Hang, p. 31); \"along the southeastern coast\" (Geiss, p. 504); \"Zhangzhou prefecture, notably from the towns or villages in Haicheng, Longxi and Zhangpu\" (Chin, p. 188)\nCheck: Image, except Hang p. 31 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: Brook, as Zurndorfer quotes him, has the routes \"both starting at Moon Harbor and Quanzhou\" (ZUR p. 75, Read). The wording says \"based there\" and does not say \"only there\"."
+      },
+      "independenceNote": "6 Sources cited; lineage as recorded: Wills; Huang; von Glahn; Hang; Geiss; Chin.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Haicheng (Yuegang), Fujian · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 40"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 559"
+            },
+            "citation": "Ray Huang, \"The Lung-ch'ing and Wan-li reigns, 1567–1620\", in Frederick W. Mote and Denis Twitchett (eds.), *The Cambridge History of China*, vol. 7, *The Ming Dynasty, 1368–1644, Part 1* (Cambridge: Cambridge University Press, 1988), ch. 9 (read pp. 530–531, 559–561).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 118"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S09",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 31"
+            },
+            "citation": "Xing Hang, *Conflict and Commerce in Maritime East Asia* (Cambridge: Cambridge University Press, 2015), ch. 1, \"Setting the stage\" (read pp. 30–31).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S08",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 504"
+            },
+            "citation": "James Geiss, \"The Chia-ching reign, 1522–1566\", in *The Cambridge History of China*, vol. 7 (Cambridge: Cambridge University Press, 1988), ch. 8 (read p. 504).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 188"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C05",
+      "claimClass": "Mainstream interpretation",
+      "sensitive": false,
+      "wording": "Historians explain the change by the years of raiding on the coast. The raiders were called 'Japanese pirates'; the historian Pin-tsun Chang writes that they were mainly Chinese and Japanese armed smugglers. Officials had come to think that trade, not force, would end it. One of them had written in the 1550s that pirates and traders were the same people: open the trade and they are traders, close it and they are pirates.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1550s to 1567 · approximate"
+      },
+      "notes": "Quote: \"They were convinced that trade rather than military suppression was the only means to eradicate piracy.\" (Chang, p. 54); \"Tang Shu: \"pirates are no less human beings than traders; if trade is open to them, pirates will turn into traders; if closed, they will turn into pirates\"\" (Chang, p. 55); \"a special concession to the population of Fukien, which had taken to piracy and armed uprisings\" (Huang, p. 559); \"Pirates were composed primarily of Chinese and Japanese armed smugglers.\" (Chang, p. 54)\nCheck: Image, except Chang p. 55 (Read)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: Chang picks the pro-trade officials by his own account. Huang reads the same act as a concession. Both are in the table; the wording follows the part they share."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Chang; Huang.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "The south-east coast of China · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 54"
+            },
+            "citation": "Pin-tsun Chang, \"The Evolution of Chinese Thought on Maritime Foreign Trade from the Sixteenth to the Eighteenth Century\", *International Journal of Maritime History* 1:1 (1989), 51–64 (read pp. 51–52, 54–56, 58).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 55"
+            },
+            "citation": "Pin-tsun Chang, \"The Evolution of Chinese Thought on Maritime Foreign Trade from the Sixteenth to the Eighteenth Century\", *International Journal of Maritime History* 1:1 (1989), 51–64 (read pp. 51–52, 54–56, 58).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 559"
+            },
+            "citation": "Ray Huang, \"The Lung-ch'ing and Wan-li reigns, 1567–1620\", in Frederick W. Mote and Denis Twitchett (eds.), *The Cambridge History of China*, vol. 7, *The Ming Dynasty, 1368–1644, Part 1* (Cambridge: Cambridge University Press, 1988), ch. 9 (read pp. 530–531, 559–561).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C06",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The opening was narrow. Chinese ships could sail abroad; foreigners still could not come to China to trade freely. Japan stayed forbidden.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "from 1567 · approximate"
+      },
+      "notes": "Quote: \"While it permitted Chinese civilians to trade overseas, it still forbade foreigners to trade freely in China.\" (Chang, p. 54); \"Trade to Japan was never legal\" (Wills, p. 40); \"The maritime ban remained in place for Japan\" (Hang, p. 31)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high"
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Chang; Wills; Hang.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "China · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 54"
+            },
+            "citation": "Pin-tsun Chang, \"The Evolution of Chinese Thought on Maritime Foreign Trade from the Sixteenth to the Eighteenth Century\", *International Journal of Maritime History* 1:1 (1989), 51–64 (read pp. 51–52, 54–56, 58).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 40"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S09",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 31"
+            },
+            "citation": "Xing Hang, *Conflict and Commerce in Maritime East Asia* (Cambridge: Cambridge University Press, 2015), ch. 1, \"Setting the stage\" (read pp. 30–31).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C07",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "A ship's captain needed a licence, and the number of licences was fixed by quota. It was forbidden to carry out sulphur, copper or iron, and merchants had to return within a year. Von Glahn calls the forbidden goods strategic materials.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "from 1567 · approximate"
+      },
+      "notes": "Quote: \"Chinese ship captains needed to obtain licenses, the number of which was fixed by quota; the export of strategic materials such as sulfur, copper, and iron was forbidden; and merchants were required to return to China within a year's time.\" (von Glahn, p. 118); \"Quotas were established for the number of ships allowed to sail to each foreign port each year.\" (Wills, p. 40)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the page says it"
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: von Glahn; Wills.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "China · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 118"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 40"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C08",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The trade was taxed in two ways: a fee on each ship by its measured size, and duties on the goods by a list of rates. The historian John Wills writes that this began fairly soon after 1567, if not at once.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "from 1567 · approximate"
+      },
+      "notes": "Quote: \"Fairly soon, if not immediately, taxes were levied on this trade in two forms: 'measurement' fees on each ship according to its size and tariffs on various kinds of goods according to an elaborate schedule of rates.\" (Wills, p. 40); \"6 liang of silver for each chi of the ship's beam\" (the Ming record, Wanli 17/4/20 (2 June 1589); Wade cites *Shen-zong shi-lu* juan 210.6a, *Ming Shi-lu* vol. 105, p. 3939)\nCheck: Image, except the Ming record (web entry, no page scan)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: medium only because the start date is Wills's hedge."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Wills; Ming Shi-lu.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Haicheng (Yuegang), Fujian · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 40"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S15",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "Wanli 17/4/20 (2 June 1589); Wade cites *Shen-zong shi-lu* juan 210.6a, *Ming Shi-lu* vol. 105, p. 3939"
+            },
+            "citation": "*Ming Shi-lu*, Wanli year 17, month 4, day 20 (2 June 1589), trans. Geoff Wade, *Southeast Asia in the Ming Shi-lu: an open access resource* (Singapore: Asia Research Institute and NUS Press).",
+            "form": "Primary document, court record, English translation by a named translator",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C09",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1589 the court fixed the number of licences at 88, and 16 were for Luzon, more than for any other place. The licences were issued at Haicheng. By 1597 the number issued at Haicheng had risen to 137. How many of those were for Manila is not known.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1589 to 1597 · approximate"
+      },
+      "notes": "Quote: \"By 1597, the number of licenses issued at Haicheng had risen to 137, though we do not know how many were granted to Manila-bound ships.\" (von Glahn, p. 119); \"raised to 88. This was later raised again to 110 licenses in 1592, and to 137 licenses in 1597 (Zhang Xie 1981: 131-154)\" (Chin, p. 190); \"By far the largest number—16—was reserved for Luzon\" (von Glahn, p. 119); \"in 1589 the Ming court finally acceded to their demands. The new licensing system drawn up in that year fixed the total number of licenses at 88\" (von Glahn, p. 119)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: both scholars' 137 goes back to Zhang Xie; one root. Chin's \"110 in 1592\" falls inside the trade ban and is not in the wording. Chin's \"About half of those licenses would be used for trading in Hispanic Manila\" does not match 16 of 88 and is not in the wording."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: von Glahn; Chin.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Haicheng (Yuegang), Fujian · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 119"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 190"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C10",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The historian Richard von Glahn writes that customs officers at Haicheng complained about the ships from Luzon: they came home with nothing but silver coin, and coin paid no duty. So in 1589 the customs put a flat charge of 150 taels (a tael was a Chinese unit of weight used to reckon silver) on every ship back from Luzon, and lowered it to 120 the next year. No Source we have read says why the charge was lowered.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1589 and 1590 · approximate"
+      },
+      "notes": "Quote: \"customs officers at Haicheng complained that vessels returning from Luzon carried no cargo except for silver coins (Spanish rials-of-eight) and thus paid no customs duties, which were levied only on commodities. In 1589, therefore, the Haicheng customs imposed a surcharge of 150 tls. (lowered to 120 tls. the next year) on ships returning from Luzon to correct this inequity.\" (von Glahn, p. 119); \"Their lading is Rialls of eight\" (Saris, p. 227); \"Table 3 (silver collected in Hai-ch'eng county): columns headed \"Taels\" and \"Kilograms\"\" (Atwell, p. 81)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he says it: one scholar. An English merchant's note of about 1608 says the same of the ships' return cargo (HC-C31). It is a second witness for the coin. It says nothing about the flat charge, which still rests on von Glahn alone; his note 21 could not be reached. The complaint itself is undated on his page. The wording names him because the flat charge is the Connection's centre."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: von Glahn; Saris; Atwell.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Haicheng (Yuegang), Fujian · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 119"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 227"
+            },
+            "citation": "John Saris, \"Observations of Saris on the Eastern Trade\", in Ernest M. Satow (ed.), *The Voyage of Captain John Saris to Japan, 1613* (London: Hakluyt Society, 1900), Appendix B, pp. 212 on (read pp. 226–227). First printed in *Purchas His Pilgrimes*, vol. 1, p. 390.",
+            "form": "Primary report by a merchant, in a 1900 edition with the editor's notes",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 81"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C11",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Haicheng's merchants pressed the officials for more licences for Luzon.",
+      "temporal": {
+        "precision": "year",
+        "label": "1589 · year"
+      },
+      "notes": "Quote: \"Haicheng merchants besieged the Ming authorities with requests for more licenses for Luzon (i.e., Manila), and in 1589 the Ming court finally acceded to their demands.\" (von Glahn, p. 119); \"Now it is proposed allowing 16 ships to go to that country\" (the Ming record, Wanli 17/4/20 (2 June 1589); Wade cites *Shen-zong shi-lu* juan 210.6a, *Ming Shi-lu* vol. 105, p. 3939)\nCheck: Image, except the Ming record (web entry, no page scan)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: the court record has the governor proposing; the merchants' pressing is von Glahn's. No merchant's petition is in anything we hold."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: von Glahn; Ming Shi-lu.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Haicheng (Yuegang), Fujian · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 119"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S15",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "Wanli 17/4/20 (2 June 1589); Wade cites *Shen-zong shi-lu* juan 210.6a, *Ming Shi-lu* vol. 105, p. 3939"
+            },
+            "citation": "*Ming Shi-lu*, Wanli year 17, month 4, day 20 (2 June 1589), trans. Geoff Wade, *Southeast Asia in the Ming Shi-lu: an open access resource* (Singapore: Asia Research Institute and NUS Press).",
+            "form": "Primary document, court record, English translation by a named translator",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C12",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The silver that Haicheng collected in ship fees and duties grew in a generation: some 3,000 taels a year in 1567 to 1572, 6,000 by the mid-1570s, more than 20,000 in 1583, more than 29,000 in 1594, and more than 27,000 about 1599. No figure for 1602 is in the Sources we have read.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1567 to c. 1599 · approximate"
+      },
+      "notes": "Quote: \"1567-72 3,000‡ ... 1573 6,000 ... 1583 20,000 (+) ... 1594 29,000 (+) ... 1599† 27,000 (+)\" (Atwell, 1982, p. 81, Table 3); \"rose from 6,000 tls. in 1575 to more than 29,000 tls. after the maritime embargo was lifted in 1594\" (von Glahn, p. 119)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: one series. Atwell's table names Quan Hansheng 1972 as its source, and von Glahn's figures match it. The 6,000 is 1573 in Atwell and 1575 in von Glahn, so \"by the mid-1570s\". The 1599 date is marked approximate in the table."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Atwell; von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Haicheng (Yuegang), Fujian · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "1982, p. 81, Table 3"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 119"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C13",
+      "claimClass": "Mainstream interpretation",
+      "sensitive": false,
+      "wording": "Historians read the rise as the port's overseas trade growing, and as a sign of how fast foreign silver was coming into Fujian. That silver came from Japan as well as from Manila. The duty figures do not say how much came from each.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1567 to c. 1599 · approximate"
+      },
+      "notes": "Quote: \"It is now generally agreed that this increase was due almost entirely to the expansion of Yüeh-kang's foreign trade ... indicative of the increased rate at which Japanese and Spanish-American silver was entering the Fukienese and ultimately the Chinese economy.\" (Atwell, 1998, p. 403 n. 102); \"certainly set off a boom in maritime Fujian, led to the widespread use there of Spanish silver coins\" (Wills, p. 54)\nCheck: Image, except Atwell 1998, p. 403 n. 102 (Read)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: the last sentence of the wording is ours, and it is a limit, not a fact added. It stops the series being read as Manila's alone."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Atwell; Wills.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Haicheng (Yuegang), Fujian · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S06",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "1998, p. 403 n. 102"
+            },
+            "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 54"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C14",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The historian James Chin writes that most of the Chinese who lived at Manila came from Zhangzhou prefecture, notably from the towns and villages of Haicheng, Longxi and Zhangpu. A Fujian historian of the time, He Qiaoyuan (1557–1631), wrote that because Luzon was so near, most Zhangzhou people who travelled went there. We have his words in Chin's translation.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1600 · approximate"
+      },
+      "notes": "Quote: \"the majority came from Zhangzhou prefecture, notably from the towns or villages in Haicheng, Longxi and Zhangpu\" (Chin, p. 188); \"Since the place is adjacent to Fujian, majority of the Zhangzhou people travelled there.\" (Chin, p. 188 n. 41); \"the Hai Cheng district, where many of the Chinese immigrants came from\" (Borao, p. 27)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high: Chia finds Haicheng and Sandu men at Manila in 1686 (p. 521, Read); later, so context only."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Chin; Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila and Haicheng · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-haicheng-1602",
+          "e-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 188"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 188 n. 41"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 27"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C15",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The trade had two halves. Some merchants came over each year with the junks. Others stayed at Manila as their agents, sold the goods for American silver shipped from Acapulco, and gathered a cargo for the voyage home.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1589–1604 · approximate"
+      },
+      "notes": "Quote: \"another group of merchants who sojourned in Manila would act as their agents or retailers selling the goods for American silver shipped from Acapulco\" (Chin, p. 189); \"passed over the Pacific, especially out of Acapulco and through Manila\" (Chin, p. 192)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium"
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Chin.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Haicheng and Manila · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-haicheng-1602",
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 189"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 192"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C16",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "More ships went to Manila than the licences allowed. Some sailed on licences made out for other ports.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1589–1623 · approximate"
+      },
+      "notes": "Quote: \"Spanish records indicate many more Chinese ships arrived in Manila than the official numbers allowed\" (Zurndorfer, p. 76); \"a large number of Hokkien merchants clandestinely visited Manila though their licenses were issued for going to Champa, Tonkin, Patani and Taiwan\" (Chin, p. 191)\nCheck: Image, except Zurndorfer p. 76; Chin p. 191 (Read)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: Chin's source for the second sentence is a censor writing in 1623."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Zurndorfer; Chin.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Haicheng and Manila · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-haicheng-1602",
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S10",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 76"
+            },
+            "citation": "Harriet Zurndorfer, \"Oceans of history, seas of change: recent revisionist writing in western languages about China and East Asian maritime history during the period 1500–1630\", *International Journal of Asian Studies* 13:1 (2016), 61–94 (read p. 76).",
+            "form": "Scholarship (review article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 191"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C17",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "A later official, Fu Yuanchu, described the Luzon trade in a memorial of 1639. In Luzon, he wrote, there is a silver mountain, and the foreigners there cast silver coins in plenty; Chinese who trade to the Western Ocean barter for local goods, but those who go to Luzon simply exchange for silver coins. We have his words in Pin-tsun Chang's translation.",
+      "temporal": {
+        "precision": "year",
+        "label": "1639 · year"
+      },
+      "notes": "Quote: \"In the Eastern Ocean there is Luzon occupied by the Frangi barbarians; there is a silver mountain in this country; the barbarians therefore have cast silver coins in abundance.\" (Chang, p. 58); \"In contrast they will simply exchange for silver coins when they go trading in Luzon.\" (Chang, p. 58)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that it is in the memorial as translated: thirty-seven years after 1602, and the fullest Chinese voice on this trade that we hold. \"Foreigners\" stands for \"Frangi barbarians\" in our wording; the quote keeps Chang's words."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Chang.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "The Ming court · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 58"
+            },
+            "citation": "Pin-tsun Chang, \"The Evolution of Chinese Thought on Maritime Foreign Trade from the Sixteenth to the Eighteenth Century\", *International Journal of Maritime History* 1:1 (1989), 51–64 (read pp. 51–52, 54–56, 58).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C18",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In the early 1590s, when Japan invaded Korea, the court shut the sea trade again. Some officials wanted the sea closed to cut off contact with the Japanese. Officials in Fujian protested, the governor Xu Fuyuan among them, and by 1594 the trade was open once more, with Japan still forbidden. Even in 1592 more than twenty Chinese ships reached Manila.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1591 to 1594 · approximate"
+      },
+      "notes": "Quote: \"Even in 1592, during a short-lived embargo on all maritime commerce (1591-93) ... more than twenty Chinese ships reached Manila.\" (von Glahn, p. 119); \"A chorus of leading officials in Fujian resoundingly condemned the suspension of foreign trade\"; \"In 1593, they persuaded the court to rescind the ban\" (von Glahn, p. 119); \"This opinion was successfully refuted by realistic officials like Hsu Fu-yuan (1535-1604), then the Governor of Fukien\" (Chang, p. 56); \"Some officials wanted to restore prohibition to seal off contacts with the Japanese, lest this lead to an invasion of China\" (Chang, p. 56)\nCheck: Image, except Chang p. 56 (Read)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: Von Glahn has \"1591-93\", \"rescind ... 1593\" and \"lifted in 1594\" on one page; Chang dates Xu Fuyuan's memorial 1594. So \"the early 1590s\" and \"by 1594\"."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: von Glahn; Chang.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Fujian and the Ming court · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 119"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S03",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "Pin-tsun Chang, \"The Evolution of Chinese Thought on Maritime Foreign Trade from the Sixteenth to the Eighteenth Century\", *International Journal of Maritime History* 1:1 (1989), 51–64 (read pp. 51–52, 54–56, 58).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C19",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "From 1596 the Wanli emperor sent eunuchs into the provinces as tax collectors and mining intendants. Eunuchs were men of the palace staff; the emperor sent them himself, and they took over work that civil officials had done. Historians call them commissioners. By 1599 the main ports each had one. Wills, Chin and Borao name the commissioner in Fujian as Gao Cai, and Chin adds that the duties on the sea trade were part of his charge.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1596 to 1599 · approximate"
+      },
+      "notes": "Quote: \"In 1599, the scale was widened. By then all major ports had senior eunuchs in residence\" (Huang, p. 531); \"The system saw its beginnings in 1596; by 1599, it was already widely practised.\" (Borao, p. 35); \"Gao Cai, the notorious eunuch tax and mines commissioner in Fujian\" (Wills, p. 56); \"Gao Cai, a senior eunuch sent by the Ming court to oversee the maritime duty affairs of Fujian and who was powerful in local Fujian government\" (Chin, p. 184); \"The palace staff was large. The number of eunuchs on the staff from the mid-fifteenth century to mid-sixteenth century fluctuated between 10,000 to 30,000 men\" (Huang (Cambridge History, vol. 8), p. 116); \"When the emperor dispatched eunuchs to the provinces as tax collectors and mining intendants in 1596\" (Huang, p. 530); \"It was also common for such eunuch officials to take over the operations themselves, reducing the civil officials who orginally administered them to the status of office subordinates\" (Huang, p. 530); \"When the first eunuch commissioners were dispatched in 1596\" (Huang, p. 530)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: Borao's sentence follows Huang (his notes 36–37), so the dates are one witness. No page says Gao Cai lived at Haicheng, or gives the year he came to Fujian; the wording says neither. \"Part of his charge\" rests on Chin alone. Huang's page was imaged: 'In 1599, the scale was widened. By then all major ports had senior eunuchs in residence.'"
+      },
+      "independenceNote": "5 Sources cited; lineage as recorded: Huang; Borao; Wills; Chin; Huang (Cambridge History, vol. 8).",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Fujian · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 531"
+            },
+            "citation": "Ray Huang, \"The Lung-ch'ing and Wan-li reigns, 1567–1620\", in Frederick W. Mote and Denis Twitchett (eds.), *The Cambridge History of China*, vol. 7, *The Ming Dynasty, 1368–1644, Part 1* (Cambridge: Cambridge University Press, 1988), ch. 9 (read pp. 530–531, 559–561).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 35"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 184"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S13",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 116"
+            },
+            "citation": "Ray Huang, \"The Ming fiscal administration\", in Denis Twitchett and Frederick W. Mote (eds.), *The Cambridge History of China*, vol. 8, *The Ming Dynasty, 1368–1644, Part 2* (Cambridge: Cambridge University Press, 1998), ch. 2 (read p. 116).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 530"
+            },
+            "citation": "Ray Huang, \"The Lung-ch'ing and Wan-li reigns, 1567–1620\", in Frederick W. Mote and Denis Twitchett (eds.), *The Cambridge History of China*, vol. 7, *The Ming Dynasty, 1368–1644, Part 1* (Cambridge: Cambridge University Press, 1988), ch. 9 (read pp. 530–531, 559–561).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C20",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1602 the commissioner in Fujian obtained the emperor's leave to look for precious metals on a mountain across the sea, on the word of a man from Fujian named Zhang Yi, whom John Wills calls an adventurer. Officials at court protested. The mountain was said to be at Cavite, beside Manila. The historian Ray Huang writes that there is no evidence the emperor knew where it was.",
+      "temporal": {
+        "precision": "year",
+        "label": "1602 · year"
+      },
+      "notes": "Quote: \"In 1602, on the recommendation of a certain Chang I, the eunuch intendant in charge of business taxes and mining in Fukien obtained the Wan-li emperor's permission to mine for precious metals on Mount Chi-i on a remote offshore island.\" (Huang, p. 561); \"There is no evidence that the emperor realized where the island was\"; \"in the face of strong protests from his censorial officials\" (Huang, p. 561); \"that there was a mountain of gold on Cavite Peninsula in Manila Bay\" (Wills, p. 56); \"The emperor actually allowed this expedition, despite opposition from various people in his court\" (Borao, p. 27)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the page says it: this is the Moment's dated event. Huang does not name the commissioner. Wills and Borao name Gao Cai as the man Zhang Yi went to. The Story joins the two."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Huang; Wills; Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "The Ming court and Cavite · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 561"
+            },
+            "citation": "Ray Huang, \"The Lung-ch'ing and Wan-li reigns, 1567–1620\", in Frederick W. Mote and Denis Twitchett (eds.), *The Cambridge History of China*, vol. 7, *The Ming Dynasty, 1368–1644, Part 1* (Cambridge: Cambridge University Press, 1988), ch. 9 (read pp. 530–531, 559–561).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 27"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C21",
+      "claimClass": "Disputed",
+      "sensitive": true,
+      "wording": "In 1603 officials from Fujian sailed to Manila to see the mountain. One was Wang Shihe, an official of Haicheng county. Scholars differ on the rest. José Eugenio Borao, working from Spanish reports, has three officials landing on 23 May; the letter they carried named a eunuch, and he reasons that the third was Gao Cai himself. John Wills has two, arriving in March, with Zhang Yi in chains, and no commissioner. Borao writes that Wang was so distraught over the expedition that he died soon after he reached Fujian.",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"The second mandarin (not mentioned in the letter) was Wang Shi-ho, the magistrate of the Hai Cheng district\" (Borao, p. 27); \"The third mandarin must logically have been the eunuch Gao Tsai (who appears in the letter as Cochai).\" (Borao, p. 27); \"An assistant xian magistrate, Wang Shihe, and a company commander, Yu Yicheng, were sent, bringing Zhang Yi in chains\"; \"The delegation arrived in March 1603\" (Wills, p. 57); \"a eunuch called Cochay, who had received specific orders from the emperor to investigate the matter\" (Borao, p. 26); \"this series of events might have taken place as follows\" (Borao, p. 26); \"the latter was so distraught over the recent expedition that he died soon after they arrived in Fujian\" (Borao, p. 27)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: \"an official of Haicheng county\" covers Borao's \"magistrate\" and Wills's \"assistant xian magistrate\". Wills does not name the county."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Borao; Wills.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 27"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 57"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 26"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C22",
+      "claimClass": "Disputed",
+      "sensitive": true,
+      "wording": "The two sides read the voyage differently. On the Fujian side, the officer who wrote ahead said he did not believe in the mountain and came because he was ordered to; Wills writes that the province sent the party to show up Zhang Yi's story. At Manila the Spaniards could not believe that was the purpose, and took the visitors for spies ahead of an invasion. In 1593 Chinese rowers, conscripted for the governor's galleys, had mutinied and killed the governor, Gómez Pérez Dasmariñas. The governor's account of the 1603 events was written to the king afterwards, to explain his conduct; the day-by-day reports come from two judges hostile to him.",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"He added that he did not believe in the existence of such a mountain, and presumed it to be a lie.\" (Borao, p. 26); \"clearly planned it to show up Zhang Yi's hoax\"; \"the Spanish could not believe that the search for the mountain of gold had been its real purpose\" (Wills, p. 57); \"the Chinese sources agree with the Spanish, both indicating that this trip had been the cause of the Spanish suspicions\" (Borao, p. 28); \"The rebellion took place on the night of 25 October, claiming the lives of the governor himself\" (Borao, p. 24); \"two hundred and fifty Chinese were forcibly recruited to row the ships\" (Borao, p. 22); \"In 1593 the Chinese rowers of the galley of Governor Gomez Perez Dasmariñas mutinied and killed him.\" (Wills, p. 56); \"only 1,200 at that time, of whom 700 lived in Manila\" (Chin, p. 189); \"governor Pedro de Acuña wrote the king an account wherein he explained his behaviour during the entire event\" (Borao, p. 28); \"the two judges of the Audiencia, Jerónimo de Salazar and Tellez de Almazan, both hostile toward the governor\" (Borao, p. 26)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium"
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Borao; Wills; Chin.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 26"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 57"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 28"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 24"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 22"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 189"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C23",
+      "claimClass": "Mainstream interpretation",
+      "sensitive": false,
+      "wording": "Nearly all that is written about Gao Cai was written by men who opposed him. John Wills notes that the Chinese record of these years is rich because officials were fighting the palace commissioners. Ray Huang adds that the regular officials had run the same taxes laxly and corruptly themselves. Borao finds the sources split: some make Gao Cai the head of the gold venture, others the tax chief who lived off the sea trade.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1596 to 1604 · approximate"
+      },
+      "notes": "Quote: \"a by-product of the elite's preoccupation with its struggles against the eunuch mine and tax commissioners\" (Wills, p. 67); \"the civil officials themselves had in the past been notoriously lax and corrupt in administering revenues from industrial and commercial sources\" (Huang, p. 531); \"Some sources depict him as the superintendent of the Beijing expedition, while others show him as Fujian's quartermaster general for taxes, who made a living off the Chinese maritime trade.\" (Borao, p. 27); \"To the scholars and civil officials this had been just another case of collusion between eunuchs and seagoing Chinese desperadoes, so closely parallel to the 1603 events at Manila that the two were discussed in the same memorial.\" (Wills, p. 68)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium"
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Wills; Huang; Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Fujian and the Ming court · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 67"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 531"
+            },
+            "citation": "Ray Huang, \"The Lung-ch'ing and Wan-li reigns, 1567–1620\", in Frederick W. Mote and Denis Twitchett (eds.), *The Cambridge History of China*, vol. 7, *The Ming Dynasty, 1368–1644, Part 1* (Cambridge: Cambridge University Press, 1988), ch. 9 (read pp. 530–531, 559–561).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 27"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 68"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C24",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "In October 1603 very many of the Chinese of Manila were killed. The officials of Fujian laid much of the blame on Zhang Yi and told Manila to send the widows and orphans home. The court record, in Borao's translation, says Zhang Yi was beheaded. No fleet was sent.",
+      "temporal": {
+        "precision": "year",
+        "label": "October 1603 · year"
+      },
+      "notes": "Quote: \"a massacre in which more than twenty thousand Chinese were killed\" (Wills, p. 56); \"The Fujian officials were inclined to fix much of the blame on Zhang Yi\"; \"they should send the widows and orphans back to China, but no chastising expedition was sent\" (Wills, p. 58); \"Zhang Yi was beheaded\" (Borao, p. 27–28); \"and [his head] shown to the coastal provinces as a warning to people of his sort\" (Borao, p. 28)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: The wording gives no count. No page counts the dead by county."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Wills; Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 58"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 27–28"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 28"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C25",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "A Chinese history written some fifty years later says the officials of Fujian and Guangdong did not report all of it: they told the emperor half the truth, and he ordered only that the people of Luzon cause no more trouble. We have it in Borao's translation.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1653 · approximate"
+      },
+      "notes": "Quote: \"the magistrates of Fujian and Guangdong did not want to report this. They only told the emperor half the truth, which is why the emperor only ordered the people of Luzon: stop creating more problems!\" (Borao, p. 36); \"T'an Ch'ien, comp., Kuo ch'üeh (ca. 1653 ...)\" (Huang, p. 561 n. 25)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium that the book says it, in Borao's translation: \"some fifty years later\" is from Huang's date for the *Guo Que*, about 1653. Borao cites its chapter 47. One translator, one late book; it earns its place because it is a Chinese source criticising the Chinese officials."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Borao; Huang.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Fujian and Guangdong · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 36"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 561 n. 25"
+            },
+            "citation": "Ray Huang, \"The Lung-ch'ing and Wan-li reigns, 1567–1620\", in Frederick W. Mote and Denis Twitchett (eds.), *The Cambridge History of China*, vol. 7, *The Ming Dynasty, 1368–1644, Part 1* (Cambridge: Cambridge University Press, 1988), ch. 9 (read pp. 530–531, 559–561).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C26",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The trade did not stop. Ships from China were at Manila again in 1604. Wills writes that the Spaniards saw they could not live without the Chinese trade.",
+      "temporal": {
+        "precision": "year",
+        "label": "1604 · year"
+      },
+      "notes": "Quote: \"they could not survive without their trade and industry\" (Wills, p. 58)\nCheck: Image, except Wills p. 58 (Read)",
+      "confidence": {
+        "level": "high",
+        "rationale": "high"
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Wills.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 58"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C27",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1604 a Dutch squadron came to the Penghu Islands to ask for trade. Men from Haicheng who traded at Patani had advised them, and one, Li Jin, told them to pay the commissioner. John Wills writes that Gao Cai sent word that leave to trade could be had for forty to fifty thousand reals. A Ming naval officer, Shen Yourong, came with fifty war junks and told the Dutch to leave. They found no suitable harbour and gave up.",
+      "temporal": {
+        "precision": "year",
+        "label": "1604 · year"
+      },
+      "notes": "Quote: \"many Hokkien merchants from Haicheng sojourned in Patani\"; \"Li Jin advised him to bribe Gao Cai\" (Chin, p. 184); \"Gao Cai sent word that permission to trade could be obtained for 40,000 to 50,000 reals\" (Wills, p. 68); \"to oppose the eunuch by sending the touzy (Admiral), Shen You-rong\" (Borao, p. 36); \"The Dutch could find no suitable harbor there, and finally gave up and returned to Patani\" (Wills, p. 68)\nCheck: Image, except Wills p. 68 (Read)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: Chin and Borao both draw on Zhang Xie here; Wills on Groeneveldt's Dutch documents. So the Chinese and Dutch records agree on the outline."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Chin; Wills; Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "The Penghu Islands · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 184"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 68"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 36"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C28",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "A Spanish churchman at Manila, the Dominican Benavides, wrote down what the Chinese there were saying about the commissioners at home: that they laid many taxes on the people to get gold and silver for the emperor, and that within two years or so there would be risings in China. We have it in Borao's translation.",
+      "temporal": {
+        "precision": "unknown",
+        "label": "date not given · unknown"
+      },
+      "notes": "Quote: \"these eunuchs, to get gold and silver for the Emperor, impose a lot of taxes on the vassals ... publicly the Chines here [the Philippines] tell us that within two years more or less there will be communities and uprisings in China\" (Borao, p. 35)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium that he reported it: the nearest thing we hold to what ordinary Fujian people thought of the taxes, and it comes through a Spanish priest with his own quarrel. The page gives no date for the remark."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 35"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C29",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The merchants of this coast took their gods with them. The historian James Chin writes that the goddess Mazu and other deities of southern Fujian were carried to the Chinese settlements overseas, where temples served as meeting places. At Manila, Dominican missionaries worked among the Chinese from 1587. Before that, Chinese who became Christians had been expected to cut their long hair and dress as Spaniards; Wills writes that it is not clear how far the Dominicans changed this.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1587 to 1602 · approximate"
+      },
+      "notes": "Quote: \"many well-known Hokkien deities like Mazu ... were exported to the Hokkien communities overseas by the merchants\" (Chin, pp. 201–202); \"Chinese converts had been expected to adopt Spanish clothing and to cut their long hair.\" (Wills, p. 56); \"The Dominicans built a church in the vicinity of the Parian soon after their arrival in 1587\" (Wills, p. 55); \"the goddess Mazu\" (Wills, p. 35)\nCheck: Image, except Chin pp. 201–202; Wills p. 55 (Read)",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: Chin's examples are Batavia, Nagasaki and other ports; he does not name Manila or date the practice to 1602. Wills says it \"is not clear\" how far the Dominicans kept the hair rule. No page we hold names a temple, a god or a rite at Haicheng itself."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Chin; Wills.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Hokkien settlements overseas, and Manila · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "pp. 201–202"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 55"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 35"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C30",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Much of what historians say about the port goes back to one local book, Zhang Xie's study of the Eastern and Western Oceans, written in 1616 and printed in Zhangzhou the next year. We have not read it; it has no translation we hold. By the middle of the 1600s Haicheng's sea trade was over, and most of its merchants, it seems, had moved to Xiamen, another port in southern Fujian.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1616 to c. 1650 · approximate"
+      },
+      "notes": "Quote: \"Zhang Xie's Dongxiyang kao was written in 1616 and printed the next year in Zhangzhou in south Fujian\" (Chin, p. 184); \"By the mid-seventeenth century, Haicheng had long ceased to play any role in the maritime trade\"; \"most of the merchants formerly in Haicheng had moved to Xiamen\" (Chia, p. 526); \"As Xiamen took off as the primary port in southern Fujian\" (Chia, p. 526)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium"
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Chin; Chia.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Haicheng and Xiamen · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 184"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S12",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 526"
+            },
+            "citation": "Lucille Chia, \"The Butcher, the Baker, and the Carpenter: Chinese Sojourners in the Spanish Philippines and Their Impact on Southern Fujian (Sixteenth–Eighteenth Centuries)\", *Journal of the Economic and Social History of the Orient* 49:4 (2006), 509–534 (read p. 526).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C31",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "An English merchant, John Saris, lived at Bantam in Java from 1605 to 1609 and wrote a report on the trade of the East. He noted that junks for Manila left China in March, in companies of four, five, ten or more; that they carried out raw and worked silks; that they came back at the beginning of June laden with reals of eight; and that no fewer than forty sailed in a year. Nothing we have read puts him in China.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1605 to 1609 · approximate"
+      },
+      "notes": "Quote: \"in the moneth of March, the Iunckes bound for the Mannelies depart from Chauchu in Companies, sometime foure, fiue, ten or more together\" (Saris, pp. 226–227); \"their lading out-wards is raw and wrought Silkes\" (Saris, p. 227); \"in the beginning of Iune they returne from the Mannelies. Their lading is Rialls of eight, and there is not lesse then fortie sayle in a yeare\" (Saris, p. 227); \"in this year 1608\" (Saris, p. 227)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: nothing on the pages we read puts him in China; the report is a factor's notes made at Bantam. The port he names is \"Chauchu\". Satow's note says \"Perhaps Chau chau-fu\"; Chin prints \"Chanchu\" and takes it for Zhangzhou. The wording names no port. Chin dates the remark 1613; the report is of 1605–09, and Satow's introduction says so (scan text, Read)."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Saris.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Bantam, and the junks of the China coast · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "pp. 226–227"
+            },
+            "citation": "John Saris, \"Observations of Saris on the Eastern Trade\", in Ernest M. Satow (ed.), *The Voyage of Captain John Saris to Japan, 1613* (London: Hakluyt Society, 1900), Appendix B, pp. 212 on (read pp. 226–227). First printed in *Purchas His Pilgrimes*, vol. 1, p. 390.",
+            "form": "Primary report by a merchant, in a 1900 edition with the editor's notes",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S11",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 227"
+            },
+            "citation": "John Saris, \"Observations of Saris on the Eastern Trade\", in Ernest M. Satow (ed.), *The Voyage of Captain John Saris to Japan, 1613* (London: Hakluyt Society, 1900), Appendix B, pp. 212 on (read pp. 226–227). First printed in *Purchas His Pilgrimes*, vol. 1, p. 390.",
+            "form": "Primary report by a merchant, in a 1900 edition with the editor's notes",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C32",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The historian James Chin, drawing on Fujian writers of about 1630, says that a merchant from this coast who went overseas might be away for many years, and that some came home to grown sons they did not know. Nothing we have read ties these accounts to the families of 1603.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1630 · approximate"
+      },
+      "notes": "Quote: \"if they sojourned overseas, many years would have to pass before they finally arrived home ... returning home to find that their sons had already grown up and that they could not recognize each other\" (Chin, p. 202); \"Stories like these can frequently be found in local gazetteers or other records (He Qiaoyuan c.1630 ...)\" (Chin, p. 202)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: about Hokkien merchants in general, not Haicheng or 1602. Chin calls these \"stories\" in the gazetteers. It is the only page we hold that looks at the household left behind."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Chin.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Fujian merchants overseas · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 202"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C33",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The Spaniards settled at Manila in 1571, four years after the opening of 1567, with silver from America. Manila, on the island of Luzon, soon became one of the places the licensed ships sailed to.",
+      "temporal": {
+        "precision": "year",
+        "label": "1571 · year"
+      },
+      "notes": "Quote: \"Four years later, the Spaniards worked their way into the Philippine Islands and established themselves in Manila with American silver.\" (Chin, p. 189); \"Manila soon became one of the destinations.\" (Wills, p. 40); \"the founding of Manila in 1571\" (von Glahn, p. 118); \"the city of Cavite on the island of Luzon\" (Huang, p. 561)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high"
+      },
+      "independenceNote": "4 Sources cited; lineage as recorded: Chin; Wills; von Glahn; Huang.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement precision",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S02",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 189"
+            },
+            "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 40"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 118"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S04",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 561"
+            },
+            "citation": "Ray Huang, \"The Lung-ch'ing and Wan-li reigns, 1567–1620\", in Frederick W. Mote and Denis Twitchett (eds.), *The Cambridge History of China*, vol. 7, *The Ming Dynasty, 1368–1644, Part 1* (Cambridge: Cambridge University Press, 1988), ch. 9 (read pp. 530–531, 559–561).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C34",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In 1604 the governor of Fujian, Xu Xueju, wrote that his people traded at Luzon only for the silver coins to be had there. We have his words in Richard von Glahn's translation.",
+      "temporal": {
+        "precision": "year",
+        "label": "1604 · year"
+      },
+      "notes": "Quote: \"Our subjects engage in commerce in Luzon solely because of the silver coins\" (von Glahn, ch. 4, p. 127); \"vessels returning from Luzon carried no cargo except for silver coins\" (von Glahn, ch. 4, p. 119)\nPage image: web entry, no page scan\nCheck: Image, Read",
+      "confidence": {
+        "level": "medium",
+        "rationale": "a Chinese official, in a scholar's translation. The Chinese text behind it is cited in endnotes we do not hold (note 45). He calls the people of Luzon \"Portuguese\"; von Glahn marks that \"[sic]\". This is the first Chinese voice in either Manila Story."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Fujian, about the Luzon trade · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 127; p. 119"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C35",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "In October 1603 there was fighting at Manila between Chinese residents and the Spaniards. It ended in the killing of very many of the Chinese of Manila by Spanish soldiers and by the Japanese soldiers and the men of Pampanga and the Tagalog provinces who fought beside them. Historians give different totals. Borao writes that some 20,000 were killed. Wills writes of more than twenty thousand, and says estimates range from fifteen thousand to twenty-five thousand. Borao reports that the Ming Shi gives twenty-five thousand. Spanish and Chinese records tell the same events in the same order.",
+      "temporal": {
+        "precision": "year",
+        "label": "October 1603 · year"
+      },
+      "notes": "Quote: \"put down by the Spanish who, together with Philippine and Japanese troops, massacred some 20,000 Chinese\" (Borao 1998, p. 22); \"chronicles in both languages include the same facts and are alike in the ordering of events\" (Borao 1998, p. 22); \"A new detachment of Spaniards, Japanese and 1500 natives of Pampanga and the Tagalog provinces is formed in Manila.\" (Borao 1998, p. 30); \"Twenty five thousand Chinese perished in the massacre.\" (Borao 1998, p. 31); \"a massacre in which more than twenty thousand Chinese were killed\" (Wills 2010, p. 56); \"Estimates of the total number of Chinese slaughtered range from fifteen thousand to twenty-five thousand.\" (Wills 2010, p. 58); \"as Filipino auxiliaries arrived from outlying areas the Chinese broke and fled\" (Wills 2010, p. 58)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high. Totals are later estimates and differ, 15,000 to 25,000; no count made at the time is among our Sources."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Borao; Wills.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila and the country round it · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 22"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 30"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 31"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 56"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "HC-S01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 58"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C36",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The Spanish writers say the Chinese of Manila rose. Archbishop Benavides wrote that a rumour had spread among them that the Spaniards meant to kill them all. Governor Acuña told the king it had been stirred up from China. A historian notes that the testimony behind that charge was taken under torture.",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"The Spanish sources (Morga, Argensola, Acuña, etc.) emphatically state that the Chinese staged an uprising.\" (Borao 1998, p. 29); \"that the Spanish were going to kill every one of them\" (Borao 1998, quoting Benavides, p. 29); \"it goes without saying that the uprising was instigated from China\" (Borao 1998, quoting Acuña, p. 29); \"their validity is doubtful since they were obtained through torture\" (Borao 1998, p. 31); \"persuading them that the precautions and measures which I was taking were in order to kill them\" (Acuña, p. 154); \"his eventual moves, preventive and defensive in nature\" (Borao 1998, p. 28)\nPage image: https://archive.org/details/philippineisland12blai/page/n157/mode/1up; the scholarship pages: web entry, no page scan\nCheck: Read, Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that the Spanish writers say it."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Borao; Acuña.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 29; p. 31; p. 28"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S14",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 154"
+            },
+            "citation": "Pedro de Acuña, Governor of the Philippines, to the king, Manila, [18 December 1603, as Borao dates it (1998, p. 28)]. Blair & Robertson (eds.), *The Philippine Islands, 1493–1898*, vol. 12 (Cleveland, 1904), read p. 154. In English translation from the Spanish. [The letter's first page, its page range and its translator are to be taken from the volume, not yet opened.]",
+            "form": "Primary document, letter",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C37",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "In May 1603 three Ming officials came to Manila to look for a mountain said to yield gold. Spanish and Chinese records both name this visit as what set off the Spaniards' fear of an invasion.",
+      "temporal": {
+        "precision": "year",
+        "label": "May 1603 · year"
+      },
+      "notes": "Quote: \"Three mandarins landed in Manila, displaying their insignias as judges.\" (Borao 1998, p. 26); \"this trip had been the cause of the Spanish suspicions and the subsequent massacre four months later\" (Borao 1998, p. 28)\nPage image: web entry, no page scan\nCheck: Read",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that Borao says it. He builds the timeline from Argensola and two judges hostile to the governor, and says the events 'might have taken place as follows' (p. 26). John Wills gives a different list: 'An assistant xian magistrate, Wang Shihe, and a company commander, Yu Yicheng', arriving in March 1603, with a second meeting in May (Wills 2010, p. 57). Borao's third official is his own inference from a name in the letter (p. 27)."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 26; p. 28"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "HC-S01",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 57"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ]
+      }
+    },
+    {
+      "id": "HC-C38",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The Ming emperor, in the official history, said that the governor of Luzon had killed people without leave. The governor of Fujian, Xu Xueju, wrote to Manila demanding that the widows and children of the dead be sent home. China sent no fleet.",
+      "temporal": {
+        "precision": "year",
+        "label": "1604 · year"
+      },
+      "notes": "Quote: \"the governor of Luzon murdered people without license\" (Borao 1998, translating the *Ming Shi*, p. 32); \"demanding that the widows and children of the victims be sent back to China\" (Borao 1998, p. 32); \"For the moment, China did not launch a punitive attack\" (Borao 1998, p. 32)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Borao.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "China, about Manila · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 32"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "HC-C39",
+      "claimClass": "Supported fact",
+      "sensitive": true,
+      "wording": "The ships came back. The Spanish account has thirteen ships from China at Manila in May 1604; the customs count has fifteen for that year.",
+      "temporal": {
+        "precision": "year",
+        "label": "1604 · year"
+      },
+      "notes": "Quote: \"in May of 1604, thirteen ships arrived from China\" (Borao 1998, p. 32); Table row: 1604, Chinese vessels 15, total arrivals 26 (von Glahn, ch. 4, p. 120); \"filling up two ships bound for New Spain with their cargo\" (Borao 1998, p. 32)\nPage image: web entry, no page scan\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium; the count differs."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: Borao; von Glahn.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Manila · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-manila-haicheng-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "HC-S07",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 32"
+            },
+            "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+            "form": "Scholarship (journal article)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "HC-S05",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 120"
+            },
+            "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    }
+  ]
+}

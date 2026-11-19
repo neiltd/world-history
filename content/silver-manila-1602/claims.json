@@ -933,12 +933,12 @@
       "id": "MR-C19",
       "claimClass": "Supported fact",
       "sensitive": false,
-      "wording": "The historian Richard von Glahn writes that Haicheng, the former Yuegang, was the principal home port of the Chinese merchant fleets that sailed overseas.",
+      "wording": "The historian Richard von Glahn writes that Yuegang was raised to a county seat and renamed Haicheng, and that it was the principal home port of the Chinese merchant fleets that sailed overseas.",
       "temporal": {
         "precision": "approximate",
         "label": "from 1567 · approximate"
       },
-      "notes": "Quote: \"served as the principal home port for the Chinese merchant fleets embarking on overseas trading expeditions\" (von Glahn, ch. 4, p. 118)\nPage image: web entry, no page scan\nCheck: Image",
+      "notes": "Quote: \"served as the principal home port for the Chinese merchant fleets embarking on overseas trading expeditions\" (von Glahn, ch. 4, p. 118); \"Yuegang, raised to the status of a county seat and rechristened as Haicheng\" (von Glahn, ch. 4, p. 118)\nPage image: web entry, no page scan\nCheck: Image",
       "confidence": {
         "level": "high",
         "rationale": "high that he says it."
@@ -1207,7 +1207,7 @@
       "notes": "Quote: \"Three mandarins landed in Manila, displaying their insignias as judges.\" (Borao 1998, p. 26); \"this trip had been the cause of the Spanish suspicions and the subsequent massacre four months later\" (Borao 1998, p. 28)\nPage image: web entry, no page scan\nCheck: Read",
       "confidence": {
         "level": "high",
-        "rationale": "high."
+        "rationale": "high that Borao says it. He builds the timeline from Argensola and two judges hostile to the governor, and says the events 'might have taken place as follows' (p. 26). John Wills gives a different list: 'An assistant xian magistrate, Wang Shihe, and a company commander, Yu Yicheng', arriving in March 1603, with a second meeting in May (Wills 2010, p. 57). Borao's third official is his own inference from a name in the letter (p. 27)."
       },
       "independenceNote": "1 Source cited; lineage as recorded: Borao.",
       "editorialState": "draft",
@@ -1235,7 +1235,20 @@
           }
         ],
         "challenges": [],
-        "contextualizes": []
+        "contextualizes": [
+          {
+            "sourceId": "SR20",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "verified",
+              "text": "p. 57"
+            },
+            "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ]
       }
     },
     {
@@ -1573,6 +1586,261 @@
             "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
             "form": "Scholarship (journal article)",
             "language": "English",
+            "accessLevel": "full text reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C34",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "The viceroy of Peru reported that in 1593 and the first three months of 1594 a dozen ships had sailed for Mexico and left Peru bare of silver. Merchants of Peru who once bought European goods at Panama, he explained, now took their money and ships to Acapulco and bought Chinese goods there. Two or three million pesos a year went out this way, and most of it was sent on to the Philippines. Guillermina del Valle Pavón (2005) gives that figure as the viceroy's. Woodrow Borah (1954), who names him as the Marqués de Cañete, gives it as his own reckoning from the viceroy's letters. We have not read the letters.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1593–1594 · approximate"
+      },
+      "notes": "Quote: \"«una docena de barcos habían zarpado rumbo a México, dejando esta colonia limpia de plata»\" (del Valle Pavón, p. 227); \"daba lugar a la salida de dos o tres millones de pesos anuales, la mayor parte de los cuales se remitían a Filipinas\" (del Valle Pavón, p. 227); \"the silver involved in the Mexico-Peru trade must have been upwards of two million and perhaps even three million silver pesos\" (Borah, p. 123); \"Most of this total represented payment for Chinese merchandise bought in Acapulco, the silver being sent on to the Philippines, where a large part of it was delivered to the Chinese.\" (Borah, p. 123)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: one report by an official with his own case to make, at second hand. The two historians are one line, not two; del Valle Pavón cites Borah elsewhere in the article. It says Peru, not Potosí."
+      },
+      "independenceNote": "2 Sources cited; lineage as recorded: del Valle Pavón; Borah.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 227"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR16",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 123"
+            },
+            "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C35",
+      "claimClass": "Mainstream interpretation",
+      "sensitive": false,
+      "wording": "The letters of the time say Peru. Two historians name Potosí as the mine behind Peru's silver and as a market for the goods. Woodrow Borah (1954) writes that Peru was short of goods \"in the very years that the silver output at Potosí was reaching previously unheard-of sums\", and that the Philippine trade met a demand in Lima and Potosí that neither Spain nor Mexico could. Guillermina del Valle Pavón (2005) writes that Lima and Potosí produced three or four times as much silver as New Spain, and that this made Acapulco the place where goods from Asia passed on to Peru. One historian goes further. Kris Lane (2019) writes that Lima's merchants sent \"feeder ships\" with Potosí silver to supply the ships for Manila. That is his reading; he adds that how much Potosí silver reached Asia this way remains uncertain.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "late 16th century · approximate"
+      },
+      "notes": "Quote: \"Peru was short of manufactures and luxury goods in the very years that the silver output at Potosí was reaching previously unheard-of sums.\" (Borah, p. 117); \"Neither the galleons from Spain nor shipments of Mexican manufactures were able to meet the demands of the markets in Lima and Potosí.\" (Borah, p. 117); \"Lima y Potosí, donde la producción de plata era tres o cuatro veces superior a la novohispana\" (del Valle Pavón, p. 218); \"Esta circunstancia transformó el puerto de Acapulco en el sitio de tránsito de bienes orientales a Perú.\" (del Valle Pavón, p. 218); \"Lima's merchants began sending feeder ships to supply the transpacific galleons with Potosí silver in exchange for silk and other fine Asian goods.\" (Lane, p. 90); \"we remain uncertain as to how much Potosí silver reached Asia via this route\" (Lane, p. 89)\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: an explanation, not a record. That Potosí silver was on the ships rests on Lane alone, and his notes 40 and 41 have not been read. Borah and del Valle Pavón name Potosí as the mine and the market only."
+      },
+      "independenceNote": "3 Sources cited; lineage as recorded: Borah; del Valle Pavón; Lane.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "settlement",
+        "whereLabel": "Potosí · settlement",
+        "precisionLabel": "settlement precision",
+        "placeIds": [
+          "e-potosi-1602"
+        ]
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR16",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 117"
+            },
+            "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR17",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 218"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR18",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 90"
+            },
+            "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (Oakland: University of California Press, 2019), ch. 3, \"The Viceroy's Great Machine\", read pp. 89–90.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR18",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 89"
+            },
+            "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (Oakland: University of California Press, 2019), ch. 3, \"The Viceroy's Great Machine\", read pp. 89–90.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C36",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Before the ban, one ship from the Philippines is known to have reached Peru. Woodrow Borah (1954) writes that the governor of the Philippines, under a royal order of 14 April 1579, sent a ship of goods for El Callao in 1580 and another in 1581. The first, he writes, never arrived in Peru. The second arrived in the summer of 1582 with silks, porcelain, spices, iron and wax. The governor's own letter of June 1582 does not match this: it has one ship sent to Peru in 1581, and a second sent that year to Panama, not to Peru. No Source we have read says what silver, if any, went back to the Philippines on any of these ships.",
+      "temporal": {
+        "precision": "approximate",
+        "label": "1580–1582 · approximate"
+      },
+      "notes": "Quote: \"sent a ship laden with goods directly to El Callao in 1580 and another in 1581\" (Borah, p. 117); \"The second vessel arrived in Peru in the summer of 1582 with a cargo of silks, porcelains, spices, iron, wax, and other wares.\" (Borah, p. 117)\nContext: the governor's letter of June 1582 is Claim M-C14 on the Manila 1573 Story (Image).\nCheck: Image",
+      "confidence": {
+        "level": "medium",
+        "rationale": "medium: two dispatches and one known arrival, from one historian. The governor's letter gives different ships. It shows goods reaching Peru once. It shows no route and no silver."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Borah.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR16",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 117"
+            },
+            "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C38",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "Morga wrote that merchants of Mexico and of Peru, through agents and factors, sent much silver to the Philippines to buy goods, until it was prohibited.",
+      "temporal": {
+        "precision": "century",
+        "label": "undated; before the prohibitions · century"
+      },
+      "notes": "Quote: \"the men of business in Mexico and Peru had grown eager to trade with the Philippines by means of their agents and factors\" and \"they used to send much silver to the Philippines for their purchases\"\nPage image: https://archive.org/details/philippineisland00morg/page/n377/mode/1up",
+      "confidence": {
+        "level": "medium",
+        "rationale": "Undated; a complaint by merchants who lost trade. Names Peru, not Potosí."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: Morga.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Mexico, Peru and the Philippines · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR01",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 336"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": []
+      }
+    },
+    {
+      "id": "MR-C39",
+      "claimClass": "Supported fact",
+      "sensitive": false,
+      "wording": "In September 1603 the king wrote from Valladolid that, by the letters of his viceroys and governors, more than two million in silver and coin was carried away each year, most of it, in his words, 'to the kingdoms of infidels'. He wrote too that merchants came from Peru to New Spain with silver for Chinese goods, though that was forbidden. (Our translation.)",
+      "temporal": {
+        "precision": "year",
+        "label": "1603 · year"
+      },
+      "notes": "Quote: \"pasan de dos millones en plata y reales lo que se lleva dello cada año\" (the king's letter, p. 566); \"la mayor parte dello á los reinos de infieles\" (the king's letter, p. 566); \"van allí por ellas los mercaderes con gran cantidad de plata cada año\" (the king's letter, p. 566)\nCheck: Image",
+      "confidence": {
+        "level": "high",
+        "rationale": "high that he wrote it: a figure with an owner, a date and a stated basis, the letters of his viceroys and governors. It is not a measurement. \"Infidels\" is the king's word. The English is ours."
+      },
+      "independenceNote": "1 Source cited; lineage as recorded: the king's letter.",
+      "editorialState": "draft",
+      "spatial": {
+        "precision": "not-place-bound",
+        "whereLabel": "Valladolid, about New Spain · not place-bound",
+        "precisionLabel": "not place-bound",
+        "placeIds": []
+      },
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR19",
+            "stance": "supports",
+            "locator": {
+              "status": "verified",
+              "text": "p. 566"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
             "accessLevel": "full text reviewed"
           }
         ],

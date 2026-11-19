@@ -87,8 +87,10 @@
       "presentDayName": "Haicheng, Fujian, China",
       "placeContext": {
         "kindLabel": "Place, settlement",
-        "headerLine": "Jurisdiction not yet researched in this pilot",
-        "headerClaimIds": [],
+        "headerLine": "A county seat in Fujian, Ming China",
+        "headerClaimIds": [
+          "MR-C19"
+        ],
         "role": [
           {
             "text": "In view because a historian names it as the home port of the ships in this Story.",
@@ -188,7 +190,8 @@
       "id": "e-potosi-1602",
       "historicalName": "Villa Imperial de Potosí",
       "locatingClaimIds": [
-        "MR-C17"
+        "MR-C17",
+        "MR-C35"
       ],
       "editorialState": "draft",
       "coordinate": {
@@ -401,7 +404,7 @@
     "evidenceIndependenceNote": "Two Spanish writers at Manila, Morga and Fernández de Castro. On the Chinese side, the court record of 1589 and one governor of 1604 in a historian's translation. The ship count is one series, from Chaunu.",
     "reverseDisclosure": {
       "summary": "What about the other direction?",
-      "body": "Silver into Fujian is the other half of this trade, and it is in this Connection's Claims. What that silver did inside China is a different Connection, with its own mechanism and its own Sources, and it is not researched here."
+      "body": "Silver into Fujian is the other half of this trade, and it is in this Connection's Claims. What that silver did at the ships' home port is a different Connection, with its own mechanism and its own Sources; it is in the Story \"The ships that came home with coin\". What the silver did in the rest of China is not researched."
     },
     "reverseRelationshipNote": "A separate Connection, not an inversion of this one. Silver's effect in China is not created in this fixture.",
     "editorialState": "draft",
@@ -490,6 +493,243 @@
       ]
     }
   },
+  "additionalConnections": [
+    {
+      "id": "cn-silver-from-peru-reaches-manila-by-acapulco",
+      "leadIn": "A second Connection leads to Manila: silver from Peru, about 1590 to 1604.",
+      "sourceEntityId": "e-potosi-1602",
+      "targetEntityId": "e-manila-1602",
+      "relationshipType": "contributed to",
+      "directionNote": "From Peru by sea to Acapulco, then west to Manila. Silver one way, Chinese goods the other. Directional; not symmetric.",
+      "directionFigureText": "Silver from Peru  →  contributed to  →  the silver spent at Manila",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1590–1604 · approximate"
+      },
+      "spatial": {
+        "originText": "Potosí · settlement precision · the letters of the time say Peru; that Potosí silver was in it is one historian's reading, Kris Lane's",
+        "targetText": "Manila · settlement precision · by way of Acapulco",
+        "routeStatement": "In the 1590s merchants from Peru took silver by sea to Acapulco and bought the Chinese goods landed there by the ships from Manila. The viceroy of Peru reported that a dozen ships sailed for Mexico in 1593 and early 1594 and left Peru bare of silver. Two or three million pesos a year went out this way, historians write, and most of it was sent on to the Philippines. In June 1582 the crown forbade ships to sail between Peru and the Philippines, and the sale of Philippine goods in Peru. The limits on ships between Peru and New Spain came later, from 1604. Before that, one ship from the Philippines is known to have reached Peru, in 1582, with goods. No Source of the time that we have read names Potosí silver on a ship. One historian, Kris Lane, writes that it was there, and that how much is uncertain. No Source we have read says how the silver came down from Potosí to the coast."
+      },
+      "interpretationClass": "Mainstream interpretation",
+      "scholarlyStanding": "Woodrow Borah (1954), Guillermina del Valle Pavón (2005) and Kris Lane (2019) all describe silver from Peru going to Acapulco for Chinese goods and on to Manila. That Potosí silver was on the ships is Lane's reading alone. Borah and del Valle Pavón name Potosí as the mine behind Peru's wealth and as a market for the goods. Del Valle Pavón cites Borah, so these are not two separate readings. Lane writes that how much Potosí silver reached Asia this way remains uncertain.",
+      "mechanismClaimIds": [
+        "MR-C35",
+        "MR-C17",
+        "MR-C39",
+        "MR-C34",
+        "MR-C38",
+        "MR-C10",
+        "MR-C11",
+        "MR-C36"
+      ],
+      "supportSourceIds": [
+        "SR16",
+        "SR17",
+        "SR18",
+        "SR01",
+        "SR03"
+      ],
+      "challengeSourceIds": [],
+      "contextSourceIds": [
+        "SR14",
+        "SR10",
+        "SR19"
+      ],
+      "mechanismText": [
+        {
+          "text": "Peru had silver and was short of goods. Two historians name Potosí as its great mine and as a market for the goods.",
+          "claimIds": [
+            "MR-C35"
+          ]
+        },
+        {
+          "text": "Chinese goods landed at Acapulco cost far less than goods from Spain, and Potosí's shops sold Chinese silk.",
+          "claimIds": [
+            "MR-C17",
+            "MR-C35"
+          ]
+        },
+        {
+          "text": "So merchants from Peru came to New Spain with silver, as the king himself wrote in 1603.",
+          "claimIds": [
+            "MR-C39"
+          ]
+        },
+        {
+          "text": "The viceroy of Peru reported a dozen ships for Mexico in 1593 and early 1594.",
+          "claimIds": [
+            "MR-C34"
+          ]
+        },
+        {
+          "text": "Most of the silver, historians write, was sent on to the Philippines.",
+          "claimIds": [
+            "MR-C34"
+          ]
+        },
+        {
+          "text": "At Manila, Morga and a lawyer of about 1602 both name money from Peru.",
+          "claimIds": [
+            "MR-C38",
+            "MR-C10"
+          ]
+        },
+        {
+          "text": "In June 1582 the crown forbade sailing between Peru and the Philippines and the sale of Philippine goods in Peru. From 1604 it also cut back the ships between Peru and New Spain.",
+          "claimIds": [
+            "MR-C11"
+          ]
+        },
+        {
+          "text": "Earlier, the governor of the Philippines sent ships for Peru in 1580 and 1581. One is known to have arrived, in 1582, with goods.",
+          "claimIds": [
+            "MR-C36"
+          ]
+        },
+        {
+          "text": "Kris Lane (2019) writes that Potosí silver went on these ships, and that how much reached Asia is uncertain. That is his reading. No letter of the time that we have read says Potosí.",
+          "claimIds": [
+            "MR-C35"
+          ]
+        },
+        {
+          "text": "This is how silver from Peru came to be spent at Manila. The Claims it rests on are listed beneath it. The letters of the time say Peru; that some of it was Potosí's is Lane's reading.",
+          "claimIds": []
+        }
+      ],
+      "participants": [
+        {
+          "text": "Merchants of Peru, who came to Acapulco with silver",
+          "claimIds": [
+            "MR-C34",
+            "MR-C39"
+          ]
+        },
+        {
+          "text": "The viceroy of Peru, who reported the ships and the loss of silver",
+          "claimIds": [
+            "MR-C34"
+          ]
+        },
+        {
+          "text": "Merchants of Mexico and Peru with agents at Manila",
+          "claimIds": [
+            "MR-C38",
+            "MR-C10"
+          ]
+        },
+        {
+          "text": "The king, who forbade the sailing in 1582 and cut back the ships from 1604",
+          "claimIds": [
+            "MR-C11"
+          ]
+        }
+      ],
+      "evidenceIndependenceNote": "No eyewitness of the whole route. The viceroy of Peru's report reaches us through two historians, and the second cites the first. The king repeats his viceroys' letters. Morga and Fernández de Castro wrote at Manila and say \"Peru\", not Potosí. Lane names Potosí; we have not read the notes he rests on. No Andean Source, no merchant's account book and no ship's register is among them. The miners and mill workers of Potosí are in none of them.",
+      "reverseDisclosure": {
+        "summary": "What about the other direction?",
+        "body": "Chinese goods went the other way, from Acapulco to Peru and up to Potosí's shops. That leg has a Claim here but is a different Connection, not researched."
+      },
+      "reverseRelationshipNote": "A separate Connection, not an inversion of this one.",
+      "editorialState": "draft",
+      "evidence": {
+        "supports": [
+          {
+            "sourceId": "SR16",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Woodrow Borah, *Early Colonial Trade and Navigation between Mexico and Peru*, Ibero-Americana 38 (Berkeley and Los Angeles: University of California Press, 1954), ch. VII, \"The End of the Early Intercolonial Trade: The Philippine Trade\", pp. 116–127, with its notes, pp. 157–159.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR17",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Guillermina del Valle Pavón, \"Los mercaderes de México y la transgresión de los límites al comercio pacífico en Nueva España, 1550–1620\", *Revista de Historia Económica* 23, S1 (2005), 213–240 (read pp. 213–234). In Spanish.",
+            "form": "Scholarship (journal article)",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          },
+          {
+            "sourceId": "SR18",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (Oakland: University of California Press, 2019), ch. 3, \"The Viceroy's Great Machine\", read pp. 89–90.",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR01",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Antonio de Morga, *Sucesos de las islas Filipinas* (Mexico, 1609), trans. Henry E. J. Stanley, *The Philippine Islands, Moluccas, Siam, Cambodia, Japan, and China, at the Close of the Sixteenth Century* (Hakluyt Society, London, 1868), pp. 336, 340, 347.",
+            "form": "Primary narrative, English translation",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR03",
+            "stance": "supports",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Alonso Fernández de Castro, *Principal points in regard to the trade of the Filipinas*, [1602?]. B&R vol. 12 (Cleveland, 1904), pp. 46 ff. (used pp. 50–51). Translated from the Spanish by Jose M. and Clara M. Asensio and Emma Helen Blair.",
+            "form": "Primary document, printed memorial",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          }
+        ],
+        "challenges": [],
+        "contextualizes": [
+          {
+            "sourceId": "SR14",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "José Luis Gasch-Tomás, *The Atlantic World and the Manila Galleons* (Leiden: Brill, 2019), ch. 4, \"Trans-Pacific Trade and the Political Economy of the Spanish Empire\", pp. 91–128 (read pp. 115–124; the rest searched). [Author's first names and the book's subtitle to be confirmed on a title page.]",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR10",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Kris Lane, *Potosí: The Silver City That Changed the World* (Oakland: University of California Press, 2019), ch. 4, \"An Improbable Global City\", pp. 92–116 (read pp. 94, 96).",
+            "form": "Scholarship (book chapter)",
+            "language": "English",
+            "accessLevel": "excerpt reviewed"
+          },
+          {
+            "sourceId": "SR19",
+            "stance": "contextualizes",
+            "locator": {
+              "status": "pending"
+            },
+            "citation": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+            "form": "Primary letters, in a nineteenth-century printed collection",
+            "language": "Spanish",
+            "accessLevel": "full text reviewed"
+          }
+        ]
+      }
+    }
+  ],
   "strings": {
     "pilotNotice": "Pilot content — not yet reviewed by a historian. If you know a Source we have wrong or missing, every Claim and Source has a way to say so.",
     "report": {
@@ -817,6 +1057,14 @@
       "ayutthaya-1617": {
         "name": "Ayutthaya, 1617",
         "action": "Go to this moment."
+      },
+      "mexico-1602": {
+        "name": "Mexico City, 1602",
+        "action": "Go to this moment."
+      },
+      "haicheng-1602": {
+        "name": "Haicheng, 1602",
+        "action": "Go to this moment."
       }
     },
     "indexNoMarkerMeta": "Place · at Manila's marker · not drawn separately at this scale",
@@ -906,12 +1154,12 @@
       "momentShort": "Manila"
     },
     "contextNote": {
-      "world": "World context · two moments in 1602",
-      "wider": "Wider context · one moment in 1602"
+      "world": "World context · three moments in 1602",
+      "wider": "Wider context · Haicheng and Manila, 1602"
     },
     "mapStatus": {
       "MS-0": "",
-      "MS-1": "Selected: The spring ships at Manila. One Connection leads to this Event: merchants from Fujian. Haicheng, which a historian names as their home port, is drawn at the wider view of East and Southeast Asia.",
+      "MS-1": "Selected: The spring ships at Manila. Two Connections lead to this Event: merchants from Fujian, and silver from Peru. Haicheng, which a historian names as the home port of the ships from Fujian, is drawn at the wider view of East and Southeast Asia.",
       "MS-2": "Selected: Haicheng (Yuegang), Fujian. A historian calls it the principal home port of the Chinese merchant fleets. The marker shows the present-day town; where the ships of 1602 lay is not located.",
       "MS-3": "Selected: Ciudad de La Plata, seat of the Audiencia de Charcas. No Story has been researched for this Place yet.",
       "MS-4": "Selected: Ciudad de los Reyes, seat of the Viceroy of Peru. No Story has been researched for this Place yet.",
@@ -920,7 +1168,7 @@
       "MS-7": "The selected Event and its connected Place are outside the current view. Reset the view to show all four markers.",
       "MS-8": "Loading Manila, 1602.",
       "MS-9": "The basemap could not be loaded. The marker and the list beneath the map are still available.",
-      "MS-10": "The world. Two 1602 moments are in view: Manila and Mexico City. Ships sailed from one to the port of the other, Acapulco. No line is drawn between them. Select a moment to go to it.",
+      "MS-10": "The world. Three 1602 moments: Manila, Mexico City and Haicheng. Manila and Mexico City are drawn. Ships sailed from one to the port of the other, Acapulco. Haicheng, which a historian names as the home port of the ships that came to Manila, lies too close to be drawn apart at this scale; the wider view shows it. No line is drawn. Select a moment to go to it, or choose Haicheng, 1602 from the index.",
       "MS-11": "East and Southeast Asia. The 1602 view is two points at this scale: Manila, and Haicheng in Fujian, which a historian names as the home port of the ships. Zoom in or reset the view to see Manila's marker.",
       "MS-12": "Luzon and the South China Sea. The 1602 view is one point at Manila at this scale. Zoom in or reset the view to see its marker."
     },
@@ -1024,8 +1272,10 @@
       "id": "wwdk-1602-potosi",
       "segments": [
         {
-          "text": "The Potosí link is still not researched. No primary Source we have read follows silver from Potosí to a ship at Acapulco.",
-          "claimIds": []
+          "text": "No Source of the time that we have read names Potosí silver on a ship at Acapulco. They say Peru. One historian, Kris Lane, writes that Potosí silver was there, and that how much is uncertain.",
+          "claimIds": [
+            "MR-C35"
+          ]
         }
       ]
     },
@@ -1033,7 +1283,7 @@
       "id": "wwdk-1602-voices",
       "segments": [
         {
-          "text": "We have no Philippine voice for this year, and no words of a Chinese resident of Manila.",
+          "text": "We have no Philippine voice for this year, and no words of a Chinese resident of Manila. No Source we have read for the silver from Peru has the words of anyone who mined or milled it.",
           "claimIds": []
         }
       ]

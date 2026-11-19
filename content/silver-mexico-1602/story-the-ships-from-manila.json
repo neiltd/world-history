@@ -592,6 +592,12 @@
       "label": "Another moment: Manila, 1573",
       "honestyLine": "The port the ships of this Story sailed from, twenty-nine years earlier. No researched Connection joins the two Stories. They share a Source, Morga.",
       "researched": false
+    },
+    {
+      "momentId": "haicheng-1602",
+      "label": "Another moment: Haicheng, 1602",
+      "honestyLine": "The same year. Chinese goods are in both Stories: sold in this city, and licensed out of that port. No Source we have read traces a single cargo from one to the other. No researched Connection joins the two Stories.",
+      "researched": false
     }
   ],
   "editorialState": "draft",

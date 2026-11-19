@@ -396,6 +396,71 @@
         "recorded": false
       },
       "editorialState": "draft"
+    },
+    {
+      "id": "SR18",
+      "record": "Kris Lane, *Potosí: The Silver City That Changed the World* (Oakland: University of California Press, 2019), ch. 3, \"The Viceroy's Great Machine\", read pp. 89–90.",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://www.jstor.org/stable/j.ctvj7wm45.10",
+      "perspective": "A historian of Potosí. He names Potosí silver on the ships for Manila; the notes behind that have not been read.",
+      "position": {
+        "proximity": "Appeared in 2019",
+        "category": "later scholarship",
+        "focus": "Potosí in the 1570s under the viceroy Toledo, and, on pp. 89-90, Potosí silver and the Manila trade.",
+        "note": "Only pp. 89-90 were read, the part on the Manila trade. The notes behind them have not been read. Lane dates the first feeder ships to right after 1571; nothing dated that we have read backs that, so no Claim uses it."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR19",
+      "record": "Philip III to the Cardinal-Archbishop of Seville, Valladolid, 21 September 1603, and the Cardinal-Archbishop's answer, Seville, 28 October 1603, on the trade of the Philippines with New Spain and Peru. *Colección de Documentos Inéditos para la Historia de España*, vol. 52 (Madrid: Imprenta de la Viuda de Calero, 1868), pp. 565–572 (read whole; pp. 566, 568, 569 on the page image). In Spanish; no published English translation is known.",
+      "form": "Primary letters, in a nineteenth-century printed collection",
+      "language": "Spanish",
+      "accessLevel": "full text reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://archive.org/details/coleccindedocum01raygoog",
+      "perspective": "The king, repeating what his viceroys and governors had written to him; and Seville's archbishop, reporting what men of the Indies trade in Seville told him. Neither saw New Spain. Seville's merchants had asked for the trade to be closed.",
+      "position": {
+        "proximity": "Contemporary; written in Spain in 1603",
+        "category": "colonial state",
+        "note": "The Cardinal does not ask for closure. The printed text gives \"50 toneladas\" for the ships he proposes, which looks like a slip and is not used."
+      },
+      "lineage": {
+        "isRoot": true,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
+    },
+    {
+      "id": "SR20",
+      "record": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+      "form": "Scholarship (book chapter)",
+      "language": "English",
+      "accessLevel": "excerpt reviewed",
+      "locator": "EDITORIAL-TODO",
+      "accessPath": "https://doi.org/10.1017/CBO9780511973604.004",
+      "perspective": "A historian of China's dealings with Europeans. He works from the Ming court histories and from Portuguese, Spanish and Dutch records, and tells each episode from both sides where he can.",
+      "position": {
+        "proximity": "Appeared in 2010",
+        "category": "later scholarship",
+        "focus": "Europeans on the China coast, 1514 to 1662; the Haicheng opening is one page.",
+        "note": "A revision of his chapter in *The Cambridge History of China*, vol. 8 (1998); the two are one account. His 1603 section rests on De la Costa, Morga, Colín and Zhang Weihua (p. 57 n. 89). He calls Gao Cai \"notorious\" (p. 56) and also warns that the Chinese record of these years was made by the commissioners' opponents (p. 67)."
+      },
+      "lineage": {
+        "isRoot": false,
+        "lineageIds": [],
+        "recorded": false
+      },
+      "editorialState": "draft"
     }
   ]
 }

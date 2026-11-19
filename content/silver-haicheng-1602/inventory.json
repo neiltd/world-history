@@ -1,0 +1,979 @@
+{
+  "entities": [
+    {
+      "id": "ev-luzon-ships-come-home",
+      "historicalName": "The Luzon ships come home",
+      "locatingClaimIds": [
+        "HC-C10",
+        "HC-C09",
+        "HC-C04"
+      ],
+      "editorialState": "draft",
+      "markerOrder": 1,
+      "markerForm": "EventMarker",
+      "kind": "event",
+      "eventForm": "Trade and exchange",
+      "temporal": {
+        "precision": "approximate",
+        "label": "c. 1589–1604 · approximate"
+      },
+      "locatedAtPlaceId": "e-haicheng-1602",
+      "spatialPrecision": "settlement",
+      "claimIds": [
+        "HC-C10",
+        "HC-C09",
+        "HC-C04"
+      ],
+      "connectionIds": [
+        "cn-manila-silver-and-haicheng-ship-duties"
+      ],
+      "sensitive": false
+    },
+    {
+      "id": "e-haicheng-1602",
+      "historicalName": "Haicheng (Yuegang), Fujian",
+      "locatingClaimIds": [
+        "HC-C01",
+        "HC-C04",
+        "HC-C08",
+        "HC-C09",
+        "HC-C10",
+        "HC-C11",
+        "HC-C12",
+        "HC-C13",
+        "HC-C14",
+        "HC-C15",
+        "HC-C16"
+      ],
+      "editorialState": "draft",
+      "coordinate": {
+        "lon": 117.85087,
+        "lat": 24.41509,
+        "precision": "settlement",
+        "gazetteerProvenance": "EDITORIAL-TODO"
+      },
+      "kind": "place",
+      "placeForm": "settlement",
+      "presentDayName": "Haicheng, Fujian, China",
+      "placeContext": {
+        "kindLabel": "Place, settlement",
+        "headerLine": "A county seat in Fujian, Ming China",
+        "headerClaimIds": [
+          "HC-C04"
+        ],
+        "role": [
+          {
+            "text": "In view because this Story happens here.",
+            "claimIds": []
+          },
+          {
+            "text": "The port's older name was Yuegang, the Moon Harbour. The court made it a county seat and named it Haicheng when it opened the trade in 1567.",
+            "claimIds": [
+              "HC-C01",
+              "HC-C04"
+            ]
+          },
+          {
+            "text": "Ships sailed from here under licence. In 1589, sixteen of the 88 licences were for Luzon.",
+            "claimIds": [
+              "HC-C09"
+            ]
+          },
+          {
+            "text": "Its customs put a flat charge on ships back from Luzon, because they carried coin and little else, and coin paid no duty.",
+            "claimIds": [
+              "HC-C10"
+            ]
+          },
+          {
+            "text": "Many of the Chinese who lived at Manila came from this county and the two named with it, Longxi and Zhangpu.",
+            "claimIds": [
+              "HC-C14"
+            ]
+          },
+          {
+            "text": "The marker shows the present-day town of Haicheng. No Source we have read places the customs house or the anchorage of 1602.",
+            "claimIds": []
+          }
+        ],
+        "coverageVariant": "not-yet-researched"
+      }
+    },
+    {
+      "id": "e-manila-haicheng-1602",
+      "historicalName": "Manila",
+      "locatingClaimIds": [
+        "HC-C14",
+        "HC-C15",
+        "HC-C16",
+        "HC-C21",
+        "HC-C22",
+        "HC-C24",
+        "HC-C26",
+        "HC-C28",
+        "HC-C33",
+        "HC-C35",
+        "HC-C36",
+        "HC-C37",
+        "HC-C39"
+      ],
+      "editorialState": "draft",
+      "markerOrder": 2,
+      "markerForm": "PlaceMarker",
+      "coordinate": {
+        "lon": 120.980271,
+        "lat": 14.606105,
+        "precision": "settlement",
+        "gazetteerProvenance": "NE-5.1.2-populated-places-simple"
+      },
+      "kind": "place",
+      "placeForm": "settlement",
+      "presentDayName": "Manila, Philippines",
+      "placeContext": {
+        "kindLabel": "Place, settlement",
+        "headerLine": "Jurisdiction not yet researched in this pilot",
+        "headerClaimIds": [],
+        "role": [
+          {
+            "text": "In view because the ships of this Story sailed here and came back with its coin.",
+            "claimIds": []
+          },
+          {
+            "text": "The Spaniards settled here in 1571, with silver from America.",
+            "claimIds": [
+              "HC-C33"
+            ]
+          },
+          {
+            "text": "In October 1603 very many of the Chinese who lived here were killed.",
+            "claimIds": [
+              "HC-C24"
+            ]
+          },
+          {
+            "text": "This port has its own Story for the same year, \"The spring ships\".",
+            "claimIds": []
+          },
+          {
+            "text": "The marker shows present-day Manila, an approximate location.",
+            "claimIds": []
+          }
+        ],
+        "coverageVariant": "not-yet-researched"
+      }
+    }
+  ],
+  "connection": {
+    "id": "cn-manila-silver-and-haicheng-ship-duties",
+    "sourceEntityId": "e-manila-haicheng-1602",
+    "targetEntityId": "e-haicheng-1602",
+    "relationshipType": "contributed to",
+    "directionNote": "Manila to Haicheng, across the South China Sea. Silver coin came this way; the goods that went the other way are the Manila 1602 Connection. Directional; not symmetric.",
+    "directionFigureText": "The trade at Manila  →  contributed to  →  Haicheng's ship duties, in silver",
+    "temporal": {
+      "precision": "approximate",
+      "label": "c. 1589–1604 · approximate"
+    },
+    "spatial": {
+      "originText": "Manila · settlement precision",
+      "targetText": "Haicheng (Yuegang), Fujian · settlement precision · named by historians; the Spanish writers name only the province",
+      "routeStatement": "Ships licensed at Haicheng sailed to Manila in the spring and came home with silver coin. Because coin paid no duty, the Haicheng customs in 1589 put a flat charge of 150 taels (a tael was a Chinese unit of weight used to reckon silver) on each ship back from Luzon, and 120 the next year. The silver the port took in fees and duties rose from about 3,000 taels a year around 1570 to more than 27,000 about 1599. That rise covers all the port's trade, not Luzon's alone. No Source we have read gives a figure for 1602."
+    },
+    "interpretationClass": "Mainstream interpretation",
+    "scholarlyStanding": "Atwell (1982, 1998) and von Glahn (1996) both read Haicheng's rising duties as a sign of foreign silver coming in. Atwell names Japanese silver beside Spanish-American. The duty figures are one series, from the Chinese historian Quan Hansheng. We found no historian who disputes the reading.",
+    "mechanismClaimIds": [
+      "HC-C33",
+      "HC-C10",
+      "HC-C31",
+      "HC-C11",
+      "HC-C09",
+      "HC-C12",
+      "HC-C13",
+      "HC-C14",
+      "HC-C15"
+    ],
+    "supportSourceIds": [
+      "HC-S05",
+      "HC-S06",
+      "HC-S01",
+      "HC-S02",
+      "HC-S11"
+    ],
+    "challengeSourceIds": [],
+    "contextSourceIds": [
+      "HC-S07",
+      "HC-S03"
+    ],
+    "mechanismText": [
+      {
+        "text": "The Spaniards settled at Manila in 1571 with silver from America, and Manila became one of the places Haicheng's licensed ships went.",
+        "claimIds": [
+          "HC-C33"
+        ]
+      },
+      {
+        "text": "By 1589 the Haicheng customs officers said that the ships came home with coin and little else. An English merchant's note of about 1608 says the same.",
+        "claimIds": [
+          "HC-C10",
+          "HC-C31"
+        ]
+      },
+      {
+        "text": "Haicheng taxed goods, and coin was not goods. In 1589 the customs put a flat charge on every ship back from Luzon.",
+        "claimIds": [
+          "HC-C10"
+        ]
+      },
+      {
+        "text": "Haicheng's merchants asked for more Luzon licences. Luzon had sixteen of the 88, more than any other place.",
+        "claimIds": [
+          "HC-C11",
+          "HC-C09"
+        ]
+      },
+      {
+        "text": "The silver the port collected grew several times over between the 1570s and the 1590s.",
+        "claimIds": [
+          "HC-C12"
+        ]
+      },
+      {
+        "text": "Historians read that as foreign silver arriving. Some of it came from Japan, and the figures do not separate the two.",
+        "claimIds": [
+          "HC-C13"
+        ]
+      },
+      {
+        "text": "The men who carried it were largely from this county and the two named with it.",
+        "claimIds": [
+          "HC-C14",
+          "HC-C15"
+        ]
+      },
+      {
+        "text": "This is how the trade at Manila fed the port's duties. The Claims it rests on are listed beneath it. One historian's page carries the central step.",
+        "claimIds": []
+      }
+    ],
+    "participants": [
+      {
+        "text": "Customs officers at Haicheng, who complained of the coin and set the flat charge",
+        "claimIds": [
+          "HC-C10"
+        ]
+      },
+      {
+        "text": "Merchants of Haicheng, who pressed for Luzon licences",
+        "claimIds": [
+          "HC-C11"
+        ]
+      },
+      {
+        "text": "Traders who sailed each year, and their agents who stayed at Manila",
+        "claimIds": [
+          "HC-C15"
+        ]
+      },
+      {
+        "text": "Governors of Fujian, who defended the licensed trade",
+        "claimIds": [
+          "HC-C18"
+        ]
+      },
+      {
+        "text": "Spaniards at Manila, who paid in coin",
+        "claimIds": [
+          "HC-C33"
+        ]
+      },
+      {
+        "text": "From about 1599, the palace commissioner over the sea duties",
+        "claimIds": [
+          "HC-C19"
+        ]
+      }
+    ],
+    "evidenceIndependenceNote": "The flat charge on Luzon ships rests on one historian, von Glahn, whose own source we have not seen. That the ships came home with coin has a second witness, an English merchant writing at Bantam about 1608. The duty figures are one series from Quan Hansheng, printed by Atwell and quoted by von Glahn.",
+    "reverseDisclosure": {
+      "summary": "What about the other direction?",
+      "body": "Goods and people going from Fujian to Manila are the Manila 1602 Story's Connection. This one carries only what came back and what the port did about it."
+    },
+    "reverseRelationshipNote": "A separate Connection, not an inversion of this one. It is in the Manila 1602 fixture.",
+    "editorialState": "draft",
+    "evidence": {
+      "supports": [
+        {
+          "sourceId": "HC-S05",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Richard von Glahn, *Fountain of Fortune: Money and Monetary Policy in China, 1000–1700* (Berkeley: University of California Press, 1996), ch. 4, \"Foreign Silver and China's 'Silver Century', 1550–1650\", pp. 113–141.",
+          "form": "Scholarship (book chapter)",
+          "language": "English",
+          "accessLevel": "full text reviewed"
+        },
+        {
+          "sourceId": "HC-S06",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "William S. Atwell, \"International Bullion Flows and the Chinese Economy circa 1530–1650\", *Past & Present* 95 (May 1982), 68–90.",
+          "form": "Scholarship (journal article)",
+          "language": "English",
+          "accessLevel": "full text reviewed"
+        },
+        {
+          "sourceId": "HC-S01",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "John E. Wills, Jr., \"Maritime Europe and the Ming\", in John E. Wills, Jr. (ed.), *China and Maritime Europe, 1500–1800* (Cambridge: Cambridge University Press, 2010), ch. 1 (read pp. 40–41, 53–58, 67–68).",
+          "form": "Scholarship (book chapter)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "HC-S02",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "James K. Chin, \"Junk Trade, Business Networks, and Sojourning Communities: Hokkien Merchants in Early Maritime Asia\", *Journal of Chinese Overseas* 6 (2010), 157–215 (read pp. 183–184, 188–192, 201–202).",
+          "form": "Scholarship (journal article)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        },
+        {
+          "sourceId": "HC-S11",
+          "stance": "supports",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "John Saris, \"Observations of Saris on the Eastern Trade\", in Ernest M. Satow (ed.), *The Voyage of Captain John Saris to Japan, 1613* (London: Hakluyt Society, 1900), Appendix B, pp. 212 on (read pp. 226–227). First printed in *Purchas His Pilgrimes*, vol. 1, p. 390.",
+          "form": "Primary report by a merchant, in a 1900 edition with the editor's notes",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        }
+      ],
+      "challenges": [],
+      "contextualizes": [
+        {
+          "sourceId": "HC-S07",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "José Eugenio Borao, \"The Massacre of 1603: Chinese Perception of the Spanish on the Philippines\", *Itinerario* 22:1 (1998), 22–40.",
+          "form": "Scholarship (journal article)",
+          "language": "English",
+          "accessLevel": "full text reviewed"
+        },
+        {
+          "sourceId": "HC-S03",
+          "stance": "contextualizes",
+          "locator": {
+            "status": "pending"
+          },
+          "citation": "Pin-tsun Chang, \"The Evolution of Chinese Thought on Maritime Foreign Trade from the Sixteenth to the Eighteenth Century\", *International Journal of Maritime History* 1:1 (1989), 51–64 (read pp. 51–52, 54–56, 58).",
+          "form": "Scholarship (journal article)",
+          "language": "English",
+          "accessLevel": "excerpt reviewed"
+        }
+      ]
+    }
+  },
+  "strings": {
+    "pilotNotice": "Pilot content — not yet reviewed by a historian. If you know a Source we have wrong or missing, every Claim and Source has a way to say so.",
+    "report": {
+      "door": {
+        "claim": {
+          "text": "Question this Claim",
+          "name": "Question this Claim: {id}"
+        },
+        "source": {
+          "text": "Know this Source?",
+          "name": "Know this Source: {id}"
+        },
+        "profile": {
+          "text": "Know a Source for a missing voice?",
+          "name": "Know a Source for a missing voice?"
+        }
+      },
+      "handover": {
+        "heading": "Tell us what you found",
+        "shown": {
+          "page": "This page",
+          "claim": "Claim",
+          "source": "Source",
+          "build": "Build",
+          "mode": "Mode"
+        },
+        "registerLegend": "What is it?",
+        "registers": {
+          "not-true": "The Claim says something the Source does not.",
+          "one-standpoint": "The Source's standpoint is described wrongly, or a Source counted as support is partisan.",
+          "something-missing": "A perspective or a Source is missing.",
+          "remove": "Remove my credit or my data."
+        },
+        "evidenceLegend": "Your evidence",
+        "sourceTitle": "Source",
+        "sourceTitleHint": "title, author, edition",
+        "sourceWhere": "Where in it",
+        "sourceWhereHint": "page, chapter, archive signature",
+        "noSource": "I have no Source; this is a hunch.",
+        "evidenceHelp": "A hunch is welcome and is recorded. Only a Source can change the page. Please do not include anyone else's personal details.",
+        "message": "Anything else",
+        "creditLegend": "Credit",
+        "creditNone": "No credit",
+        "creditAs": "Credit me as:",
+        "nickname": "Preferred name",
+        "creditHelp": "Shown only if your report changes the page, next to the change, on the Changes page. Removable: choose 'Remove my credit or my data' in this form. Never your email.",
+        "emailLabel": "Email, if you want a reply",
+        "emailHelp": "Never shown on the site. Used once, to reply.",
+        "privacyNote": "This report goes by email to the site's editor through Web3Forms, a form service run from India. It is not public. Web3Forms says it keeps submissions for up to three years unless they are deleted sooner. To catch spam, it may send your IP address, and your email if you leave one, to the spam filters CleanTalk and Akismet. The editor also sees your IP address, in the email that carries your report. You will not be asked to tick a box. The editor keeps your report until it has been dealt with and for 90 days after, then deletes it, including the copy held at Web3Forms. To remove your credit or your data, choose \"Remove my credit or my data\" in the first question of the form, and say in \"Anything else\" which preferred name or email. Please do not include anyone else's personal details. A person reads the reports we receive. We aim to reply within a week if you left an email. Checking a Source can take weeks, because we read it ourselves, through a library. What you report cannot change the page by itself; only a Source we have read can. This is not a vote, and it is not the place to add a fact.",
+        "privacyLink": "Privacy",
+        "send": "Send the report",
+        "close": "Close"
+      },
+      "thanks": {
+        "heading": "Thank you",
+        "text": "Thank you. Your report is with the editor. If you left an email, we aim to reply within a week.",
+        "back": "Back to the site",
+        "privacy": "Privacy"
+      },
+      "privacy": {
+        "heading": "Privacy",
+        "cookies": "This site sets no cookies.",
+        "analytics": "This site uses no analytics.",
+        "sessionFlag": "It keeps one flag in your browser's session storage, so that the opening plays once per visit; it holds only that the opening has played, and it is gone when you close the tab.",
+        "serverLogs": "The site is served by GitHub Pages. GitHub keeps its own server logs, which can include your IP address, under its own privacy statement.",
+        "formIntro": "If you send a report, this is what happens. A report sends what you type, plus the web address of the page, the Claim or Source you were looking at, the version of the site, and whether you were in Explore or Research. A name and an email are optional.",
+        "removal": "To remove your credit or your data, open any \"Question this Claim\" or \"Know this Source?\" control and choose \"Remove my credit or my data\". Say in \"Anything else\" which preferred name or email to remove.",
+        "back": "Back to the site"
+      },
+      "changes": {
+        "heading": "Changes",
+        "empty": "No decisions yet. Reports are read as they come.",
+        "labels": {
+          "date": "Date",
+          "reported": "What was reported",
+          "did": "What we did",
+          "why": "Why",
+          "checkedBy": "Checked by",
+          "credit": "Credit",
+          "considered": "Reports considered"
+        },
+        "checkedByValue": "the editors, against the Source; approved by the product owner",
+        "changed": "Changed",
+        "notChanged": "Not changed",
+        "before": "Before",
+        "after": "After",
+        "thanksTo": "Thanks to {nickname}",
+        "thanksToReader": "Thanks to a reader",
+        "consideredText": "{n}",
+        "back": "Back to the site"
+      }
+    },
+    "editorialStateLine": "Draft · not yet editorially reviewed",
+    "editorialWhyLine": "Why: {rationale}",
+    "editorialStates": {
+      "draft": "Draft · not yet editorially reviewed",
+      "in-review": "In editorial review · not yet editorially reviewed",
+      "checked": "Checked against the Source by the editors · {decidedOn}",
+      "disputed": "Editorial dispute open · not yet editorially reviewed",
+      "reviewed": "Reviewed · {decidedOn}",
+      "published": "Published · reviewed {decidedOn}"
+    },
+    "profile": {
+      "label": "Evidence & Perspective Profile",
+      "summaryLabel": "The evidence behind this Story",
+      "open": "See the details",
+      "openState": "Details below",
+      "close": "Close profile",
+      "lead": "Here is what the evidence for this Story rests on: where it comes from, how much of it is really separate, and what is still missing. It says nothing about whether the history is true; it says how much we have to go on.",
+      "statusDraft": "Draft · not yet editorially reviewed. The counts below come from our working records; no historian has checked them yet. Rules version {rules}, draft.",
+      "statusPublished": "Reviewed · {decidedOn} · rules version {rules}",
+      "warningsHeading": "Warnings ({n})",
+      "warningsNone": "No warning for this Story. That does not mean its evidence is complete.",
+      "componentsHeading": "What we checked ({n})",
+      "compact": {
+        "winnerDominated": "Evidence concentrated in colonial Sources",
+        "missingVoices": "Some voices missing",
+        "contested": "Still argued over",
+        "highlyUncertain": "Highly uncertain",
+        "notScored": "No number yet",
+        "coverage": "Viewpoints covered: {n}"
+      },
+      "componentNames": {
+        "diversity": "Source diversity",
+        "independence": "Source independence",
+        "coverage": "Perspective coverage",
+        "agreement": "Scholarly agreement",
+        "uncertainty": "Historical uncertainty",
+        "controversy": "Controversy",
+        "missing": "Missing Voices"
+      },
+      "componentQuestions": {
+        "diversity": "Do the Sources come in different forms and languages, from different places, and from people in different positions?",
+        "independence": "How many of the Sources actually stand on their own, rather than drawing on one another?",
+        "coverage": "Of the viewpoints this Story needs, how many have evidence we can actually use?",
+        "agreement": "Do the historians who have studied this agree with one another?",
+        "uncertainty": "How sure are we about the key dates and places, how things worked, and who was involved?",
+        "controversy": "Is this account still being argued over, and does the argument change anything?",
+        "missing": "Who was involved or affected, but barely shows up in the evidence?"
+      },
+      "fields": {
+        "asks": "The question",
+        "counted": "What we counted",
+        "notCounted": "Not counted, and why",
+        "completeness": "How complete",
+        "lastReview": "Last review",
+        "editorialNote": "Editor's note",
+        "dependencyView": "Who draws on whom"
+      },
+      "notScored": "No number yet · {n} of {m} recorded",
+      "inputsOnly": "{n} of {m} recorded",
+      "stateChecked": "{k} of {m} checked",
+      "stateEditorial": "editor's list",
+      "stateOverride": "set by an editor",
+      "completenessCategorical": "{n} of {m} recorded.",
+      "lastReviewDraft": "Not yet editorially reviewed",
+      "lastReviewPublished": "Reviewed · {decidedOn}",
+      "floors": {
+        "diversity": "three of the four kinds of detail are recorded for every Source",
+        "independence": "we know, and an editor has checked, what every supporting Source draws on",
+        "coverage": "an editor has listed the viewpoints this Story needs and every supporting Source has a standpoint recorded"
+      },
+      "diversity": {
+        "value": "{primary} primary {primaryWord} and {scholarly} scholarly {scholarlyWord}, in {languages} {languageWord} as recorded",
+        "noNumber": "No number yet · {n} of {m} kinds of information recorded",
+        "counted": "Kinds of document: {forms}. Languages, as recorded: {languageList}. Where each author stood: {positions}.",
+        "notCounted": "We have not yet recorded where each Source was written, so that is not counted. Where each author stood is described in words on the Source's own card.",
+        "completeness": "{n} of the 4 kinds of detail are recorded for every Source; an editor has checked {k} of {v} Sources. A number appears only once the Story has been editorially reviewed and {floor}."
+      },
+      "independence": {
+        "value": "{sources} supporting {sourceWord}, in {groups} separate {groupWord} once you trace who drew on whom",
+        "valueUnplaced": "{sources} supporting {sourceWord}, in {groups} separate {groupWord} once you trace who drew on whom; {unplaced} not yet traceable",
+        "noNumber": "No number yet · {n} of {m} Sources traced",
+        "counted": "{citations} supporting citations across {claims} Claims and the Connection, from {sources} Sources. Who drew on whom is as our working records have it; no editor has checked it yet.",
+        "notCounted": "Cited only for background, so not counted: {ids}.",
+        "subjectNote": "Listed in its own group but kept out of any number: {ids}, cited only as what a Claim is about, not as support for it.",
+        "completeness": "We know what {n} of {m} Sources draw on; an editor has checked {k} of {m}. A number appears only once the Story has been editorially reviewed and {floor}.",
+        "notPlaced": "we do not yet know what it draws on. It joins no group and is not counted as independent.",
+        "groupHeading": "Group {letter} — {n} {sourceWord}.",
+        "groupHeadingChain": "Group {letter} — {n} {sourceWord} that draw on one another.",
+        "roots": "Starting points: {names}.",
+        "others": "Drawing on them: {names}.",
+        "subjectOnly": ", cited only as what {claims} is about",
+        "notPlacedHeading": "Not placed — {n} {sourceWord}.",
+        "row": {
+          "supports": "supports {n} {claimWord}",
+          "subject": "is the subject of {n} {claimWord}",
+          "connection": " and the Connection",
+          "connectionOnly": "supports the Connection"
+        },
+        "byClaim": {
+          "head": "{single} of the {total} Claims rest on a single group; {two} on two; {three} on three",
+          "more": "; {more} on four or more",
+          "undetermined": "; for {n} we cannot tell ({ids})",
+          "none": "; {n} have no supporting Evidence yet ({ids})",
+          "tail": ". {citations} citations are not {citationsLower} confirmations. And independent does not mean reliable: this check counts how many Sources stand on their own, not how good any one of them is."
+        }
+      },
+      "coverage": {
+        "valueUndefined": "An editor has not yet listed which viewpoints this Story needs",
+        "valueNoCategory": "The viewpoints are listed, but {n} supporting Sources have no standpoint recorded",
+        "valueSet": "{covered} of the {total} viewpoints this Story needs have supporting Evidence",
+        "noNumber": "No number yet · {n} of {m} things in place",
+        "counted": "Needed: {expected}. Covered by supporting Evidence: {covered}. Not covered: {missing}.",
+        "countedUndefined": "Nothing yet. Until an editor lists the viewpoints this Story needs, there is nothing to measure against.",
+        "notCounted": "The standpoints we do have among the supporting Sources: {positions}.",
+        "subjectNote": "Not counted as support, because a Claim is about them rather than resting on them: {ids}.",
+        "completeness": "{n} of the 2 things this check needs are in place; an editor has checked {k} of {v} Sources. A number appears only once the Story has been editorially reviewed and {floor}."
+      },
+      "agreement": {
+        "notAssessed": "Not assessed",
+        "unclear": "Unclear",
+        "counted": "We have not yet recorded what different historians make of this Story. The one mainstream account ({claim}) does not yet say which field it comes from or when it was made.",
+        "notCounted": "We have not yet recorded which historians accept the mainstream account.",
+        "note": "Agreement among historians is not proof. It shows where the field stands today, and fields move."
+      },
+      "uncertainty": {
+        "partial": "{value} uncertainty about the dates and places only; nothing else graded yet",
+        "counted": "How precisely the {n} Claims this Story cites are dated: {precisions}.",
+        "notCounted": "Nobody has yet assessed how things worked or who was involved.",
+        "event": "The Event itself is dated {label}.",
+        "partialOne": "{value} uncertainty, going by the dates and places and by {assessed}; {unassessed} is not graded yet",
+        "notCountedMechanisms": "Nobody has yet assessed how things worked.",
+        "notCountedIdentities": "Nobody has yet assessed who was involved.",
+        "mechanismsPhrase": "how things worked",
+        "identitiesPhrase": "who was involved",
+        "unknownReading": "We cannot yet say how uncertain this is",
+        "buckets": {
+          "year": "to the year",
+          "decade": "to the decade",
+          "approximate": "roughly",
+          "century": "to the century",
+          "notTimeBounded": "not tied to a date",
+          "disputed": "disputed or unknown"
+        }
+      },
+      "controversy": {
+        "notAssessed": "Not assessed",
+        "notAssessedNote": "\"Not assessed\" does not mean \"low\".",
+        "counted": "Nobody has yet recorded whether this account is argued over.",
+        "assessed": "An editor's assessment: {level}.",
+        "notCounted": "No editor has yet assessed how actively it is disputed."
+      },
+      "missingVoices": {
+        "valueLine": "{n} {voiceWord} listed",
+        "valueLineIncomplete": "{n} {voiceWord} listed · we are still looking",
+        "counted": "Each voice below says why it is missing and which Claims it bears on.",
+        "notCounted": "A voice is listed only once we can say why it is missing and which Claim it bears on. Names we have not verified stay with the editor.",
+        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history.",
+        "reasonLabels": {
+          "Not identified in this documented search": "We looked in the records gathered so far and found nothing",
+          "Search not yet complete": "We are still looking",
+          "Not yet researched": "Not yet looked for",
+          "Known record not yet consulted": "A record exists; we have not reached it yet",
+          "Known archive inaccessible": "A record exists but cannot be reached",
+          "Records not preserved (established)": "The records did not survive (historians have established this)"
+        }
+      },
+      "lineageLabels": {
+        "L5": "colonial administrative and fiscal records (no single Source record)",
+        "ML11": "Ch'üan Han-sheng's Manila estimates, built on Blair and Robertson",
+        "ML12": "O'Rourke and Williamson's price and trade-growth series (their 2002 articles)",
+        "ML13": "Chinese monetary scholarship after P'eng Hsin-wei",
+        "ML14": "de Vries's Cape-route shipping series",
+        "ML2": "the 1573 Manila relation",
+        "ML4": "Morga's history of the Philippines (1609)"
+      },
+      "sourcePosition": {
+        "labels": {
+          "proximity": "When and where",
+          "role": "Role",
+          "audience": "Written for",
+          "interests": "Their stake",
+          "position": "Standpoint",
+          "focus": "Focus",
+          "note": "Note",
+          "dependsOn": "Draws on"
+        },
+        "categoryNote": "Context for reading this Source, not a rating of it.",
+        "drawsOn": {
+          "rootWithDescendants": "None recorded: this is a starting point. Drawn on by {names}.",
+          "root": "None recorded: this is a starting point.",
+          "derived": "{names}.",
+          "notRecorded": "Not recorded yet; an editor still has to trace it.",
+          "unchecked": "As recorded; not yet checked by an editor.",
+          "checked": "As recorded; checked by the editors."
+        },
+        "notRecorded": "not recorded"
+      }
+    },
+    "sensitiveFlagText": "Sensitive content",
+    "orientationToggleLabel": "Add present-day orientation",
+    "siteLinks": {
+      "changes": "Changes",
+      "privacy": "Privacy"
+    },
+    "yearStatement": "1602 · exact year · single-year view",
+    "jurisdictionLine": {
+      "text": "In 1602 Haicheng was a county seat in Zhangzhou prefecture, in the province of Fujian, under the Ming. A commissioner sent by the emperor had charge of taxes in Fujian; historians name him as Gao Cai. How far the county reached has not been researched, so no boundary is drawn.",
+      "claimIds": [
+        "HC-C04",
+        "HC-C19"
+      ]
+    },
+    "viewIndexHeading": "In this view — 1602",
+    "momentsHeading": "Moments in 1602",
+    "momentEntry": {
+      "name": "Mexico City, 1602",
+      "action": "Go to this moment."
+    },
+    "otherYearsHeading": "Other years",
+    "momentEntryById": {
+      "manila-1602": {
+        "name": "Manila, 1602",
+        "action": "Go to this moment."
+      },
+      "mexico-1602": {
+        "name": "Mexico City, 1602",
+        "action": "Go to this moment."
+      },
+      "potosi": {
+        "name": "Potosí, 1573",
+        "action": "Go to this moment."
+      },
+      "manila": {
+        "name": "Manila, 1573",
+        "action": "Go to this moment."
+      },
+      "macao-1590": {
+        "name": "Macao, 1590",
+        "action": "Go to this moment."
+      },
+      "ayutthaya-1617": {
+        "name": "Ayutthaya, 1617",
+        "action": "Go to this moment."
+      }
+    },
+    "indexNoMarkerMeta": "Place · at Haicheng's marker · not drawn separately at this scale",
+    "noMarkerStatus": {
+      "e-haicheng-1602": "Selected: Haicheng (Yuegang), Fujian. A county seat of Ming China, where the licences for the Manila trade were issued. The marker shows the present-day town; where the ships of 1602 lay is not located."
+    },
+    "indexGroupHeadings": {
+      "events": "Events (1)",
+      "places": "Places (2)"
+    },
+    "whatWeDontKnowHeading": "What we don't know",
+    "accountVoicesLabel": "Who wrote this",
+    "lineClaims": {
+      "notKnownHeading": "What is not known",
+      "claimsHeading": "Claims behind this line",
+      "groups": [
+        {
+          "heading": "The Crown's money",
+          "note": "Morga names the royal chest. Sande's reals are placed here by context: he does not say whose money it was.",
+          "claimIds": [
+            "M-C20",
+            "M-C18"
+          ]
+        },
+        {
+          "heading": "Money from private people",
+          "note": "The 1586 memorial names rich men in Mexico. Morga's duty on money brought from New Spain is placed here by context: he does not say whose money it was.",
+          "claimIds": [
+            "M-C15",
+            "M-C21"
+          ]
+        },
+        {
+          "heading": "Whose money is not said",
+          "claimIds": [
+            "M-C19"
+          ]
+        },
+        {
+          "heading": "Why Acapulco is drawn",
+          "note": "Sande sailed from Acapulco in 1575. No primary Source says the money left from there.",
+          "claimIds": [
+            "M-C22"
+          ]
+        }
+      ],
+      "eastbound": [
+        {
+          "text": "Ships went east as well. Two that sailed from the Philippines on 1 July 1573 reached Acapulco in November, and the cargo listed at Mexico for them included silks and porcelain.",
+          "claimIds": [
+            "M-C01",
+            "M-C02"
+          ]
+        },
+        {
+          "text": "That direction is not drawn.",
+          "claimIds": []
+        }
+      ]
+    },
+    "attributionDataLine": "Historical data: World History Explorer pilot fixture — draft, not yet editorially reviewed; Sources are cited per Claim.",
+    "attributionDataLinePublished": "Historical data: World History Explorer pilot corpus — editorially reviewed; Sources are cited per Claim.",
+    "attributionTruncationControl": "Attribution",
+    "readingPaneEmpty": {
+      "heading": "One moment, and how we know it.",
+      "body": [
+        "Select the Event on the map, or in the list beneath it, to open its Story.",
+        "This Moment is Haicheng in 1602: the port where the licences for the Manila trade were issued, and the one Connection this pilot explains for it, the trade at Manila and the port's ship duties. Manila is drawn at the wider view as the port the ships sailed to. The Story goes on to 1603, when very many of the Chinese of Manila were killed."
+      ]
+    },
+    "coverageStatements": {
+      "notYetResearched": {
+        "viewIndex": "Only the Story at Haicheng has been researched for this view.",
+        "placeContext": "No Story has been researched for this Place yet."
+      },
+      "noKnownEvent": "No Event is known here in 1573 in the evidence consulted. That is a finding, not an absence of research.",
+      "evidenceDoesNotSurvive": "No records for this Place in 1573 were identified in the sources consulted. Absence from the record is not absence from history."
+    },
+    "frameBreadcrumb": {
+      "navName": "Map frames",
+      "world": "World",
+      "americas": "East and Southeast Asia",
+      "andes": "The South China coast",
+      "moment": "Haicheng, 1602",
+      "andesShort": "South China coast",
+      "momentShort": "Haicheng"
+    },
+    "contextNote": {
+      "world": "World context · three moments in 1602",
+      "wider": "Wider context · Haicheng and Manila, 1602"
+    },
+    "mapStatus": {
+      "MS-0": "",
+      "MS-1": "Selected: The Luzon ships come home. One Connection leads to this Event: the trade at Manila. Manila is drawn at the wider view of East and Southeast Asia.",
+      "MS-2": "Selected: Manila. The ships sailed there each spring and sold their goods. It has its own Story for 1602. The marker shows present-day Manila; it is not a surveyed position for the city of 1602.",
+      "MS-3": "Selected: Ciudad de La Plata, seat of the Audiencia de Charcas. No Story has been researched for this Place yet.",
+      "MS-4": "Selected: Ciudad de los Reyes, seat of the Viceroy of Peru. No Story has been researched for this Place yet.",
+      "MS-5": "The selected marker, {historical name}, is outside the current view. Reset the view to show its marker.",
+      "MS-6": "Selected: The Luzon ships come home. One Connection leads to this Event: the trade at Manila. Manila is drawn at the wider view of East and Southeast Asia.",
+      "MS-7": "Selected: The Luzon ships come home. One Connection leads to this Event: the trade at Manila. Manila is drawn at the wider view of East and Southeast Asia.",
+      "MS-8": "Loading Haicheng, 1602.",
+      "MS-9": "The basemap could not be loaded. The marker and the list beneath the map are still available.",
+      "MS-10": "The world. Three 1602 moments: Haicheng, Manila and Mexico City. Haicheng and Mexico City are drawn. Ships licensed at Haicheng sailed to Manila and came home with silver coin. Manila lies too close to Haicheng to be drawn apart at this scale; the wider view shows it. No line is drawn. Select a moment to go to it, or choose Manila, 1602 from the index.",
+      "MS-11": "East and Southeast Asia. The 1602 view is two points at this scale: Haicheng in Fujian, and Manila, where its ships sailed. Zoom in or reset the view to see Haicheng's marker.",
+      "MS-12": "The South China coast. The 1602 view is one point at Haicheng at this scale. North Luzon is at the edge of the view; Manila is not in it. Zoom in or reset the view to see its marker."
+    },
+    "claimCard": {
+      "emptySupports": "No supporting Evidence has been linked to this Claim yet — pending editorial verification.",
+      "emptyChallenges": "No challenging Evidence has been linked to this Claim. This does not mean none exists.",
+      "emptyContextualizes": "No contextual Evidence has been linked to this Claim."
+    },
+    "accessBlockLocatorPending": "pending editorial verification",
+    "accessReadings": {
+      "unverified": "An access level is recorded, but no human has verified it.",
+      "unknown": "No access level was recorded for this Source.",
+      "abstract only": "Only the abstract was reviewed. This Source cannot support detail as if the whole work had been read.",
+      "metadata only": "Only the catalogue record was reviewed. This Source supports no more than its record states.",
+      "inaccessible": "The Source could not be reached. Support from it is not established."
+    },
+    "withdrawnNote": "A sentence here rested on Claim {id}, which has been {state}, and is not shown.",
+    "connectionSources": {
+      "label": "Sources for this step",
+      "emptySupports": "No supporting Evidence has been linked to this step yet — pending editorial verification.",
+      "emptyChallenges": "No challenging Evidence has been linked to this step. This does not mean none exists.",
+      "emptyContextualizes": "No contextual Evidence has been linked to this step."
+    },
+    "closeControls": {
+      "closeClaim": "Close Claim",
+      "closeSource": "Close Source",
+      "closeStory": "Close Story",
+      "closePlace": "Close Place",
+      "closeLine": "Close line"
+    },
+    "interfaceStrings": {
+      "sheetHandleAccessibleName": "Raise or lower the reading surface",
+      "mapPaneTabsAccessibleName": "Map or list",
+      "storyLoadError": "Couldn't load this Story. The map and the list are unaffected, and the Event stays selected.",
+      "claimLoadError": "Couldn't load this Claim. The Story, the map, and the list are unaffected.",
+      "retryButton": "Try again",
+      "sourceLoadError": "Couldn't load this Source. The Source record, its access level, and the Claim it is cited under are unchanged.",
+      "sourceAccessPathError": "Couldn't open the link to this Source. The Source record, its access level, and the Claim it is cited under are unchanged.",
+      "participantListLabel": "Who was involved, and who was affected",
+      "connectionEvidenceLabel": "Claims behind this step",
+      "beatHeadings": {
+        "hook": "Nothing but coin",
+        "orient": "A harbour the law forbade",
+        "connect": "Sixteen licences for Luzon",
+        "complicate": "The ban, and the commissioner",
+        "resolve": "October 1603, from home",
+        "accounts": "Two ways of telling it",
+        "next": "Where next"
+      }
+    },
+    "assistiveOnly": {
+      "pilotNoticeLandmarkName": "Pilot notice",
+      "mapCanvasGroupName": "Map",
+      "zoomInName": "Zoom in",
+      "zoomOutName": "Zoom out",
+      "resetViewName": "Reset view",
+      "directionFigureArrowText": "to",
+      "markerStateSelected": "Selected.",
+      "markerStateConnected": "Connected to the current selection.",
+      "markerStateSubdued": "In view; not part of the selected Story.",
+      "orientationLinePrefix": "present-day",
+      "jurisdictionsRegionName": "Jurisdictions in 1602",
+      "zoomOutAtWidestName": "Zoom out. At the widest view.",
+      "zoomInAtClosestName": "Zoom in. At the closest view.",
+      "copyLinkName": "Copy link to this view",
+      "copyLinkDone": "Link copied",
+      "copyLinkFailed": "Could not copy. The link is in the address bar."
+    }
+  },
+  "physicalFeatures": [],
+  "whatWeDontKnow": [
+    {
+      "id": "wwdk-haicheng-port-named",
+      "segments": [
+        {
+          "text": "The port the English merchant names. His word is 'Chauchu'. His editor of 1900 guessed one city and a later historian another.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-haicheng-port-1602",
+      "segments": [
+        {
+          "text": "What the port looked like in 1602. Our nearest witnesses are of 1589 and about 1608.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-haicheng-coin-after",
+      "segments": [
+        {
+          "text": "Where the coin went after the customs house.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-haicheng-charge-after-1590",
+      "segments": [
+        {
+          "text": "The charge on Luzon ships after 1590.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-haicheng-gao-cai",
+      "segments": [
+        {
+          "text": "When Gao Cai came to Fujian, and whether he ever lived at this port.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-haicheng-gao-cai-account",
+      "segments": [
+        {
+          "text": "Gao Cai's own account. None is among the Sources we have read.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-haicheng-the-dead",
+      "segments": [
+        {
+          "text": "The names of the dead, and their villages. No list is among the Sources we have read.",
+          "claimIds": []
+        }
+      ],
+      "beatId": "resolve"
+    },
+    {
+      "id": "wwdk-haicheng-voices",
+      "segments": [
+        {
+          "text": "What a merchant, a sailor or a wife of Haicheng wrote in 1602. The voices we have are officials, in historians' English, and one local book of 1617 that we have not read.",
+          "claimIds": [
+            "HC-C30"
+          ]
+        }
+      ]
+    }
+  ]
+}
