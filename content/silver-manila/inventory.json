@@ -470,6 +470,7 @@
         "cookies": "This site sets no cookies.",
         "analytics": "This site uses no analytics.",
         "sessionFlag": "It keeps one flag in your browser's session storage, so that the opening plays once per visit; it holds only that the opening has played, and it is gone when you close the tab.",
+        "logbook": "The Logbook is saved in this browser's local storage. It records which Stories you opened or read, and the day. This site does not send this list anywhere or include it in reports. It stays until you clear it with Clear my logbook, or you or your browser clear this site's data.",
         "serverLogs": "The site is served by GitHub Pages. GitHub keeps its own server logs, which can include your IP address, under its own privacy statement.",
         "formIntro": "If you send a report, this is what happens. A report sends what you type, plus the web address of the page, the Claim or Source you were looking at, the version of the site, and whether you were in Explore or Research. A name and an email are optional.",
         "removal": "To remove your credit or your data, open any \"Question this Claim\" or \"Know this Source?\" control and choose \"Remove my credit or my data\". Say in \"Anything else\" which preferred name or email to remove.",
