@@ -54,7 +54,7 @@
       "presentDayName": "Huancavelica, Peru",
       "placeContext": {
         "kindLabel": "Place, mine",
-        "headerLine": "Jurisdiction not yet researched in this pilot",
+        "headerLine": "Jurisdiction not yet researched",
         "headerClaimIds": [],
         "role": [
           {
@@ -268,7 +268,7 @@
     "spatial": {
       "originText": "Mina de Santa Bárbara, Huancavelica · point · town-level location, approximate",
       "targetText": "Villa Imperial de Potosí · point · settlement precision",
-      "routeStatement": "Route: not yet researched. No route between Huancavelica and Potosí is drawn, because none has been researched. How the mercury travelled is not part of this pilot."
+      "routeStatement": "Route: not yet researched. No route between Huancavelica and Potosí is drawn, because none has been researched. How the mercury travelled is not researched here."
     },
     "interpretationClass": "Mainstream interpretation",
     "scholarlyStanding": "Standard in the economic history of colonial Peru (as the corpus records it; unverified)",
@@ -343,7 +343,7 @@
         ]
       },
       {
-        "text": "Francisco de Toledo, Viceroy of Peru — named here as the holder of the viceregal office in 1573, in office since 1569. **No Claim in this pilot describes his personal role in the mercury supply or in the adoption, so none is stated.**",
+        "text": "Francisco de Toledo, Viceroy of Peru — named here as the holder of the viceregal office in 1573, in office since 1569. **No Claim we hold describes his personal role in the mercury supply or in the adoption, so none is stated.**",
         "claimIds": [
           "C12"
         ]
@@ -359,7 +359,7 @@
     "evidenceIndependenceNote": "3 Sources cited in support. None is a primary record; all three are later scholarship descending from lineages L1, L3 and L5 in the lineage table. Three citations are not three confirmations.",
     "reverseDisclosure": {
       "summary": "What about the other direction?",
-      "body": "Potosí → Huancavelica would be a different Connection, not this one read backwards. Whether demand from Potosí's refiners changed what happened at Huancavelica — its output, its labour, its harm — has its own mechanism and would need its own Evidence. That Connection has not been researched in this pilot, so it is not drawn, not classed, and not described here beyond this note."
+      "body": "Potosí → Huancavelica would be a different Connection, not this one read backwards. Whether demand from Potosí's refiners changed what happened at Huancavelica — its output, its labour, its harm — has its own mechanism and would need its own Evidence. That Connection has not been researched, so it is not drawn, not classed, and not described here beyond this note."
     },
     "reverseRelationshipNote": "A separate Connection, not an inversion of this one. Potosí → Huancavelica is not created in this fixture, has no id, no relationship type, no mechanism Claims, and no Evidence. If researched, it gets its own record.",
     "editorialState": "draft",
@@ -479,7 +479,7 @@
         "cookies": "This site sets no cookies.",
         "analytics": "This site uses no analytics.",
         "sessionFlag": "It keeps one flag in your browser's session storage, so that the opening plays once per visit; it holds only that the opening has played, and it is gone when you close the tab.",
-        "logbook": "The Logbook is saved in this browser's local storage. It records which Stories you opened or read, and the day. This site does not send this list anywhere or include it in reports. It stays until you clear it with Clear my logbook, or you or your browser clear this site's data.",
+        "logbook": "The Logbook is saved in this browser's local storage: the Stories you opened or read, the Claims you kept, and the day of each. This site does not send it anywhere or include it in reports. It stays until you use Remove or Clear my logbook, or you or your browser clear this site's data.",
         "serverLogs": "The site is served by GitHub Pages. GitHub keeps its own server logs, which can include your IP address, under its own privacy statement.",
         "formIntro": "If you send a report, this is what happens. A report sends what you type, plus the web address of the page, the Claim or Source you were looking at, the version of the site, and whether you were in Explore or Research. A name and an email are optional.",
         "removal": "To remove your credit or your data, open any \"Question this Claim\" or \"Know this Source?\" control and choose \"Remove my credit or my data\". Say in \"Anything else\" which preferred name or email to remove.",
@@ -664,7 +664,7 @@
         "valueLineIncomplete": "{n} {voiceWord} listed · we are still looking",
         "counted": "Each voice below says why it is missing and which Claims it bears on.",
         "notCounted": "A voice is listed only once we can say why it is missing and which Claim it bears on. Names we have not verified stay with the editor.",
-        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history.",
+        "closing": "A voice listed here is missing from the records we have gathered. Absence from the record is not absence from history.",
         "reasonLabels": {
           "Not identified in this documented search": "We looked in the records gathered so far and found nothing",
           "Search not yet complete": "We are still looking",
@@ -753,7 +753,7 @@
       "heading": "One moment, and how we know it.",
       "body": [
         "Select the Event on the map, or in the list beneath it, to open its Story.",
-        "This pilot covers two moments in 1573. This one is the adoption of mercury amalgamation refining at Potosí, around 1572–1575, and the one Connection this pilot explains for it — from the mercury mine at Huancavelica. The other Places on the map are there to locate that Story. No Story has been researched for them yet. The other moment, Manila, is in the list under \"Moments in 1573\"."
+        "This Moment is Potosí in 1573: the adoption of mercury amalgamation refining there, around 1572–1575, and one Connection we explain: Huancavelica's mercury supply helped enable it. The route between them has not been researched. The other Places on the map are there to locate that Story. No Story has been researched for them yet. The other Moment of 1573, Manila, is in the list under \"Moments in 1573\"."
       ]
     },
     "coverageStatements": {

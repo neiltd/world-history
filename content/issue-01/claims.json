@@ -477,7 +477,7 @@
       "id": "C10",
       "claimClass": "Supported fact",
       "sensitive": false,
-      "wording": "The administrative and technical accounts selected for this pilot were written by Spanish colonial authors, including refinery owners and clergy.",
+      "wording": "The administrative and technical accounts we selected were written by Spanish colonial authors, including refinery owners and clergy.",
       "temporal": {
         "precision": "century",
         "label": "16th–17th c. · century"

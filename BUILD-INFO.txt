@@ -1,7 +1,7 @@
-source-commit: f1905dee5c7f9ac3a16ad36b18a7663e0b58b049
+source-commit: 340b6cdaf26b73c0e43a3ff094f7a2178c793cd1
 source-tree: clean
-build-date: 2026-11-23T20:24:51Z
-commit: f1905dee5c7f9ac3a16ad36b18a7663e0b58b049
+build-date: 2026-11-24T00:21:31Z
+commit: 340b6cdaf26b73c0e43a3ff094f7a2178c793cd1
 vitest: pass
 audit: clean
 playwright: pass

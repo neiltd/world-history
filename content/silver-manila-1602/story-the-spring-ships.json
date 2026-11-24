@@ -521,7 +521,8 @@
       "label": "Another moment: Mexico City, 1602",
       "honestyLine": "Where the ships from Manila went, in the same year. That Story's Connection begins here, at Manila. They share Sources, Morga among them.",
       "featured": true,
-      "researched": true
+      "researched": true,
+      "connectionId": "cn-manila-ships-carry-chinese-goods-to-mexico-city"
     },
     {
       "momentId": "manila",
@@ -533,7 +534,8 @@
       "momentId": "potosi",
       "label": "Another moment: Potosí, 1573",
       "honestyLine": "A researched Connection joins Peru's silver and Manila for about 1590 to 1604, some twenty years after the Potosí Story. Silver from Peru went by sea to Acapulco for Chinese goods, and most of it was sent on to Manila. The letters of the time say Peru. That Potosí silver was in it is one historian's reading, Kris Lane's, and he writes that how much is uncertain.",
-      "researched": true
+      "researched": true,
+      "connectionId": "cn-silver-from-peru-reaches-manila-by-acapulco"
     },
     {
       "momentId": "macao-1590",
@@ -545,7 +547,8 @@
       "momentId": "haicheng-1602",
       "label": "Another moment: Haicheng, 1602",
       "honestyLine": "The home port of the ships, in the same year. That Story's Connection begins here, at Manila: it tells what the port did when the ships came back with coin. They share Sources, von Glahn and Borao among them.",
-      "researched": true
+      "researched": true,
+      "connectionId": "cn-manila-silver-and-haicheng-ship-duties"
     }
   ],
   "editorialState": "draft",
@@ -974,7 +977,7 @@
             ]
           }
         ],
-        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history."
+        "closing": "A voice listed here is missing from the records we have gathered. Absence from the record is not absence from history."
       }
     ],
     "compactLine": [

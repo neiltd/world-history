@@ -142,7 +142,7 @@
             ]
           },
           {
-            "text": "This pilot has not found an account from any of them.",
+            "text": "We have not found an account from any of them.",
             "claimIds": [
               "M-C04"
             ]
@@ -150,7 +150,7 @@
         ],
         [
           {
-            "text": "The second is whose account this pilot draws on. Almost all of it is Spanish: a viceroy, officials at Manila, a governor, Morga, and Manila's citizens, who asked in 1586 that the money \"which now the Chinese take\" not be sent.",
+            "text": "The second is whose account we draw on. Almost all of it is Spanish: a viceroy, officials at Manila, a governor, Morga, and Manila's citizens, who asked in 1586 that the money \"which now the Chinese take\" not be sent.",
             "claimIds": [
               "M-C06",
               "M-C04",
@@ -166,7 +166,7 @@
             ]
           },
           {
-            "text": "The one source from the Chinese side in this pilot is a record of the Ming court from 1589. In it a Fujian official proposes letting 16 ships go to Luzon, and the Ministry of War answers with a cap of 44 ships for each of the Eastern and Western Oceans.",
+            "text": "The one source from the Chinese side that we hold is a record of the Ming court from 1589. In it a Fujian official proposes letting 16 ships go to Luzon, and the Ministry of War answers with a cap of 44 ships for each of the Eastern and Western Oceans.",
             "claimIds": [
               "M-C17"
             ]
@@ -178,7 +178,7 @@
             ]
           },
           {
-            "text": "This pilot has not yet identified an account by a Chinese merchant, or by anyone living in the Philippine islands in the 1570s; no additional record was identified in this documented search.",
+            "text": "We have not yet identified an account by a Chinese merchant, or by anyone living in the Philippine islands in the 1570s; no additional record was identified in this documented search.",
             "claimIds": [
               "M-C04",
               "M-C17"
@@ -277,7 +277,7 @@
       "paragraphs": [
         [
           {
-            "text": "**Not yet researched.** Each Story in this pilot has one Connection of its own. The paths that would lead out of here — what came before, what followed, what was happening elsewhere at the same time — have not been researched, so none is offered as a researched path. Acapulco, on the World map, is in view to locate this Story, not to begin another. When a path is researched, it will appear here with its own Claims and Evidence.",
+            "text": "**Not yet researched.** This Story has one Connection of its own. The paths that would lead out of here — what came before, what followed, what was happening elsewhere at the same time — have not been researched, so none is offered as a researched path. Acapulco, on the World map, is in view to locate this Story, not to begin another. When a path is researched, it will appear here with its own Claims and Evidence.",
             "claimIds": []
           }
         ]
@@ -689,7 +689,7 @@
             ]
           }
         ],
-        "closing": "A voice listed here is missing from the records this pilot has gathered. Absence from the record is not absence from history."
+        "closing": "A voice listed here is missing from the records we have gathered. Absence from the record is not absence from history."
       }
     ],
     "compactLine": [
